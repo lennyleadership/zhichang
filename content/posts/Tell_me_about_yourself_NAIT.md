@@ -1,9 +1,9 @@
 +++
-title = "Tell Me About Yourself"
+title = "Why Are You Interested in Applying for This Job"
 description = ""
 tags = [
     "ice breaking",
-    "Tell me about yourself",
+    "Why Interested",
     "Why should we hire you",
     "NAIT",
     "follow-up interview"

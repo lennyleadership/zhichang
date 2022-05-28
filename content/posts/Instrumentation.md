@@ -5,6 +5,7 @@ tags = [
     "Technical questions",
     "instrumentation",
     "NAIT",
+    "follow-up interview"
 ]
 date = "2022-05-27"
 categories = [
@@ -27,3 +28,8 @@ A: in my graduate school, I use TGA and DSC for polymers identifications, and to
 **Q: If there is a new instrument or technique that you would look forward to working on or learning more about which one would that be?**
 
 A: I think there's a Roman is on the top right priority, but I'm not quite sure that how would you use GCMS. So and also I know that Nate is core cooperating with other industrial partners such as Dow chemistry. So, so yeah, so I have I have experience with the GC Ms. So so for me that the ramaa is a new instrument I'm quite interested in working on
+
+
+**Q: Your ICP OES experience.  Is optimizing and working on the ICP, something that you're interested in?**
+A: 我跟他们说，我没有操作过ICP。然后，又把话题转到数据分析。我没有很好地抓住重点。  
+推演：我没有把在SGS处理不同样品的经历分享给他们。
