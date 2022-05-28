@@ -4,7 +4,9 @@ description = ""
 tags = [
     "ice breaking",
     "Tell me about yourself",
+    "Why should we hire you",
     "NAIT",
+    "follow-up interview"
 ]
 date = "2022-05-27"
 categories = [
@@ -23,4 +25,4 @@ Introduction: versatile skills and broad experience
  3) interest in data analysis, interpretation, and presentation
 Conclusion: 
 
-I did not focus on method development.  This is their challenge.
+Comments: I did not focus on method development.  This is their challenge.

@@ -1,5 +1,5 @@
 baseURL: https://example.com/
-title: Hugo Book
+title: 求职/面试
 theme: hugo-book
 disablePathToLower: yes
 enableGitInfo: yes

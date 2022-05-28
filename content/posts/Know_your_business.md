@@ -4,6 +4,7 @@ description = ""
 tags = [
     "Non-technical questions",
     "NAIT",
+    "follow-up interview"
 ]
 date = "2022-05-27"
 categories = [
