@@ -42,6 +42,8 @@ h1 {
   color: DarkRed;
   font-size: 1.5em; /*2*/
   margin: 0.67em 0;
+  font-weight: bold;
+  font-style: italic;
 }
 
 /* Grouping content
