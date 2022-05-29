@@ -1,7 +1,7 @@
 # Second Interview
 
 ## Interview Questions I Prepared
-
+null
 
 ## Interview Questions They asked
 
@@ -11,8 +11,6 @@
 
 * What challenges do you think at the new position?
 
-* 
-
 * Are you comfortable on running ICP-OES?
 
 * How did you develop method?
@@ -20,8 +18,9 @@
 * Your experience with GC/MS, GPC, TGA.
 
 
-
-
+## Interview Questions I asked
+1) What challenges shall I encounter?  
+A: method development, and instruments.
 
 ## Interview Review
 
@@ -32,7 +31,9 @@ Although they did not ask me anything about Raman, I watched a YouTube video, an
 **What could I improve next time?**  
 1) They gave me a short notice on May 20.  I was working on a report of ELA Lake 239.  I only had one day to go through human resource questions.  I think I need one week to prepare an interview.    
 
-2) Write down the sentences for what they have been doing.
+2) Write down the sentences for what they have been doing. 
+
+3) I should confirm my strength after they said their challenges are instrumentation and operation.
 
 
 
