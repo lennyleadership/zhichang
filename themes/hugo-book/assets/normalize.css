@@ -39,6 +39,14 @@ main {
 
 h1 {
   font-family: Garamond;
+  color: #3fb5bd;
+  font-size: 2em; /*2*/
+  margin: 0.67em 0;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: Garamond;
   color: DarkRed;
   font-size: 1.5em; /*2*/
   margin: 0.67em 0;

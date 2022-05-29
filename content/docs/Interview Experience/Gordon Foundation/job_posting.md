@@ -9,12 +9,12 @@ May 11, 2022.
   
 Join the DataStream team!  
   
-# About The Gordon Foundation.  
+## About The Gordon Foundation.  
 
 The Gordon Foundation is a philanthropic foundation based in Toronto, Canada. The Foundation undertakes research, leadership development and public dialogue so that public policies in Canada reflect a commitment to collaborative stewardship of our freshwater resources and to people-driven, equitable and evolving North. DataStream is an initiative developed by The Gordon Foundation.  
 
 
-# About DataStream.  
+## About DataStream.  
 
 DataStream is an open access platform for sharing <mark>water</mark> data. Our mission is to promote knowledge sharing and advance collaborative, evidence-based decision making.  
 There are currently four DataStream hubs:  
@@ -25,7 +25,7 @@ There are currently four DataStream hubs:
 A fifth hub, Pacific DataStream, is currently under development.  
 
 
-# About the Role  
+## About the Role  
 
 This position will <mark>support the operation and expansion</mark> of DataStream, a dynamic, rapidly growing initiative.  Reporting to the DataStream Manager, the Data Specialist will support the continued growth of DataStream in all hubs, with a focus on Pacific expansion. Working alongside the DataStream team, the Data Specialist will contribute water science and data management expertise to inform various aspects of the program.  
 
@@ -37,7 +37,7 @@ The ideal candidate is:
 
 The salary range for this role is $45,000 to $70,000 per year.  
  
-# Key Areas of Responsibility  
+## Key Areas of Responsibility  
 With input from the team, the Data Specialist will have a broad range of responsibilities including the following:  
 * Grow DataStream’s user community across DataStream’s hub regions;  
 * Design and deliver presentations, training sessions, and webinars on the DataStream platform and water-related technical topics;&nbsp; &nbsp; [^1]  
@@ -47,7 +47,7 @@ With input from the team, the Data Specialist will have a broad range of respons
 * Provide input and perform testing on new DataStream features to ensure they perform as designed prior to release;  
 * Maintain collaborative relationships with internal and external partners and advisors in <mark>the water community</mark>.  
   
-# Required Skills and Qualifications  
+## Required Skills and Qualifications  
 * Master’s degree, or equivalent work experience, in data science, hydrogeology, limnology, aquatic ecology, hydrology, or related discipline;&nbsp; &nbsp; [^3] 
 * Strong presentation and communication skills – can easily distill technical information to audiences with <mark>a wide range of expertise in water science and computer skills</mark>;&nbsp; &nbsp; [^4]  
 * Experience managing large environmental datasets using <mark>systematic processes</mark>;&nbsp;&nbsp;  [^5]  
@@ -56,7 +56,7 @@ With input from the team, the Data Specialist will have a broad range of respons
 * A self-starter with good judgement and the ability to work independently and as an effective team member;  
 * Demonstrated track record in building and maintaining relationships.  
   
-# Additional <mark>Desired</mark> Experience/Qualifications  
+## Additional <mark>Desired</mark> Experience/Qualifications  
 * Experience in water and/or environmental monitoring and research.&nbsp;&nbsp; [^8]  
 * Knowledge or experience working with a software team.  
 * Bilingual in French and English.&nbsp;&nbsp;[^9]  
@@ -64,11 +64,11 @@ With input from the team, the Data Specialist will have a broad range of respons
 * Experience working with Indigenous governments and organizations.  
 * Strong preference will be given to applicants identifying as Indigenous (Inuit, First Nations or Métis).  
   
-# How to Apply  
+## How to Apply  
 * Anticipated start date: As soon as possible.  
 * To apply, please forward your resume and cover letter to datastream@gordonfn.org with “Data Specialist” in the subject line. Only candidates invited for an interview will be contacted.  
   
-# Deadline  
+## Deadline  
 Your resume and cover letter must be received by May 27, 2022.  
 We thank all applicants for their interest however only candidates selected for interviews will be contacted.  
 

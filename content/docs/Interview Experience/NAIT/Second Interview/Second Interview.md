@@ -19,8 +19,15 @@ null
 
 
 ## Interview Questions I asked
-1) What challenges shall I encounter?  
+* What does your daily work look like?  
+
+* Would I have chance to operate instrument? Union protection   
+
+* Will I teach courses and lab work?
+
+* What are some challenges I might experience in this position?   
 A: method development, and instruments.
+
 
 ## Interview Review
 
