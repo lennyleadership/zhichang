@@ -14,8 +14,6 @@ categories = [
 menu = "main"
 +++
 
-1) 
-
 12 years of experience in laboratory analysis for environmental monitoring.  Understanding the quality control and quality assurance, instrumentation, help me to 
 
 VBA in Excel to streamline data processing. It would help to convert data format/standardize the data format.
