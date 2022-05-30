@@ -4,4 +4,8 @@ bookFlatSection: true
 title: "Interview Experience"
 ---
 
-I collect my experience of interviews here.
+Key points:
+
+) Interviewers are lazy.  I need to help them connect my experience with solutions to their challenges.
+
+) 

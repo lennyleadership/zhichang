@@ -10,9 +10,19 @@
 ) data wrangling and cleaning, ETL (extract, transform, load) processes
 
 ## Skills I can bring to the group
-) data wrangling, and presentation with R Markdown
+) Data wrangling, and presentation with R Markdown
 
-) data quality
+) Data quality backed by lab experience
+
+) Data visualization for reviewing data quality, interactive chart
+
+
+## What could I do for them with lab analysis?
+
+## What could I do for them with R?
+create a Shiny app
+
+## What could I do for them ...?
 
 ## Responsibilities  
 ) data import and export
@@ -22,6 +32,12 @@
 ## Interview Questions Prepared
 
 1) Tell me about yourself
+
+12 years of experience in laboratory analysis for environmental monitoring.  Understanding the quality control and quality assurance, instrumentation, 
+
+Learning R, Shiny, R Markdown.
+
+
 
 This job requires resilience, detail-oriented.  
 
