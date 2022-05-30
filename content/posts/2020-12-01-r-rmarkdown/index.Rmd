@@ -16,7 +16,7 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 You can embed an R code chunk like this:
 
-```{r cars, echo=F}
+```{r cars, eval=F}
 summary(cars)
 fit <- lm(dist ~ speed, data = cars)
 fit
@@ -26,7 +26,7 @@ fit
 
 You can also embed plots. See Figure \@ref(fig:pie) for example:
 
-```{r pie, fig.cap='A fancy pie chart.', echo=F}
+```{r pie, fig.cap='A fancy pie chart.'}
 par(mar = c(0, 1, 0, 1))
 pie(
   c(280, 60, 20),
