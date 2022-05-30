@@ -1,5 +1,12 @@
 # First Interview Preparation
 
+
+## Job Responsibilities  
+) data import and export
+
+) Design and deliver presentations, training sessions, and webinars
+
+
 ## Skills They are Looking For
 ) water science expertise
 
@@ -8,6 +15,7 @@
 ) systematic process to manage large environmental datasets
 
 ) data wrangling and cleaning, ETL (extract, transform, load) processes
+
 
 ## Skills I can bring to the group
 ) Data wrangling, and presentation with R Markdown
@@ -19,43 +27,22 @@
 
 ## What could I do for them with lab analysis?
 
+
 ## What could I do for them with R?
-create a Shiny app
-
-## What could I do for them ...?
-
-## Responsibilities  
-) data import and export
-
-) Design and deliver presentations, training sessions, and webinars
-
-## Interview Questions Prepared
-
-1) Tell me about yourself
-
-12 years of experience in laboratory analysis for environmental monitoring.  Understanding the quality control and quality assurance, instrumentation, 
-
-Learning R, Shiny, R Markdown.
+create a Shiny app, checking quality of data, streamline process.
 
 
+## What could I do for them with VBA in Excel?
+convert the data format to the expected one. standardize the data format.
 
-This job requires resilience, detail-oriented.  
-
-My project report would be a publication of dataset to ensure data quality.  Data can't be used until they are validated.
-
-
-
-Note: may need to host face-to-face workshop
-
-
-I don't know the workflow.
 
 ## Interview Questions to be Asked
 1) Remote job?  
-2) in the job posting, it says these: "support the operation and expansion", "support the continued growth", what does daily job look like?  
-3) Passionate about <mark>improving access</mark> to water data
-4) Elaborate about "growing DataStream’s user community"?
-
+) Are there any challenges to maintain the data quality?  
+  * data format of historic data.  
+  
+2) Are there any challenges in accessing to water data?  
+3) Are there any challenges in growing DataStream's user community?  
 
 
 

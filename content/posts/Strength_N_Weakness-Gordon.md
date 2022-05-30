@@ -14,5 +14,8 @@ categories = [
 menu = "main"
 +++
 
+Strength: technical savvy.  
+
 Weakness: 1) there are still lots to learn. Learn programming codes on the job.
 2) had few presentation opportunities at work, but practiced the skillset at Toastmasters.
+3) syllable missing.
