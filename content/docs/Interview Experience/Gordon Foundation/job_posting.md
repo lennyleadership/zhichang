@@ -31,7 +31,8 @@ This position will <mark>support the operation and expansion</mark> of DataStrea
 
 
 The ideal candidate is:  
-* Technically strong in data science and capable of applying these skills to find practical solutions to support DataStream’s diverse user community. An excellent communicator (both written and verbal).  
+* Technically strong in data science and capable of applying these skills to find practical solutions to support DataStream’s diverse user community.   
+* An excellent communicator (both written and verbal).  
 * Capable of communicating complex concepts to non-experts.  
 * Passionate about improving access to water data in Canada.  
 

@@ -27,6 +27,47 @@ education: polymer chemistry.  my thesis was about
 
 Synegy  
 
+*<font color ="blue">2. How much do you know about us?</font>*  
+1) $10M for PRIA project in 10 years.  
+2) Paolo has a couple of areas of focus:  
+- Hydrocarbon and salt impacted site remediation;  
+- Adding value to by-products and residual materials;   
+- Developing methods for the identification and quantification of microplastics.  
+3) Cooperate with Dow Canada, Inter Pipelines.  
+
+### Microplastic Analysis in water
+<a href = "https://www.agilent.com/en/solutions/environmental/water-testing/microplastics-analysis-in-water?msclkid=1ba4fc71b5d011ec94893d8943a462b7">Agilent</a>
+
+<a href = "https://youtube.com/playlist?list=PLCcWjFnWe4E3UPxQmhWwZgEV5It9tqK2F">YouTube Playlist</a>
+
+### Terminology
+
+Plastics characteristics:   
+tensile strength,   
+glass transition temperature  
+
+DSC: Differential Scanning Calorimetry.  It is a thermal analysis.   
+
+
+<img width ="360" height= "200" src = "/Job Hunting/Job applications/@2022.02.24-NAIT chemist/Interview Preparation/Images/white-paper-characterization-of-polymers-using-differential-scanning-calorimetry-DSC-M-012816_Figure_1e.jpg"/>
+<figcaption><b>Figure 1</b>: DSC Scan of Polyethylene Terephthalate: Heat Flow versus Temperature</figcaption>  
+<a href = "https://www.eag.com/resources/whitepapers/characterization-of-polymers-using-differential-scanning-calorimetry-dsc/?msclkid=54e33e9eb5d311ecb67f484553909735">Characterization of Polymers using Differential Scanning Calorimetry (DSC)</a>  
+
+TGA: Thermal Gravimetric Analysis.  It is a method of thermal analysis in which the mass of a sample is measured over time as the temperature changes.   
+
+The test is to determine degradation temperatures, absorbed moisture content of materials, the level of inorganic, organic components, additives, decomposition points and solvent residues.
+
+### My Master Degree thesis
+Polymerization Kinetics of New Initiating System $\textrm{AlCl}_3$/A/D
+
+
+## Questions to be asked
+1) Is this position created for Plastic Research in Action (PRIA) project?
+2) What are the milestones of this project?  
+3) elaborate why this project is high risk?  What are risks?  
+4) list of instrument?
+
+
 ## Interview question asked
 
 1) Why you were interested in applying for this job?  The skills and expertise that you bring into this position.  
