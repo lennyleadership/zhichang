@@ -14,13 +14,19 @@ categories = [
 menu = "main"
 +++
 
-12 years of experience in laboratory analysis for environmental monitoring.  Understanding the quality control and quality assurance, instrumentation, help me to 
+high level: 12 years of experience in laboratory analysis for environmental monitoring and drinking water safety, and learned R.
 
-VBA in Excel to streamline data processing. It would help to convert data format/standardize the data format.
+low level: Data processing, interpretation, and presentation.  1) implemented VBA at AECL. 2) implemented R at LifeLabs. 3) implemented R for personal business.
+
+
+
+Understanding the quality control and quality assurance, instrumentation, help me to 
+
+VBA in Excel to streamline data processing.  [for future] It would help to convert data format/standardize the data format.
 
 Learning R, Shiny, R Markdown.
 
-
+Winnipeg data science meetup, R user meetup, DAMA meetup
 
 This job requires resilience, detail-oriented.  
 

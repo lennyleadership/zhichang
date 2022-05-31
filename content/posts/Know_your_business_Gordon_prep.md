@@ -3,7 +3,7 @@ title = "What do you know about Our Business?"
 description = ""
 tags = [
     "Non-technical questions",
-    "Gordon",
+    "Gordon Foundation",
     "Interview Preparation"
 ]
 date = "2022-05-30"
