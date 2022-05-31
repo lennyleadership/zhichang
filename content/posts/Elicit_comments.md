@@ -27,7 +27,7 @@ Elicit comments: draw out comments
 Revision 2022.05
 Situation: modify GC/MS by adding a 6-port valve.
 Task: tool-box meeting, discussion
-Action: talked with the project lead asking for budget.
+Action: talked with the project lead asking for budget.  I offered to install it by myself.  The tech did not agree with it.  We had a couple of meetings. My concern is about: 1) cost; 2) timing.  Their concern is about: 1) service agreement; 2) expertise.
 Result: not violate the warranty.
 
 
@@ -38,6 +38,11 @@ Managed workload among coworkers.
 
 
 Revision 2017.01
-Situation: There was a time when I returned a report to an analyst, Chantelle, and showed her a couple of errors. I just pointed her the fact.  She commented that I was condescending.  I did not get it, so I asked her 1) why she felt that way.  Judgement, cold. 2) what should I say? “Could you please look into it again?”
+Situation #1: There was a time when I returned a report to an analyst, Chantelle, and showed her a couple of errors. I just pointed her the fact.  She commented that I was condescending.  I did not get it, so I asked her 1) why she felt that way.  Judgement, cold. 2) what should I say? “Could you please look into it again?”
 
-Results: I got her point.  I learned how to deliver constructive feedback.
+***
+situation #2: I found a trending of total beta analysis.  I threw the observation to the team. A senior tech said the detector must be calibrated. Another senior tech said we did not have to, but compare data from two instruments.
+outcome: we calibrated the detector due to the business on another instrument.
+
+***
+situation #3: when joining in a new group, it is important to listen to others' opinion.  

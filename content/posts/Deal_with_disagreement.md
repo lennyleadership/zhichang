@@ -3,7 +3,7 @@ title = "Deal With Challenge /Disagreement Among Coworkers"
 description = ""
 tags = [
     "CGC",
-    "",
+    "Communication",
 ]
 date = "2022-05-31"
 categories = [
