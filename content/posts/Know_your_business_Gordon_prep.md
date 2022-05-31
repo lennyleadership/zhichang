@@ -13,7 +13,7 @@ categories = [
 menu = "main"
 +++
 
-Gordon Foundation is a charitable organization.  Gordon Foundation initiated DataStream program.  The goal is to share the data.  In order to do that, data must be standardized, verified,  to comply with standard requirements.
+Gordon Foundation is a charitable organization.  Gordon Foundation initiated DataStream program.  The goal is to share the data.  In order to do that, data must be standardized, verified,  to comply with an observation-level data schema (standard) based on WQX standard (It was designed to enable multiple monitoring entities to share results in a common format).
 
 There are four Datastream hubs, Atlantic, Greak Lakes, Lake Winnipeg, MacKenzie.  Pacific will be a new hub.
 
