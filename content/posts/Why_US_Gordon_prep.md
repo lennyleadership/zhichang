@@ -12,3 +12,4 @@ categories = [
 menu = "main"
 +++
 
+) Career perspective: It is an advanced development in my career.
