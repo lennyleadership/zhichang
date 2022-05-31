@@ -2,7 +2,7 @@
 title = "Why US?"
 description = ""
 tags = [
-    "Gordon",
+    "Gordon Foundation",
     "Interview Preparation",
 ]
 date = "2022-05-31"
