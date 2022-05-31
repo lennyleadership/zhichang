@@ -13,8 +13,8 @@ categories = [
 menu = "main"
 +++
 
-) Technical side: competency
+) Technical side: your competency.
 
-) Business side: good company
+) Business side: good company.
 
 ) Personal side: specifically when moving is requested.

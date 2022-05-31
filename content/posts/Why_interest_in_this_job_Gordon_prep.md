@@ -14,6 +14,6 @@ categories = [
 menu = "main"
 +++
 
-) Technical side: 
+) Skills and qualifications: I have master degree, work experience in environmental monitoring, proficiency with Excel, proficiency in R.  My project report would demonstrate my presentation and communication skills.
 
 ) 
