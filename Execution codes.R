@@ -89,3 +89,4 @@ blogdown::find_hugo()
 
 
 # hugo_book theme----
+# body font \themes\hugo-book\assets\_fonts.scss
