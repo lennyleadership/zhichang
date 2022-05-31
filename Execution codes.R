@@ -89,4 +89,5 @@ blogdown::find_hugo()
 
 
 # hugo_book theme----
-# body font \themes\hugo-book\assets\normalize.css
+# body font \themes\hugo-book\assets\_fonts.scss
+# body font size \themes\hugo-book\assets\normalize.css
