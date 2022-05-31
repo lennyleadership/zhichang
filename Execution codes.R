@@ -90,3 +90,4 @@ blogdown::find_hugo()
 
 # hugo_book theme----
 # body font \themes\hugo-book\assets\_fonts.scss
+# header font \themes\hugo-book\assets\normalize.css
