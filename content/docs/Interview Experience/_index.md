@@ -10,6 +10,8 @@ Key points:
 
 ) Think of that the interviewer and interviewees are on the same side. (Jack K.)
 
+) The employer cares only about THEIR needs, they don't care about YOU. (Jan P.)  
+
 ) Write down what they are doing in my words.
 
 ) 做到“知己知彼”

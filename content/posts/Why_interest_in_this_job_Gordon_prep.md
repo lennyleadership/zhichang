@@ -2,7 +2,6 @@
 title = "Why Are You Interested in Applying for This Job?"
 description = ""
 tags = [
-    "ice breaking",
     "Tell me about yourself",
     "Gordon Foundation",
     "Interview Preparation"
