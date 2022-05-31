@@ -25,4 +25,4 @@ Introduction: versatile skills and broad experience
  3) interest in data analysis, interpretation, and presentation
 Conclusion: 
 
-Comments: I did not focus on method development.  This is their challenge.
+Comments after interview: I did not focus on method development.  This is their challenge.
