@@ -42,7 +42,7 @@ The salary range for this role is $45,000 to $70,000 per year.
 With input from the team, the Data Specialist will have a broad range of responsibilities including the following:  
 * Grow DataStream’s user community across DataStream’s hub regions;  
 * Design and deliver presentations, training sessions, and webinars on the DataStream platform and water-related technical topics;&nbsp; &nbsp; [^1]  
-* Manage the continual evolution of DataStream’s data schema, available [here](https://github.com/gordonfn/schema);  
+* Manage the continual evolution of DataStream’s <mark>data schema</mark>, available [here](https://github.com/gordonfn/schema);  
 * Contribute technical expertise to inform key development processes, such as ETL (extract, transform, load) processes;  
 * Liaise with DataStream contributors and laboratories to streamline data import and export processes;&nbsp; &nbsp; [^2]  
 * Provide input and perform testing on new DataStream features to ensure they perform as designed prior to release;  

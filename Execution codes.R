@@ -86,3 +86,7 @@ blogdown::find_hugo()
 # 
 
 # need to update hugo from time to time.
+
+
+# hugo_book theme----
+# body font \themes\hugo-book\assets\_fonts.scss

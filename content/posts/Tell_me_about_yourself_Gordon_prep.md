@@ -19,18 +19,20 @@ Approach #1: summarize my resume with the focus on their business in mind.
 high level: 12 years of experience in laboratory analysis for environmental monitoring and drinking water safety, and learned R.  
 
 low level: Data processing, interpretation, and presentation.  
-1) involvement in the EDMS project at AECL.
-2) implemented VBA at AECL. 3) implemented R at LifeLabs. 4) implemented R for personal business.  5) I have two Github accounts.
+1) Involvement in the EDMS project at AECL, similar to DataStream's data schema.
+2) Experience with Ontario environmental data management system.  
+2) implemented VBA at AECL for data processing, data review, and data upload. 3) implemented R at LifeLabs. 4) implemented R for personal business.  5) I have two Github accounts.
 
 Overall, I love to work with data and utilize my experience and knowledge in environmental monitoring and environmental science to support DataStream.
 
 ******
 
 
-Approach #2: Answer what (skills) could you bring to the business?  
+Approach #2: Answer to what (skills) could you bring to the business  
 
+Approach #3: Answer to why should we hire you.  
 
-Approach #3: Answer why should we hire you?  
+Approach #4: Answer to why do you want to work here.  
 
 
 
