@@ -12,6 +12,6 @@ categories = [
 menu = "main"
 +++
 
-) Career perspective: It is an opportunity of career advancement.  
+) Career perspective: It is an opportunity of career advancement.  There are many data.  development. in line with my experience.  
 
 ) 
