@@ -1,5 +1,5 @@
 baseURL: https://example.com/
-title: 求职/面试
+title: Mianshi Handbook
 theme: hugo-book
 disablePathToLower: yes
 enableGitInfo: yes
