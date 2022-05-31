@@ -17,4 +17,4 @@ Gordon Foundation is a charitable organization.  Gordon Foundation initiated Dat
 
 There are four Datastream hubs, Atlantic, Greak Lakes, Lake Winnipeg, MacKenzie.  Pacific will be a new hub.
 
-This job will do: data wrangling and cleaning.
+This job will do: 1) . 2) presentation, webinars.
