@@ -3,7 +3,7 @@ title = "Are You Interested in Travelling"
 description = ""
 tags = [
     "Sysmex",
-    "Are you interested in"
+    "Are you interested in",
     "Interview Preparation",
 ]
 date = "2022-005-31"

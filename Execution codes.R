@@ -60,7 +60,7 @@ blogdown::find_hugo()
 # Note: I made a mistake.  under tag, I missed '-' before.
 
 
-#----
+#hugo-eureka----
 # the image of the website is stored in D:\A_Blog\spiritual_journey\themes\hugo-eureka\resources\_gen\images\images\
 # it is a png formate.
 # the image file at the homepage is stored in .\themes\hugo-eureka\assets\images. 
