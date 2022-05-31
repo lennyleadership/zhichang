@@ -26,3 +26,7 @@ Option #1: chronological order, from schooling, to each company I worked at.
 Option #2: skill-oriented.
 
 ) I was freezing in greeting.
+
+) I didn't work for paycheck.  Satisfaction is my fulfillment.  
+
+) My commitment to success makes me stand out.

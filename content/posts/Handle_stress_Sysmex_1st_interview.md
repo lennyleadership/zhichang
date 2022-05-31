@@ -4,6 +4,7 @@ description = ""
 tags = [
     "Sysmex",
     "First Interview",
+    "Stress"
 ]
 date = "2022-05-31"
 categories = [
