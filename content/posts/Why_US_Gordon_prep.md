@@ -12,4 +12,6 @@ categories = [
 menu = "main"
 +++
 
-) Career perspective: It is an advanced development in my career.
+) Career perspective: It is an opportunity of career advancement.  
+
+) 
