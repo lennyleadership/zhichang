@@ -10,6 +10,8 @@
 ## Skills They are Looking For
 ) water science expertise
 
+) communication
+
 ) data management expertise
 
 ) systematic process to manage large environmental datasets
@@ -41,7 +43,7 @@ convert the data format to the expected one. standardize the data format.
 
 ) What does a typical day look like?  
 
-) The mission of DataStream is to share data with public.  What are resistence in getting government to share their data?  
+) The mission of DataStream is to share data with public which are high quality.  I think it would be a win-win solution because data get validated even they won'r be shared for a time of period to public.  What does prevent government from sharing their data?  No help to validate data quality.
 
 
 

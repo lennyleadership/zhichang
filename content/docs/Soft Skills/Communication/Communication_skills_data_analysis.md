@@ -9,7 +9,7 @@ title: "Self-assessment for Data Scientists & Analysts"
 * I feel confident talking in front of a group.  
 * I see the bigger picture of my organization, instead of only looking at my own team’s objectives.  
 * I understand the complete stakeholder field, including people that are outside my direct circle.  
-
+<br />  
 * If only people in the business would learn more technical skills, that would solve most problems.   
 * I have a strong understanding of people’s individual goals.  
 * Assuming both solutions give the same result, I prefer a simple solution over a fancy solution. Even if the fancy solution uses the newest technology. 
