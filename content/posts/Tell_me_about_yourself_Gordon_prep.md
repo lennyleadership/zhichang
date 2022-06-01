@@ -23,7 +23,7 @@ low level: Data processing, interpretation, and presentation.
 ) Experience with Ontario environmental data management system.  
 ) implemented VBA at AECL for data processing, data review, and data upload. 3) implemented R at LifeLabs. 4) implemented R for personal business.  5) I have two Github accounts.
 
-My experience helps me communicate stakeholders well.
+My experience helps me understand stakeholder field.  communicate stakeholders well.
 
 Overall, I love to work with data and utilize my experience and knowledge in environmental monitoring and environmental science to support DataStream.
 
