@@ -2,11 +2,8 @@
 title = "Elicit comments or feedback"
 description = ""
 tags = [
-    "Communication",
     "AGR",
-    "Interpersonal Skills",
-    "Relationship Management",
-    "Collaboration"
+    "Communication"
 ]
 date = "2022-05-31"
 categories = [

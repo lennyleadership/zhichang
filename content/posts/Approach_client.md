@@ -4,7 +4,8 @@ description = ""
 tags = [
     "Sysmex",
     "First Interview",
-    "Customer Cervice"
+    "Customer Service",
+    "Relationship Management"
 ]
 date = "2022-05-31"
 categories = [

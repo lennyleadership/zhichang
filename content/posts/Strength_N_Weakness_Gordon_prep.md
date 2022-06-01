@@ -2,10 +2,10 @@
 title = "Strength and Weakness"
 description = ""
 tags = [
+    "Gordon Foundation",
     "Non-technical Questions",
     "Strength and Weakness",
-    "Interview Preparation",
-    "Gordon Foundation"
+    "Interview Preparation"
 ]
 date = "2022-05-30"
 categories = [
