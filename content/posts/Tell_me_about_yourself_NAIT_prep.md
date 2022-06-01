@@ -2,7 +2,7 @@
 title = "Tell Me About Yourself"
 description = ""
 tags = [
-    "Interview Prep",
+    "Interview Preparation",
     "Tell me about yourself",
     "NAIT",
     "First interview"
