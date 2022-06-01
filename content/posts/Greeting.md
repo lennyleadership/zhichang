@@ -13,7 +13,7 @@ menu = "main"
 +++
 
 **<font color =#3fb5bd>Ice-breaking</font>**  
-今天Kevin YIP 跟我做了一个mocking interview。他对我的帮助比Garth McGinn, Tony Fraser 的要更贴近我一些，还是我和Kevin个性比较接近吧。  
+今天Kevin YIP 跟我做了一个mocking interview。他对我的帮助比Garth和Tony的要更贴近我一些，还是我和Kevin个性比较接近吧。  
 
 开场破冰要显得自然些。
 

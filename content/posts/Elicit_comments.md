@@ -4,6 +4,9 @@ description = ""
 tags = [
     "Communication",
     "AGR",
+    "Interpersonal Skills",
+    "Relationship Management",
+    "Collaboration"
 ]
 date = "2022-05-31"
 categories = [

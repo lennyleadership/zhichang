@@ -3,7 +3,9 @@ title = "Deal With Challenge /Disagreement Among Coworkers"
 description = ""
 tags = [
     "CGC",
-    "Communication",
+    "Interpersonal Skills",
+    "Relationship Management",
+    "Collaboration"
 ]
 date = "2022-05-31"
 categories = [
