@@ -20,8 +20,10 @@ high level: 12 years of experience in laboratory analysis for environmental moni
 
 low level: Data processing, interpretation, and presentation.  
 1) Involvement in the EDMS project at AECL, similar to DataStream's data schema.
-2) Experience with Ontario environmental data management system.  
-2) implemented VBA at AECL for data processing, data review, and data upload. 3) implemented R at LifeLabs. 4) implemented R for personal business.  5) I have two Github accounts.
+) Experience with Ontario environmental data management system.  
+) implemented VBA at AECL for data processing, data review, and data upload. 3) implemented R at LifeLabs. 4) implemented R for personal business.  5) I have two Github accounts.
+
+My experience helps me communicate stakeholders well.
 
 Overall, I love to work with data and utilize my experience and knowledge in environmental monitoring and environmental science to support DataStream.
 

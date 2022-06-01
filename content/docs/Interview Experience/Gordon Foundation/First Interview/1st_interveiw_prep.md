@@ -38,11 +38,10 @@ convert the data format to the expected one. standardize the data format.
 
 ## Interview Questions to be Asked
 1) Remote job?  
-) Are there any challenges to maintain the data quality?  
-  * data format of historic data.  
-  
-2) Are there any challenges in accessing to water data?  
-3) Are there any challenges in growing DataStream's user community?  
+
+) What does a typical day look like?  
+
+) The mission of DataStream is to share data with public.  What are resistence in getting government to share their data?  
 
 
 
