@@ -4,7 +4,7 @@ description = ""
 tags = [
     "Sysmex",
     "First Interview",
-    "Customer Service",
+    "Customer/Client Focus",
     "Relationship Management"
 ]
 date = "2022-05-31"
