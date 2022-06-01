@@ -5,12 +5,12 @@ title: "4 Levels of Teamworks"
 ---
 
 Focus
-Level 1: Participate as a team member  
+## Level 1: Participate as a team member  
 Keywords: contribution, problem solving, initiative  
 Situation #1 [18.11.02]   
 
 ***
-Level 2: Foster teamwork  
+## Level 2: Foster teamwork  
 Gives credits and acknowledges contributions and efforts to team effectiveness.   
 Situation #1 [18.11.02] acknowledged Kent’s contributions and effort, and wrote a report to the management in a year.   
 
@@ -24,7 +24,7 @@ Involves team members in addressing issues / problems that lead to isolation or 
 Situation #4  
 
 ***
-Level 3: Demonstrate leadership in teams  
+## Level 3: Demonstrate leadership in teams  
 Structures teams for maximum effectiveness taking into account member’s skills, interests and concerns.  
 Situation #1 [18.11.02] @ Testmark. Shuffle Hannah to front, Eliisa to handle invoice.  
 
@@ -38,7 +38,7 @@ Recognizes work capacity limitations in others (i.e. team members, organizationa
 Coaches or advises team members on how to resolve differences or deal with conflicts to achieve mutually beneficial outcomes.
 
 ***
-Level 4: Create and foster a culture of team  
+## Level 4: Create and foster a culture of team  
 Creates and promotes a culture and environment that fosters highly effective teams (e.g. breaks down historical barriers).  
 
 Establishes reward and recognition mechanisms and structures that promote effective teamwork.  
