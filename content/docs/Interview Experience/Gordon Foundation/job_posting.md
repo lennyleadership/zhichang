@@ -44,7 +44,7 @@ With input from the team, the Data Specialist will have a broad range of respons
 * Design and deliver presentations, training sessions, and webinars on the DataStream platform and water-related technical topics;&nbsp; &nbsp; [^1]  
 * Manage the continual evolution of DataStream’s <mark>data schema</mark>, available [here](https://github.com/gordonfn/schema);  
 * Contribute technical expertise to inform key development processes, such as ETL (extract, transform, load) processes;  
-* Liaise with DataStream contributors and laboratories to streamline data import and export processes;&nbsp; &nbsp; [^2]  
+* Liaise with DataStream contributors and laboratories to <mark>streamline data import and export processes</mark>;&nbsp; &nbsp; [^2]  
 * Provide input and perform testing on new DataStream features to ensure they perform as designed prior to release;  
 * Maintain collaborative relationships with internal and external partners and advisors in <mark>the water community</mark>.  
   
