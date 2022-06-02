@@ -15,7 +15,7 @@ categories = [
 menu = "main"
 +++
 
-[Relationship Management](https://www.shrm.org/resourcesandtools/tools-and-samples/interview-questions/pages/relationshipmanagement.aspx)                     
+[Source: Relationship Management](https://www.shrm.org/resourcesandtools/tools-and-samples/interview-questions/pages/relationshipmanagement.aspx)                     
                                                              
 
 ## Collaboration and Interpersonal Skills 
