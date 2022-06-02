@@ -41,11 +41,13 @@ convert the data format to the expected one. standardize the data format.
 ## Interview Questions to be Asked
 1) Remote job?  
 
+) get the data as clear as possible? or keep the data as is?
+
 ) What does a typical day look like?  
 
-) to work with partners by providing EDA?
+) chance to work with partners by providing EDA?
 
-) 
+) Tell me about systematic processes in managing large dataset.
 
 
 

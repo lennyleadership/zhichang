@@ -55,12 +55,10 @@ I don't know the workflow.
 
 ******
 
-I have 14 years of experience in laboratory analysis for environmental monitoring and drinking water safety.  I love to work with data, therefore, during job transition, I upgraded my skills in R, data processing and data analysis.  I can bring my expertise in lab analysis and skills in R and data analysis to this position.  
+I have 14 years of experience in laboratory analysis for drinking water safety and environmental monitoring. The lab analysis included inorganic, organic, microbiological, and radiological characteristics in different environmental matrices, such as surface water, ground water, drinking water, effluent, and soil.  I have experience in different instrumentation. I also reviewed and authorized analysis reports.  As a result, I am good at checking data quality.  It could help me to validate data at the position.  
 
-In my career, I have performed accredited analysis of inorganic, organic, microbiological, and radiological characteristics in different environmental matrices, such as surface water, ground water, drinking water, effluent, soil.  I also reviewed and authorized analysis reports.  As a result, I was trained to discern the data quality.  It could help me to validate data at the position.  
+I love to work with data. I developed visual basic for applications in Excel for data processing, data review, and data uploading at AECL, and developed a Shiny app for quality control and instrument monitoring at LifeLabs.  
 
-All these data were submitted to different regulatory compliance agencies.  I created a VBA program to transform our data to uploadable format. I also got involved in developing an Environmental Data Management System at the early stage at AECL.  I think it would not take long time to get familiar with your database.  
-
-In the previous jobs, I developed visual basic for applications in Excel for data processing, data review, and data upload.  I developed Shiny app for quality control and instrument monitoring.  In the future jobs, I could use these skills to: 1) convert data to comply with DataStream's schema; 2) validate data quality; 3) tell story of data.  
+I am familiar with data uploading. I created a couple of visual basic for applications in Excel programs to transform our data format to uploadable format. I also got involved in developing an Environmental Data Management System at the early stage at AECL.    
 
 Overall, I have a passion to work with data and utilize my experience and knowledge in environmental monitoring and environmental science to support DataStream.

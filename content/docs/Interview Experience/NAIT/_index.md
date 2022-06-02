@@ -9,6 +9,6 @@ weight: 20
 
 ) I could mention how my experience in GC/MS, HPLC, ICP-OES, DSC, and TGA could help them, such as design of experiment, ANOVA for method development, process/instrument optimization. my plan of building database of troubleshooting, faster data processing.   
 
-) 
+) They asked many questions on relationship management questions in the first interview.  
 
-Most of potential employers do not have impression on data analysis.  That is my skill that makes me stands out from candidates.
+Lesson: Most of potential employers do not have impression on data analysis, however, that is the skill that makes me stands out from candidates.
