@@ -59,6 +59,6 @@ I have 14 years of experience in laboratory analysis for drinking water safety a
 
 I love to work with data. I developed visual basic for applications in Excel for data processing, data review, and data uploading at AECL, and developed a Shiny app for quality control and instrument monitoring at LifeLabs.  
 
-I am familiar with data uploading. I created a couple of visual basic for applications in Excel programs to transform our data format to uploadable format. I also got involved in developing an Environmental Data Management System at the early stage at AECL.    
+I am familiar with data uploading. I created a couple of visual basic for applications in Excel programs to transform our data format to uploadable format. I also got involved in developing an Environmental Data Management System at the early stage at AECL. I can help to streamline data import at the position.    
 
 Overall, I have a passion to work with data and utilize my experience and knowledge in environmental monitoring and environmental science to support DataStream.
