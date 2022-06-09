@@ -49,10 +49,10 @@ EXPERIENCE
 EXPERIENCE  
 • Extensive** experience in managing technical personnel.  
 • Experience working within an ISO 17025 system.  
-• Significant* experience performing or supervising the analysis of mycotoxins, pesticides, pharmaceuticals, personal care products, veterinary drugs, persistent organic pollutants, or other organic contaminants in complex matrices using liquid chromatography-mass spectrometry.    
+• Significant* experience performing or <mark>supervising the analysis</mark> of mycotoxins, pesticides, pharmaceuticals, personal care products, veterinary drugs, persistent organic pollutants, or other organic contaminants in complex matrices using liquid chromatography-mass spectrometry.    
 
-- Significant experience will be evaluated in terms of the depth, breadth and complexity of activities as well as the level of autonomy demonstrated, normally acquired over a period of two (2) years, continuously.  
-- *Extensive experience will be evaluated in terms of the depth, breadth and complexity of activities as well as the level of autonomy demonstrated, normally acquired over a period of five (5) years, continuously.
+- * Significant experience will be evaluated in terms of the depth, breadth and complexity of activities as well as the level of autonomy demonstrated, normally acquired over a period of two (2) years, continuously.  
+- ** Extensive experience will be evaluated in terms of the depth, breadth and complexity of activities as well as the level of autonomy demonstrated, normally acquired over a period of five (5) years, continuously.
 
 ## The following will be applied / assessed at a later date (essential for the job)
 
@@ -110,3 +110,5 @@ Preference will be given to veterans first and then to Canadian citizens and per
 **We thank all those who apply. Only those selected for further consideration will be contacted.**
 
 ## Contact information
+
+<img width ="360" height= "200" src = "/docs/Interview Experience/CGC Chemist/images/felodipine-structure.png"/>
