@@ -111,4 +111,4 @@ Preference will be given to veterans first and then to Canadian citizens and per
 
 ## Contact information
 
-<img width ="360" height= "200" src = "/docs/Interview Experience/CGC Chemist/images/felodipine-structure.png"/>
+<img width ="360" height= "200" src = "/docs/images/felodipine-structure.png"/>
