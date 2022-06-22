@@ -22,3 +22,9 @@ First of all, we need to write a good document.  It is not a documentation for a
 2) The procedure is easy to follow.
 
 The purpose of formal document is to share knowledge, experience, 
+
+The importance.
+1) Be consistent among different analyst.  It is a way of control quality.  
+2) Used as a training material.  
+
+The procedure must be followed.  
