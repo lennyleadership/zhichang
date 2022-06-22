@@ -2,7 +2,7 @@
 title = ""
 description = ""
 tags = [
-    "Winnipeg Waters",
+    "Winnipeg Water",
     "emergency Management",
     ""
 ]
