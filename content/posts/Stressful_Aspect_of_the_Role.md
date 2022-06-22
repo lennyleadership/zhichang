@@ -1,10 +1,9 @@
 +++
-title = ""
+title = "Stress Management"
 description = ""
 tags = [
+    "CGC",
     "",
-    "",
-    ""
 ]
 date = "2022-06-21"
 categories = [
@@ -12,4 +11,8 @@ categories = [
 ]
 menu = "main"
 +++
+
+A: Stress is not a failure.
+
+
 
