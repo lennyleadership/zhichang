@@ -1,5 +1,5 @@
 +++
-title = "Why Are You The Best Fit?"
+title = "Why Are You The Best Fit For Supervisor?"
 description = ""
 tags = [
     "CGC",
