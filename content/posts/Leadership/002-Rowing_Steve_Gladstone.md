@@ -1,3 +1,18 @@
++++
+title = "Steve Gladstone: Leadership from Rowing - Culture and People"
+description = ""
+tags = [
+    "Leadership",
+    "Rowing",
+    ""
+]
+date = "2022-07-18"
+categories = [
+    "Leadership",
+]
+menu = "main"
++++
+
 # Steve Gladstone: Leadership from Rowing - Culture and People
 
 

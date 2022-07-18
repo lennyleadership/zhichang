@@ -1,3 +1,18 @@
++++
+title = "A Powerful Leadership Lesson From the Sport of Rowing"
+description = ""
+tags = [
+    "Rowing",
+    "",
+    ""
+]
+date = "2022-07-18"
+categories = [
+    "Leadership",
+]
+menu = "main"
++++
+
 # A Powerful Leadership Lesson From the Sport of Rowing
 
 In this team sport, the advantage of 'free speed' can teach small-business owners a lot about sustained success.
