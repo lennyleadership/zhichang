@@ -1,17 +1,9 @@
-+++
-title = "A Powerful Leadership Lesson From the Sport of Rowing"
-description = ""
-tags = [
-    "Rowing",
-    "",
-    ""
-]
-date = "2022-07-18"
-categories = [
-    "Leadership",
-]
-menu = "main"
-+++
+---
+weight: 1
+bookFlatSection: true
+title: "A Powerful Leadership Lesson From the Sport of Rowing"
+---
+
 
 # A Powerful Leadership Lesson From the Sport of Rowing
 

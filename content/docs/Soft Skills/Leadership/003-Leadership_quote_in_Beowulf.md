@@ -1,17 +1,10 @@
-+++
-title = "Beowulf: Real Leadership is Leader Recognizing that They Serve the People They Lead"
-description = ""
-tags = [
-    "Leadership",
-    "Beowulf",
-    ""
-]
-date = "2022-07-18"
-categories = [
-    "Leadership",
-]
-menu = "main"
-+++
+
+---
+weight: 1
+bookFlatSection: true
+title: "Beowulf: Real Leadership is Leader Recognizing that They Serve the People They Lead"
+---
+
 
 # Beowulf: Real Leadership is Leader Recognizing that They Serve the People They Lead
 
