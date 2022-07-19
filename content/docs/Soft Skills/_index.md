@@ -1,6 +1,6 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Behavioral Analysis"
+title: "Soft Skills"
 ---
 
