@@ -11,32 +11,77 @@ categories = [
 menu = "main"
 +++
 
-&nbsp;&nbsp;
+{{< columns >}} <!-- begin columns block -->
+1) A Leader Character
+<---> <!-- magic separator, between columns -->
+a) Continuous improvement  
+b) Be patient  
+c) Not give up  
+d) Be skillful to lead  
+e) Self-control and mental toughness  
+f) Be humble  
+g) Positive attitude  
+<---> <!-- magic separator, between columns -->
+i) Be patient: Conflict resolution requires actions from both sides.  
+ii) Be patient: performance improvement. take more years to get there.  
+iii) Encourage others to improve efficiency and effectiveness.
+iv) Not give up.  frustrated When helping difficult people.  
+v) Situational leadership.
+vi) Look for 360 degree feedback.
+vii) smile while dealing with difficult people.  
+viii) light the candle rather than curse the darkness.
+{{< /columns >}}
 
-1) Managing people  
-&nbsp;&nbsp;a) Resolve the most difficult people situation.  
-&nbsp;&nbsp;b) Invite, support, and monitor the evolution of the team.  
-&nbsp;&nbsp;c) Be a role model in good behaviour.  
-&nbsp;&nbsp;d) Create working environment (such as candy basket, humor anecdote, small gifts(notepad, christmas gifts).  
-&nbsp;&nbsp;e) Motivation (by monetary approach, recognition - award)
+{{< columns >}} <!-- begin columns block -->
+2) Managing people
+<---> <!-- magic separator, between columns -->
+a) Resolve the most difficult people situation.  
+b) Invite, support, and monitor the evolution of the team.  
+c) Be a role model in good behaviour    
+d) Create working environment  
+e) Motivation  
+<---> <!-- magic separator, between columns -->
+i) implement unfavorable policy  
+ii) candy basket, humor anecdote, small gifts(notepad, Christmas gifts)  
+iii) monetary approach, recognition - award  
+{{< /columns >}}
 
+{{< columns >}} <!-- begin columns block -->
+3) Planning, organizing, coordinating
+<---> <!-- magic separator, between columns -->
+Time management Quard III  
+Encourage others to improve operational efficiency
+<---> <!-- magic separator, between columns -->
 
-2) Planning, organizing, coordinating
-&nbsp;&nbsp;a) 
+{{< /columns >}}
 
-3) Commitment to Quality
+{{< columns >}} <!-- begin columns block -->
+4) Commitment to Quality
+<---> <!-- magic separator, between columns -->
+a) Prevent further impact,   
+b) VBA, data processing,  
+c) Recognition award,
+d) 
+<---> <!-- magic separator, between columns -->
 
-4) Results oriented
-&nbsp;&nbsp;a) Deal with failures  
-&nbsp;&nbsp;b) Take risks to   
-&nbsp;&nbsp;c) Overcome obstacles to achieve goal  
+{{< /columns >}}
 
-5) Integrity
+{{< columns >}} <!-- begin columns block -->
+5) Results oriented
+<---> <!-- magic separator, between columns -->
+a) Deal with failures  
+b) Take risks to    
+c) Overcome obstacles to achieve goal 
+<---> <!-- magic separator, between columns -->
 
-1) )  
+{{< /columns >}}
 
-2) Provided clear expectations for performance evaluation
-
-3) Built relationship by providing accredibility
-
-4) 
+{{< columns >}} <!-- begin columns block -->
+Integrity
+<---> <!-- magic separator, between columns -->
+a) Hold others accountable  
+b) Hold myself accountable (buck stops here, not blame others)
+<---> <!-- magic separator, between columns -->
+i) release documents  
+ii) 
+{{< /columns >}}
