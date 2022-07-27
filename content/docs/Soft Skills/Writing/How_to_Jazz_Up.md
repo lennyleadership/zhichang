@@ -18,7 +18,7 @@ Of course, non-fiction can be creative. Any [creative writing technique](https:/
 
 Shall I show you?
 
-**Creative writing examples in non-fiction**
+**Creative writing examples in non-fiction**  
 When reading non-fiction, I often find myself speeding up. I try to grasp ideas quickly, and I do not pay much attention to words and sentences.
 
 The ideas feel worthy of my time, the writing not.
@@ -54,7 +54,7 @@ More detailed guidance + more examples:
 [How to weave stories into your writing: The Zoom-In-Zoom-Out technique >>](https://www.enchantingmarketing.com/explanatory-writing/)
 
 
-**2. Paint vivid imagery**
+**2. Paint vivid imagery**  
 Giggs paints vivid imagery, making me feel like I’m looking over her shoulder:
 
 >The whale was black like piano wood, and, because it was still young, it was pink in the joints under its fins. Waves burst behind it, sending spray over its back. Every few minutes, the whale slammed its flukes against the wet sand and exhaled loudly — a tantrum or leverage. Its soft chest turned slack, concertinaed by the pull of the swell.
@@ -76,7 +76,7 @@ More detailed guidance + more examples:
 [How to write powerful testimonials: Templates + examples >>]()
 [How to write an inspirational business story >>]()
 
-**3. Hook readers**
+**3. Hook readers**  
 Straight from the first sentence in Fathoms, Giggs hooks her readers.
 
 Here’s how her book starts:
@@ -96,7 +96,7 @@ You may think your task as a writer is to explain, to educate, to inspire, or to
 More detailed guidance + more examples:
 [How to hook your readers >>](https://www.enchantingmarketing.com/explanatory-writing-example/)
 
-**4. Show and tell**
+**4. Show and tell**  
 The official advice in creative writing is to “[show, don’t tell](https://www.enchantingmarketing.com/show-dont-tell-storytelling/).”
 
 But in practice, we often show AND tell.
@@ -120,7 +120,7 @@ So, each time you make a generic or abstract statement, ask yourself: How can I 
 More detailed guidance + more examples:
 [18 show don’t tell examples >>](https://www.enchantingmarketing.com/show-dont-tell-storytelling/)
 
-**5. Play with your words**
+**5. Play with your words**  
 The usual writing advice is to use the words everyone else is using, right?
 
 Yes, plain language helps make your writing easy to read.
@@ -145,7 +145,7 @@ More detailed guidance + more examples:
 [172+ powerful words to add magic to your writing >>](https://www.enchantingmarketing.com/power-words/)
 
 
-**Imagine your reader** …
+**Imagine your reader** …  
 It’s Monday morning 8 A.M.
 
 She feels tired, a slight headache. The weekend was far too short.

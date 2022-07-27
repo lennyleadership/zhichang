@@ -2,20 +2,9 @@ library(blogdown)
 
 # Syntax ----
 # <span style="text-decoration:underline">underline this text</span>
-# <mark>highlight this text</mark>
-
-# Docs----
-blogdown::new_content("D:/A_Blog/spriritual_journey/content/docs/Iamthepotter.rmd")
-
-blogdown::new_content("D:/A_Blog/spriritual_journey/content/docs/if/chapter-4.md")
 
 
-# Posts----
-blogdown::new_content("D:/A_Blog/spriritual_journey/content/posts/Law.rmd")
-
-
-
-blogdown::new_site(theme = "wangchucheng/hugo-eureka")
+blogdown::new_site(theme = "alex-shpak/hugo-book")
 
 blogdown::build_site()
 
@@ -48,7 +37,7 @@ blogdown::find_hugo()
 # Step #4: Create a new project at RStudio.
 # new project -> Version control -> Git -> Repository URL -> paste the URL, create project as subdirectory of ...
 # in Console, type:
-#  blogdown::new_site(theme = "wangchucheng/hugo-eureka")
+#  blogdown::new_site(theme = "alex-shpak/hugo-book")
 
 # Remove:
 # any pre-installed info in directory 'content', 'public', 
@@ -61,7 +50,7 @@ blogdown::find_hugo()
 
 
 #hugo-eureka----
-# the image of the website is stored in D:\A_Blog\spiritual_journey\themes\hugo-eureka\resources\_gen\images\images\
+# the image of the website is stored in:
 # it is a png formate.
 # the image file at the homepage is stored in .\themes\hugo-eureka\assets\images. 
 # Then I need to change the previous one at D:\A_Blog\psalm119\config\_default\ params.yaml.
