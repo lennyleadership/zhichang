@@ -1,14 +1,14 @@
 +++
-title = "Solve Complex Issue In Management"
+title = "Deal With Difficult People"
 description = ""
 tags = [
-    "AECL",
-    "Complex",
-    ""
+    "AECL Case",
+    "Challenges",
+    "Deal With Difficult People"
 ]
 date = "2022-06-21"
 categories = [
-    "Interview",
+    "Mocking Interview Questions",
 ]
 menu = "main"
 +++

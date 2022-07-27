@@ -4,7 +4,7 @@ description = ""
 tags = [
     "CGC-Chemist-2022",
     "Results Oriented",
-    "LifeLab Case",
+    "LifeLabs Case",
     "Hovertip demo"
 ]
 date = "2022-07-27"
@@ -20,7 +20,7 @@ Please provide the contact information for someone that can corroborate your res
 
 The supply of enzymes used for hydrolyzing steroid conjugates was short a couple of months after I joined LifeLabs.  I was requested to investigate alternative materials to replace enzymes.  The conventional approach was to use similar enzymes from different suppliers.   All we needed to do was to run verification experiments, finding the volume of enzymes we use based on the activity of enzymes of different suppliers.  
 
-The experiments turned out the enzyme substitute was not acceptable.  What did we do?  A medical scientist proposed a solvolysis approach which involved two steps.  Samples were hydrolyzed with enzymes, followed by methanol hydrolysis.  I proposed a methanolysis approach which involved only one step.  <span class = "hovertip" data-hover = "test first line &#13; second line">Samples were hydrolyzed with sulfuric acid in methanol</span>.  
+The experiments turned out the enzyme substitute was not acceptable.  What did we do?  A medical scientist proposed a solvolysis approach which involved two steps.  Samples were hydrolyzed with enzymes, followed by methanol hydrolysis.  I proposed a methanolysis approach which involved only one step.  <span class = "hovertip" data-hover = "test first line &#13; second line <br> third line">Samples were hydrolyzed with sulfuric acid in methanol</span>.  
 
 We did not have experience with chemical hydrolysis for cleaving steroid conjugates, so it would take a longer time to develop a method, and the testing production would be delayed further.  It was the risk.
 

@@ -4,7 +4,7 @@ description = ""
 tags = [
     "CGC-Chemist-2022",
     "LifeLabs Case",
-    "Result Oriented"
+    "Results Oriented"
 ]
 date = "2022-07-27"
 categories = [
