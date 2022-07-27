@@ -2,12 +2,12 @@
 title = "Continuous Professional Learning"
 description = ""
 tags = [
-    "NRC Researcher",
+    "NRC-Researcher",
     "",
 ]
 date = "2022-06-17"
 categories = [
-    "Behavioral Competencies",
+    "Competency Descriptions",
 ]
 menu = "main"
 +++

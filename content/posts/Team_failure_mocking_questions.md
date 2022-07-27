@@ -3,12 +3,13 @@ title = "A Team Project Failure"
 description = ""
 tags = [
     "Failure",
-    "Goal",
-    "Teamwork"
+    "Integrity",
+    "Accountability",
+    ""
 ]
 date = "2022-06-01"
 categories = [
-    "Interview",
+    "Mocking Interview Questions"
 ]
 menu = "main"
 +++

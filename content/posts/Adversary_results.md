@@ -3,7 +3,7 @@ title = ""
 description = ""
 tags = [
     "Winnipeg Water",
-    "",
+    "Regulatory Compliance",
     ""
 ]
 date = "2022-06-21"
