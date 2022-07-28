@@ -1,6 +1,6 @@
 # What Makes Me Stand out?
 
-Have a passion in supervising team because it would be opportunity to influence others, touch others life; and because I am growing.  
+I care about their welfare. 
 
 provide comprehensive (overall) solutions ... systematic approach ...
 
