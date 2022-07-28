@@ -14,7 +14,7 @@
   content: attr(tooltip_text);
   visibility: hidden;
   
-  overflow-y: inherit; /*new*/
+  overflow-y: inherit; /*new, used to prevent from cutting off*/
 
   width: 250px;
   background-color: #add8e6;

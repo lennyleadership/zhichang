@@ -41,6 +41,7 @@ If you can't, then you're dead in the water.
 
 Three Reasons Why You Should Forget You Can't Stand That Annoying Coworker Here are some things to remember when dealing with someone who makes your life difficult.
 
+
 **1. As people, they have value**.  
 
 If you believe life is precious, you have to agree that people—all people—have value.   
@@ -55,46 +56,52 @@ And, if you were to be convicted of a murder you didn't commit, would you want t
 
 Sure, she may have some annoying habits like filing her nails during meetings. Maybe she's loud enough to hear across the building when she talks. But if she has a brain, she has the potential for good ideas. If she has friends, then she must be doing something right.  
 
-<span id="tooltip1" class="tooltip">
-    <strong>Light-weight CSS Tooltip</strong><br />
-    This is the easy-to-use Tooltip driven purely by CSS.<br/>
-    And this is some additional text 
-    <p> More additional text </p>
-</span>
+And if she was hired, someone (maybe even you) thought she could do the job. So, give her respect as a fellow human being.   
 
 
-<a href="#" class="tooltip1" style="border: 1px solid red;">
-Tooltip
-</a>
+**2. Everyone's opinion matters**.   
 
-<style type = "text/css">
+You won't always agree with other members of your team.   
 
-body {
-    overflow:scroll margin:0px;
-}
-span {
-    z-index:10;
-    padding:14px 20px;
-    width:auto;
-    line-height:16px;
-    display:inline;
-    position:absolute;
-    top:50px;
-    color:#111;
-    border:1px solid #dca;
-    background:#fffAF0;
-    border-radius:4px;
-    box-shadow: 5px 5px 8px #CCC;
-    opacity:0.5;
-    overflow:auto;
-}
-a {
-    text-decoration:none;
-    position:absolute;
-    bottom:500px;
-    /* Change as per your wish it will still work*/
-    left:800px;
-    /* Change as per your wish it will still work*/
-}
+That's okay.   
 
-</style>
+You're not always right.   
+
+It's good to have debate on issues. For example, you can benefit from others' experience even when you both do the same thing. If she's had more success, wouldn't you like to know how she does it?   
+
+Everyone has ideas. Since we're not all the same, it's good to use each other to get better. If you like basketball, will you be your best if you only practice shooting hoops by yourself?   
+
+No, you need competition to prove how good you can be.   
+
+Let your coworkers make you sharper.   
+
+Then do the same for them.   
+
+
+**3. Remember that when you don't like a suggestion someone makes, she may be right**.   
+It's tempting to let your opinion of someone color your perception of how good her ideas can be.   
+
+If you don't like someone, you're probably predisposed to think of her suggestions as worthless.   
+
+Don't do it.   
+
+Forget what you think about anyone. Listen with open ears. You might learn something. You might improve.   
+
+Who knows, that suggestion might open the door to new opportunities that never existed before!  
+
+You won't be able to take that action if you decide to be petty. 
+
+
+**Now Move Ahead**   
+
+Part of being an adult and a leader is being honest with yourself.
+
+You may not like everyone. And it's true you won't like everyone the same no matter how hard you try. It's okay. Commit to respecting others—no matter what—and you'll be able to get things done.   
+
+And you'll be the leader you dreamed you could be.  
+
+And who knows? You might just turn an enemy into a friend.
+
+
+**Reference**
+McKinley, Frank. How to Lead Unwilling Followers: Strategies to Overcome Resistance (Leadership Series Book 2) . Sagacity Learning Solutions. Kindle Edition. 
