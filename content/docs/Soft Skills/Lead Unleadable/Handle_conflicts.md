@@ -10,7 +10,7 @@ If you're the leader in your organization, you have given more credit than you a
 
 Three ways you can handle conflict: **prevention**, **discovery**, and **hitting it head on**.
 
-## **An Ounce of Prevention**    
+## An Ounce of Prevention    
 
 As a leader, you're a lot like a fireman.   
 

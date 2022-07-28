@@ -14,35 +14,36 @@ menu = "main"
 {{< columns >}} <!-- begin columns block -->
 1) A Leader Character
 <---> <!-- magic separator, between columns -->
-a) Continuous improvement  
+a) Care about people
 b) Be patient  
 c) Not give up  
 d) Be skillful to lead  
 e) Self-control and mental toughness  
 f) Be humble  
 g) Positive attitude  
+h) Be a role model  
 <---> <!-- magic separator, between columns -->
-i) Be patient: Conflict resolution requires actions from both sides.  
-ii) Be patient: performance improvement. take more years to get there.  
+i) Be patient in handling conflicts. Conflict resolution requires actions from both sides.  
+ii) Be patient in improving performance. take more years to get there.  
 iii) Encourage others to improve efficiency and effectiveness.
 iv) Not give up. Frustrated When helping difficult people.  
 v) Situational leadership.
-vi) Look for 360 degree feedback.
-vii) smile while dealing with difficult people.  
-viii) light the candle rather than curse the darkness.
+vi) 
+vii)   
+viii) 
 {{< /columns >}}
 
 {{< columns >}} <!-- begin columns block -->
-2) Managing people
+2) Managing team
 <---> <!-- magic separator, between columns -->
-a) Resolve the most difficult people situation.  
-b) Invite, support, and monitor the evolution of the team.  
-c) Be a role model in good behaviour    
-d) Create working environment  
+a) Handle conflicts with prevention, discovery, and resolution with three strategies.  
+b) Create working environment: candy basket, humorous anecdote, small gifts (notepad, Christmas gifts)
+c)     
+d)   
 e) Motivation  
 <---> <!-- magic separator, between columns -->
 i) implement unfavorable policy  
-ii) candy basket, humor anecdote, small gifts(notepad, Christmas gifts)  
+ii) 
 iii) monetary approach, recognition - award  
 {{< /columns >}}
 
@@ -71,7 +72,8 @@ d)
 <---> <!-- magic separator, between columns -->
 a) Deal with failures  
 b) Take risks to    
-c) Overcome obstacles to achieve goal 
+c) Overcome obstacles to achieve goal   
+d) Continuous improvement  
 <---> <!-- magic separator, between columns -->
 
 {{< /columns >}}
