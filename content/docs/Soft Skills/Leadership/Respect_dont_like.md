@@ -55,3 +55,46 @@ And, if you were to be convicted of a murder you didn't commit, would you want t
 
 Sure, she may have some annoying habits like filing her nails during meetings. Maybe she's loud enough to hear across the building when she talks. But if she has a brain, she has the potential for good ideas. If she has friends, then she must be doing something right.  
 
+<span id="tooltip1" class="tooltip">
+    <strong>Light-weight CSS Tooltip</strong><br />
+    This is the easy-to-use Tooltip driven purely by CSS.<br/>
+    And this is some additional text 
+    <p> More additional text </p>
+</span>
+
+
+<a href="#" class="tooltip1" style="border: 1px solid red;">
+Tooltip
+</a>
+
+<style type = "text/css">
+
+body {
+    overflow:scroll margin:0px;
+}
+span {
+    z-index:10;
+    padding:14px 20px;
+    width:auto;
+    line-height:16px;
+    display:inline;
+    position:absolute;
+    top:50px;
+    color:#111;
+    border:1px solid #dca;
+    background:#fffAF0;
+    border-radius:4px;
+    box-shadow: 5px 5px 8px #CCC;
+    opacity:0.5;
+    overflow:auto;
+}
+a {
+    text-decoration:none;
+    position:absolute;
+    bottom:500px;
+    /* Change as per your wish it will still work*/
+    left:800px;
+    /* Change as per your wish it will still work*/
+}
+
+</style>
