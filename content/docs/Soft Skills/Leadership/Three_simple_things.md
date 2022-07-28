@@ -10,6 +10,8 @@ You establish authority not by spouting information and facts with a booming, po
 
 Now here are three things that every leader should be the most concerned about.   
 
+# Focus on three things
+
 ## People 
 
 Businesses are great things. But they are nothing without people. Even if you are an Internet Entrepreneur, and everything you do is automated, you need people to buy your stuff to keep it going.  
@@ -32,6 +34,27 @@ Be there when it hurts and you'll form a relationship with cords that are hard t
 As a leader, you're responsible to see that things go well for everyone. In other words, you want to maintain an environment where people are free to do their best in whatever role they're in.     
 
 This might create conflict.  
+
+When you let people know they matter, and that you are after the good of the organization, there's almost no limit to what you can accomplish.
+
+
+## Zero Tolerance for People Spreading Poison
+
+When you're committed to people and the good of your organization, you have to be ready to defend that choice.  
+
+As a leader, you can't tolerate anyone whose behavior threatens the greater good.  
+
+You can't reward bad behavior and keep morale high.
+
+
+# Three ways you can let your team know you care
+
+About them as individuals;   
+About the good of the group as a whole;   
+And that you'll do whatever it takes to defend the good of the group.  
+
+
+**Reference**  
 
 
 
