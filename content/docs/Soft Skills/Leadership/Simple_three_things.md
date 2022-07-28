@@ -16,7 +16,7 @@ Businesses are great things. But they are nothing without people. Even if you ar
 
 The biggest capital you have isn't the number of dollars you have in the bank. It's the people who make your vision a reality.  
 
-So let them know you care about how they're doing.  
+**So let them know you care about how they're doing**.  
 
 When someone is excited about something, be supportive. Ask her to tell you more about it. Listen intently and suspend any judgments that come to mind.     
 
