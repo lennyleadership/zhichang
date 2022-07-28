@@ -10,13 +10,14 @@ If you're the leader in your organization, you have given more credit than you a
 
 Three ways you can handle conflict: **prevention**, **discovery**, and **hitting it head on**.
 
-**An Ounce of Prevention**  
+**An Ounce of Prevention**    
 
-As a leader, you're a lot like a fireman.     
+As a leader, you're a lot like a fireman.   
 
-One aspect of a fireman's job is fire prevention.     
+One aspect of a fireman's job is fire prevention.   
 
-You prevent fires by keeping gasoline away from lit matches.     
+You prevent fires by keeping gasoline away from lit matches.  
 
-<a class = "hovertip" tooltip_text = "clear expectations works as well. <br> AECL case: contact point with Environmental Specialists at CRL.">Rules and vision statements</a> provide an excellent way to prevent conflicts.
+<a class = "hovertip" tooltip_text = "clear expectations works as well.  
+AECL case: contact point with Environmental Specialists at CRL.">Rules and vision statements</a> provide an excellent way to prevent conflicts.
 
