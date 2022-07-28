@@ -93,6 +93,6 @@ And if you keep your word, everyone will know you are serious.
 Margaret Heffernan, bestselling author and businesswoman said, "For good ideas and true innovation, you need human interaction, conflict, argument, debate."
 
 
-**Reference**
+**Reference**: 
 McKinley, Frank. How to Lead Unwilling Followers: Strategies to Overcome Resistance (Leadership Series Book 2) . Sagacity Learning Solutions. Kindle Edition. 
 
