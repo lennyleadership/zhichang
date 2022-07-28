@@ -25,7 +25,7 @@ g) Positive attitude
 i) Be patient: Conflict resolution requires actions from both sides.  
 ii) Be patient: performance improvement. take more years to get there.  
 iii) Encourage others to improve efficiency and effectiveness.
-iv) Not give up.  frustrated When helping difficult people.  
+iv) Not give up. Frustrated When helping difficult people.  
 v) Situational leadership.
 vi) Look for 360 degree feedback.
 vii) smile while dealing with difficult people.  
@@ -82,6 +82,16 @@ Integrity
 a) Hold others accountable  
 b) Hold myself accountable (buck stops here, not blame others)
 <---> <!-- magic separator, between columns -->
-i) release documents  
-ii) 
+i) Be professional: release documents  
+ii) Be professional: get the results out  
+{{< /columns >}}
+
+
+{{< columns >}} <!-- begin columns block -->
+Leadership at Supervisor position.
+<---> <!-- magic separator, between columns -->
+There is no leadership requirement at the supervisor position.  
+Don't mention about setting up goals, but mention how to achieve goals.  
+<---> <!-- magic separator, between columns -->
+
 {{< /columns >}}
