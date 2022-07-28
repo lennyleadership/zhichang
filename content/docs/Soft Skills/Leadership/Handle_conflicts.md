@@ -14,9 +14,9 @@ Three ways you can handle conflict: **prevention**, **discovery**, and **hitting
 
 As a leader, you're a lot like a fireman.   
 
-One aspect of a fireman's job is fire prevention.   
+One aspect of a fireman's job is <a class = "hovertip" tooltip_text = "clear expectations works as well. &#010; AECL case: contact point with Environmental Specialists at CRL.">fire prevention</a>.   
 
-You prevent fires by keeping gasoline away from lit matches.  
+You <a class = "hovertip" tooltip_text = "clear expectations works as well. : \n AECL case: contact point with Environmental Specialists at CRL.">prevent fires</a> by keeping gasoline away from lit matches.  
 
 <a class = "hovertip" tooltip_text = "clear expectations works as well.  
 AECL case: contact point with Environmental Specialists at CRL.">Rules and vision statements</a> provide an excellent way to prevent conflicts.

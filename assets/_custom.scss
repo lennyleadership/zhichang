@@ -10,6 +10,8 @@
   border-bottom: 1px dotted black;
 }
 
+
+
 .hovertip:before {
   content: attr(tooltip_text);
   visibility: hidden;
