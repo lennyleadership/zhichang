@@ -2,14 +2,13 @@
 title = "Tell Me About Yourself"
 description = ""
 tags = [
-    "Interview Preparation",
     "Tell me about yourself",
     "NAIT",
     "First interview"
 ]
 date = "2022-05-27"
 categories = [
-    "Interview",
+    "Interview Preparation",
 ]
 menu = "main"
 +++

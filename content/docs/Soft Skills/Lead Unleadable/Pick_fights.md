@@ -4,7 +4,7 @@ bookFlatSection: true
 title: "3 Ways to Pick Your Battles Wisely"
 ---
 
-**First, ask yourself, “Is it important enough to fight about?”**   
+## “Is it important enough to fight about?”   
 
 What you're really doing here is deciding whether the issue is affected by a hard and fast rule or a flexible policy. If it's a shot in the dark, take a moment to see where in the framework it fits the best, if you can. If you can't, just use your best judgment. The next two questions will help you with that.   
 
@@ -12,7 +12,7 @@ Don't waste your time fighting petty battles. When you do that, then people will
 
 It takes wisdom and experience to know when to fight and when to lay down your weapons. Sure, sometimes you'll be angry. Just don't let it flare so much that it takes over your thinking. Once you've answered this question, ask yourself this one:   
 
-**“Will doing this someone else's way be wrong?”**  
+## “Will doing this someone else's way be wrong?” 
 It takes a strong leader to admit that she doesn't have to be right all the time.   
 
 It also means you're smart enough to know that you're not perfect.   
@@ -27,7 +27,7 @@ So, don't rely on the limits of your own experience while you're working out a p
 
 But as a leader, ultimately the final decision is yours. You can weigh that decision with the third question, which is … 
 
-**“Will taking this risk be worth it?”**  
+## “Will taking this risk be worth it?” 
 You can't escape risk. Nothing in life it totally safe and predictable. You can't know how everything will turn out.   
 So, take a moment to think through the consequences of your choice. What do you know? What do you need to learn? What is the worst that could happen if you go ahead?   
 Answer those questions and you'll have the answer to this question.  
@@ -36,4 +36,5 @@ And at the very least, when you do fight, at least you can do it in a civil mann
 
 
 
-
+**Reference**:  
+McKinley, Frank. How to Lead Unwilling Followers: Strategies to Overcome Resistance (Leadership Series Book 2) . Sagacity Learning Solutions. Kindle Edition. 

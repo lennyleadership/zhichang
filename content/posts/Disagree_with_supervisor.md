@@ -4,7 +4,8 @@ description = ""
 tags = [
     "Relationship Management",
     "Conflict Resolution",
-    "AECL Case"
+    "AECL Case",
+    "NAIT"
 ]
 date = "2022-06-15"
 categories = [
@@ -21,4 +22,5 @@ I: poor qualification
 Supervisor: better personality  
 Consequence: I respected my supervisor. It turned out a good hire.    
 
-Situation #2: Safety moment in the meeting
+Situation #2: Safety moment in the meeting  
+Disagree with safety practice.

@@ -15,7 +15,7 @@ menu = "main"
 
 **Q: what is the most challenging issue?**
 
-the person was not up to the task [power hungry, back-stabbing, knew who to do, but procrastinated the work until last minute].
+The person was not up to the task [power hungry, back-stabbing, knew who to do, but procrastinated the work until last minute].
 
 I tried to put the requests on the performance appraisal.  
 

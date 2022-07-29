@@ -2,7 +2,7 @@
 title = "Tell Me About Yourself"
 description = ""
 tags = [
-    "CGC",
+    "CGC-Chemist",
     "",
 ]
 date = "2022-06-21"
