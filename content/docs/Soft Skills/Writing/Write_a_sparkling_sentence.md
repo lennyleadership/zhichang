@@ -6,7 +6,7 @@ title: "Write a Sparkling Sentence"
 
 ## Write better sentences
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5db94b3c-6c55-47da-961b-1229a4fc44ff/how-to-write-a-good-sentence-main-image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5db94b3c-6c55-47da-961b-1229a4fc44ff/how-to-write-a-good-sentence-main-image.jpg)
+![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5db94b3c-6c55-47da-961b-1229a4fc44ff/how-to-write-a-good-sentence-main-image.jpg)
 
 - *Sigh**
 
@@ -35,7 +35,7 @@ When you’re so engrossed in your book, you read complicated sentences with eas
 A sentence of 63 words? You gobble it up:
 
 > If you really want to hear about it, the first thing you’ll probably want to know is where I was born, and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don’t feel like going into it, if you want to know the truth.
-> 
+> ~ J. D. Salinger, The Catcher in the Rye
 
 Now imagine yourself at your desk, starting to read the first out of more than one hundred unread emails in your inbox. How much time do you allocate to each email?
 
