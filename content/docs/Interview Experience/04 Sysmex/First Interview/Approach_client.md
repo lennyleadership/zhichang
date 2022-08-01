@@ -1,5 +1,4 @@
 ---
-weight: 1
 title = "Approach to Client"
 description = ""
 tags = [
