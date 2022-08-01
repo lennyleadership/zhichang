@@ -4,8 +4,7 @@ categories: null
 tags: [communication]
 lastmod: "2022-08-01"
 draft: false
-weight: 5
-10
+weight: 10
 ---
 
 * I am good at getting buy-in from stakeholders. [data quality]
