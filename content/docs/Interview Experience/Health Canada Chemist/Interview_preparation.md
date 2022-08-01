@@ -8,10 +8,7 @@ draft: false
 lastmod: "2022-07-22"
 ---
 
-## Mandatory Questions
 
-
-### ---
 <table style="width:100%;">
 <caption align = "top"><b>Behavior Competencies: Ability to communicate effectively orally</b></caption>
 <colgroup><col style="width: 50%" />
@@ -44,7 +41,7 @@ A candidate response that demonstrates the ability to communicate orally may inc
 </table>
 
 
-### ---
+
 <table style="width:100%;">
 <caption align = "top"><b>Behavior Competencies: Values and ethics</b></caption>
 <colgroup><col style="width: 50%" />
@@ -119,7 +116,7 @@ Case #02: [AECL] Safety practice.
 </table>
 
 
-### ---
+
 <table style="width:100%;">
 <caption align = "top"><b>Behavior Competencies: Initiative</b></caption>
 <colgroup><col style="width: 50%" />
@@ -175,7 +172,7 @@ Case #01:  [AECL] work-around solution, VBA automate data population.
 </table>
 
 
-### ---
+
 <table style="width:100%;">
 <caption align = "top"><b>Behavior Competencies: Effective interpersonal skills</b></caption>
 <colgroup><col style="width: 50%" />
@@ -209,7 +206,7 @@ Case #02 [AECL] in 2015, when I was working with AECL as a Chemist. There were p
 </table> 
 
 
-### ---
+
 <table style="width:100%;">
 <caption align = "top"><b>Behavior Competencies: Thinking Things Through</b></caption>
 <colgroup><col style="width: 50%" />
@@ -277,7 +274,7 @@ Case #02: [AECL] business analysis for the result to lack of staff.
 </table> 
 
 
-### ---
+
 <table style="width:100%;">
 <caption align = "top"><b>Behavior Competencies: Attention to details</b></caption>
 <colgroup><col style="width: 50%" />
@@ -341,7 +338,7 @@ Case #02: [AECL] business analysis for the result to lack of staff.
 </table> 
 
 
-### ---
+
 
 <table style="width:100%;">
 <caption align = "top"><b>Behavior Competencies: Respectful of diversity</b></caption>
@@ -372,7 +369,7 @@ Case #02: [AECL] business analysis for the result to lack of staff.
 </table>
 
 
-### ---
+
 
 <table style="width:100%;">
 <caption align = "top"><b>Behavior Competencies: Ability to set priorities and meet deadlines</b></caption>
@@ -404,7 +401,7 @@ case #2: [LifeLabs, 2021] I used to use four quadrants of time management organi
 ## Optional Question
 
 
-### first draft ---
+### first draft
 I am gra*`r em("T", "red")`*eful for being invited for this first-step interview.
 
 There is one objective in the branch strategi*`r em("C", "red")`* plan 2019-2022 caught my attention.  It says this, "to become more proactive by leveraging data to better identify and manage risk*`r em("S", "red")`*" and one key initiative says this, "to provide **timely** analysis and information to law enforcemen*`r em("T", "red")`* partner*`r em("S", "red")`* and client*`r em("S", "red")`*."  
@@ -420,7 +417,7 @@ My superiors complimented that I committed to team success. I am grateful that t
 Thanks again for your time.
 
 
-### suppliment ---
+### suppliment
 [take this opportunity and use it as an elevator peach, or a cover letter, or tell-me-about-yourself]
 
 
@@ -436,14 +433,14 @@ art and science
 separation science, automated data population, data analytics
 
 
-### ---
+
 Analyze data to better identify and manage risks.
 desire to improve efficiency and effectiveness in laboratory operation.
 versatile skills
 Thank you again for I am looking forward to synergy effect at the new job.
 
 
-### ---
+
 Objectives:  
 Become more proactive by **leveraging data** to better identify and manage risks.
 
