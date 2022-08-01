@@ -8,4 +8,12 @@ lastmod: "2022-07-22"
 bookCollapseSection: true
 ---
 
-I submitted the application on June 18th.
+Timeline:  
+
+June 18th: I submitted the application.
+
+July 6th: I got invitation for the take-home exam.
+
+July 18th: Take-home exam started.
+
+July 25th: Submit take-home exam.
