@@ -5,11 +5,10 @@ tags = [
     "Gordon Foundation",
     "Non-technical Questions",
     "Strength and Weakness",
-    "Interview Preparation"
 ]
 date = "2022-05-30"
 categories = [
-    "Interview",
+    "Interview Preparation"",
 ]
 menu = "main"
 +++

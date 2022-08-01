@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 3
 title: Gordon Foundation
 categories: null
 description: 

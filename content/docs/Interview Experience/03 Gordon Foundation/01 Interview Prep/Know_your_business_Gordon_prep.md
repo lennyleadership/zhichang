@@ -4,11 +4,10 @@ description = ""
 tags = [
     "Non-technical questions",
     "Gordon Foundation",
-    "Interview Preparation"
 ]
 date = "2022-05-30"
 categories = [
-    "Interview",
+    "Interview Preparation",
 ]
 menu = "main"
 +++

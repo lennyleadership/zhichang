@@ -1,7 +1,7 @@
 ---
 weight: 1
-title: "Mocking Interview Questions"
-categories: null
+title: Interview Preparation
+categories: Mocking Interview Questions
 tages: 
 description: 
 draft: false

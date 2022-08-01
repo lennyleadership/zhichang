@@ -1,3 +1,17 @@
+---
+authors: Lenny Lin
+categories:  
+date: " "
+description: 
+draft: false
+lastmod: "2022-08-01"
+series: null
+tags: null
+title: Interview Prep
+toc: true
+---
+
+
 # First Interview Preparation
 
 

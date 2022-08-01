@@ -1,4 +1,16 @@
-# First Interview
+---
+authors: Lenny Lin
+categories:  
+date: " "
+description: 
+draft: false
+lastmod: "2022-06-28"
+series: null
+tags: null
+title: Interview
+toc: true
+---
+
 
 ## Interview Questions They Asked
 1) why don't you start by telling us a little bit about your career path?
