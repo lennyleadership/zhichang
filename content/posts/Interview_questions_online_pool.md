@@ -2,7 +2,7 @@
 title = "Online Interview Questions"
 description = ""
 tags = [
-    "Interview questions",
+    "Online interview questions",
     "",
     ""
 ]
@@ -13,11 +13,12 @@ categories = [
 menu = "main"
 +++
 
-# Online Interview Questions Pool
+
 
 Where do you see yourself five years from now?
 "In five years I hope to be working with an employer in an increasingly responsible position, that enables me to utilize my talents and work closely with my colleagues in solving important problems. I see myself taking on new and exciting challenges in an enjoyable environment and hopefully this will be with your company."
 ***
+
 Describe a major goal you've set for yourself recently.
 Give an example of a goal you both set and achieved. Ideally, this should be a professional goal; such as improved time management skills, achieved new performance targets, or learned a new skill. A personal example can also be appropriate if it reinforces your pattern of accomplishments. For example, if you take a great deal of initiative and quickly move into leadership positions, you might use a personal example relating to your recent community work: organized a community walk-a-thon that raised $30,000 in matching funds to purchase new computers for the local library. Talk about results of achieving your goal. This indicates you set realistic goals and that you can focus on outcomes. Select an example that has interesting outcomes related to your efforts. The example should showcase your skills and abilities.
 

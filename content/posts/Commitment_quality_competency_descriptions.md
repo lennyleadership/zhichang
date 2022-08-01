@@ -2,7 +2,7 @@
 title = "Commitment to Quality"
 description = ""
 tags = [
-    "CGC-Chemist",
+    "CGC-Chemist-2022",
     "",
     ""
 ]

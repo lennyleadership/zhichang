@@ -4,6 +4,9 @@ description = ""
 tags = [
     "CGC-Chemist-2022",
     "Commitment to Quality",
+    "Attention to detail",
+    "Mistakes",
+    "Integrity",
     "AECL Case"
 ]
 date = "2022-07-27"
