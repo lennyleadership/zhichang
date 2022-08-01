@@ -5,6 +5,7 @@ library(blogdown)
 
 
 blogdown::new_site(theme = "alex-shpak/hugo-book")
+blogdown::new_site(theme = "wangchucheng/hugo-eureka")
 
 blogdown::build_site()
 
@@ -79,3 +80,8 @@ blogdown::find_hugo()
 
 # hugo_book theme----
 # body font and font size \themes\hugo-book\assets\_fonts.scss
+
+
+# at Netlify ----
+# advanced build settings
+# key HUO_VERSION number current version of hugo.

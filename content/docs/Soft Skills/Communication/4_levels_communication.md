@@ -1,7 +1,10 @@
 ---
-weight: 1
-bookFlatSection: true
 title: "4 Levels of Communication"
+categories: null
+tags: [communication]
+lastmod: "2022-08-01"
+draft: false
+weight: 5
 ---
 
 Frameworks
