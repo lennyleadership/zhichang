@@ -1,7 +1,7 @@
 ---
-weight: 5
-bookCollapseSection: true
+weight: 3
 title: "Example Site"
+bookCollapseSection: true
 ---
 
 # Introduction

@@ -1,7 +1,10 @@
 ---
-weight: 1
-bookFlatSection: true
+weight: 2
 title: "Steve Gladstone: Leadership from Rowing - Culture and People"
+categories: null
+tags: [Leadership]
+lastmod: "2022-08-01"
+draft: false
 ---
 
 

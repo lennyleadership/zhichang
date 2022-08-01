@@ -1,10 +1,10 @@
 ---
+weight: 3
 title: "Self-assessment for Data Scientists & Analysts"
 categories: null
 tags: [communication]
 lastmod: "2022-08-01"
 draft: false
-weight: 10
 ---
 
 * I am good at getting buy-in from stakeholders. [data quality]

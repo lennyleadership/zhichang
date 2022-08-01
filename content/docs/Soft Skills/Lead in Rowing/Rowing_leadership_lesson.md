@@ -1,7 +1,10 @@
 ---
 weight: 1
-bookFlatSection: true
 title: "A Powerful Leadership Lesson From the Sport of Rowing"
+categories: null
+tags: [Leadership]
+lastmod: "2022-08-01"
+draft: false
 ---
 
 

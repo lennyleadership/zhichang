@@ -1,6 +1,6 @@
 ---
-weight: 1
-bookFlatSection: true
+weight: 2
 title: "Soft Skills"
+bookFlatSection: true
 ---
 
