@@ -1,14 +1,15 @@
 ---
 weight: 2
-title: "Supervision"
+title: Supervision
 authors: Lenny Lin
 categories: Interview
+tags: CGC-Chemist 2022, Supervision
 date: " "
 description: 
 draft: false
 lastmod: "2022-07-27"
 series: null
-tags: ["CGC-Chemist 2022", "Supervision"]
+
 toc: true
 ---
 

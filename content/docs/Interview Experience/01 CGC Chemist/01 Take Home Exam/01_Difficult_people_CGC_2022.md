@@ -1,14 +1,14 @@
 ---
 weight: 1
+title: Deal with difficult people
 authors: Lenny Lin
-categories:  
+categories: Interview 
 date: " "
 description: 
 draft: false
 lastmod: "2022-06-28"
 series: null
-tags: null
-title: Deal with difficult people
+tags: [Difficult people]
 toc: true
 ---
 
