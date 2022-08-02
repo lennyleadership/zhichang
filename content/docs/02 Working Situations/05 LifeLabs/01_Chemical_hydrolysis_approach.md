@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 1
 title: Chemical Hydrolysis Approach
 authors: Lenny Lin
 categories: Working Situations
