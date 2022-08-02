@@ -3,8 +3,7 @@ weight: 10
 title: Manage Multiple Projects
 authors: Lenny Lin
 categories: Interview
-tags: [CGC-Chemist 2022, "AECL Case",
-    "Multiple Projects"]
+tags: [AECL Case, "Multiple Projects"]
 date: " "
 description: 
 draft: false

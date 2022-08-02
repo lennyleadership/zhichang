@@ -3,7 +3,6 @@ title = "What do you know about Our Business?"
 description = ""
 tags = [
     "Non-technical questions",
-    "Sysmex",
     "Second Interview"
 ]
 date = "2022-05-31"

@@ -3,12 +3,7 @@ weight: 2
 title: Method Development
 authors: Lenny Lin
 categories: Interview
-tags: [
-    "ice breaking",
-    "Method Development",
-    "NAIT",
-    "follow-up interview"
-]
+tags: ["ice breaking","Method Development","follow-up interview"]
 date: " "
 description: 
 draft: false

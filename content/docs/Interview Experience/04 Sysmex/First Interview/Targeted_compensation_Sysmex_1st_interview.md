@@ -4,7 +4,6 @@ title: What Is Your Targeted Compensation
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "Sysmex",
     "First Interview",
 ]
 date: " "

@@ -3,11 +3,7 @@ weight: 2
 title: Instrumentation
 authors: Lenny Lin
 categories: Interview
-tags: [
-    "Technical questions",
-    "instrumentation",
-    "NAIT",
-    "follow-up interview"
+tags: ["Technical questions","instrumentation","follow-up interview"
 ]
 date: " "
 description: 

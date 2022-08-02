@@ -4,7 +4,6 @@ title: Are You Interested in Travelling
 authors: Lenny Lin
 categories: Interview Preparation
 tags: [
-    "Sysmex",
     "Are you interested in"
 ]
 date: " "

@@ -3,7 +3,7 @@ weight: 4
 title: Planning, organizing, and coordinating
 authors: Lenny Lin
 categories: Interview
-tags: [CGC-Chemist 2022, Supervision, "Planning, organizing, and coordinating", AEL Case]
+tags: [Supervision, "Planning, organizing, and coordinating", AEL Case]
 date: " "
 description: 
 draft: false

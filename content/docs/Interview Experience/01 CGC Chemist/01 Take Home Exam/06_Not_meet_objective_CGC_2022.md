@@ -3,10 +3,7 @@ weight: 6
 title: Not Meet Objective
 authors: Lenny Lin
 categories: Interview
-tags: [CGC-Chemist 2022, "Integrity",
-    "Failure",
-    "Results Oriented",
-    "AECL Case"]
+tags: ["Integrity", "Failure", "Results Oriented", "AECL Case"]
 date: " "
 description: 
 draft: false

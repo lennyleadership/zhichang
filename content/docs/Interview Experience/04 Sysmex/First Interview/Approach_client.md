@@ -4,7 +4,6 @@ title: Approach to Client
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "Sysmex",
     "First Interview",
     "Customer/Client Focus",
     "Relationship Management"

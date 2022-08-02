@@ -4,7 +4,6 @@ title: Why Us?
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "Sysmex",
     "First Interview",
     "Why Us?"
 ]

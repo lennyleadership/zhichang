@@ -3,10 +3,7 @@ weight: 2
 title: Challenges You Would Face
 authors: Lenny Lin
 categories: Interview
-tags: [
-    "Non-technical questions",
-    "NAIT",
-    "follow-up interview"
+tags: ["Non-technical questions","follow-up interview"
 ]
 date: " "
 description: 

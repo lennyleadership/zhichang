@@ -3,7 +3,7 @@ weight: 2
 title: Tell Me About Yourself
 authors: Lenny Lin
 categories: Interview Preparation
-tags: Tell me about yourself
+tags: [Tell me about yourself]
 date: " "
 description: 
 draft: false

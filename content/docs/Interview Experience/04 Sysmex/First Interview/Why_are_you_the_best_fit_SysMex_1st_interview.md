@@ -5,8 +5,7 @@ authors: Lenny Lin
 categories: Interview
 tags: [
     "Tips",
-    "Tell me about yourself",
-    "Sysmex"
+    "Tell me about yourself"
 ]
 date: " "
 description: 

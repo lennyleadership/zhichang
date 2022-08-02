@@ -3,8 +3,7 @@ weight: 9
 title: Plan Complex Work Tasks
 authors: Lenny Lin
 categories: Interview
-tags: [CGC-Chemist 2022, "Planning, Organizing, and Coordinating",
-    "Multiple Projects"]
+tags: ["Planning, Organizing, and Coordinating", "Multiple Projects"]
 date: " "
 description: 
 draft: false

@@ -4,7 +4,6 @@ title: Weakness
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "Sysmex",
     "First Interview",
 ]
 date: " "
