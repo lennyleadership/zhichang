@@ -3,7 +3,7 @@ weight: 2
 title: Values and Ethics
 authors: Lenny Lin
 categories: Interview
-tags: [Health Canada - Chemist 2022, Values]
+tags: [Values]
 date: ""
 description: 
 draft: false

@@ -3,7 +3,7 @@ weight: 2
 title: Respectful of Diversity
 authors: Lenny Lin
 categories: Interview
-tags: ["Health Canada - Chemist 2022", "Respectfulness"]
+tags: ["Respectfulness"]
 date: ""
 description: 
 draft: false

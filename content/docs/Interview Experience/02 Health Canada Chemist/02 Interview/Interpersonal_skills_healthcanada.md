@@ -3,7 +3,7 @@ weight: 2
 title: "Effective Interpersonal Skills"
 authors: Lenny Lin
 categories: Interview
-tags: ["Health Canada - Chemist 2022", "Relationship Management"]
+tags: [Relationship Management, LifeLabs Case]
 date: " "
 description: 
 draft: false
@@ -16,7 +16,7 @@ toc: true
 Works collaboratively with others, readily shares information, knowledge and personal strengths, and seeks to understand and the perspectives of others to achieve common goals.  
 
 **QUESTIONS**  
-We must often work as a team to get a task done and sometimes the members of that team differ from us in temperament or in the way they work.  Tell us about a recent experience in which you were part of team and had to adapt to working with someone despite your differences.  
+We must often work as a team to get a task done and sometimes the members of that team differ from us in temperament or in the way they work.  Tell us about a recent experience in which you were part of team and had **to adapt to working with someone** despite your differences.  
 
 1) What was the other person like and what was your relationship with that person?  
 2) What situation did you have to adapt to?  
@@ -39,7 +39,7 @@ At the end of the day, we all finished our works.
 
 
 **COMMENTS**  
-[2022.08.01] It is not a good case because it did not comment what is difference in temperament or in the way they work.
+[2022.08.01] Jan Palaty. excel spreadsheet, experimental plan, consistent unit, color codes (such as calculated cells, concentration, volume)
 
 
 **Reference**  

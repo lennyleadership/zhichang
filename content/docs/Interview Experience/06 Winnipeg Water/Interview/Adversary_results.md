@@ -4,7 +4,6 @@ title: Adversary Results
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "Winnipeg Water",
     "Regulatory Compliance",
     ""
 ]
