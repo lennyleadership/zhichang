@@ -12,7 +12,6 @@ date = "2022-07-27"
 categories = [
     "Interview",
 ]
-menu = "main"
 +++
 
 EC1.1 Describe the most difficult employee situation you had to handle.  What did you do to resolve the situation?  Why did you select these actions?  What was the final outcome?  Looking back, what would you have done differently?  Why?  (Maximum 500 words.)
