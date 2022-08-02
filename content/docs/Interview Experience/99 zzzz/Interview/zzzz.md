@@ -3,7 +3,7 @@ weight: 2
 title: Adversary Results
 authors: Lenny Lin
 categories: Interview
-tags: []
+tags: null
 date: " "
 description: 
 draft: false
