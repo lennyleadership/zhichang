@@ -1,3 +1,18 @@
+---
+authors: Lenny Lin
+categories:  
+date: " "
+description: 
+draft: false
+lastmod: "2022-06-28"
+series: null
+tags: null
+title: Interview Questions
+toc: true
+---
+
+
+
 # First Interview
 
 ## Interview Questions Prepared

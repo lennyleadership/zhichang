@@ -3,8 +3,6 @@ title = "Tell Me About Yourself"
 description = ""
 tags = [
     "Tell me about yourself",
-    "NAIT",
-    "First interview"
 ]
 date = "2022-05-27"
 categories = [

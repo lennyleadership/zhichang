@@ -2,7 +2,6 @@
 title = "Tell Me About Yourself"
 description = ""
 tags = [
-    "Sysmex",
     "Second Interview",
 ]
 date = "2022-05-30"

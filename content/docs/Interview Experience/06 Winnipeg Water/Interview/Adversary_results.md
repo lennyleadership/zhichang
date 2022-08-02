@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Adversary Results"
 description = ""
 tags = [
     "Winnipeg Water",

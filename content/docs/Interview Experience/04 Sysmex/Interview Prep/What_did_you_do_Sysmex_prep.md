@@ -2,12 +2,11 @@
 title = "What Did You Do at"
 description = ""
 tags = [
-    "Sysmex",
-    "Interview Preparation",
+    " ",
 ]
 date = "2022-05-30"
 categories = [
-    "Interview",
+    "Interview Preparation",
 ]
 menu = "main"
 +++

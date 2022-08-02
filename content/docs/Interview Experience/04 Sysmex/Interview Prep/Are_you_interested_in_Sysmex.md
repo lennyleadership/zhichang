@@ -3,12 +3,11 @@ title = "Are You Interested in Travelling"
 description = ""
 tags = [
     "Sysmex",
-    "Are you interested in",
-    "Interview Preparation",
+    "Are you interested in"
 ]
 date = "2022-005-31"
 categories = [
-    "Interview",
+    "Interview Preparation",
 ]
 menu = "main"
 +++

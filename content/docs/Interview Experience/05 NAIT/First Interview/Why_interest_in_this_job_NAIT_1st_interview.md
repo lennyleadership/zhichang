@@ -3,7 +3,6 @@ title = "Why Are You Interested in Applying for This Job"
 description = ""
 tags = [
     "Tell me about yourself",
-    "NAIT",
     "first interview"
 ]
 date = "2022-05-27"

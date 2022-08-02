@@ -1,3 +1,21 @@
++++
+title = "Second Interview"
+description = ""
+tags = [
+    "Technical questions",
+    "instrumentation",
+    "NAIT",
+    "follow-up interview"
+]
+date = "2022-05-27"
+categories = [
+    "Interview",
+]
+menu = "main"
++++
+
+
+
 # Second Interview
 
 ## Interview Questions I Prepared
