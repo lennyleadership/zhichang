@@ -3,10 +3,8 @@ weight: 2
 title: Attention to Detail
 authors: Lenny Lin
 categories: Interview
-tags: "Health Canada - Chemist 2022", "Attention to detail",
-    "LifeLabs Case",
-    "Mistakes"
-date: " "
+tags: "Health Canada - Chemist 2022", "Attention to detail", "LifeLabs Case", "Mistakes"
+date: ""
 description: 
 draft: false
 lastmod: "2022-07-27"

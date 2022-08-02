@@ -3,8 +3,7 @@ weight: 2
 title: "Ability to set priorities and meet deadlines"
 authors: Lenny Lin
 categories: Interview
-tags: "Health Canada - Chemist 2022",
-    "Set Priorities"
+tags: "Health Canada - Chemist 2022", "Set Priorities"
 date: " "
 description: 
 draft: false

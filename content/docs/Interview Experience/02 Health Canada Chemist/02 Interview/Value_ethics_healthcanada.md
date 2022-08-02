@@ -1,10 +1,10 @@
 ---
 weight: 2
-title: Supervision
+title: Values and Ethics
 authors: Lenny Lin
 categories: Interview
-tags: CGC-Chemist 2022, Supervision
-date: " "
+tags: Health Canada - Chemist 2022, Values
+date: ""
 description: 
 draft: false
 lastmod: "2022-07-27"

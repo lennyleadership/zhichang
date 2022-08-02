@@ -3,10 +3,7 @@ weight: 2
 title: "Thinking Things Through"
 authors: Lenny Lin
 categories: Interview
-tags: "Health Canada - Chemist 2022",
-    "Critical Thinking",
-    "Troubleshooting",
-    "LifeLabs Case"
+tags: "Health Canada - Chemist 2022", "Critical Thinking", "Troubleshooting", "LifeLabs Case"
 date: " "
 description: 
 draft: false

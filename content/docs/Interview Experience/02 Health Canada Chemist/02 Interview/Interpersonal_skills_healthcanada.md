@@ -3,8 +3,7 @@ weight: 2
 title: "Effective Interpersonal Skills"
 authors: Lenny Lin
 categories: Interview
-tags: "Health Canada - Chemist 2022",
-    "Relationship Management"
+tags: "Health Canada - Chemist 2022", "Relationship Management"
 date: " "
 description: 
 draft: false
