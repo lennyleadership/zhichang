@@ -17,6 +17,10 @@ EC4.1 Describe a time at work when you had to hold a direct report accountable f
 
 Please provide the contact information for someone that can corroborate your response.
 
+<!--more-->
+
+---
+
 We scheduled monthly lab tours to inspect lab documents, such as log books, maintenance books, and records for compliance with ISO 17025 at AECL.  There was a time when checking a log book.  I noticed an unacceptable lab practice.  I went to talk to the technologist.  I recognized what they had done right for the most part but smiled at them for such a silly mistake.  I then encouraged them to maintain the level of good practice.  
 
 I learned this sandwich feedback method at Toastmasters.  I observed it worked well when providing feedback, so I borrowed this idea to the lab.  The conversation went well.  The technologist did not make an excuse.  I did notice in the following inspections that they were good at aligning their good lab practice with the requirements of ISO 17025.

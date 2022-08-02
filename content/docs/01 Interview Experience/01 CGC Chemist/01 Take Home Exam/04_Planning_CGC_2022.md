@@ -21,6 +21,10 @@ EC3.1 Describe one of your team's largest or most important projects or activiti
 
 Please provide the contact information for someone that can corroborate your response.
 
+<!--more-->
+
+---
+
 After working at Accuracy Environmental Laboratories at Kirkland Lake, ON, for two and half years, the owner sold the business to Testmark Laboratories.  The goal was to transform the facility into a sample depot by maintaining the minimum analysis and ship most of the samples down to the Testmark facility in Sudbury, ON, as soon as possible.  I was promoted to laboratory manager to lead the team through the transition process.
 
 The first challenge was to reform the team and reorganize the activities.  The number of staff was downsized from 10 to 3.  Here is what I did:

@@ -16,6 +16,9 @@ toc: true
 EC5.1 Describe a situation when you took a calculated risk on a work project for measured gains.  Describe what you did during the situation.  Describe the impact of your actions and overall outcome.  Explain why you chose this example.  (Maximum 500 words.) [10 marks] 
 
 Please provide the contact information for someone that can corroborate your response.  
+<!--more-->
+
+---
 
 The supply of enzymes used for hydrolyzing steroid conjugates was short a couple of months after I joined LifeLabs.  I was requested to investigate alternative materials to replace enzymes.  The conventional approach was to use similar enzymes from different suppliers.   All we needed to do was to run verification experiments, finding the volume of enzymes we use based on the activity of enzymes of different suppliers.  
 

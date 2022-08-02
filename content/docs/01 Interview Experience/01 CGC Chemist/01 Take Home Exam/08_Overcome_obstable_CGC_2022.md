@@ -16,6 +16,11 @@ EC5.2 Describe a situation at work when you had to overcome a significant obstac
 
 Please provide the contact information for someone that can corroborate your response.
 
+
+<!--more-->
+
+---
+
 While I investigated three hydrolysis approaches, I encountered a problem cleaning up steroids using a solid-phase extraction (SPE) method at LifeLabs.  Some targeted steroids were lost. 
 
 I was recommended using this SPE method which was initially developed for the testing of steroids in serum.  I had to make a new method for my application.

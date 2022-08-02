@@ -17,6 +17,10 @@ EC4.2 Describe a situation where you encountered difficulties and did not meet a
 
 Please provide the contact information for someone that can corroborate your response.
 
+<!--more-->
+
+---
+
 We had issues with our LIMS at AECL for a couple of years.  The LIMS was not fully functioning because updates had not been installed.  We can't do that, but the IT group at Chalk River because they had the administrative authority to make changes to the server.  
 
 The LIMS issue was one of my performance objectives for a few years.  <br> I had submitted requests in the action-plan system many times, but I did not get responses, even though I knew the requests were assigned to the responsible front-line managers at the IT group.  The difficulty I encountered were: 1) our service request was not the top priority from the IT perspective; 2) the IT group was under reconstruction.  They had limited resources to help us.

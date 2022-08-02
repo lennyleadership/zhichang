@@ -1,9 +1,9 @@
 ---
-weight: 3
-title: Shiny app
+weight: 2
+title: 
 authors: Lenny Lin
 categories: Working Situations
-tags: 
+tags: null
 date: " "
 description: 
 draft: false

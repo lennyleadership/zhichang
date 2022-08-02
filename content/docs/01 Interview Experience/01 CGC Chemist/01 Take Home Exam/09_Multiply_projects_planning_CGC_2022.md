@@ -16,6 +16,9 @@ EA1.1 You have a validated multi-analyte method currently in use on one LC-MS/MS
 Describe in detail the plan you would use to get the backup method operational so that there is always available analytical capability.   
 Describe why you include certain steps in your plan, as well as your reasons for the order of steps in your plan.  (Maximum 500 words.) [10 marks]  
 
+<!--more-->
+
+---
 
 I assume I would lead the project, and a technician would develop the backup method on instrument B.
 

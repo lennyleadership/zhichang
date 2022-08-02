@@ -25,6 +25,10 @@ What you would do differently next time.
 What you would continue to do next time.
 Why you chose this example to demonstrate your competency in planning, organizing, and coordinating.
 
+<!--more-->
+
+---
+
 The situation in the year 2015 at AECL demonstrated my ability to manage simultaneous work tasks and multiple people.  Here were multiple tasks:
 1)	Got testing results out.  Many internal clients expected results.
 2)	Led the revision of the Quality Manual because I was the author of the previous version.  Stakeholders across the company were involved, including our section, my manager, QA officers at the local facility, QA officers at the branch level, senior QA officers at the cooperate level, and senior managers at the cooperate level.  They expected to review it in the document management system.  The accreditation agency expected it before arranging an audit.

@@ -23,6 +23,10 @@ In your response:
 
 Please provide the contact information for someone that can corroborate your response.
 
+<!--more-->
+
+---
+
 Answer: We used to determine volatile organic compounds (VOCs) in groundwater samples at AECL.  A comprehensive method was developed for detecting quantitatively 32 compounds, including benzene, ethylbenzene, toluene, and xylene (BTEX).  We ran proficiency test (PT) tests with this method.
 
 During our routine analysis, we ran samples for BTEX with a shortlisted method in which there were only BTEX to cut off the time to process data.  
