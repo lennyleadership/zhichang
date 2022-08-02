@@ -3,7 +3,7 @@ weight: 2
 title: "Initiative"
 authors: Lenny Lin
 categories: Interview
-tags: "Health Canada - Chemist 2022", "Initiative", "LifeLabs Case"
+tags: ["Health Canada - Chemist 2022", "Initiative", "LifeLabs Case"]
 date: " "
 description: 
 draft: false
