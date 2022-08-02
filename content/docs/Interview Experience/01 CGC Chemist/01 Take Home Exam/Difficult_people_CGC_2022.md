@@ -1,4 +1,5 @@
 +++
+weight: 1
 title = "Deal with Difficult People"
 description = ""
 tags = [
