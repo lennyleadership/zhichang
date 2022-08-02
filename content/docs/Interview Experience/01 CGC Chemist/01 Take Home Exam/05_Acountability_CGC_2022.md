@@ -1,17 +1,17 @@
-+++
-title = "Hold Accountability"
-description = ""
-tags = [
-    "CGC-Chemist-2022",
-    "Integrity",
-    ""
-]
-date = "2022-07-27"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+---
+weight: 5
+title: Hold Accountability
+authors: Lenny Lin
+categories: Interview
+tags: CGC-Chemist 2022, Integrity
+date: " "
+description: 
+draft: false
+lastmod: "2022-07-27"
+series: null
+toc: true
+---
+
 
 EC4.1 Describe a time at work when you had to hold a direct report accountable for their actions and/or behaviors as what they were doing was not consistent with your expectations.  Describe the situation.  Describe the actions you took, and your rationale for taking these actions.  Describe the impact of your actions, as well as the overall outcome of the situation.  (Maximum 500 words.) [10 marks] 
 

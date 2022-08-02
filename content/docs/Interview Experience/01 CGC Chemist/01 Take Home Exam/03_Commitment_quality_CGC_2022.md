@@ -1,20 +1,17 @@
-+++
-title = "Commitment to Quality"
-description = ""
-tags = [
-    "CGC-Chemist-2022",
-    "Commitment to Quality",
-    "Attention to detail",
-    "Mistakes",
-    "Integrity",
-    "AECL Case"
-]
-date = "2022-07-27"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+---
+weight: 3
+title: Commitment to Quality
+authors: Lenny Lin
+categories: Interview
+tags: CGC-Chemist 2022, Commitment to Quality, Attention to detail, Mistakes, Integrity, AECL Case
+date: " "
+description: 
+draft: false
+lastmod: "2022-07-27"
+series: null
+toc: true
+---
+
 
 EC2.1 Sometimes, if we rush, we can make mistakes or overlook a mistake.  Describe a time that you made a mistake and had to act to prevent further impact.  (Maximum 500 words.)
 In your response:

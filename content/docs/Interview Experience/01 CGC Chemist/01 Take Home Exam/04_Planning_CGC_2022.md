@@ -1,17 +1,17 @@
-+++
-title = "Planning, organizing, and coordinating"
-description = ""
-tags = [
-    "CGC-Chemist-2022",
-    "Planning, organizing, and coordinating",
-    "AEL Case"
-]
-date = "2022-07-27"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+---
+weight: 4
+title: Planning, organizing, and coordinating
+authors: Lenny Lin
+categories: Interview
+tags: CGC-Chemist 2022, Supervision, "Planning, organizing, and coordinating", AEL Case
+date: " "
+description: 
+draft: false
+lastmod: "2022-07-27"
+series: null
+toc: true
+---
+
 
 EC3.1 Describe one of your team's largest or most important projects or activities and how you managed it, from start to finish.  Use a project or activity where others were doing the work, but you were overseeing it.  (Maximum 500 words.) [10 marks]
 –	What was the vision for this project/activity?
