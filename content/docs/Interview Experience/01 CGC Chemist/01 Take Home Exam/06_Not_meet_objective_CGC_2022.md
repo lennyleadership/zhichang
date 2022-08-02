@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: Supervision
+title: Not Meet Objective
 authors: Lenny Lin
 categories: Interview
 tags: CGC-Chemist 2022, "Integrity",

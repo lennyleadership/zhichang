@@ -1,18 +1,19 @@
-+++
-title = "Take Risks for Gains"
-description = ""
-tags = [
-    "CGC-Chemist-2022",
-    "Results Oriented",
+---
+weight: 7
+title: Take Risks for Gains
+authors: Lenny Lin
+categories: Interview
+tags: CGC-Chemist 2022, "Results Oriented",
     "LifeLabs Case",
     "Hovertip demo"
-]
-date = "2022-07-27"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+date: " "
+description: 
+draft: false
+lastmod: "2022-07-27"
+series: null
+toc: true
+---
+
 
 EC5.1 Describe a situation when you took a calculated risk on a work project for measured gains.  Describe what you did during the situation.  Describe the impact of your actions and overall outcome.  Explain why you chose this example.  (Maximum 500 words.) [10 marks] 
 

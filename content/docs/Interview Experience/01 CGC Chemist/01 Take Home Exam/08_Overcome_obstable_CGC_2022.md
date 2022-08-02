@@ -1,17 +1,17 @@
-+++
-title = "Overcome Obstacle"
-description = ""
-tags = [
-    "CGC-Chemist-2022",
-    "LifeLabs Case",
+---
+weight: 8
+title: Overcome Obstacle
+authors: Lenny Lin
+categories: Interview
+tags: CGC-Chemist 2022, "LifeLabs Case",
     "Results Oriented"
-]
-date = "2022-07-27"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+date: " "
+description: 
+draft: false
+lastmod: "2022-07-27"
+series: null
+toc: true
+---
 
 EC5.2 Describe a situation at work when you had to overcome a significant obstacle in order to achieve an established goal.  Describe the actions you took, and your rationale for taking these actions.  Describe the impact of your actions and overall outcome.  Explain why you chose this example.  (Maximum 500 words.) [10 marks]
 

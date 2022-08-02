@@ -1,17 +1,17 @@
-+++
-title = "Plan Complex Work Tasks"
-description = ""
-tags = [
-    "CGC-Chemist-2022",
-    "Planning, Organizing, and Coordinating",
+---
+weight: 9
+title: Plan Complex Work Tasks
+authors: Lenny Lin
+categories: Interview
+tags: CGC-Chemist 2022, "Planning, Organizing, and Coordinating",
     "Multiple Projects"
-]
-date = "2022-07-27"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+date: " "
+description: 
+draft: false
+lastmod: "2022-07-27"
+series: null
+toc: true
+---
 
 EA1.1 You have a validated multi-analyte method currently in use on one LC-MS/MS (instrument A).  You need to have a backup method in place on a different LC-MS/MS (instrument B) so that your team has continuous analytical capabilities in case of instrument issues, technician absences, etc.  Developing the method for instrument B, and training a new technician will involve coordination amongst the two technicians, as well as with the team lead for another group that also uses the same two instruments.  
 Describe in detail the plan you would use to get the backup method operational so that there is always available analytical capability.   

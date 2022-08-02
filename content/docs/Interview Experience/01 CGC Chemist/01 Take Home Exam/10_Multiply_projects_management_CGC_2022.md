@@ -1,17 +1,18 @@
-+++
-title = "Manage Multiple Projects"
-description = ""
-tags = [
-    "CGC-Chemist-2022",
-    "AECL Case",
+---
+weight: 10
+title: Manage Multiple Projects
+authors: Lenny Lin
+categories: Interview
+tags: CGC-Chemist 2022, "AECL Case",
     "Multiple Projects"
-]
-date = "2022-07-27"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+date: " "
+description: 
+draft: false
+lastmod: "2022-07-27"
+series: null
+toc: true
+---
+
 
 EA1.2 This position will involve managing multiple people and multiple projects.  Describe a situation at work where you demonstrated your ability to manage simultaneous work tasks that had multiple people relying on the outcomes.  (Maximum 500 words.)  [10 marks] 
 
