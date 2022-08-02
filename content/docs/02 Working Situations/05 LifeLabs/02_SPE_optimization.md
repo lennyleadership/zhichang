@@ -4,7 +4,7 @@ title: SPE Optimization
 authors: Lenny Lin
 categories: Working Situations
 tags: [Teamwork, Commitment, Never Settle Down, Resilience, Overcome Obstacles, Critical Thinking, Think Through, Experimental Planning]
-date: " "
+date: "2022-08-02"
 description: 
 draft: false
 lastmod: "2022-08-02"
@@ -15,7 +15,7 @@ toc: true
 
 While I investigated three hydrolysis approaches, I encountered a problem cleaning up steroids using a solid-phase extraction (SPE) method at LifeLabs.  Some targeted steroids were lost. 
 
-I was recommended using this SPE method which was initially developed for the testing of steroids in serum.  I had to make a new method for my application.
+I was recommended using this SPE method which was initially developed for the testing of steroids in serum, but I had to make a new method for my application.
 
 Here is what I did:
 -	I consulted with a medical scientist to analyze the problem's root cause and come up with solutions.
