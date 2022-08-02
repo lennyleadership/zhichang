@@ -3,8 +3,8 @@ weight: 1
 title: Resolve Difficult Employee Situations
 authors: Lenny Lin
 categories: Working Situations
-tags: null
-date: " "
+tags: [Difficult People, Conflict]
+date: "2022-08-02"
 description: 
 draft: false
 lastmod: "2022-08-02"
@@ -27,4 +27,4 @@ Looking back, I wish I could have been trained earlier in business psychology at
 
 I will continue to learn business psychology in the new job position to ensure the smooth and successful running of the laboratory.  
 
-
+[link](https://jian-li.netlify.app/docs/01-interview-experience/01-cgc-chemist/01-take-home-exam/01_difficult_people_cgc_2022/)
