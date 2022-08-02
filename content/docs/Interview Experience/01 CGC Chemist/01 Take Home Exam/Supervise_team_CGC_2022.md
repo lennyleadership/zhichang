@@ -1,4 +1,5 @@
-+++
+---
+weight: 2
 title = "Supervision"
 description = ""
 tags = [
@@ -10,8 +11,7 @@ date = "2022-07-27"
 categories = [
     "Interview",
 ]
-menu = "main"
-+++
+---
 
 EC1.2 You are supervising a team of 4 technicians.  One is a brand new hire, one has only been on the team for one year, one has been on the team for 10 years and has been underperforming for the past 2 years, and the remaining technician (on the team for 10 years) is consistently exceeding expectations.  
 
