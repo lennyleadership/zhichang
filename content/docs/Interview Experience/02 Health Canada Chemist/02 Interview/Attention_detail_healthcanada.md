@@ -14,7 +14,7 @@ toc: true
 
 
 
-[Location: Health_Canada_interview-3, 1:00:16]  
+Location: Health_Canada_interview-3, 1:00:16  
 
 **DEFINITION**  
 Demonstrates conscientiousness, consistency and thoroughness by verifying work, information, roles and functions.  

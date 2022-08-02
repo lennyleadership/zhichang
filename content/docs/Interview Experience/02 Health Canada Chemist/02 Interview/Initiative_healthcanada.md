@@ -13,7 +13,7 @@ toc: true
 ---
 
 
-[Location: Health_Canada_interview-3, 1:19:10]  
+Location: Health_Canada_interview-3, 1:19:10  
 
 **DEFINITION**  
 Seeks to actively influence events rather than passively accept the status quo.  Originates, develops and carries through activities.  Undertakes new work activities without specific direction.  Rectifies a situation by taking corrective  action rather than placing blame.  Strives to design and organize activities to carry them through to completion.  
