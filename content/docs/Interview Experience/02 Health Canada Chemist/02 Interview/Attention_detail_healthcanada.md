@@ -5,7 +5,7 @@ authors: Lenny Lin
 categories: Interview
 tags: "Health Canada - Chemist 2022", "Attention to detail",
     "LifeLabs Case",
-    "Mistakes",
+    "Mistakes"
 date: " "
 description: 
 draft: false
