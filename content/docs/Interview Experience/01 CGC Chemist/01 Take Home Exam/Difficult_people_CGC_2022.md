@@ -10,7 +10,6 @@ series: null
 tags: null
 title: Deal with difficult people
 toc: true
-menu = "main"
 ---
 
 
