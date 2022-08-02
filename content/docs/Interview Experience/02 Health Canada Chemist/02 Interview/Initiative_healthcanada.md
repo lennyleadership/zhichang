@@ -1,9 +1,9 @@
 ---
 weight: 2
-title: "Initiative"
+title: Initiative
 authors: Lenny Lin
 categories: Interview
-tags: ["Initiative", "LifeLabs Case"]
+tags: [Initiative, LifeLabs Case]
 date: " "
 description: 
 draft: false

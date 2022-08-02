@@ -20,7 +20,7 @@ toc: true
 Advise and plan based on analysis of issues and trends, and how these link to the responsibilities, capabilities, and potential of the organization.  Scan an ever-changing, complex environment in anticipation of emerging crises and opportunities.  Develop well-informed advice and strategies that are sensitive to the various needs of multiple stakeholders and partners, reflect the strategic direction, and position the organization for success.  
 
 **QUESTIONS**    
-Being able to identify and solve problems is an important aspect of being a Chemist II.  You are supporting a team which is being faced with major challenges in a project.  Please think of a time when you identified a problem regarding a program or project and had to think strategically to **recommend** a solution.  
+Being able to identify and solve problems is an important aspect of being a Chemist II.  You are supporting a team which is being faced with major challenges in a project.  Please think of a time when you identified a problem regarding a program or project and had to **think strategically** to **recommend** a solution.  
 
 The following questions are provided to guide you in your response.  You do not have to answer them individually.  
 
@@ -58,3 +58,7 @@ SPE process optimization
 1) took advice from a scientist,  
 2) planed and executed experiments, 
 3) 
+
+
+**REVISIT 2022.08.01**  
+There was no good case before.  There was one in CGC take-home exam regarding selection of internal standards.

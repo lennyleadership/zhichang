@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "Ability to set priorities and meet deadlines"
+title: Ability to set priorities and meet deadlines
 authors: Lenny Lin
 categories: Interview
 tags: ["Set Priorities"]
@@ -36,6 +36,10 @@ Discard it and redid the experiments, stay late.
 [Result]   
 Complete.  
 
-**TIPS**  
+
+**Revisit @ 2022-08-01**  
+
+
+**COMMENTS**  
 Quite often organizations deal with the important and urgent items, and overlooked the important but not urgent items.
 It is not effective.  This is where highly-effective habit and initiative comes in. 
