@@ -41,4 +41,4 @@ This mistake happened occasionally.
 
 Furthermore, I learned from this mistake and developed an R Shiny application at LifeLabs to visualize all historical data of samples, including calibrators, QCs, internal standards, and a critical parameter of GC-MS/MS.  It became an effective diagnostic tool for troubleshooting analysis and proactively maintaining instruments.
 
-Contact: Kent Felushko.  email: kentfelushko@gmail.com
+Contact: KF

@@ -57,4 +57,4 @@ The reason I chose this example:
 2)	I was able to manage multiple tasks and lead the project by planning, organizing, and coordinating stakeholders in different groups at different sites across the company. 
 
 
-Contact: Neil Peitsch. Email: neil.peitsch@cnl.ca
+Contact: NP

@@ -27,4 +27,4 @@ This example demonstrated:
 1)	I never gave up on facing difficulties and overcoming barriers.
 2)	I looked for better ways to engage stakeholders.
 
-Contact: Kent Felushko.  email: kentfelushko@gmail.com
+Contact: KF

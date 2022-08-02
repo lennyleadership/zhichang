@@ -21,5 +21,5 @@ We scheduled monthly lab tours to inspect lab documents, such as log books, main
 
 I learned this sandwich feedback method at Toastmasters.  I observed it worked well when providing feedback, so I borrowed this idea to the lab.  The conversation went well.  The technologist did not make an excuse.  I did notice in the following inspections that they were good at aligning their good lab practice with the requirements of ISO 17025.
 
-Contact: Kent Felushko  email: kentfelushko@gmail.com
+Contact: KF
 

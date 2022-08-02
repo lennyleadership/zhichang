@@ -3,7 +3,7 @@ weight: 12
 title: Meet Established Expectations
 authors: Lenny Lin
 categories: Interview
-tags: [Performance management, Results Oriented]
+tags: [Performance management, Results Oriented, AECL Case]
 date: " "
 description: 
 draft: false
@@ -14,3 +14,18 @@ toc: true
 
 
 Q: 12.  Please talk about a situation that demonstrates your ability and motivation to ensure your performance meets established expectations.
+
+**Revisit 2022.08.02** 
+
+[Situation]  
+AECL, expectation:  review reports in the same day  
+multitask
+
+[Task]  
+programming
+
+[Action]  
+training, coding  
+
+[Result]  
+more accurate, 100% check

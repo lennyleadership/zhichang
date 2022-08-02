@@ -36,4 +36,4 @@ This example demonstrates:
 3)	my resilience in overcoming new challenges.
 
 
-Contact: Dr. Jan Palaty.  email: jan.palaty@fraserhealth.ca
+Contact: JP

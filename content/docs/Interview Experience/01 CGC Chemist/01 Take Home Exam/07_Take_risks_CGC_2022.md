@@ -32,4 +32,4 @@ This example demonstrated:
 1)	my commitment to the team's success
 2)	I never settle down but always seek better solutions.
 
-Contact: Dr. Jan Palaty. Email: jan.palaty@fraserhealth.ca
+Contact: JP

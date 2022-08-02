@@ -38,4 +38,4 @@ We got the transition done within about one year.  I handed over the smooth lab 
 
 Looking back, one thing I could do differently was to get collective input on planning and organizing for some situations.  It was when I joined AECL that I started to do so.   It could be a way to motivate staff and uplift team morale.
 
-Contact: Ron Zager email: ronzager@hotmail.com
+Contact: RZ
