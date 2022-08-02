@@ -3,7 +3,7 @@ weight: 5
 title: Hold Accountability
 authors: Lenny Lin
 categories: Interview
-tags: CGC-Chemist 2022, Integrity
+tags: [CGC-Chemist 2022, Integrity]
 date: " "
 description: 
 draft: false

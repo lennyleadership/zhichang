@@ -3,7 +3,7 @@ weight: 3
 title: Commitment to Quality
 authors: Lenny Lin
 categories: Interview
-tags: CGC-Chemist 2022, Commitment to Quality, Attention to detail, Mistakes, Integrity, AECL Case
+tags: [CGC-Chemist 2022, Commitment to Quality, Attention to detail, Mistakes, Integrity, AECL Case]
 date: " "
 description: 
 draft: false

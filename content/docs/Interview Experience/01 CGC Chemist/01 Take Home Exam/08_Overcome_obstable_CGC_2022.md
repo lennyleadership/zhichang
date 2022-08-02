@@ -3,8 +3,8 @@ weight: 8
 title: Overcome Obstacle
 authors: Lenny Lin
 categories: Interview
-tags: CGC-Chemist 2022, "LifeLabs Case",
-    "Results Oriented"
+tags: [CGC-Chemist 2022, "LifeLabs Case",
+    "Results Oriented"]
 date: " "
 description: 
 draft: false

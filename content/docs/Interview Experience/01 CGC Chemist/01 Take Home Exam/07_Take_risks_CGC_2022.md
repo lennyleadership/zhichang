@@ -3,9 +3,9 @@ weight: 7
 title: Take Risks for Gains
 authors: Lenny Lin
 categories: Interview
-tags: CGC-Chemist 2022, "Results Oriented",
+tags: [CGC-Chemist 2022, "Results Oriented",
     "LifeLabs Case",
-    "Hovertip demo"
+    "Hovertip demo"]
 date: " "
 description: 
 draft: false

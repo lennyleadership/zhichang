@@ -3,7 +3,7 @@ weight: 2
 title: Supervision
 authors: Lenny Lin
 categories: Interview
-tags: CGC-Chemist 2022, Supervision
+tags: [CGC-Chemist 2022, Supervision]
 date: " "
 description: 
 draft: false
