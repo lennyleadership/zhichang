@@ -17,6 +17,7 @@ It is important to be receptive to others' ideas and opinions.  Tell us about a 
 
 ---
 
+## Elicit comments to resolve conflict
 A staff did not meet my expectation in training.  I was frustrated, they were not happy neither.
 
 I took initiative to ask them how I could do differently in training.  They preferred to observed while I was doing analysis a couple of times.  They took notes at the same time.  They did not learn by reading the standard operating procedure.
