@@ -33,3 +33,5 @@ I have developed some strategies to resolve the situation with the manager, whic
 Looking back, I wish I could have been trained earlier in business psychology at AECL before handling the difficult employee situation.  Here is an example: I later read a book, "The Platinum Rule," later on.  The principle is "Do unto others as they would like done unto them."  Then the author developed strategies to work with persons in four categories, Directors, Socializers, Relaters, and Thinkers.  I can relate that person to Socializer, and I learnt that I followed some of the guidelines in the book, but I missed others.  I would have more strategies to help them out.  I applied this principle at LifeLabs.  I could identify different personal styles and manage to work with them better.  
 
 I will continue to learn business psychology in the new job position to ensure the smooth and successful running of the laboratory.  
+
+

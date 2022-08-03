@@ -3,7 +3,7 @@ weight: 2
 title:  Elicit Comments
 authors: Lenny Lin
 categories: Interview
-tags: [Interactive communication]
+tags: [Interactive communication, Elicit comments]
 date: " "
 description: 
 draft: false
