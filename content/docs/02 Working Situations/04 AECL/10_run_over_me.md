@@ -1,6 +1,6 @@
 ---
-weight: 2
-title: 
+weight: 10
+title: Run Over Me
 authors: Lenny Lin
 categories: Working Situations
 tags:
@@ -12,5 +12,5 @@ series: null
 toc: true
 ---
 
-
+Randy and Chantelle always sent emails ahead of me or Karen.  It made me annoyed.  Power hungry.
 

@@ -3,7 +3,7 @@ weight: 2
 title: Conflict Resolution
 authors: Lenny Lin
 categories: Working Situations
-tags: [Difficult People, Conflict Resolution, Elicit comments, Sysmex 2nd Interview, CGC-Senior Tech Interview]
+tags: [Difficult People, Conflict Resolution, Sysmex 2nd Interview, CGC-Senior Tech Interview]
 date: "2022-08-02"
 description: 
 draft: false
@@ -12,20 +12,11 @@ series: null
 toc: true
 ---
 
-It is important to be receptive to others' ideas and opinions.  Tell us about a time when you had to elicit comments or feedback from another team member on an important issue.
+
 <!--more-->
 
 ---
 
-## Elicit comments to resolve conflict
-A staff did not meet my expectation in training.  I was frustrated, they were not happy neither.
+A technologist and I had different opinions on dealing with the deviation of spiked blanks and spiked samples data.  She did not consider my suggestion, and it caused relationship tension on Wednesday. [email sent on 2015-10-23 Friday]  
 
-I took initiative to ask them how I could do differently in training.  They preferred to observed while I was doing analysis a couple of times.  They took notes at the same time.  They did not learn by reading the standard operating procedure.
-
-I learnt that people have different way of learning new things.  
-
-
-This example demonstrated:  
-1) conflict resolution;  
-2) elicit feedback;
-3) 
+Chat with the manager on the same day.  
