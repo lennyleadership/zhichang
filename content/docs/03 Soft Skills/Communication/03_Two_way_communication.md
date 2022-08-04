@@ -3,7 +3,8 @@ weight: 03
 title: Two-way communication at the workplace
 authors: Jelena Kalaba at Pumble, edited by Lenny Lin
 categories: null
-tags: [Two-way communication]
+tags: [Two-way communication, Challenges in Two-way Communication, 
+Two-way Communication Examples]
 date: "2022-07-08"
 lastmod: "2022-08-04"
 draft: false
@@ -12,6 +13,11 @@ toc: true
 ---
 Leader need to take [advice](https://hbr.org/2015/01/the-art-of-giving-and-receiving-advice), criticism, and to know when to concede and admit they are wrong.  So the first thing leaders should learn is [how to listen and take feedback](https://www.forbes.com/sites/glennllopis/2013/05/20/6-effective-ways-listening-can-make-you-a-better-leader/?sh=19785f001756).
 
+Two-way communication is used to transmit more complex messages, brainstorm, and make arrangements.  
+
+Examples of two-way communication are: staff meetings, face-to-face conversations, video calls, phone calls, etc.
+
+Challenges in two-way communication: language barriers, overload of irrelevance, lack of channels, lack of culture of employee feedback, lack of empathy and transparency, lack of acting on employee feedback, 
 <!--more-->
 
 ---
