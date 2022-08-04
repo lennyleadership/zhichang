@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Two-Way Communication: 4 Tips for a More Engaged Workplace
+title: "Two-Way Communication: 4 Tips for a More Engaged Workplace"
 authors: Lenny Lin
 categories: null
 tags: [communication]
