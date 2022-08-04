@@ -1,11 +1,20 @@
 ---
-weight: 3
+weight: 90
 title: "Self-assessment for Data Scientists & Analysts"
+authors: Lenny Lin
 categories: null
 tags: [communication]
-lastmod: "2022-08-01"
+date: "2022-08-01"
+lastmod: "2022-08-04"
 draft: false
+series: null
+toc: true
 ---
+
+<!--more-->
+
+---
+
 
 * I am good at getting buy-in from stakeholders. [data quality]
 * I am focused on getting tangible business results with data.   

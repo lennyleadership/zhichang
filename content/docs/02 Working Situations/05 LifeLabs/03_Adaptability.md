@@ -3,7 +3,7 @@ weight: 2
 title: Adapt to working with someone despite your differences
 authors: Lenny Lin
 categories: Working Situations
-tags: [Adaptability]
+tags: [Adaptability, CGC-Senior Tech Interview]
 date: " "
 description: 
 draft: false

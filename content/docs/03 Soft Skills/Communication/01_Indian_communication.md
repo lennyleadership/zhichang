@@ -1,10 +1,10 @@
 ---
+weight: 1
 title: "明白潜在的需要"
 categories: null
 tags: [communication]
 lastmod: "2022-08-01"
 draft: false
-weight: 1
 ---
 
 为什么美国公司的印度裔CEO那么多，只是中国人传说中的“印度人爱抱团”那么简单吗？  

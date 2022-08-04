@@ -3,7 +3,7 @@ weight: 2
 title: Elicit Comments
 authors: Lenny Lin
 categories: Working Situations
-tags: [Elicit Comments]
+tags: [Elicit Comments, Interactive Communication, CGC-Senior Tech Interview]
 date: " "
 description: 
 draft: false
