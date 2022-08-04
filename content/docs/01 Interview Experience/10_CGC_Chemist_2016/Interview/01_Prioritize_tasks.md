@@ -1,9 +1,9 @@
 ---
-weight: 
+weight: 1
 title: Prioritize Work Tasks
 authors: Lenny Lin
 categories: Interview
-tags: [Priority]
+tags: [Multiple Tasks]
 description: 
 draft: false
 date: "2016-07-15"
