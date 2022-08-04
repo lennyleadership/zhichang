@@ -24,7 +24,7 @@ The more deliberate encouragement of two-way communication within internal workp
 
 In this article, we explore the concept of two-way communication, the reasons why it should be considered the most important aspect of any organization, and what you can do to make it work in your company.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f79fe29-9b6b-4bee-aa67-a3ad5fa40cac/Two-way-comm-cover.png)
+![](https://pumble.com/blog/wp-content/uploads/2021/12/Two-way-comm-cover.png)
 
 
 ## 1. What is two-way communication?
@@ -102,7 +102,7 @@ While it’s impossible to avoid using emails in business communication, one way
 
 One way that [Pumble](https://pumble.com/), our internal communication software, encourages feedback is through the use of reaction emojis. Even if someone is short on time, or insecure about sharing their opinion in words, a simple reaction emoji can go a long way in encouraging people to express themselves.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94589c7c-e4d4-4bd4-a4c6-815e201fc39a/ask-question.png)
+![](https://pumble.com/blog/wp-content/uploads/2021/12/ask-question-1024x632.png)
 
 Reacting to messages with emojis in Pumble
 
@@ -123,7 +123,7 @@ Expecting employees to waste valuable time during their work hours to read email
 
 Taking just a few minutes to make sure the emails or channel messages in internal collaboration apps are addressed to the right people can make a big difference. It prevents other employees from being distracted by irrelevant information, ensures that the right people always receive the message, and makes the ensuing exchange of information a lot more personalized.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a105c4aa-a1a0-48ed-9005-ff2bd6abffbd/campaign-planning.png)
+![](https://pumble.com/blog/wp-content/uploads/2021/12/campaign-planning.png)
 
 Tagging team members in Pumble
 
