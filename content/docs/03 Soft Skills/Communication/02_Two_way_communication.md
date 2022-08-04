@@ -1,10 +1,10 @@
 ---
 weight: 2
 title: "Two-Way Communication: 4 Tips for a More Engaged Workplace"
-authors: Lenny Lin
+authors: David Grossman, edited by Lenny Lin
 categories: null
-tags: [communication]
-date: "2022-08-01"
+tags: [Two-way Communication, Employee Engagement]
+date: "2019-04-29"
 lastmod: "2022-08-04"
 draft: false
 series: null
@@ -73,7 +73,9 @@ The importance of building opportunities for solid two-way communication – dia
 
 ***What one step can you take to further encourage two-way communication, increase employee feedback and reap the benefits of doing so?***
 
-—David Grossman
+— author: David Grossman
 ---
 Armed with these [15 practical tips](https://www.yourthoughtpartner.com/15-dos-and-donts-of-two-communication-tip-sheet), you’ll be able to encourage two-way communication, increase employee feedback, enhance collaboration, increase productivity and reap the many more benefits of doing so.
+
+**Reference** [](https://www.yourthoughtpartner.com/blog/bid/59576/4-steps-to-increase-employee-engagement-through-two-way-communication)
 
