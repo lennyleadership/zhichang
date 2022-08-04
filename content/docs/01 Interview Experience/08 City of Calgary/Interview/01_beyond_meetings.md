@@ -2,7 +2,7 @@
 weight: 1
 title: Go Beyond Meetings or Arrangement
 authors: Lenny Lin
-categories: 123
+categories: Interview
 tags: []
 date: " "
 description: 
