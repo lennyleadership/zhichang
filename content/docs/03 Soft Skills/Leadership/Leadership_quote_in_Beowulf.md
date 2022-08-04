@@ -2,7 +2,7 @@
 weight: 1
 title: "Beowulf: Real Leadership is Leader Recognizing that They Serve the People They Lead"
 authors: edited by Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Safety, BV Winnipeg Interview]
 date: " "
 description: 
