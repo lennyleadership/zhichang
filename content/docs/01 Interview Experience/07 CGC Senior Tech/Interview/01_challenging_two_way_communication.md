@@ -15,6 +15,6 @@ toc: true
 Q: 1 Give us an example of a time when establishing two-way communication with an individual or group was especially challenging.
 
 
-Refer to `AECL\Challenging_two_way_communication`
+Refer to AECL/Challenging_two_way_communication
 
 

@@ -21,3 +21,4 @@ Q: Give us an example of a time when establishing two-way communication with an 
 
 keywords: turn challenging two-way communication into engaged communication.  
 
+pause, cooled down and returned.
