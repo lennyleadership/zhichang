@@ -33,4 +33,6 @@ Question #13 When you recently made effective adjustment/change to the procedure
 	I ended up coming up with a solution.  I connected the analysis column and guard column. I injected water from the analysis column, till guard column.  
 	The outcome is: 1) the baseline pressure was decreased; 2) the pump leaks were under control; 3) I cut the running time from 30 min. to 15 min. and there was no carry-over anymore.  
 
-
+---
+**Revisit 2022.08.04**  
+balance interfacing program at AECL.

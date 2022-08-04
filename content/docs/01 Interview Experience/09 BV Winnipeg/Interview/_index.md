@@ -1,11 +1,11 @@
 ---
-weight: 20
-title: Leadership
+weight: 1
+title: Interview
 categories: null
 description: 
 draft: false
-date: "2022-08-04"
-lastmod: "2022-08-04"
+date: 
+lastmod: "2022-08-01"
 bookCollapseSection: true
 ---
 

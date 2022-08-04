@@ -1,5 +1,6 @@
 ---
+weight: 6
+title: Writing
 bookCollapseSection: true
-weight: 20
 ---
 
