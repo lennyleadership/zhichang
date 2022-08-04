@@ -16,21 +16,21 @@ toc: true
 ---
 ![](https://www.yourthoughtpartner.com/hs-fs/hubfs/Blog_images/2-way-communication-in-the-workplace.jpg?width=960&name=2-way-communication-in-the-workplace.jpg)
 
-You know the reality – employees who are highly engaged in their work perform better than their less-committed counterparts and boost the organization’s bottom line.
+You know the reality – employees who are **highly engaged in their work** perform better than their less-committed counterparts and boost the organization’s bottom line.
 
-One of the most critical elements to employee engagement is two-way communication in the workplace. You might wonder why I add the words two-way to my description since it’s inherent in the definition, yet in consulting with leaders I continue to see a lot of [communication that actually is information](https://www.yourthoughtpartner.com/blog/bid/53311/information-vs-communication), since it lacks back and forth that’s critical to communication, among other problems.
+**One of the most critical elements to employee engagement is two-way communication in the workplace**. You might wonder why I add the words two-way to my description since it’s inherent in the definition, yet in consulting with leaders I continue to see a lot of [communication that actually is information](https://www.yourthoughtpartner.com/blog/bid/53311/information-vs-communication), since it lacks back and forth that’s critical to communication, among other problems.
 
 ## Tennis, anyone?
 
 My Dad and I played a lot of tennis growing up. It was one of the few sports where I was coordinated enough to be successful as a lanky kid. In my teens, he turned his passion into a business, starting a boutique tennis store called, “The Wimbledon Shoppe” in the suburb of Milwaukee where I grew up.
 
-He was the star tennis player in high school, and that was his wish for me, which was more of a pipe dream, I knew. While I had a killer two-handed back hand, I couldn’t serve worth a darn. And you can’t win, if you can’t serve well.
+He was the star tennis player in high school, and that was his wish for me, which was more of `a pipe dream`, I knew. While I had a killer two-handed back hand, I couldn’t serve worth a darn. And you can’t win, if you can’t serve well.
 
 So, I hung up my Prince racket, put away my Tretorn-trainer, and focused my attention on my front counter job at my local McDonald’s. There, I could serve with the best of them!
 
 ## What is two-way communication?
 
-Tennis is a great analogy for two-way communication. Great matches are filled with great volleys. Likewise, to be most effective, think about two-way communication as a dialogue or conversation that goes back and forth. Doing this helps to ensure several important conditions for making our efforts most successful:
+`Tennis is a great analogy for two-way communication`. Great matches are filled with great volleys. Likewise, to be most effective, `think about two-way communication as a dialogue or conversation` that goes back and forth. Doing this helps to ensure several important conditions for making our efforts most successful:
 
 - **We plan** our most important communications so we can be purposeful and increase our chances of achieving our outcome
 - **We are focused** on our audience and where they are coming from, not on what we think and want to get across, so they are in the best position to hear and understand what we’re sharing
@@ -40,9 +40,9 @@ Tennis is a great analogy for two-way communication. Great matches are filled wi
 
 ## How to Use Two-Way Communication in the Workplace
 
-Leaders who understand the importance of effective two-way communication – and how you can’t lead without communicating well – engage employees with various communication channels that help them connect the dots between individual efforts and organizational goals.
+Leaders who understand the importance of effective two-way communication – and how you can’t lead without communicating well – engage employees with `various communication channels` that help them connect the dots between individual efforts and organizational goals.
 
-But just as important as any leadership message is having systems in place to gather employee input and demonstrate its importance to the organization. By establishing channels to encourage and funnel feedback from employees to leaders, you create a critical structure to support employee engagement.
+But just as important as any leadership message is having systems in place to gather employee input and demonstrate its importance to the organization. **By establishing channels to encourage and funnel feedback from employees to leaders, you create a critical structure to support employee engagement**.
 
 **Here are 4 ways to leverage two-way communication for increased employee engagement:**
 
@@ -77,5 +77,5 @@ The importance of building opportunities for solid two-way communication – dia
 ---
 Armed with these [15 practical tips](https://www.yourthoughtpartner.com/15-dos-and-donts-of-two-communication-tip-sheet), you’ll be able to encourage two-way communication, increase employee feedback, enhance collaboration, increase productivity and reap the many more benefits of doing so.
 
-**Reference** [](https://www.yourthoughtpartner.com/blog/bid/59576/4-steps-to-increase-employee-engagement-through-two-way-communication)
+**Reference** [leadercommunicatorBLOG](https://www.yourthoughtpartner.com/blog/bid/59576/4-steps-to-increase-employee-engagement-through-two-way-communication)
 
