@@ -3,7 +3,7 @@ weight:
 title: 
 authors: Lenny Lin
 categories: Working Situations
-tags: [huddle meeting]
+tags: [Huddle Meeting]
 date: " "
 description: 
 draft: false
