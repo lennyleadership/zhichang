@@ -5,12 +5,13 @@
 
 
 /* ****first letter capital begin**** */
-a.firstword {
+/*a.firstword {
     display: block;
-}
+}*/
 
-a.firstword:first-letter {
-    text-transform: uppercase;
+a::first-letter {
+    /*text-transform: uppercase;*/
+    color: #ff4500;
 }
 /* ****first letter capital end**** */
 
