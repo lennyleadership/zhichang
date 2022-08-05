@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: 
+title: Life
 categories: null
 tags:
 description: 
