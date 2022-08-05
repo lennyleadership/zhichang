@@ -4,7 +4,18 @@
 // @import "plugins/scrollbars";
 
 
+/* ****first letter capital begin**** */
+a.firstword {
+    display: block;
+}
 
+a.firstword:first-letter {
+    text-transform: uppercase;
+}
+/* ****first letter capital end**** */
+
+
+/* ***** hovertip begin**** */
 .hovertip {
   position: relative;
   border-bottom: 1px dotted black;
@@ -49,4 +60,4 @@
   opacity: 1;
   visibility: visible;
 }
-
+/* ***** hovertip end**** */

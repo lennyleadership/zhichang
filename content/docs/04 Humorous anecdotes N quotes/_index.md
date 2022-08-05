@@ -1,6 +1,6 @@
 ---
-weight: 1
-title: ""
+weight: 4
+title: "Humorous Anecdotes & Quotes"
 categories: null
 description: 
 draft: false
