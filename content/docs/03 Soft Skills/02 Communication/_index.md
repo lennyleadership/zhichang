@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "Humorous Anecdotes & Quotes"
+title: "Communication"
 categories: null
 description: 
 draft: false
