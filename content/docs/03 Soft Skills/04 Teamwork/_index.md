@@ -1,11 +1,11 @@
 ---
-weight: 20
-title: Leadership
+weight: 4
+title: Teamwork
 categories: null
 description: 
 draft: false
-date: "2022-08-04"
-lastmod: "2022-08-04"
+date: "2022-08-05"
+lastmod: "2022-08-05"
 bookCollapseSection: true
 ---
 
