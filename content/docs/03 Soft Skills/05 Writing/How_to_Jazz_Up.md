@@ -1,7 +1,15 @@
 ---
-weight: 1
-bookFlatSection: true
+Weight: 2
 title: "5 Creative Writing Examples: How to Jazz Up Any Writing"
+authors: Edited by Lenny Lin
+categories: null
+tags: null
+date: "2022-02-05"
+description: 
+draft: false
+lastmod: "2022-05-25"
+series: null
+toc: true
 ---
 
 ![](https://www.enchantingmarketing.com/wp-content/uploads/2022/07/5-creative-writing-examples.jpg)

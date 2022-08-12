@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 15
 title: Not Meet Objective
 authors: Lenny Lin
 categories: Working Situations

@@ -1,7 +1,15 @@
 ---
-weight: 1
-bookFlatSection: true
-title: "Write a Sparkling Sentence"
+Weight: 1
+title: Write a Sparkling Sentence
+authors: Edited by Lenny Lin
+categories: null
+tags: null
+date: "2022-02-05"
+description: 
+draft: false
+lastmod: "2022-05-25"
+series: null
+toc: true
 ---
 
 ## Write better sentences

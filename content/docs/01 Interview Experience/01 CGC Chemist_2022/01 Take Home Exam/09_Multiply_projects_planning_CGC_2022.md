@@ -57,3 +57,7 @@ Lastly, I will present the summary to my manager, finalizing the plan.
 During the routine, I will update the Gantt chart and make it available to the team, solve concerns and conflicts when needed, and keep some key stakeholders updated on progress.  I will come early or stay late, accompanying the technician for some time.
 
 I expect the project will end with a celebration!  A company-wide recognition award is proposed for the achievement of every stakeholder.
+
+---
+**revisit 2022.08-11**
+establish the range of system suitability [or establish system suitability criteria] when developing a method.

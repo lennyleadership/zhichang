@@ -97,3 +97,18 @@ Then the other (who was not very smart) dials 911 from his cell phone and yells,
 -Calm down, sir; first, you must ensure that he is truly dead.  
 So the man throws down his phone, picks up his shotgun, points it at him, and fires.  
 -Hello, yes, I'm sure he's dead now. So, what should I do now?  
+
+---
+A farmer has a wife who loves to correct him.  
+One day, he asks her if he can invite his friend Billy over for dinner. "Don't say Billy," she chastises, "say William."  
+
+After they eat dinner, he asks William if he can tell him a tale. "Don't say tale," the wife says, "say anecdote."  
+
+When the farmer is about to go to bed, he realizes that the kitchen light is still on. He asks his wife to put the light out, and she shakes her head. "Don't say put out," she corrects, "say extinguish."  
+
+Later that night there is a strange noise coming from outside. The wife sends the farmer to go check it out. When he returns, she asks him what it was.  
+
+"Well," he starts, "it was a William goat who I grabbed by its anecdote and extinguished!"  
+[Reference: Upjoke](https://upjoke.com/anecdote-jokes)
+
+--
