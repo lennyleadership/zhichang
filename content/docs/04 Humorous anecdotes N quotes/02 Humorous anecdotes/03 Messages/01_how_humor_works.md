@@ -24,9 +24,9 @@ Julius Henry Marx in 'Duck Soup,' 1933. He knew 'Groucho' was funnier.
 
 You've probably heard that one before, or something similar. For example, while viewing polling data for the 2008 presidential election on Comedy Central, Stephen Colbert deadpanned, "If I'm reading this graph correctly…I'd be very surprised."
 
-Zingers like these aren't just good lines. They reveal something unusual about how the mind operates—and they show us how humor works. Simply put, the brain likes to `jump the gun`. We are always guessing where things are going, and we often get it wrong. But this isn't necessarily bad. It's why we laugh.
+Zingers like these aren't just good lines. They reveal something unusual about how the mind operates — and they show us how humor works. Simply put, the brain likes to `jump the gun`. We are always guessing where things are going, and we often get it wrong. But this isn't necessarily bad. It's why we laugh.
 
-It turns out that humor is a form of mental exercise, and we benefit from it in the same way we benefit from a long run or a tough spin class. Scott_Weams, author of "Ha! The Science of When_We_Laugh and Why" explains how humor increases mental stamina and flexibility.
+It turns out that humor is a form of mental exercise, and we benefit from it in the same way we benefit from a long run or a tough spin class. Scott Weams, author of "Ha! The Science of When_We_Laugh and Why" explains how humor increases mental stamina and flexibility.
 
 Humor is a form of exercise - a way of keeping the brain engaged. Mr. Colbert's line is a fine example of this kind of mental calisthenics. If he had simply observed that polling data are hard to interpret, you would have heard crickets chirping. Instead, he misdirected his listeners, leading them to expect ponderous analysis and then bolting in the other direction to declare his own ignorance. He got a laugh as his audience's minds caught up with him and enjoyed the experience of being fooled.
 
@@ -43,3 +43,7 @@ This doesn't mean that every sort of humor is helpful. Taking a dark, sardonic a
 Having an active sense of humor helps us to get more from life, both cognitively and emotionally. It allows us to exercise our brains regularly, looking for unexpected and pleasing connections even in the face of difficulties or hardship. The physicist Richard Feynman called this "the kick of the discovery," claiming that the greatest joy of his life wasn't winning the Nobel Prize - it was the pleasure of discovering new things.
 
 By providing this sort of kick, humor lets our brains regularly experience the delight of discovery even if we aren't scientists - which is fortunate, because most of are about as likely to get a doctorate in physics as we are to write for "The Colbert Report."
+
+By Scott Weams
+
+[Reference: Westside Toastmasters](https://westsidetoastmasters.com/article_reference/humor.shtml)
