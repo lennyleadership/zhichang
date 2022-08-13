@@ -69,7 +69,7 @@ It's on this list because: A lot of people probably thought one GB is a nice, ro
 
 **7.) Heisenberg was speeding down the highway. A cop pulls him over and says, "Do you have any idea how fast you were going back there?" Heisenberg says, "No, but I knew where I was.”**
 
-<img width ="360" height= "200" src = "/docs/images/content-1490301272-heisenberg-was-speeding-down-the-highway-a-cop-pulls-him-over-and-says-do-you-have-any-idea-how-fast-you-were-going-back-there-heisenberg-says-no-but-i-knew-where-i-was_1024x1024.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
+<img width ="360" height= "200" src = "/docs/images/content-1490301272-heisenberg-was-speeding-down-the-highway-a-cop-pulls-him-over-and-says-do-you-have-any-idea-how-fast-you-were-going-back-there-heisenberg-says-no-but-i-knew-where-i-was_1024x1024.webp" style ="float: left" HSPACE="10" VSPACE="10"/>
 
 It's funny because: Werner Heisenberg was a German physicist and one of the key figures in quantum theory. His famous "Heisenberg Uncertainty Principle" states that we can know either where a quantum particle is or how fast it's moving, but it's impossible to know both at the same time.
 
@@ -126,7 +126,7 @@ It's on this list because: You've very likely seen a few movies he scored, like 
 
 **15.) Is it solipsistic in here, or is it just me?**
 
-<img width ="360" height= "200" src = "/docs/imagescontent-1490301679-is-it-solipsistic-in-here-or-is-it-just-me_1024x1024.jpg/" style ="float: left" HSPACE="10" VSPACE="10"/>
+<img width ="360" height= "200" src = "/docs/imagescontent-1490301679-is-it-solipsistic-in-here-or-is-it-just-me_1024x1024.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
 
 
 It's funny because: In philosophy, solipsism is the idea that the only thing you can be sure exists is your own mind.
