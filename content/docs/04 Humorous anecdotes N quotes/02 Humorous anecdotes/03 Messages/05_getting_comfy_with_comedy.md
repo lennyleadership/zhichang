@@ -1,8 +1,8 @@
 ---
 weight: 5
-title: 
+title: Getting Comfy with Comedy
 authors: Lenny Lin
-categories: 
+categories: [Incorporating Humor Into Speeches and Presentations]
 tags: []
 description: 
 draft: false

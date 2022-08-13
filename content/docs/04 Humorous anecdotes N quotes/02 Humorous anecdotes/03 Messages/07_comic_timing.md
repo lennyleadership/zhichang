@@ -2,7 +2,7 @@
 weight: 7
 title: "Comic Timing - The Pause That Refreshes"
 authors: Lenny Lin
-categories: 
+categories: [Incorporating Humor Into Speeches and Presentations]
 tags: []
 description: 
 draft: false

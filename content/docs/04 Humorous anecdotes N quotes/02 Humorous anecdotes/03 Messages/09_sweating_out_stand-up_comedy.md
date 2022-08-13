@@ -2,7 +2,7 @@
 weight: 9
 title: Sweating Out Stand-up Comedy
 authors: Lenny Lin
-categories: 
+categories: [Incorporating Humor Into Speeches and Presentations]
 tags: []
 description: 
 draft: false

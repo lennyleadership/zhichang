@@ -2,7 +2,7 @@
 weight: 8
 title: How To Tell Jokes
 authors: Lenny Lin
-categories: 
+categories: [Incorporating Humor Into Speeches and Presentations]
 tags: []
 description: 
 draft: false

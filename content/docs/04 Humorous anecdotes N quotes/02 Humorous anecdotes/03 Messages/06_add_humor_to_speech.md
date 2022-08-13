@@ -2,7 +2,7 @@
 weight: 6
 title: How to Add Humor to Any Speech
 authors: Lenny Lin
-categories: 
+categories: [Incorporating Humor Into Speeches and Presentations]
 tags: []
 description: 
 draft: false

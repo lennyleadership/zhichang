@@ -2,7 +2,7 @@
 weight: 1
 title: It's Funny How Humor Works
 authors: Lenny Lin
-categories: 
+categories: [Incorporating Humor Into Speeches and Presentations]
 tags: []
 description: 
 draft: false
