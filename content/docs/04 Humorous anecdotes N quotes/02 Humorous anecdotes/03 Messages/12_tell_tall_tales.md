@@ -1,7 +1,7 @@
 ---
 weight: 12
 title: How to Tell Tall Tales
-authors: Lenny Lin
+authors: Carol Mon, edited by Lenny Lin
 categories: [Incorporating Humor Into Speeches and Presentations]
 tags: []
 description: 
