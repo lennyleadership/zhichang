@@ -16,7 +16,6 @@ toc: true
 It is important to be receptive to others' ideas and opinions.  Tell us about a time when you had to elicit comments or feedback from another team member on an important issue.
 
 <!--more-->
-
 ---
 
 Action: 

@@ -24,3 +24,9 @@ Please provide the contact information for someone that can corroborate your res
 Refer to `Working Situations/04 AECL/15_LIMS`
 
 Contact: KF
+
+
+---
+what did you did during the situation?  
+Describe the impact of your actions and overall outcome.  
+Explain why you chose this example.
