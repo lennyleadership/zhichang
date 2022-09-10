@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 3
 title: Adapt to working with someone despite your differences
 authors: Lenny Lin
 categories: Working Situations

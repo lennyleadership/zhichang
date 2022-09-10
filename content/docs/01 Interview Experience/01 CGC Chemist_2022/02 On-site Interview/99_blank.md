@@ -2,15 +2,19 @@
 weight: 99
 title: 
 authors: Lenny Lin
-categories: Working Situations
-tags: 
+categories: Interview 
+tags: []
 description: 
 draft: false
-date: " "
-lastmod: "2022-08-02"
+date: "2022-09-09"
+lastmod: "2022-09-09"
 series: null
 toc: true
 ---
 
 
+
+<!--more-->
+
+---
 

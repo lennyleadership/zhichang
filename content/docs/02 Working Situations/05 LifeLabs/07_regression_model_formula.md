@@ -1,6 +1,6 @@
 ---
-weight: 5
-title: How to Lead the Change
+weight: 7
+title: Regression model formula
 authors: Lenny Lin
 categories: Working Situations
 tags: 
@@ -12,7 +12,5 @@ series: null
 toc: true
 ---
 
-Did better than Jan on Excel. Help to retrieve batch number.
 
-Open his eyes to see the benefit of R applications.  
-
+equation can be found in the post "equation".

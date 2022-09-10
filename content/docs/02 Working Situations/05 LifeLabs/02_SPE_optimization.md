@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: SPE Optimization
+title: SPE Optimization - General Description
 authors: Lenny Lin
 categories: Working Situations
 tags: [Teamwork, Commitment, Never Settle Down, Resilience, Overcome Obstacles, Critical Thinking, Think Through, Experimental Planning]
