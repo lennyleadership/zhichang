@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAIT on Mianshi Handbook</title>
+    <link>https://example.com/tags/NAIT/</link>
+    <description>Recent content in NAIT on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/NAIT/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disagree With Your Supervisor</title>
+      <link>https://example.com/posts/Disagree_with_supervisor/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Disagree_with_supervisor/</guid>
+      <description>Q: What are some of the things you and your supervisor have disagreed on?
+Situation #1: in hiring a quality officer
+Disagree on:
+I: poor qualification
+Supervisor: better personality
+Consequence: I respected my supervisor. It turned out a good hire.
+Situation #2: Safety moment in the meeting
+Disagree with safety practice.</description>
+    </item>
+    
+    <item>
+      <title>Different Ways of Communication</title>
+      <link>https://example.com/posts/Ways_of_communication/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Ways_of_communication/</guid>
+      <description>Q: In terms of communication (face-to-face, phone, e-mail, instant messaging, texting), which is your preference for collaboration? Why?
+A: IIt depends. donot have preference. email provides evidence, but lack of emotion. Face-to-face is more effective, and can see body language.</description>
+    </item>
+    
+    <item>
+      <title>What are Challenges or Adjustments for Us</title>
+      <link>https://example.com/posts/Challenges_from_my_perspective/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Challenges_from_my_perspective/</guid>
+      <description>Q: Describe what you foresee to be as challenges or adjustments for us in this new role?
+A: team dynamics, learn to run new instrument, teaching,</description>
+    </item>
+    
+  </channel>
+</rss>

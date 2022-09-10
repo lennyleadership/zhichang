@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health &amp; Safety on Mianshi Handbook</title>
+    <link>https://example.com/tags/Health-Safety/</link>
+    <description>Recent content in Health &amp; Safety on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Health-Safety/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HPTA Application to GRL</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/02_health_safety/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/02_health_safety/</guid>
+      <description>Question 3: To which extent does the HPTA apply to the work of the Grain Research Laboratory? Response: The key objective of Human Pathogen and Toxins Act (HPTA) and Regulations (HPTP) is to make working with human pathogens and toxins safer, more secure and less burdensome for those dealing with lower risk pathogens.
+The HPTA does not apply to: •	a human pathogen or toxin in an environment in which it naturally occurs, as long as it has not been cultivated or intentionally collected or extracted.</description>
+    </item>
+    
+  </channel>
+</rss>

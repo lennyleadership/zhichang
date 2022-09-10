@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NRC-Researcher on Mianshi Handbook</title>
+    <link>https://example.com/tags/NRC-Researcher/</link>
+    <description>Recent content in NRC-Researcher on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/NRC-Researcher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continuous Professional Learning</title>
+      <link>https://example.com/posts/Continuous_learning_competency_descriptions/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Continuous_learning_competency_descriptions/</guid>
+      <description>Continuously expanding and applying technical expertise.
+Level 1
+Increases professional capacity and accesses the knowledge of others
+ Continually expands level of knowledge in relevant fields of expertise. Remains up to date on new sources of information. Actively pursues new ideas and options. Continually draws on the knowledge of others through networking, teamwork, partnering and reading.  Level 2
+Engages in activities that promote learning
+ Considers the potential for new learning in assessing projects and collaborative arrangements.</description>
+    </item>
+    
+  </channel>
+</rss>

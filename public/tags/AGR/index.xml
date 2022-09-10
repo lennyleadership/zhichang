@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AGR on Mianshi Handbook</title>
+    <link>https://example.com/tags/AGR/</link>
+    <description>Recent content in AGR on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/AGR/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elicit comments or feedback</title>
+      <link>https://example.com/posts/Elicit_comments/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Elicit_comments/</guid>
+      <description>Q: It is important to be receptive to others’ ideas and opinions. Tell us about a time when you had to elicit comments or feedback from another team member on an important issue?
+Probing Questions: •	How did you let them know that you were interested in what they had to say?
+•	What questions did you ask?
+•	In the end did you have a good idea of that person’s ideas about the issue?</description>
+    </item>
+    
+  </channel>
+</rss>

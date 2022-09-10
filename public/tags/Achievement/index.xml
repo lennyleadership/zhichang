@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Achievement on Mianshi Handbook</title>
+    <link>https://example.com/tags/Achievement/</link>
+    <description>Recent content in Achievement on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Achievement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biggest Success</title>
+      <link>https://example.com/posts/Biggest_success/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Biggest_success/</guid>
+      <description>Q: What has been your biggest success so far in your career?
+Good news – you’ve just gained temporary clearance to blow your own trumpet. Although talking about self-proclaimed greatness is something many people find difficult, in an interview, it’s sometimes the only way to make yourself memorable. It’s also the key difference between career progression and career stagnation.
+So set your inhibitions to one side for the sake of this question.</description>
+    </item>
+    
+  </channel>
+</rss>

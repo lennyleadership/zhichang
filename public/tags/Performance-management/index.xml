@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance management on Mianshi Handbook</title>
+    <link>https://example.com/tags/Performance-management/</link>
+    <description>Recent content in Performance management on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Performance-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet Established Expectations</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/12_meet_expectactions/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/12_meet_expectactions/</guid>
+      <description>Q: 12. Please talk about a situation that demonstrates your ability and motivation to ensure your performance meets established expectations.
+Revisit 2022.08.02
+[Situation]
+AECL, expectation: review reports in the same day
+multitask
+[Task]
+programming
+[Action]
+training, coding
+[Result]
+more accurate, 100% check</description>
+    </item>
+    
+  </channel>
+</rss>

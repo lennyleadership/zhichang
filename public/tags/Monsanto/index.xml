@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monsanto on Mianshi Handbook</title>
+    <link>https://example.com/tags/Monsanto/</link>
+    <description>Recent content in Monsanto on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Monsanto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Received Two Different Orders from Two Bosses</title>
+      <link>https://example.com/posts/Receive_2_different_orders_from_two_bosses/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Receive_2_different_orders_from_two_bosses/</guid>
+      <description>clarify on one-on-one, call all together to clarify if needed.
+ https://www.wikihow.com/Report-To-Multiple-Bosses</description>
+    </item>
+    
+  </channel>
+</rss>

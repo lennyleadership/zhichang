@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SysMex on Mianshi Handbook</title>
+    <link>https://example.com/tags/SysMex/</link>
+    <description>Recent content in SysMex on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/SysMex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greeting</title>
+      <link>https://example.com/posts/Greeting/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Greeting/</guid>
+      <description>Ice-breaking
+今天Kevin YIP 跟我做了一个mocking interview。他对我的帮助比Garth和Tony的要更贴近我一些，还是我和Kevin个性比较接近吧。
+开场破冰要显得自然些。
+This interview will start at 7:30am. I would say something like: Thanks for inviting an interview with you in the early morning. &amp;ldquo;early&amp;rdquo; does not mean &amp;ldquo;early&amp;rdquo; to me. I am an early person. It does not bother me at all.</description>
+    </item>
+    
+    <item>
+      <title>How Did you Hear About This Position?</title>
+      <link>https://example.com/posts/How_did_you_hear_about_this_position/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/How_did_you_hear_about_this_position/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Did You Leave?</title>
+      <link>https://example.com/posts/Why_did_you_leave_Sysmex_prep/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_did_you_leave_Sysmex_prep/</guid>
+      <description>Why did you leave LifeLabs?
+not asked to me.
+It was a business decision to &amp;lsquo;shut down&amp;rsquo; the assay.</description>
+    </item>
+    
+    <item>
+      <title>How Soon Would You Be Able To Start?</title>
+      <link>https://example.com/posts/When_to_join_Sysmex/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/When_to_join_Sysmex/</guid>
+      <description>I told them within a couple of weeks after signing the contract.</description>
+    </item>
+    
+    <item>
+      <title>Reason to Change Career</title>
+      <link>https://example.com/posts/Reason_to_change_career/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Reason_to_change_career/</guid>
+      <description>Since you&amp;rsquo;ve been in the labs, what&amp;rsquo;s triggered an interest to transition over to the instrumentation side?
+[ customer satisfaction is my fulfillment.
+I have interest in maintain instrument performance. I could do good job for one business, I could do better job for many business. ]</description>
+    </item>
+    
+  </channel>
+</rss>

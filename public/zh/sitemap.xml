@@ -10,13 +10,20 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/categories/"
+                hreflang="zh"
+                href="https://example.com/zh/categories/"
+                />
+  </url><url>
+    <loc>https://example.com/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/zh/categories/"
+                href="https://example.com/zh/"
                 />
   </url><url>
     <loc>https://example.com/zh/tags/</loc>
@@ -27,31 +34,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://example.com/zh/tags/"
-                />
-  </url><url>
-    <loc>https://example.com/zh/</loc>
-    <lastmod>2022-05-27T11:38:27-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://example.com/zh/"
                 />
   </url>
 </urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on Mianshi Handbook</title>
+    <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/02-Interview/</link>
+    <description>Recent content in Interview on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/02-Interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/02-Interview/1st_interveiw/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/02-Interview/1st_interveiw/</guid>
+      <description>Interview Questions They Asked #    why don&amp;rsquo;t you start by telling us a little bit about your career path?
+  Have you done field work as well like monitoring of like the data collection?
+  in terms of the position what what interests you the most, from what you saw the description?
+  what do you consider as your greatest achievement professionally?
+  Any sort of experience that you have with working with external stakeholders that have you?</description>
+    </item>
+    
+  </channel>
+</rss>

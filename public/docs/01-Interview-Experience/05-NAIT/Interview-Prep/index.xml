@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview Preparation on Mianshi Handbook</title>
+    <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/</link>
+    <description>Recent content in Interview Preparation on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tell Me About Yourself</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/Tell_me_about_yourself_NAIT_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/Tell_me_about_yourself_NAIT_prep/</guid>
+      <description>My field of study in university is Chemistry, in graduate school my study is polymer chemistry. I used gel permeation chromatography (GPC), Differential Scanning Calorimetry (DSC) and Thermal Gravimetric Analysis (TGA) to study characterization of polymer materials.
+After graduation, I developed skills and experience in chemical analysis and lab accreditation in Total and SGS in China since year 2000.
+We immigrated to Canada in 2004. I worked at Testmark environmental labs to provide accredited analysis for environmental monitoring and drinking water quality.</description>
+    </item>
+    
+    <item>
+      <title>Interview Questions</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/Interview-Questions/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/Interview-Questions/</guid>
+      <description>First Interview #  Interview Questions Prepared #   Tell me about yourself My field of study in university is Chemistry, in graduate school my study is polymer chemistry. I used gel permeation chromatography (GPC), Differential Scanning Calorimetry (DSC) and Thermalgravimetric Analysis (TGA) to study characterization of polymer materials.  After graduation, I developed skills and experience in chemical analysis and lab accreditation in Total and SGS in China since year 2000.</description>
+    </item>
+    
+  </channel>
+</rss>

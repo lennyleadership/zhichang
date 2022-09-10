@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>150 interview questions on Mianshi Handbook</title>
+    <link>https://example.com/tags/150-interview-questions/</link>
+    <description>Recent content in 150 interview questions on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/150-interview-questions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make a decision Quickly</title>
+      <link>https://example.com/posts/Make_quick_decision/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Make_quick_decision/</guid>
+      <description>Q: Give an example of a time in which you had to be relatively quick in coming to a decision.
+[collected from 150 interview questions]
+Sample excellent response:
+This happens often in the IT industry, but one recent example was when we had a core backbone switch die. It died at the worst possible time — during exams — as they always seem to do, and I needed to get it back up and running quickly.</description>
+    </item>
+    
+    <item>
+      <title>Steps to Follow Before Making a Decision</title>
+      <link>https://example.com/posts/Steps_of_making_decision/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Steps_of_making_decision/</guid>
+      <description>What steps do you follow to study a problem before making a decision.
+[collected from 150 interview questions]
+Sample excellent response:
+Following standard models for problem-solving and decision-making can be very helpful. Here are the steps and how they helped me solve a problem with a group project:
+ Define the problem to be solved and decision to be made. For a project in an introductory management class, the assignment was to report on the corporate structure and financial situation of a couple of companies.</description>
+    </item>
+    
+  </channel>
+</rss>

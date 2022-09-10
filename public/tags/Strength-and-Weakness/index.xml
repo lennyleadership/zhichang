@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strength and Weakness on Mianshi Handbook</title>
+    <link>https://example.com/tags/Strength-and-Weakness/</link>
+    <description>Recent content in Strength and Weakness on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Strength-and-Weakness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strength and Weakness</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Strength_N_Weakness_Gordon_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Strength_N_Weakness_Gordon_prep/</guid>
+      <description>Strength: technical savvy.
+Weakness:
+ there are still lots to learn. Learn programming codes on the job. had few presentation opportunities at work, but practiced the skillset at Toastmasters. syllable missing.
+   I have done a self-assessment for data scientists and data analysts.
+Strength:
+ I am a good listener. I am focused on getting tangible business results with data. no problem of talking in front of a group.</description>
+    </item>
+    
+    <item>
+      <title>Strength and Weakness</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Strength_N_Weakness_Sysmex/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Strength_N_Weakness_Sysmex/</guid>
+      <description>What would you say are your strengths and weaknesses?
+Syllables</description>
+    </item>
+    
+  </channel>
+</rss>

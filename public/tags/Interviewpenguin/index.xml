@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviewpenguin on Mianshi Handbook</title>
+    <link>https://example.com/tags/Interviewpenguin/</link>
+    <description>Recent content in Interviewpenguin on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Interviewpenguin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unfavorable Policy</title>
+      <link>https://example.com/posts/Unfavorable_policy/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Unfavorable_policy/</guid>
+      <description>CEO, manager, programmer, manual worker – they all have to comply with policies, rules, and laws that govern different sectors of economy, as well as with the internal policies and procedures of an organization they work for.
+Not every rule makes sense, and not each procedure is the most effective one. Yet there are higher goals we have to keep in mind–public safety, environment, justice. Once you start your own business, you can set at least some rules.</description>
+    </item>
+    
+  </channel>
+</rss>

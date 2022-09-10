@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on Mianshi Handbook</title>
+    <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/</link>
+    <description>Recent content in Interview on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concise Procedure</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/01_concise_procedure/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/01_concise_procedure/</guid>
+      <description>&lt;p&gt;Question 2: Identify an accident/incident in your community that your local newspaper, radio, news, etc. reported within the last two or three months that involved either personal harm or property damage.&lt;br&gt;
+•	Write a Report on this accident/incident and develop a procedure on how to avoid this happening again.&lt;br&gt;
+•	Please provide an electronic copy of the news article or other information e.g. Weblink (URL) that was used related to this specific report and submit as part of your exam question answers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/zzzz/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPTA Application to GRL</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/02_health_safety/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/02_health_safety/</guid>
+      <description>Question 3: To which extent does the HPTA apply to the work of the Grain Research Laboratory? Response: The key objective of Human Pathogen and Toxins Act (HPTA) and Regulations (HPTP) is to make working with human pathogens and toxins safer, more secure and less burdensome for those dealing with lower risk pathogens.
+The HPTA does not apply to: •	a human pathogen or toxin in an environment in which it naturally occurs, as long as it has not been cultivated or intentionally collected or extracted.</description>
+    </item>
+    
+    <item>
+      <title>Principles and Practices QA and QC</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/03_QA_QC/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/03_QA_QC/</guid>
+      <description>&lt;p&gt;Knowledge of Principles and Practices of Quality Assurance and Quality Control in a Laboratory&lt;br&gt;
+Question 5: The GRL has procedures and work instructions that explain the correct methods for carrying out various tests that are conducted in the lab.  Why is it necessary to follow these instructions?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Internal Audits</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/04_internal_audit/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/04_internal_audit/</guid>
+      <description>&lt;p&gt;Question 6: Why are Internal Audits conducted on the Quality Management System?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Key Indicators for Successful Quality</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/05_good_quality_indicators/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/05_good_quality_indicators/</guid>
+      <description>&lt;p&gt;Question 7: Describe the key indicators for successfully maintaining the quality control system in ISO 17025 accredited laboratory?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Non-renewal Accreditation</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/06_non_renewal_accreditation/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/06_non_renewal_accreditation/</guid>
+      <description>&lt;p&gt;Question 8: ISO 17025 accreditation of a test laboratory can be discontinued by the accreditation body. List the possible scenarios that could result in non-renewal of ISO 17025 accreditation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

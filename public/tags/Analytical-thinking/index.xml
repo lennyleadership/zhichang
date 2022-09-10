@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytical thinking on Mianshi Handbook</title>
+    <link>https://example.com/tags/Analytical-thinking/</link>
+    <description>Recent content in Analytical thinking on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Analytical-thinking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gather Information</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/07_gather_info/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/07_gather_info/</guid>
+      <description>Q: 7. Describe a problem you had to solve that required you to gather information from a few different sources.</description>
+    </item>
+    
+    <item>
+      <title>Select an Option</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/08_choose_options/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/08_choose_options/</guid>
+      <description>Q: 8. Tell us about a situation where you had to make a decision or solve a problem based on a number of options.</description>
+    </item>
+    
+  </channel>
+</rss>

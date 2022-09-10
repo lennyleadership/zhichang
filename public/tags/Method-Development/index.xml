@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Method Development on Mianshi Handbook</title>
+    <link>https://example.com/tags/Method-Development/</link>
+    <description>Recent content in Method Development on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Method-Development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Method Development</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Method_development_NAIT/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Method_development_NAIT/</guid>
+      <description>Q: Do you have any experience with method development?
+A: I have two kinds of scenarios on method development. So one, one kind of scenario is when I worked in AECL, we do the analysis for the volatile organic compound and that is in the environmental samples, and we just follow the standard method. So and also tweaked a little bit based on our what we have of the instrument. So, that is very simple and quick method development that does the process is that open up open a Standard Method and follow the procedures and also there is another protocols that what is what are the parameters, we have to we have to focus on for the massive development and the massive validation, such as precision, precision accuracy, and the bias, and also robot robust, how robustness of the method.</description>
+    </item>
+    
+  </channel>
+</rss>

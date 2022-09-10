@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LifeLabs on Mianshi Handbook</title>
+    <link>https://example.com/tags/LifeLabs/</link>
+    <description>Recent content in LifeLabs on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/LifeLabs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solve Complex Issue</title>
+      <link>https://example.com/posts/Solve_complex_issue_tech/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Solve_complex_issue_tech/</guid>
+      <description>Situation: LifeLabs, production was halted. Need to get it back.
+Tasks: 1) look for alternative supplies, 2) do experiments for verification
+Actions: 1) intensive experiments, variables in consideration, proof of concept, 2) executed plan, but problems occurred in investigation. solved it,
+Results: 1) made progress in investigation; 2) optimized the automated SPE.</description>
+    </item>
+    
+  </channel>
+</rss>

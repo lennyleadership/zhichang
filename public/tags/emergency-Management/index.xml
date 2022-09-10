@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emergency Management on Mianshi Handbook</title>
+    <link>https://example.com/tags/emergency-Management/</link>
+    <description>Recent content in emergency Management on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/emergency-Management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call After Hours</title>
+      <link>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Call_after_hours/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Call_after_hours/</guid>
+      <description>Q: Received a call after hours, UV light bulb broke. Everyone went for the day and contract lab is closed. What do you do?
+This question checks if I know of the process.
+[background]: why did I receive the call?
+I will get hold of the manager-on-call.
+Contract lab is closed, could not take sample(s) and do analysis.
+use alternative process?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CGC-Senior Tech Interview on Mianshi Handbook</title>
+    <link>https://example.com/tags/CGC-Senior-Tech-Interview/</link>
+    <description>Recent content in CGC-Senior Tech Interview on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/CGC-Senior-Tech-Interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adapt to working with someone despite your differences</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Adaptability/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Adaptability/</guid>
+      <description>&lt;p&gt;Q: We must often work as a team to get a task done and sometimes the members of that team differ from us in temperament or in the way they work.  Tell us about a recent experience in which you were part of team and had &lt;strong&gt;to adapt to working with someone&lt;/strong&gt; despite your differences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elicit Comments</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/05_elicit_comments/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/05_elicit_comments/</guid>
+      <description>&lt;p&gt;It is important to be receptive to others&#39; ideas and opinions.  Tell us about a time when you had to elicit comments or feedback from another team member on an important issue.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

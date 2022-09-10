@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimental Planning on Mianshi Handbook</title>
+    <link>https://example.com/tags/Experimental-Planning/</link>
+    <description>Recent content in Experimental Planning on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Experimental-Planning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPE Optimization</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/02_SPE_optimization/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/02_SPE_optimization/</guid>
+      <description>While I investigated three hydrolysis approaches, I encountered a problem cleaning up steroids using a solid-phase extraction (SPE) method at LifeLabs. Some targeted steroids were lost.
+I was recommended using this SPE method which was initially developed for the testing of steroids in serum, but I had to make a new method for my application.
+Here is what I did:
+ I consulted with a medical scientist to analyze the problem&amp;rsquo;s root cause and come up with solutions.</description>
+    </item>
+    
+  </channel>
+</rss>

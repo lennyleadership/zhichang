@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LifeLabs on Mianshi Handbook</title>
+    <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/</link>
+    <description>Recent content in LifeLabs on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/02-Working-Situations/05-LifeLabs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chemical Hydrolysis Approach</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/01_Chemical_hydrolysis_approach/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/01_Chemical_hydrolysis_approach/</guid>
+      <description>The supply of enzymes used for hydrolyzing steroid conjugates was short a couple of months after I joined LifeLabs. I was requested to investigate alternative materials to replace enzymes. The conventional approach was to use similar enzymes from different suppliers. All we needed to do was to run verification experiments, finding the volume of enzymes we use based on the activity of enzymes of different suppliers.
+The experiments turned out the enzyme substitute was not acceptable.</description>
+    </item>
+    
+    <item>
+      <title>Adapt to working with someone despite your differences</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Adaptability/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Adaptability/</guid>
+      <description>&lt;p&gt;Q: We must often work as a team to get a task done and sometimes the members of that team differ from us in temperament or in the way they work.  Tell us about a recent experience in which you were part of team and had &lt;strong&gt;to adapt to working with someone&lt;/strong&gt; despite your differences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SPE Optimization</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/02_SPE_optimization/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/02_SPE_optimization/</guid>
+      <description>While I investigated three hydrolysis approaches, I encountered a problem cleaning up steroids using a solid-phase extraction (SPE) method at LifeLabs. Some targeted steroids were lost.
+I was recommended using this SPE method which was initially developed for the testing of steroids in serum, but I had to make a new method for my application.
+Here is what I did:
+ I consulted with a medical scientist to analyze the problem&amp;rsquo;s root cause and come up with solutions.</description>
+    </item>
+    
+    <item>
+      <title>Computer Programming</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Programing/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Programing/</guid>
+      <description>Plotting EMV value of GC-MS/MS #  Develop a tool to extract many parameters, including EMV value from auto-tune pdf files. I saw the trend, the EMV value started at the highest, then the voltage declined, then cranked up to the highest point after , then</description>
+    </item>
+    
+    <item>
+      <title>Hands-on Experience</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/04_Hands-on/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/04_Hands-on/</guid>
+      <description>Back pressure correction #  There was a time at LifeLabs. The back pressure of a LC-MS/MS was built up over 600 bar. The instrument stopped because the back pressure went up above the limit. I disconnected the UHPLC column from the mass spectrometer. Observed the back pressure reading. The back pressure was still high, so I disconnected the UHPLC column from the guard column. The back pressure dropped. I knew the problem was in the UHPLC column.</description>
+    </item>
+    
+    <item>
+      <title>Persuade Boss About Proposal</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/06_persuate_boss/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/06_persuate_boss/</guid>
+      <description>&lt;p&gt;Tell me about a time when you had to present a proposal to a person in authority and were able to do this successfully.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/05_lead_change/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/05_lead_change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/zzzz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,11 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Book</title>
+    <title>Categories on Mianshi Handbook</title>
     <link>https://example.com/categories/</link>
-    <description>Recent content in Categories on Hugo Book</description>
+    <description>Recent content in Categories on Mianshi Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview</title>
+      <link>https://example.com/categories/Interview/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview Tips</title>
+      <link>https://example.com/categories/Interview-Tips/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Interview-Tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating Humor Into Speeches and Presentations</title>
+      <link>https://example.com/categories/Incorporating-Humor-Into-Speeches-and-Presentations/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Incorporating-Humor-Into-Speeches-and-Presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Situations</title>
+      <link>https://example.com/categories/Working-Situations/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Working-Situations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview Preparation</title>
+      <link>https://example.com/categories/Interview-Preparation/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Interview-Preparation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MegaInterview</title>
+      <link>https://example.com/categories/MegaInterview/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/MegaInterview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competency Descriptions</title>
+      <link>https://example.com/categories/Competency-Descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Competency-Descriptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mocking Interview Questions</title>
+      <link>https://example.com/categories/Mocking-Interview-Questions/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Mocking-Interview-Questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://example.com/categories/R/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/categories/R/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Development</title>
       <link>https://example.com/categories/Development/</link>

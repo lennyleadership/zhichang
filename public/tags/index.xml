@@ -1,11 +1,1100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Book</title>
+    <title>Tags on Mianshi Handbook</title>
     <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Hugo Book</description>
+    <description>Recent content in Tags on Mianshi Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Failure</title>
+      <link>https://example.com/tags/Failure/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interviewpenguin</title>
+      <link>https://example.com/tags/Interviewpenguin/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Interviewpenguin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humor</title>
+      <link>https://example.com/tags/Humor/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Humor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humor recovers from a mistake</title>
+      <link>https://example.com/tags/Humor-recovers-from-a-mistake/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Humor-recovers-from-a-mistake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toastmasters</title>
+      <link>https://example.com/tags/Toastmasters/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Toastmasters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persuasion</title>
+      <link>https://example.com/tags/Persuasion/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Persuasion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huddle Meeting</title>
+      <link>https://example.com/tags/Huddle-Meeting/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Huddle-Meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptability</title>
+      <link>https://example.com/tags/Adaptability/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Adaptability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balance Interfacing</title>
+      <link>https://example.com/tags/Balance-Interfacing/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Balance-Interfacing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BV Winnipeg Interview</title>
+      <link>https://example.com/tags/BV-Winnipeg-Interview/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/BV-Winnipeg-Interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGC-Senior Tech Interview</title>
+      <link>https://example.com/tags/CGC-Senior-Tech-Interview/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/CGC-Senior-Tech-Interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change Management</title>
+      <link>https://example.com/tags/Change-Management/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Change-Management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commit to success</title>
+      <link>https://example.com/tags/Commit-to-success/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Commit-to-success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commitment</title>
+      <link>https://example.com/tags/Commitment/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Commitment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>https://example.com/tags/Communication/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflict</title>
+      <link>https://example.com/tags/Conflict/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflict Resolution</title>
+      <link>https://example.com/tags/Conflict-Resolution/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Conflict-Resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical Thinking</title>
+      <link>https://example.com/tags/Critical-Thinking/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Critical-Thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross training</title>
+      <link>https://example.com/tags/Cross-training/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Cross-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difficult people</title>
+      <link>https://example.com/tags/Difficult-people/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Difficult-people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elicit comments</title>
+      <link>https://example.com/tags/Elicit-comments/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Elicit-comments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Planning</title>
+      <link>https://example.com/tags/Experimental-Planning/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Experimental-Planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Communication</title>
+      <link>https://example.com/tags/Interactive-Communication/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Interactive-Communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive skill</title>
+      <link>https://example.com/tags/Interactive-skill/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Interactive-skill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maintenance</title>
+      <link>https://example.com/tags/Maintenance/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Maintenance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Never Settle Down</title>
+      <link>https://example.com/tags/Never-Settle-Down/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Never-Settle-Down/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nourishing Humor</title>
+      <link>https://example.com/tags/Nourishing-Humor/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Nourishing-Humor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcome Obstacles</title>
+      <link>https://example.com/tags/Overcome-Obstacles/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Overcome-Obstacles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://example.com/tags/R/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/R/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience</title>
+      <link>https://example.com/tags/Resilience/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety</title>
+      <link>https://example.com/tags/Safety/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysmex 2nd Interview</title>
+      <link>https://example.com/tags/Sysmex-2nd-Interview/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Sysmex-2nd-Interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Take risks</title>
+      <link>https://example.com/tags/Take-risks/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Take-risks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teamwork</title>
+      <link>https://example.com/tags/Teamwork/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Teamwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Think through</title>
+      <link>https://example.com/tags/Think-through/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Think-through/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://example.com/tags/Troubleshooting/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unfavorable policy</title>
+      <link>https://example.com/tags/unfavorable-policy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/unfavorable-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AECL Case</title>
+      <link>https://example.com/tags/AECL-Case/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/AECL-Case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpersonal Skills</title>
+      <link>https://example.com/tags/Interpersonal-Skills/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Interpersonal-Skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://example.com/tags/Leadership/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LifeLabs Case</title>
+      <link>https://example.com/tags/LifeLabs-Case/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/LifeLabs-Case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance management</title>
+      <link>https://example.com/tags/Performance-management/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Performance-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship Management</title>
+      <link>https://example.com/tags/Relationship-Management/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Relationship-Management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Results Oriented</title>
+      <link>https://example.com/tags/Results-Oriented/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Results-Oriented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling and coordinating</title>
+      <link>https://example.com/tags/Scheduling-and-coordinating/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Scheduling-and-coordinating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AEL Case</title>
+      <link>https://example.com/tags/AEL-Case/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/AEL-Case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical thinking</title>
+      <link>https://example.com/tags/Analytical-thinking/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Analytical-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are you interested in</title>
+      <link>https://example.com/tags/Are-you-interested-in/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Are-you-interested-in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention to detail</title>
+      <link>https://example.com/tags/Attention-to-detail/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Attention-to-detail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGC-Chemist</title>
+      <link>https://example.com/tags/CGC-Chemist/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/CGC-Chemist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGC-Chemist-2022</title>
+      <link>https://example.com/tags/CGC-Chemist-2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/CGC-Chemist-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commitment to Quality</title>
+      <link>https://example.com/tags/Commitment-to-Quality/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Commitment-to-Quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer Service</title>
+      <link>https://example.com/tags/Customer-Service/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Customer-Service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emergency Management</title>
+      <link>https://example.com/tags/emergency-Management/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/emergency-Management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Interview</title>
+      <link>https://example.com/tags/First-Interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/First-Interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>follow-up interview</title>
+      <link>https://example.com/tags/follow-up-interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/follow-up-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gordon Foundation</title>
+      <link>https://example.com/tags/Gordon-Foundation/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Gordon-Foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hovertip demo</title>
+      <link>https://example.com/tags/Hovertip-demo/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Hovertip-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ice breaking</title>
+      <link>https://example.com/tags/ice-breaking/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/ice-breaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initiative</title>
+      <link>https://example.com/tags/Initiative/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Initiative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instrumentation</title>
+      <link>https://example.com/tags/instrumentation/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/instrumentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrity</title>
+      <link>https://example.com/tags/Integrity/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Integrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method Development</title>
+      <link>https://example.com/tags/Method-Development/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Method-Development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mistakes</title>
+      <link>https://example.com/tags/Mistakes/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Mistakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Projects</title>
+      <link>https://example.com/tags/Multiple-Projects/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Multiple-Projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-technical questions</title>
+      <link>https://example.com/tags/Non-technical-questions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Non-technical-questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persuation</title>
+      <link>https://example.com/tags/Persuation/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Persuation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning, organizing, and coordinating</title>
+      <link>https://example.com/tags/Planning-organizing-and-coordinating/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Planning-organizing-and-coordinating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulatory Compliance</title>
+      <link>https://example.com/tags/Regulatory-Compliance/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Regulatory-Compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Respectfulness</title>
+      <link>https://example.com/tags/Respectfulness/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Respectfulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Interview</title>
+      <link>https://example.com/tags/Second-Interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Second-Interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set Priorities</title>
+      <link>https://example.com/tags/Set-Priorities/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Set-Priorities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength and Weakness</title>
+      <link>https://example.com/tags/Strength-and-Weakness/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Strength-and-Weakness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress</title>
+      <link>https://example.com/tags/Stress/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://example.com/tags/Supervision/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical questions</title>
+      <link>https://example.com/tags/Technical-questions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Technical-questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tell me about yourself</title>
+      <link>https://example.com/tags/Tell-me-about-yourself/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Tell-me-about-yourself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://example.com/tags/Tips/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>https://example.com/tags/Values/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Interested</title>
+      <link>https://example.com/tags/Why-Interested/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Why-Interested/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why should we hire you</title>
+      <link>https://example.com/tags/Why-should-we-hire-you/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Why-should-we-hire-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Us?</title>
+      <link>https://example.com/tags/Why-Us/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Why-Us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online interview questions</title>
+      <link>https://example.com/tags/Online-interview-questions/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Online-interview-questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Two-way Communication</title>
+      <link>https://example.com/tags/Challenges-in-Two-way-Communication/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Challenges-in-Two-way-Communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-way Communication</title>
+      <link>https://example.com/tags/Two-way-Communication/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Two-way-Communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-way Communication Examples</title>
+      <link>https://example.com/tags/Two-way-Communication-Examples/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Two-way-Communication-Examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGC</title>
+      <link>https://example.com/tags/CGC/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/CGC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chalk River</title>
+      <link>https://example.com/tags/Chalk-River/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Chalk-River/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>https://example.com/tags/Challenges/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deal With Difficult People</title>
+      <link>https://example.com/tags/Deal-With-Difficult-People/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Deal-With-Difficult-People/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Lead A Team</title>
+      <link>https://example.com/tags/How-To-Lead-A-Team/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/How-To-Lead-A-Team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koch</title>
+      <link>https://example.com/tags/Koch/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Koch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab accreditation</title>
+      <link>https://example.com/tags/Lab-accreditation/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Lab-accreditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LifeLabs</title>
+      <link>https://example.com/tags/LifeLabs/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/LifeLabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NRC-Researcher</title>
+      <link>https://example.com/tags/NRC-Researcher/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/NRC-Researcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achievement</title>
+      <link>https://example.com/tags/Achievement/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Achievement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-making</title>
+      <link>https://example.com/tags/Decision-making/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>https://example.com/tags/Motivation/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Motivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAIT</title>
+      <link>https://example.com/tags/NAIT/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/NAIT/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accountability</title>
+      <link>https://example.com/tags/Accountability/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Accountability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>https://example.com/tags/Collaboration/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>150 interview questions</title>
+      <link>https://example.com/tags/150-interview-questions/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/150-interview-questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGR</title>
+      <link>https://example.com/tags/AGR/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/AGR/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goal Achievement</title>
+      <link>https://example.com/tags/Goal-Achievement/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Goal-Achievement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview Preparation</title>
+      <link>https://example.com/tags/Interview-Preparation/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Interview-Preparation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysMex</title>
+      <link>https://example.com/tags/SysMex/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/SysMex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T.Fraser</title>
+      <link>https://example.com/tags/T.Fraser/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/T.Fraser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team work</title>
+      <link>https://example.com/tags/Team-work/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Team-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monsanto</title>
+      <link>https://example.com/tags/Monsanto/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Monsanto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devotional</title>
+      <link>https://example.com/tags/devotional/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/devotional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encouragement</title>
+      <link>https://example.com/tags/encouragement/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/encouragement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>https://example.com/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://example.com/tags/R-Markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/tags/R-Markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>https://example.com/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employee Engagement</title>
+      <link>https://example.com/tags/Employee-Engagement/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Employee-Engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concise Procedure</title>
+      <link>https://example.com/tags/Concise-Procedure/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Concise-Procedure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health &amp; Safety</title>
+      <link>https://example.com/tags/Health-Safety/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Health-Safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>https://example.com/tags/Quality/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicate Complex Information</title>
+      <link>https://example.com/tags/Communicate-Complex-Information/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Communicate-Complex-Information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordination</title>
+      <link>https://example.com/tags/Coordination/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Coordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Tasks</title>
+      <link>https://example.com/tags/Multiple-Tasks/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Multiple-Tasks/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>development</title>
       <link>https://example.com/tags/development/</link>
@@ -57,6 +1146,15 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer/Client Focus</title>
+      <link>https://example.com/tags/Customer/Client-Focus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Customer/Client-Focus/</guid>
       <description></description>
     </item>
     

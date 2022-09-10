@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.Fraser on Mianshi Handbook</title>
+    <link>https://example.com/tags/T.Fraser/</link>
+    <description>Recent content in T.Fraser on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/T.Fraser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use Written Communication Skills</title>
+      <link>https://example.com/posts/Use_written_communication_skills/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Use_written_communication_skills/</guid>
+      <description>Tell me about a time in which you had to use your written communication skills in order to get an important point across. [from Tony Fraser]
+A: Used for seeking clarification of message [a three-way communication].</description>
+    </item>
+    
+  </channel>
+</rss>

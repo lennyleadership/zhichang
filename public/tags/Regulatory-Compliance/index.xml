@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regulatory Compliance on Mianshi Handbook</title>
+    <link>https://example.com/tags/Regulatory-Compliance/</link>
+    <description>Recent content in Regulatory Compliance on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Regulatory-Compliance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adversary Results</title>
+      <link>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Adversary_results/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Adversary_results/</guid>
+      <description>Q: Report low positive chloroform results less than 10, three repeats, same area, same day. (1) is this a concern? (2) what do you do? (3) different approach in different areas?</description>
+    </item>
+    
+  </channel>
+</rss>

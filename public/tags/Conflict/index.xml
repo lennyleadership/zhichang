@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conflict on Mianshi Handbook</title>
+    <link>https://example.com/tags/Conflict/</link>
+    <description>Recent content in Conflict on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Conflict/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolve Difficult Employee Situations</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/01_difficult_people/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/01_difficult_people/</guid>
+      <description>I once had a co-worker in our section at AECL who procrastinated testing and put team members down to make them look better. As a result, samples that they were responsible for were analyzed beyond the requested holding time. They missed the client&amp;rsquo;s expectations. The team morale went down. Some internal clients chose to subcontract analysis for a better turn-around-time service.
+[Ron described it as: the person was not up to the challenge.</description>
+    </item>
+    
+  </channel>
+</rss>

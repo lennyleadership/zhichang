@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scheduling and coordinating on Mianshi Handbook</title>
+    <link>https://example.com/tags/Scheduling-and-coordinating/</link>
+    <description>Recent content in Scheduling and coordinating on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Scheduling-and-coordinating/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Share Instruments and Chemicals</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/13_share_equipment/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/13_share_equipment/</guid>
+      <description>Q: 13. You are working in a laboratory that has shared instruments and chemicals. You have analysis to do. How will you proceed to ensure that yourself and team members all have access to the tools required to complete your work?
+Revisit 2022.08.02
+Think about others for their convenience, rather than making difficulty.
+Instrument: ownership, discuss the schedule, follow the guideline.
+Chemicals: ownership, stocking up,</description>
+    </item>
+    
+    <item>
+      <title>Schedule Your Activities</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/14_schedule_activities/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/14_schedule_activities/</guid>
+      <description>Q: 14. Describe a situation in which you had to schedule your activities to meet a work objective.
+Revisit 2022.08.02
+[Situation] LifeLabs
+investigate chemical hydrolysis approach.
+The supply of enzymes used for hydrolyzing steroid conjugates was short a couple of months after I joined LifeLabs. I was requested to investigate alternative materials to replace enzymes. The conventional approach was to use similar enzymes from different suppliers. All we needed to do was to run verification experiments, finding the volume of enzymes we use based on the activity of enzymes of different suppliers.</description>
+    </item>
+    
+  </channel>
+</rss>

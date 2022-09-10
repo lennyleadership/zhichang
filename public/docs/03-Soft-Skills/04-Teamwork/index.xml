@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teamwork on Mianshi Handbook</title>
+    <link>https://example.com/docs/03-Soft-Skills/04-Teamwork/</link>
+    <description>Recent content in Teamwork on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/03-Soft-Skills/04-Teamwork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 Levels of Teamworks</title>
+      <link>https://example.com/docs/03-Soft-Skills/04-Teamwork/4_levels_teamworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/04-Teamwork/4_levels_teamworks/</guid>
+      <description>Focus
+Level 1: Participate as a team member #  Keywords: contribution, problem solving, initiative
+Situation #1 [18.11.02]
+ Level 2: Foster teamwork #  Gives credits and acknowledges contributions and efforts to team effectiveness.
+Situation #1 [18.11.02] acknowledged Kent’s contributions and effort, and wrote a report to the management in a year.
+Communicates expectations for teamwork and collaboration.
+Situation #2 [18.11.02] Setup performance objectives with SMART approach.
+Involves team members in decision making.</description>
+    </item>
+    
+  </channel>
+</rss>

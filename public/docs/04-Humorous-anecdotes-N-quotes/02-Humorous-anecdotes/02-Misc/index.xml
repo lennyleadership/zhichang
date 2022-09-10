@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mianshi Handbook</title>
+    <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/</link>
+    <description>Recent content on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collection 01</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/Collection_01/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/Collection_01/</guid>
+      <description>Laughter is said to be the best medicine. Here are some great jokes to help you laugh and make your day brighter.
+1: Pool Donation:
+The other day some girls knocked on my door and asked me for a small donation for a local pool.
+I gave them a bottle of water.
+2: What is Beauty?
+A son questioned his father, &amp;ldquo;Dad, what is beauty?&amp;rdquo;
+Have you ever looked at your mother?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/zzzz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

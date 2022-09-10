@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AEL on Mianshi Handbook</title>
+    <link>https://example.com/docs/02-Working-Situations/03-AEL/</link>
+    <description>Recent content in AEL on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/02-Working-Situations/03-AEL/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/03-AEL/AEL/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/03-AEL/AEL/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Present A Proposal</title>
+      <link>https://example.com/docs/02-Working-Situations/03-AEL/01_present_proposal/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/03-AEL/01_present_proposal/</guid>
+      <description>&lt;p&gt;Tell me about a time when you had to present a proposal to a person in authority and were able to do this successfully.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

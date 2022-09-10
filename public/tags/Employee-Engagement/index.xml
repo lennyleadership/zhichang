@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Employee Engagement on Mianshi Handbook</title>
+    <link>https://example.com/tags/Employee-Engagement/</link>
+    <description>Recent content in Employee Engagement on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Employee-Engagement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two-Way Communication: 4 Tips for a More Engaged Workplace</title>
+      <link>https://example.com/docs/03-Soft-Skills/02-Communication/02_Two_way_communication/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/02-Communication/02_Two_way_communication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical questions on Mianshi Handbook</title>
+    <link>https://example.com/tags/Technical-questions/</link>
+    <description>Recent content in Technical questions on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Technical-questions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instrumentation</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Instrumentation_NAIT/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Instrumentation_NAIT/</guid>
+      <description>Q: are you familiar with like GCMS, ICP-OES, GPC, and TGA?
+A: in my graduate school, I use TGA and DSC for polymers identifications, and to measure the physical properties. And also the other instrument, but I&amp;rsquo;m not sure that say if you want to use a recyclable plastic and put it into the mix up with the new polymer materials, then probably you would want it to test the different parameters like the like the intensities and strength, those are physical parameters and property you would if you want to do the recipes of the polymers, probably you have a different instrument and to measure to measure the physical properties and measure other such as the the additives to the parliament&amp;rsquo;s So, I have an experience using those instruments, when I work in the industry, and for the GC and those instruments, I had experience hands on experience in in different lab settings, I use T&amp;rsquo;s GCMS, and the LC MS and even LC triple quard.</description>
+    </item>
+    
+  </channel>
+</rss>

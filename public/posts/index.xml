@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Hugo Book</title>
+    <title>Tags on Mianshi Handbook</title>
     <link>https://example.com/posts/</link>
-    <description>Recent content in Blog on Hugo Book</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Tags on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a New Theme</title>
       <link>https://example.com/posts/creating-a-new-theme/</link>
@@ -24,6 +25,719 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static #  Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/posts/zzz/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/zzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Have you ever worked on a project that was a failure?</title>
+      <link>https://example.com/posts/Project_failure/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Project_failure/</guid>
+      <description>Hint: Life is full of ups and down, successes and failures. The role-coaster ride goes on for most of us, basically since the day we are born until the day we die. In some periods of life successes may prevail and we may feel like standing on the top of the world. But sooner or later a huge setback arrives, teaching us a lesson of humility and acceptance.
+Recruiters and hiring managers know that we learn the most important lessons when things do not go as planed.</description>
+    </item>
+    
+    <item>
+      <title>Unfavorable Policy</title>
+      <link>https://example.com/posts/Unfavorable_policy/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Unfavorable_policy/</guid>
+      <description>CEO, manager, programmer, manual worker – they all have to comply with policies, rules, and laws that govern different sectors of economy, as well as with the internal policies and procedures of an organization they work for.
+Not every rule makes sense, and not each procedure is the most effective one. Yet there are higher goals we have to keep in mind–public safety, environment, justice. Once you start your own business, you can set at least some rules.</description>
+    </item>
+    
+    <item>
+      <title>Develop a Thick Skin When It Comes to Job Interviews and Rejections</title>
+      <link>https://example.com/posts/Interview_rejection/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Interview_rejection/</guid>
+      <description>A rejection is not easy to take if you take it personally, and it does feel personal. However, many factors go into the final decision. Some of them have nothing to do with you, but with circumstances. For example, someone from within the company got recommended for the same position by a manager from another department. Since that person already knows about the company and its culture and modus operandi, it may save the hiring manager time and cost in getting the internal candidate onboard and getting productive than hiring someone from outside.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/posts/Deal_with_conflict/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Deal_with_conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>https://example.com/posts/Communication_MegaInterview/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Communication_MegaInterview/</guid>
+      <description>Effective communication skills are needed in every workplace. Communication skills are, therefore regarded as an essential skill by employers. When you’re going for a job interview, you can be sure that the interviewer will ask you about your communication skills. Communication job interview questions are asked in almost every interview, regardless of the position you’re applying for.
+The interviewer wants to test and evaluate your communication skills and find out how you handle challenging work situations.</description>
+    </item>
+    
+    <item>
+      <title>Commitment to Quality</title>
+      <link>https://example.com/posts/Commitment_quality_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Commitment_quality_competency_descriptions/</guid>
+      <description>• Seeks objectives for priorities as needed.
+• Sets timelines and work steps.
+• Uses time, energy and available resources efficiently and responsibly.
+• Stays focused on task to meet established deadlines.
+• Monitors the quality and timeliness of own work.
+• Brings work priority conflicts to the attention of a decision-maker.
+• Identifies when to stop investing time, energy and resources in a task.
+• Identifies who will do what and when, taking into account group members’ skills, needs and, if possible, preferences.</description>
+    </item>
+    
+    <item>
+      <title>Effective Communication</title>
+      <link>https://example.com/posts/Effective_communication_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Effective_communication_competency_descriptions/</guid>
+      <description>• Seeks the input of others.
+• Listens to acquire essential information.
+• Asks questions to confirm own understanding.
+• Seeks to understand others’ frame of reference.
+• Conveys messages clearly and concisely using appropriate vocabulary and a respectful tone.
+• Displays consistency between verbal and non-verbal message.
+• Listens without interrupting or judging.
+• Demonstrates empathy (e.g. acknowledges others’ feelings and concerns and expresses understanding of others’ situation).
+• Accurately summarizes others’ key points and takes them into account in one’s own communications.</description>
+    </item>
+    
+    <item>
+      <title>Integrity and Respect</title>
+      <link>https://example.com/posts/Integrity_respect_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Integrity_respect_competency_descriptions/</guid>
+      <description>• Acts in ways that are consistent with what one says.
+• Interacts professionally with others at all times (i.e. is courteous, prompt and helpful).
+• Honours own commitments.
+• Takes ownership for own mistakes.
+• Maintains personal confidences and does not contribute to gossip or rumours.
+• Communicates intentions, ideas and feelings openly and directly.
+• Listens openly to the opinions of others and respects different viewpoints.
+• Addresses misunderstandings directly with those involved.</description>
+    </item>
+    
+    <item>
+      <title>Managing People</title>
+      <link>https://example.com/posts/Managing_people_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Managing_people_competency_descriptions/</guid>
+      <description>• Works one-on-one with direct reports.
+• Demonstrates a positive attitude and leadership towards own goals and the goals of others.
+• Monitors and addresses workplace wellbeing.
+• Communicates openly and honestly.
+• Shares useful and relevant information and explains the rationale behind decisions.
+• Encourages individual and team input.
+• Manages workload.
+• Balances the needs of employees and the organization.
+• Manages labour relations issues decisively and effectively and secures outside intervention if required.</description>
+    </item>
+    
+    <item>
+      <title>Plan Complex Work Tasks</title>
+      <link>https://example.com/posts/Plan_multiple_projects/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Plan_multiple_projects/</guid>
+      <description>• Seeks objectives for priorities as needed.
+• Sets timelines and work steps.
+• Uses time, energy and available resources efficiently and responsibly.
+• Stays focused on task to meet established deadlines.
+• Monitors the quality and timeliness of own work.
+• Brings work priority conflicts to the attention of a decision-maker.
+• Identifies who will do what and when, taking into account group members’ skills, needs and, if possible, preferences.</description>
+    </item>
+    
+    <item>
+      <title>Planning, Organizing, and Coordinating</title>
+      <link>https://example.com/posts/Planning_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Planning_competency_descriptions/</guid>
+      <description>• Seeks objectives for priorities as needed.
+• Sets timelines and work steps.
+• Uses time, energy and available resources efficiently and responsibly.
+• Stays focused on task to meet established deadlines.
+• Monitors the quality and timeliness of own work.
+• Brings work priority conflicts to the attention of a decision-maker.
+• Identifies when to stop investing time, energy and resources in a task.
+• Identifies who will do what and when, taking into account group members’ skills, needs and, if possible, preferences.</description>
+    </item>
+    
+    <item>
+      <title>Results Oriented</title>
+      <link>https://example.com/posts/Results_oriented_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Results_oriented_competency_descriptions/</guid>
+      <description>• Demonstrates understanding of, and works to meet, predetermined standards.
+• Maintains focus on desired result.
+• Promptly and efficiently completes work assignments.
+• Defines ambitious but realistic goals with specific objectives, and measures own results against them.
+• Evaluates own progress and adjusts actions to meet expectations • Helps others improve their efficiency.
+• Helps others to maintain focus on the achievement of established goals or solutions.
+• Helps others complete tasks or projects so that customer expectations and organizational requirements are met or exceeded.</description>
+    </item>
+    
+    <item>
+      <title>Online Interview Questions</title>
+      <link>https://example.com/posts/Interview_questions_online_pool/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Interview_questions_online_pool/</guid>
+      <description>Where do you see yourself five years from now? &amp;ldquo;In five years I hope to be working with an employer in an increasingly responsible position, that enables me to utilize my talents and work closely with my colleagues in solving important problems. I see myself taking on new and exciting challenges in an enjoyable environment and hopefully this will be with your company.&amp;rdquo;
+ Describe a major goal you&amp;rsquo;ve set for yourself recently.</description>
+    </item>
+    
+    <item>
+      <title>25 Supervisor Interview Q&amp;A</title>
+      <link>https://example.com/posts/25_supervisor_interview_QA/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/25_supervisor_interview_QA/</guid>
+      <description>What characterize a great supervisor? #  A great supervisor can motivate their subordinates, they go by example, they have good observation skills, and they can utilize the strengths of the people they lead in their teams. Alternatively you can say that great supervisor maintains the highest possible productivity and motivation of the team (or of each team member), and helps the company to achieve their goals on an ongoing basis.</description>
+    </item>
+    
+    <item>
+      <title>How Did You Lead A Team?</title>
+      <link>https://example.com/posts/Supervise_a_team/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Supervise_a_team/</guid>
+      <description>A Leader&amp;rsquo;s Character #  What it is? #  a) Care about people
+i) care about each and every one
+example: recognize a technologist performance
+ii) care about the team
+example: none
+b) Be patient
+be patient in handling conflicts. Conflict resolution requires actions from both sides.
+be patient in improving performance. Would take more years to get there.
+c) Not give up could be frustrated when helping difficult people.</description>
+    </item>
+    
+    <item>
+      <title>Deal With Difficult People</title>
+      <link>https://example.com/posts/Difficult_people_mocking_01/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Difficult_people_mocking_01/</guid>
+      <description>Q: what is the most challenging issue?
+The person was not up to the task [power hungry, back-stabbing, knew who to do, but procrastinated the work until last minute].
+I tried to put the requests on the performance appraisal.
+I used to label them difficult people. I saw them as different people now.
+really does not matter at all (at the end of the day.)
+ Get the job done is complicated, get the job done with empowering people is complex.</description>
+    </item>
+    
+    <item>
+      <title>Lab Accreditation</title>
+      <link>https://example.com/posts/Lab_accreditation/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Lab_accreditation/</guid>
+      <description>Q: Why is lab accreditation so important?
+A:
+What is lab accreditation? #  ISO 17025 is the standard for laboratory competence.
+It is about lab quality management system.
+PDCA: Plan-Do-Check-Act
+confidence to the data.
+What does a lab get out of lab accreditation? #  for lab, management component and technical component.
+By following the requirements, methods were developed and validated. Run PT samples.
+, continuous improvement.
+What does a client get out of lab accreditation?</description>
+    </item>
+    
+    <item>
+      <title>Solve Complex Issue</title>
+      <link>https://example.com/posts/Solve_complex_issue_tech/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Solve_complex_issue_tech/</guid>
+      <description>Situation: LifeLabs, production was halted. Need to get it back.
+Tasks: 1) look for alternative supplies, 2) do experiments for verification
+Actions: 1) intensive experiments, variables in consideration, proof of concept, 2) executed plan, but problems occurred in investigation. solved it,
+Results: 1) made progress in investigation; 2) optimized the automated SPE.</description>
+    </item>
+    
+    <item>
+      <title>Stress Management</title>
+      <link>https://example.com/posts/Stressful_Aspect_of_the_Role/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Stressful_Aspect_of_the_Role/</guid>
+      <description>A: Stress is not a failure.</description>
+    </item>
+    
+    <item>
+      <title>Supervision Summary</title>
+      <link>https://example.com/posts/Supervision_summary/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Supervision_summary/</guid>
+      <description>Have goal(s) / vision(s) #  Goals could be our challenges to be overcome.
+Goals could be the next level of greatness.
+How do we get there / How do we achieve the goal? #  1) Plan ahead #   short term and long term,
+2) build a team #  “If you want to go fast, go alone; if you want to go far, go together&amp;quot; African Proverb” by Paul Oberschneider</description>
+    </item>
+    
+    <item>
+      <title>Tell Me About Yourself</title>
+      <link>https://example.com/posts/Tell_me_about_yourself_CGC/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Tell_me_about_yourself_CGC/</guid>
+      <description>Points:
+ 6 years of supervisory experience in public and private sectors.
+rewarding experience. build up people, the score will take care of itself.   </description>
+    </item>
+    
+    <item>
+      <title>Why Are You The Best Fit For Supervisor?</title>
+      <link>https://example.com/posts/Why_is_the_best_fit_for_supervisor/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_is_the_best_fit_for_supervisor/</guid>
+      <description>My strength #  My strength: Commitment to team success (1), organization/plan, monitoring, deliver constructive feedback, build up others, build trust in relationship, hold myself accountable for mistakes rather than blame team members.
+My experience #  Experience in supervision in unionized environment.
+Experience in planning, assigning tasks, monitoring performance.
+Experience in motivation,
+Misc. #  CGC: Chemist [2022.06]
+Chalk River: Dosimetry second head [2016.09]
+Koch: Lab manager [2018.06]
+  Commitment to team success: run the business as if it is my business.</description>
+    </item>
+    
+    <item>
+      <title>Continuous Professional Learning</title>
+      <link>https://example.com/posts/Continuous_learning_competency_descriptions/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Continuous_learning_competency_descriptions/</guid>
+      <description>Continuously expanding and applying technical expertise.
+Level 1
+Increases professional capacity and accesses the knowledge of others
+ Continually expands level of knowledge in relevant fields of expertise. Remains up to date on new sources of information. Actively pursues new ideas and options. Continually draws on the knowledge of others through networking, teamwork, partnering and reading.  Level 2
+Engages in activities that promote learning
+ Considers the potential for new learning in assessing projects and collaborative arrangements.</description>
+    </item>
+    
+    <item>
+      <title>Biggest Success</title>
+      <link>https://example.com/posts/Biggest_success/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Biggest_success/</guid>
+      <description>Q: What has been your biggest success so far in your career?
+Good news – you’ve just gained temporary clearance to blow your own trumpet. Although talking about self-proclaimed greatness is something many people find difficult, in an interview, it’s sometimes the only way to make yourself memorable. It’s also the key difference between career progression and career stagnation.
+So set your inhibitions to one side for the sake of this question.</description>
+    </item>
+    
+    <item>
+      <title>Deal with a Difficult Employee</title>
+      <link>https://example.com/posts/Difficult_people_tip_01/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Difficult_people_tip_01/</guid>
+      <description>Q: Tell me about a time you had to deal with a difficult employee
+Difficult people are an inevitable part of life – and as a manager, your ability to deal with them in the right way is extra important.
+You’d be surprised at the amount of useful skills you can demonstrate in answering this question well – as long as you adequately describe the resolution (and its impact), as well as the problem.</description>
+    </item>
+    
+    <item>
+      <title>Disagree With Your Supervisor</title>
+      <link>https://example.com/posts/Disagree_with_supervisor/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Disagree_with_supervisor/</guid>
+      <description>Q: What are some of the things you and your supervisor have disagreed on?
+Situation #1: in hiring a quality officer
+Disagree on:
+I: poor qualification
+Supervisor: better personality
+Consequence: I respected my supervisor. It turned out a good hire.
+Situation #2: Safety moment in the meeting
+Disagree with safety practice.</description>
+    </item>
+    
+    <item>
+      <title>How Did you Make An Important Decision?</title>
+      <link>https://example.com/posts/Make_important_decision/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Make_important_decision/</guid>
+      <description>Q: Give me an example of a time you had to make an important decision. How did you make the decision? How does it affect you today?
+  Went to a Toastmasters club.
+  Took courses on data science on Data Camp.
+  Took the job at LifeLabs.
+  Decide to stay in the lab, not go to the compliance section.
+  Answer these questions in the answer: What motivated me?</description>
+    </item>
+    
+    <item>
+      <title>Make A Decision With Limited Information</title>
+      <link>https://example.com/posts/Decision_without_info/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Decision_without_info/</guid>
+      <description>Q: Tell me about a time when you had to make a decision, but didn’t have all the information you needed.
+Sample excellent response:
+I had to make a decision recently between two configurations on one of our routers. Time was quickly moving away from me, and I had to have all the equipment back up in a matter of minutes. I chose the configuration that I had the most data on because I knew at least that I could better troubleshoot it if there was a problem.</description>
+    </item>
+    
+    <item>
+      <title>Strategies Used to Motivate a Team</title>
+      <link>https://example.com/posts/Strategy_motivate_staff/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Strategy_motivate_staff/</guid>
+      <description>Q: What strategies do you use to motivate a team?
+The most important thing to remember when answering this question is that you should always have more than one strategy.
+Everyone has different work styles, personalities, and performance levels, meaning how they respond to motivation differs too. In other words, it’s never a one-approach-fits-all when it comes to team drive.
+To let the interviewer know you understand this, explain that you always take the time to get to know your team members in order to understand how they work.</description>
+    </item>
+    
+    <item>
+      <title>A Team Project Failure</title>
+      <link>https://example.com/posts/Team_failure_mocking_questions/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Team_failure_mocking_questions/</guid>
+      <description>Q: Tell me about a time when a team project failed. A: similar situation.
+Situation and tasks: did not deliver analysis reports.
+Actions: Business analysis, decide to hire staff, and worked with union to finalize the process. Streamline data processing.
+Results: went through smoothly next year.</description>
+    </item>
+    
+    <item>
+      <title>Ask Assistance Beyond My Job Description</title>
+      <link>https://example.com/posts/Ask_assistance_beyond_my_job/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Ask_assistance_beyond_my_job/</guid>
+      <description>Q: If someone asked you for assistance with a matter that is outside the parameters of your job description, what would you do?
+Firstly ask their working environment.
+Situation and tasks: Ernie, can&amp;rsquo;t find a file in the Document management system, AECL Actions: Found the file for him, explained how the document management system works, prepared a cheatsheet for him to search on his own next time. Results: I received a kudoo.</description>
+    </item>
+    
+    <item>
+      <title>Connect Individuals From Different Backgrounds or Cultures</title>
+      <link>https://example.com/posts/Connect_people/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Connect_people/</guid>
+      <description>Q: Recount an occasion when you were able to connect individuals from different backgrounds or cultures in a unified organizational effort.
+Situation and tasks: visiting, Toastmasters clubs @ Beausejour
+Actions: chat after event with Dennis (who is an education assistant)
+Results: Built relationship</description>
+    </item>
+    
+    <item>
+      <title>Different Ways of Communication</title>
+      <link>https://example.com/posts/Ways_of_communication/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Ways_of_communication/</guid>
+      <description>Q: In terms of communication (face-to-face, phone, e-mail, instant messaging, texting), which is your preference for collaboration? Why?
+A: IIt depends. donot have preference. email provides evidence, but lack of emotion. Face-to-face is more effective, and can see body language.</description>
+    </item>
+    
+    <item>
+      <title>Lack of Contribution</title>
+      <link>https://example.com/posts/Lack_of_contribution/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Lack_of_contribution/</guid>
+      <description>Q: If you had a problem with a team member’s lack of contribution to a project, what would you do?
+Situation and tasks: A Quality officer. claimed to be very busy, and did not do what they suppose to do, liaison with CALA. Actions: With their permission, I became the contact person. Got th job done. Results: After audit was done, I raised my concern to my section head.</description>
+    </item>
+    
+    <item>
+      <title>Lack of Staff</title>
+      <link>https://example.com/posts/Lack_of_staff/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Lack_of_staff/</guid>
+      <description>Q: There’s a deadline to be met. The team members have an excellent grasp of their positions, but one member is absent from work, and no one can do her job well. What would you do?
+Situation and tasks: Paul, Achilles Tendon was ruptured, AECL Actions: worked with union, looked for possibility to break the fine line between two unions, to get retiree, to borrow one staff from a sister lab.</description>
+    </item>
+    
+    <item>
+      <title>Relationship Management Questions</title>
+      <link>https://example.com/posts/Relationship_management_questions/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Relationship_management_questions/</guid>
+      <description>Source: Relationship Management
+Collaboration and Interpersonal Skills #  Behavioral #  Give me an example of a time when you had to deal with a difficult co-worker. How did you handle the situation?
+Describe a difficult time you have had dealing with an employee or customer. Why was it difficult? How did you handle it? What was the outcome?
+Describe a time when you were instrumental in creating or improving a good relationship with another department within your company.</description>
+    </item>
+    
+    <item>
+      <title>What are Challenges or Adjustments for Us</title>
+      <link>https://example.com/posts/Challenges_from_my_perspective/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Challenges_from_my_perspective/</guid>
+      <description>Q: Describe what you foresee to be as challenges or adjustments for us in this new role?
+A: team dynamics, learn to run new instrument, teaching,</description>
+    </item>
+    
+    <item>
+      <title>Deal With Challenge /Disagreement Among Coworkers</title>
+      <link>https://example.com/posts/Deal_with_disagreement/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Deal_with_disagreement/</guid>
+      <description>Q: (Interactive Communication CGC): Deal with challenge/disagreement among coworkers
+(CGC, ISO quality officer, 2016.10)
+tips: what skills did I have, use?
+situation: A coworker raised voice, and commented that I had no clue on ICP analysis.
+[Comments: I raised a red flag. 大忌]
+ Revisit 2022.05
+It is a situational question. Use different approaches when dealing with different personality.
+ Scenario #1:
+Situation and tasks: Kent Feluschko, training, AECL
+Actions: one-on-one discussion, took initiative, Results: problem solved, relationship built, no hidden agenda.</description>
+    </item>
+    
+    <item>
+      <title>Elicit comments or feedback</title>
+      <link>https://example.com/posts/Elicit_comments/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Elicit_comments/</guid>
+      <description>Q: It is important to be receptive to others’ ideas and opinions. Tell us about a time when you had to elicit comments or feedback from another team member on an important issue?
+Probing Questions: •	How did you let them know that you were interested in what they had to say?
+•	What questions did you ask?
+•	In the end did you have a good idea of that person’s ideas about the issue?</description>
+    </item>
+    
+    <item>
+      <title>Greeting</title>
+      <link>https://example.com/posts/Greeting/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Greeting/</guid>
+      <description>Ice-breaking
+今天Kevin YIP 跟我做了一个mocking interview。他对我的帮助比Garth和Tony的要更贴近我一些，还是我和Kevin个性比较接近吧。
+开场破冰要显得自然些。
+This interview will start at 7:30am. I would say something like: Thanks for inviting an interview with you in the early morning. &amp;ldquo;early&amp;rdquo; does not mean &amp;ldquo;early&amp;rdquo; to me. I am an early person. It does not bother me at all.</description>
+    </item>
+    
+    <item>
+      <title>How Did you Hear About This Position?</title>
+      <link>https://example.com/posts/How_did_you_hear_about_this_position/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/How_did_you_hear_about_this_position/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lay Off Coworkers Before Due Date</title>
+      <link>https://example.com/posts/Lay_off_before_project_due_date/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Lay_off_before_project_due_date/</guid>
+      <description>一起做项目的同事在离项目截至日期前三个月被告知裁员，你如何应对？
+Revision 2018.10
+#1 Teamwork.
+#2 Result oriented.
+#3 Empathy.   Original 2016.10
+(CGC, ISO quality officer, 2016.10)
+I did not read the question carefully at the first place. Then I responded as follows:
+I would comfort this coworker with compassion, and encourage him/her to be prepared for the bright future.
+I could do better with the following response:
+it would be a better time to show profession; show integrity.</description>
+    </item>
+    
+    <item>
+      <title>Make a decision Quickly</title>
+      <link>https://example.com/posts/Make_quick_decision/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Make_quick_decision/</guid>
+      <description>Q: Give an example of a time in which you had to be relatively quick in coming to a decision.
+[collected from 150 interview questions]
+Sample excellent response:
+This happens often in the IT industry, but one recent example was when we had a core backbone switch die. It died at the worst possible time — during exams — as they always seem to do, and I needed to get it back up and running quickly.</description>
+    </item>
+    
+    <item>
+      <title>Steps to Follow Before Making a Decision</title>
+      <link>https://example.com/posts/Steps_of_making_decision/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Steps_of_making_decision/</guid>
+      <description>What steps do you follow to study a problem before making a decision.
+[collected from 150 interview questions]
+Sample excellent response:
+Following standard models for problem-solving and decision-making can be very helpful. Here are the steps and how they helped me solve a problem with a group project:
+ Define the problem to be solved and decision to be made. For a project in an introductory management class, the assignment was to report on the corporate structure and financial situation of a couple of companies.</description>
+    </item>
+    
+    <item>
+      <title>Tell Me About Yourself Tips</title>
+      <link>https://example.com/posts/Tell_me_about_yourself_tips/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Tell_me_about_yourself_tips/</guid>
+      <description>Approach #1: Summarize my resume with the focus on their business in mind.
+Approach #2: Answer what (skills) could you bring to the business?
+Approach #3: Answer why should we hire you?
+Approach #4: Answer to why do you want to work here.
+Show them my interest,
+Approach #5: Why are you the best fit?
+) Beside I provide something in common, I provide something that they are missing, and that could strengthen their position and could have synergy happen.</description>
+    </item>
+    
+    <item>
+      <title>Use Written Communication Skills</title>
+      <link>https://example.com/posts/Use_written_communication_skills/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Use_written_communication_skills/</guid>
+      <description>Tell me about a time in which you had to use your written communication skills in order to get an important point across. [from Tony Fraser]
+A: Used for seeking clarification of message [a three-way communication].</description>
+    </item>
+    
+    <item>
+      <title>Why Are You the Best Fit?</title>
+      <link>https://example.com/posts/Why_are_you_the_best_fit_tips/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_are_you_the_best_fit_tips/</guid>
+      <description>The key word is: &amp;ldquo;fit&amp;rdquo;.
+) Fit the team dynamics. Character, easy to work with.
+) Fit the team to create synergy (1+1 &amp;gt; 2).
+)</description>
+    </item>
+    
+    <item>
+      <title>Why Did You Leave?</title>
+      <link>https://example.com/posts/Why_did_you_leave_Sysmex_prep/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_did_you_leave_Sysmex_prep/</guid>
+      <description>Why did you leave LifeLabs?
+not asked to me.
+It was a business decision to &amp;lsquo;shut down&amp;rsquo; the assay.</description>
+    </item>
+    
+    <item>
+      <title>Work With People From Different Sections</title>
+      <link>https://example.com/posts/Work_with_people_from_different_sections/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Work_with_people_from_different_sections/</guid>
+      <description>Q: Recall an occasion when you had to work with people from different divisions to accomplish a single goal.
+Situation and Tasks: year 2015, our lab at Whiteshell was an accredited lab. There is lab quality management system. I was the author of our quality manual. The coorperate quality officer requested to revise the quality manual for aligning with cooperate quality manual, so our quality manual became a component of quality system.</description>
+    </item>
+    
+    <item>
+      <title>Challenging Two-way Communication</title>
+      <link>https://example.com/posts/Challenging_2_way_communication/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Challenging_2_way_communication/</guid>
+      <description>Give us an example of a time when establishing two-way communication with an individual or group was especially challenging.
+listen, understand, communicates openly with them, recognizes their contribution, and gives feedback and encouragement that enhance their job performance, do not take the issue personally. Be assertive
+Revision: 2022.05.31 Situation:
+Revision: 2018.10.17 Situation: Chantelle. She said that she knew everything about ICP-OES. When I pointed out errors on the spreadsheets or reports, She got offended.</description>
+    </item>
+    
+    <item>
+      <title>How Soon Would You Be Able To Start?</title>
+      <link>https://example.com/posts/When_to_join_Sysmex/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/When_to_join_Sysmex/</guid>
+      <description>I told them within a couple of weeks after signing the contract.</description>
+    </item>
+    
+    <item>
+      <title>Reason to Change Career</title>
+      <link>https://example.com/posts/Reason_to_change_career/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Reason_to_change_career/</guid>
+      <description>Since you&amp;rsquo;ve been in the labs, what&amp;rsquo;s triggered an interest to transition over to the instrumentation side?
+[ customer satisfaction is my fulfillment.
+I have interest in maintain instrument performance. I could do good job for one business, I could do better job for many business. ]</description>
+    </item>
+    
+    <item>
+      <title>Received Two Different Orders from Two Bosses</title>
+      <link>https://example.com/posts/Receive_2_different_orders_from_two_bosses/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Receive_2_different_orders_from_two_bosses/</guid>
+      <description>clarify on one-on-one, call all together to clarify if needed.
+ https://www.wikihow.com/Report-To-Multiple-Bosses</description>
+    </item>
+    
+    <item>
+      <title>Why Are You Interested in This Job?</title>
+      <link>https://example.com/posts/Why_interest_in_this_job_tips/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_interest_in_this_job_tips/</guid>
+      <description>) Technical side: your competency.
+) Business side: good company.
+) Personal side: specifically when moving is requested.</description>
+    </item>
+    
+    <item>
+      <title>Tell me about yourself</title>
+      <link>https://example.com/posts/Tell_me_about_yourself_Gordon_prep/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Tell_me_about_yourself_Gordon_prep/</guid>
+      <description>Approach #1: summarize my resume with the focus on their business in mind. high level: 14 years of experience in laboratory analysis for environmental monitoring and drinking water safety, and learned R. My experience helps me understand stakeholder field and communicate stakeholders well.
+low level: Data processing, interpretation, and presentation.
+ Involvement in the EDMS project at AECL, similar to DataStream&amp;rsquo;s data schema.
+) Experience with Ontario environmental data management system.</description>
+    </item>
+    
+    <item>
+      <title>Why Are You Interested in Applying for This Job?</title>
+      <link>https://example.com/posts/Why_interest_in_this_job_Gordon_prep/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_interest_in_this_job_Gordon_prep/</guid>
+      <description>) Point #1: I can do the job. I enjoy in what I am doing.
+) Skills and qualifications: I have master degree, work experience in environmental monitoring, proficiency with Excel, proficiency in R. My project report would demonstrate my presentation and communication skills.
+)</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)fit &amp;lt;- lm(dist ~ speed, data = cars)fitIncluding PlotsYou can also embed plots. See Figure 1 for example:
+par(mar = c(0, 1, 0, 1))pie(c(280, 60, 20),c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),init.</description>
     </item>
     
     <item>

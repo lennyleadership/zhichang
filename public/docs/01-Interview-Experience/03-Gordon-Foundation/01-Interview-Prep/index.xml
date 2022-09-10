@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gordon Foundation on Mianshi Handbook</title>
+    <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/</link>
+    <description>Recent content in Gordon Foundation on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What do you know about Our Business?</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Know_your_business_Gordon_prep/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Know_your_business_Gordon_prep/</guid>
+      <description>Gordon Foundation is a charitable organization. Gordon Foundation initiated DataStream program. The goal is to share the data. In order to do that, data must be standardized, verified, to comply with an observation-level data schema (standard) based on WQX standard (It was designed to enable multiple monitoring entities to share results in a common format).
+DataStream was first piloted in the Mackenzie Basin with the support and collaboration of the Government of the Northwest Territories.</description>
+    </item>
+    
+    <item>
+      <title>Strength and Weakness</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Strength_N_Weakness_Gordon_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Strength_N_Weakness_Gordon_prep/</guid>
+      <description>Strength: technical savvy.
+Weakness:
+ there are still lots to learn. Learn programming codes on the job. had few presentation opportunities at work, but practiced the skillset at Toastmasters. syllable missing.
+   I have done a self-assessment for data scientists and data analysts.
+Strength:
+ I am a good listener. I am focused on getting tangible business results with data. no problem of talking in front of a group.</description>
+    </item>
+    
+    <item>
+      <title>Why Us?</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Why_US_Gordon_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Why_US_Gordon_prep/</guid>
+      <description>) Career perspective: It is an opportunity of career advancement. There are many data. development. in line with my experience. I love to organize data.
+)</description>
+    </item>
+    
+    <item>
+      <title>Interview Prep</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/1st_interveiw_prep/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/1st_interveiw_prep/</guid>
+      <description>First Interview Preparation #  Job Responsibilities #  ) data import and export
+) Design and deliver presentations, training sessions, and webinars
+Skills They are Looking For #  ) water science expertise
+) communication
+) data management expertise
+) systematic process to manage large environmental datasets
+) data wrangling and cleaning, ETL (extract, transform, load) processes
+Skills I can bring to the group #  ) Data wrangling, and presentation with R Markdown</description>
+    </item>
+    
+  </channel>
+</rss>

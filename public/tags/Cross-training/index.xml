@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross training on Mianshi Handbook</title>
+    <link>https://example.com/tags/Cross-training/</link>
+    <description>Recent content in Cross training on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Cross-training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/09_Cross-training/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/09_Cross-training/</guid>
+      <description>huddle meeting, cross-training. The technologist A was asked to train the technologist B on ICP. Both of them did not get alone. Technologist A insisted that technologist B can&amp;rsquo;t run the routine sample until they are proficient.
+Karen suggested to train technologist B on QC samples. What did I do to train Kent on GCMS? Karen addressed the matter rather than conflicts.</description>
+    </item>
+    
+  </channel>
+</rss>

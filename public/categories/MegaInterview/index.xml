@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MegaInterview on Mianshi Handbook</title>
+    <link>https://example.com/categories/MegaInterview/</link>
+    <description>Recent content in MegaInterview on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/MegaInterview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communication</title>
+      <link>https://example.com/posts/Communication_MegaInterview/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Communication_MegaInterview/</guid>
+      <description>Effective communication skills are needed in every workplace. Communication skills are, therefore regarded as an essential skill by employers. When you’re going for a job interview, you can be sure that the interviewer will ask you about your communication skills. Communication job interview questions are asked in almost every interview, regardless of the position you’re applying for.
+The interviewer wants to test and evaluate your communication skills and find out how you handle challenging work situations.</description>
+    </item>
+    
+  </channel>
+</rss>

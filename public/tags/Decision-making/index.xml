@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decision-making on Mianshi Handbook</title>
+    <link>https://example.com/tags/Decision-making/</link>
+    <description>Recent content in Decision-making on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Did you Make An Important Decision?</title>
+      <link>https://example.com/posts/Make_important_decision/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Make_important_decision/</guid>
+      <description>Q: Give me an example of a time you had to make an important decision. How did you make the decision? How does it affect you today?
+  Went to a Toastmasters club.
+  Took courses on data science on Data Camp.
+  Took the job at LifeLabs.
+  Decide to stay in the lab, not go to the compliance section.
+  Answer these questions in the answer: What motivated me?</description>
+    </item>
+    
+    <item>
+      <title>Make A Decision With Limited Information</title>
+      <link>https://example.com/posts/Decision_without_info/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Decision_without_info/</guid>
+      <description>Q: Tell me about a time when you had to make a decision, but didn’t have all the information you needed.
+Sample excellent response:
+I had to make a decision recently between two configurations on one of our routers. Time was quickly moving away from me, and I had to have all the equipment back up in a matter of minutes. I chose the configuration that I had the most data on because I knew at least that I could better troubleshoot it if there was a problem.</description>
+    </item>
+    
+    <item>
+      <title>Make a decision Quickly</title>
+      <link>https://example.com/posts/Make_quick_decision/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Make_quick_decision/</guid>
+      <description>Q: Give an example of a time in which you had to be relatively quick in coming to a decision.
+[collected from 150 interview questions]
+Sample excellent response:
+This happens often in the IT industry, but one recent example was when we had a core backbone switch die. It died at the worst possible time — during exams — as they always seem to do, and I needed to get it back up and running quickly.</description>
+    </item>
+    
+    <item>
+      <title>Steps to Follow Before Making a Decision</title>
+      <link>https://example.com/posts/Steps_of_making_decision/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Steps_of_making_decision/</guid>
+      <description>What steps do you follow to study a problem before making a decision.
+[collected from 150 interview questions]
+Sample excellent response:
+Following standard models for problem-solving and decision-making can be very helpful. Here are the steps and how they helped me solve a problem with a group project:
+ Define the problem to be solved and decision to be made. For a project in an introductory management class, the assignment was to report on the corporate structure and financial situation of a couple of companies.</description>
+    </item>
+    
+  </channel>
+</rss>

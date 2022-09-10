@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality on Mianshi Handbook</title>
+    <link>https://example.com/tags/Quality/</link>
+    <description>Recent content in Quality on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Quality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principles and Practices QA and QC</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/03_QA_QC/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/03_QA_QC/</guid>
+      <description>&lt;p&gt;Knowledge of Principles and Practices of Quality Assurance and Quality Control in a Laboratory&lt;br&gt;
+Question 5: The GRL has procedures and work instructions that explain the correct methods for carrying out various tests that are conducted in the lab.  Why is it necessary to follow these instructions?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Internal Audits</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/04_internal_audit/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/04_internal_audit/</guid>
+      <description>&lt;p&gt;Question 6: Why are Internal Audits conducted on the Quality Management System?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Key Indicators for Successful Quality</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/05_good_quality_indicators/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/05_good_quality_indicators/</guid>
+      <description>&lt;p&gt;Question 7: Describe the key indicators for successfully maintaining the quality control system in ISO 17025 accredited laboratory?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Non-renewal Accreditation</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/06_non_renewal_accreditation/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/06_non_renewal_accreditation/</guid>
+      <description>&lt;p&gt;Question 8: ISO 17025 accreditation of a test laboratory can be discontinued by the accreditation body. List the possible scenarios that could result in non-renewal of ISO 17025 accreditation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiple Tasks on Mianshi Handbook</title>
+    <link>https://example.com/tags/Multiple-Tasks/</link>
+    <description>Recent content in Multiple Tasks on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Multiple-Tasks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prioritize Work Tasks</title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/01_Prioritize_tasks/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/01_Prioritize_tasks/</guid>
+      <description>&lt;p&gt;Q9	Describe the criteria you use to prioritize your work tasks.  Describe the process you use to prioritize ongoing work, urgent tasks, arising work issues, etc. (Maximum 300 words.)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tools to Manage Multiple Tasks</title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/02_multiple-projects/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/02_multiple-projects/</guid>
+      <description>&lt;p&gt;Q10	This position will involve managing multiple people and multiple projects.  Describe a situation at work where you demonstrated your ability to manage simultaneous work tasks that had multiple people relying on the outcomes. (Maximum 500 words.)&lt;br&gt;
+Please consider in your response:&lt;br&gt;
+o	What techniques or tools did you use to manage the tasks? &lt;br&gt;
+o	How did you manage expectations of the people relying on the outcomes?&lt;br&gt;
+o	How well were the tasks completed?  How do you know the quality of the outcomes?&lt;br&gt;
+o	What would you do differently next time?&lt;br&gt;
+o	What would you continue to do next time?&lt;br&gt;
+o	Why did you choose this example?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,28 +1,1741 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on Hugo Book</title>
+    <title>Introduction on Mianshi Handbook</title>
     <link>https://example.com/</link>
-    <description>Recent content in Introduction on Hugo Book</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Introduction on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>With ToC</title>
-      <link>https://example.com/docs/example/table-of-contents/with-toc/</link>
+      <title>Collection 01</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/01-Life/Collection_01/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/01-Life/Collection_01/</guid>
+      <description>Horse #  In a rural area a farmer was tending to his horse named Buddy, and along came a stranger who despartely needed the farmer&amp;rsquo;s help. The stranger had lost control of his vehicle and ran it off into a ditch. The stranger asked the farmer if his horse could somehow pull the vehicle out of the ditch for him and told the farmer that the vehicle was small.</description>
+    </item>
+    
+    <item>
+      <title>Chemical Hydrolysis Approach</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/01_Chemical_hydrolysis_approach/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/01_Chemical_hydrolysis_approach/</guid>
+      <description>The supply of enzymes used for hydrolyzing steroid conjugates was short a couple of months after I joined LifeLabs. I was requested to investigate alternative materials to replace enzymes. The conventional approach was to use similar enzymes from different suppliers. All we needed to do was to run verification experiments, finding the volume of enzymes we use based on the activity of enzymes of different suppliers.
+The experiments turned out the enzyme substitute was not acceptable.</description>
+    </item>
+    
+    <item>
+      <title>Go Beyond Meetings or Arrangement</title>
+      <link>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/01_beyond_meetings/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/01_beyond_meetings/</guid>
+      <description>&lt;p&gt;Question #12: Accomplishing team goals often requires activities and tasks beyond formal meetings or arrangement, are there somethings you have done?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Funny How Humor Works</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/01_how_humor_works/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/01_how_humor_works/</guid>
+      <description>It&amp;rsquo;s Funny How Humor Works
+As Groucho knew, it&amp;rsquo;s a form of mental exercise that expands our flexibility and stamina
+Julius Henry Marx in &#39;Duck Soup,&#39; 1933. He knew &#39;Groucho&#39; was funnier. &amp;ldquo;I just shot an elephant in my pajamas,&amp;rdquo; goes the old Groucho Marx joke. &amp;ldquo;How he got in my pajamas I don&amp;rsquo;t know.&amp;rdquo;
+You&amp;rsquo;ve probably heard that one before, or something similar. For example, while viewing polling data for the 2008 presidential election on Comedy Central, Stephen Colbert deadpanned, &amp;ldquo;If I&amp;rsquo;m reading this graph correctly…I&amp;rsquo;d be very surprised.</description>
+    </item>
+    
+    <item>
+      <title>Resolve Difficult Employee Situations</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/01_difficult_people/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/01_difficult_people/</guid>
+      <description>I once had a co-worker in our section at AECL who procrastinated testing and put team members down to make them look better. As a result, samples that they were responsible for were analyzed beyond the requested holding time. They missed the client&amp;rsquo;s expectations. The team morale went down. Some internal clients chose to subcontract analysis for a better turn-around-time service.
+[Ron described it as: the person was not up to the challenge.</description>
+    </item>
+    
+    <item>
+      <title>A Powerful Leadership Lesson From the Sport of Rowing</title>
+      <link>https://example.com/docs/03-Soft-Skills/06-Lead-in-Rowing/Rowing_leadership_lesson/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/06-Lead-in-Rowing/Rowing_leadership_lesson/</guid>
+      <description>A Powerful Leadership Lesson From the Sport of Rowing #  In this team sport, the advantage of &amp;lsquo;free speed&amp;rsquo; can teach small-business owners a lot about sustained success.
+BY LARRY ROBERTSON, FOUNDER, LIGHTHOUSE CONSULTING
+Leading an entrepreneurial venture is hard, which is precisely why you&amp;rsquo;re always on the lookout for insight that gives you an edge. And there is plenty to be found in the sport of rowing.
+Some lessons are familiar, like teamwork.</description>
+    </item>
+    
+    <item>
+      <title>明白潜在的需要</title>
+      <link>https://example.com/docs/03-Soft-Skills/02-Communication/01_Indian_communication/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/02-Communication/01_Indian_communication/</guid>
+      <description>为什么美国公司的印度裔CEO那么多，只是中国人传说中的“印度人爱抱团”那么简单吗？
+ 1/5、客户和老板的要求为什么老是不清楚
+还记得17年刷爆朋友圈的这幅漫画吧
+ 以前广告圈里的同事转得最多，说多了都是泪啊，十个客户九个不知道自己想要什么，有时候连客户自己都会说漏嘴：
+“我要是知道，还找你们做什么啊？“
+和甲方有得一拼的是“老板的要求”，总有人在后台留言：“老板一会儿要我东，一会儿要我西，不知道他到底想要什么”，套用这个句式：
+“如果老板知道要做什么，还要下属干什么？“
+这句话听上去好像是在调侃“老板”和“甲方”什么都不懂，直到有一天，一个比较“谦虚”的甲方对我说：
+“我们确实不知道应该做些什么，但我们确实知道必须做些什么，所以我们才来找你们，你们专业嘛。”这话我至今记得。
+用专业的话来说——需求不明确。
+客户今天说最近产品销售疲软，想找你们做个推广——可这根本不是需求，导致销售不好的原因实在是太多了。
+老板让你整理一下主要配件的供应商，开会要讨论——也这不是需求，整理的目的到底是什么？
+也许是太忙了，也许是专业能力所限，他们并不知道具体要你做什么，但只要你的东西一出来，他们立刻就知道：这不是我要的东西。
+事实上。专业人士有两种，一种人有了明确的需求才能工作；而另一种人更擅长利用自己的专业能力，挖掘对方潜在的真实需求，帮助他们找到问题所在。
+很多时候，我们是在借抱怨客户和老板，来掩饰我们不擅长“通过专业沟通挖掘他们的真正需求”。
+前段时间，我看了中兴通讯印度分公司前总裁汪涛的一篇分析“为什么美国大企业中的印裔国际CEO的数量那么多”的文章，文中有一段就比较了中印两国员工的“专业沟通能力”。
+2/5、中国员工和印度员工在沟通上的差别
+如果有客户找中国工程师做东西，对话通常是这样的：
+ 客户：“我们这次大概想要一个这样的东西，……（此处略于50字），目前想法还不成熟，你们还有什么问题吗？”
+  中国员工：OK，没问题。
+ 而内心独白却是这样的：你啥都不知道，我问个屁啊。我想就这么这么做，做出来再跟你们谈吧。
+于是，这群最优秀的中国员工就开始用自己天才的大脑，想象客户遇到的问题，他们立图让自己的方案变得非常华丽，非常前沿，非常牛逼，等着客户说“哇，太棒了，就这么搞。”
+结果可想而知，客户看傻眼了，NoNoNo，这不是我想要的，全部重来。
+工作清零，好在此时中国员工有点明白客户需求了。可他们真的都明白了吗？
+那么印度员工是怎么做的呢？
+ 客户：““我们这次大概想要一个这样的东西，……（此处略于50字），目前想法还不成熟，你们还有什么问题吗？”
+  印度员工：“好的，我们回头列一些问题，再跟你们进行第二轮沟通。 ”
+ 回到公司，他们不慌不忙地开始讨论，既不加班，也不占用午餐时间，过了两天，列出了整整24个小问题。
+**和客户的第二轮沟通，他们会用一天的时间，把这24个问题一个一个地讨论完。**如果冒出了一批新问题，就再进行新一轮会面，直到把所有问题全部沟通得一清二楚，他们才开始……干活？
+NoNoNo，他们还要把所有沟通结果整理成一个文档，再跟客户开一次会，把自己的理解再跟客户确认一遍，去纠正双方在理解上的分歧。
+最后，他们还会把这些沟通结果整理成详细的文档，发给客户，再抄送所有项目组的成员，确保大家的理解都是一致的，才开始正式干活。
+这两种工作方式的结果就是：中国员工做出来的东西有想法，有新意，但不到最后关头，你根本不知道自己会得到什么； 印度员工的工作平庸，刚刚好用，一点也不肯浪费自己的工作，但却刚好是你想要的。
+如果你是老板，你喜欢用那一种员工？
+3/5、崇尚实干少说的中国文化
+轮聪明，印度人绝对比不过中国人。编程挑战网站HackerRank分析了递交的140万份编程挑战代码，结果显示中国程序员的得分最高，统治了数学、函数编程和数据结构领域，远远超过人数更多的印度程序员。
+但印裔国际CEO的数量之多，也是不争的事实。美国的500强企业的75位少数族裔CEO中，10位是印度裔；谷歌董事会的13人中，4位是印度裔；高科技公司里7%的CEO也都来自印度，而且比例还在升高。
+很多管理学家认为，印度人的成功，很大程度上来自于他们严谨的沟通能力。
+但在有海外工作经验的中国员工印象中，印度裔CEO普遍能说会道，拍马屁不干实事。
+一个事实，两种观点，这其实是一个“沟通文化”的差异。
+中国人去了印度，总觉得印度人都是奇葩，毫无时间效率的概念；印度人接触了中国人后都认为，中国人太过变态，做什么事情都是急吼吼地先干起来再说。
+中国的时间观念强，所以觉得沟通太浪费时间；印度人自我感觉太好，不愿意白费功夫，宁可把话先说清楚。
+事实上。在中国的文化传统中，我们不喜欢那些能说会道的人，更崇尚实干精神，所谓“满瓶不动半瓶摇”。
+中国历史上的聪明人，都不喜欢沟通，反而爱故弄玄虚。诸葛亮有了作战计划，从来不跟大家解释，每回都要摆一桌酒席，反正大家都没心思吃，全到他一个人的肚子里了。
+诸葛亮式的老板，计划的所有细节都在他一个人的脑子里，做他的下属，需求都是明确有，只需要听命令，甲干啥，乙干啥，最后大家的工作一拼，刚好完成任务。
+不习惯沟通，造成了两个问题，一部分人“表达能力弱”，无法把对客户的理解表达成准确的语言，只能先“做出来”再说。
+而另一部分“沟通达人”走上另一个极端，他们平常说的“沟通一下”，更多是强调诱导、说服，甚至是诡辩，而不是理解对方的想法。
+教育也是一个原因。我们的学校教育总是以标准答案为核心，很少让学生们针对问题，去提出自己问题，长此以往就不会提问题了。一旦面对不确定的需求，往往无所适从。
+中国社会的商业信任度低也是一个原因。因为乙方常常用专业来欺骗甲方，甲方在和乙方的沟通中，总是半信半疑，相信眼见为实，喜欢让乙方多做几次给自己挑选的余地。
+不得不说，也许是中国人既聪明又勤快，聪明到觉得别人无法理解自己，勤快到觉得沟通是一种浪费时间，宁愿浪费自己的才华，多返几次工，也不愿多费口舌。
+因为彪悍的人生不需要解释啊。
+4/5、机会太多，懒得沟通
+很多人可能不服气，你说印度人管理能力强，为什么印度本土厉害的大企业没有中国多呢？
+因为沟通只是管理的一部分，管理还包括战略和执行效率，不同的市场阶段，管理的重点是不同的。
+在一个高速发展的蓝海市场，执行效率最重要，如果一定要把需求搞得一清二楚再动手，等别人先做出来了，那你就白干了。因此只要需求大致靠谱，大可以撸起袖子先干起来。
+大的互联网企业甚至连内部都在竞争。同一个项目，往往有不同的小组在做，之间没有任何沟通。对于企业而言，宁可浪费财力物力人力，也不可浪费时间，市场太大了，只要有一个组做成功，别的组的投入总能收回来。
+但在一个成熟的市场，处处是红海，人力成本高昂，市场变化慢，时间反而不值钱，就要精细化管理，充分沟通需求，否则，“高效率”带来的必是高浪费。
+所以印度人的“沟通能力”，在本土市场就是浪费时间，但到了美国，面对高素质的西方员工和成熟的市场，就会如鱼得水。
+另一方面，中国制造的强项是标准化产品，可以通过产品的不断升级，一步步改善客户体验；但广告公司服务客户，下属服务老板，显然都属于定制化的专业服务，需要大量的前期沟通，最后才能一锤定音。</description>
+    </item>
+    
+    <item>
+      <title>Establishing Two-way Communication</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/01_challenging_two_way_communication/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/01_challenging_two_way_communication/</guid>
+      <description>Q: 1 Give us an example of a time when establishing two-way communication with an individual or group was especially challenging.
+Refer to AECL\Challenging_two_way_communication
+keywords: listen and take feedback,</description>
+    </item>
+    
+    <item>
+      <title>Interview Preparation</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/01-Interview-prep/Interview_preparation/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/01-Interview-prep/Interview_preparation/</guid>
+      <description>Behavior Competencies: Ability to communicate effectively orallyBehavior Expectations
+Evidence
+Implies the ability to transmit and receive information clearly and communicate effectively with others, and respond appropriately using **tact, diplomacy and persuasiveness** in an insolvency or a restructuring context.A candidate response that demonstrates the ability to communicate orally may include the following proficiency markers:
+ Listening and responding appropriately by delivering information or facts in a logical, clear and coherent manner Adapting language to various audiences Demonstrating the capacity to understand the sensitivity of a particular situation Communicating effectively to achieve desired results Interpreting and reacting appropriately to complex or contradictory information</description>
+    </item>
+    
+    <item>
+      <title>Deal with difficult people</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/01_Difficult_people_CGC_2022/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/01_Difficult_people_CGC_2022/</guid>
+      <description>&lt;p&gt;EC1.1 Describe the most difficult employee situation you had to handle.  What did you do to resolve the situation?  Why did you select these actions?  What was the final outcome?  Looking back, what would you have done differently?  Why?  (Maximum 500 words.)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What do you know about Our Business?</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Know_your_business_Gordon_prep/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Know_your_business_Gordon_prep/</guid>
+      <description>Gordon Foundation is a charitable organization. Gordon Foundation initiated DataStream program. The goal is to share the data. In order to do that, data must be standardized, verified, to comply with an observation-level data schema (standard) based on WQX standard (It was designed to enable multiple monitoring entities to share results in a common format).
+DataStream was first piloted in the Mackenzie Basin with the support and collaboration of the Government of the Northwest Territories.</description>
+    </item>
+    
+    <item>
+      <title>Am I Trust Worthy</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/01_Connor_Neil_Am_I_Trustworthy/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/01_Connor_Neil_Am_I_Trustworthy/</guid>
+      <description>&lt;p&gt;This is the transcript.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/btlp0UTbZjs&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Write a Sparkling Sentence</title>
+      <link>https://example.com/docs/03-Soft-Skills/05-Writing/Write_a_sparkling_sentence/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/05-Writing/Write_a_sparkling_sentence/</guid>
+      <description>Write better sentences #    Sigh*  You know it’s time to knuckle down.
+And finally write those web pages.
+But you struggle to get started.
+Is your writing good enough? Can you persuade readers to contact you? And buy from you? Can you make your content easy to read, engaging, and inspirational?
+Good writing isn’t as hard as it seems.
+Let’s start at the beginning, shall we?</description>
+    </item>
+    
+    <item>
+      <title>Concise Procedure</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/01_concise_procedure/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/01_concise_procedure/</guid>
+      <description>&lt;p&gt;Question 2: Identify an accident/incident in your community that your local newspaper, radio, news, etc. reported within the last two or three months that involved either personal harm or property damage.&lt;br&gt;
+•	Write a Report on this accident/incident and develop a procedure on how to avoid this happening again.&lt;br&gt;
+•	Please provide an electronic copy of the news article or other information e.g. Weblink (URL) that was used related to this specific report and submit as part of your exam question answers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prioritize Work Tasks</title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/01_Prioritize_tasks/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/01_Prioritize_tasks/</guid>
+      <description>&lt;p&gt;Q9	Describe the criteria you use to prioritize your work tasks.  Describe the process you use to prioritize ongoing work, urgent tasks, arising work issues, etc. (Maximum 300 words.)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/zzz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/example/table-of-contents/with-toc/</guid>
+      <guid>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/zzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/03-Soft-Skills/06-Lead-in-Rowing/zzz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/06-Lead-in-Rowing/zzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3 Ways to Pick Your Battles Wisely</title>
+      <link>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Pick_fights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Pick_fights/</guid>
+      <description>“Is it important enough to fight about?” #  What you&amp;rsquo;re really doing here is deciding whether the issue is affected by a hard and fast rule or a flexible policy. If it&amp;rsquo;s a shot in the dark, take a moment to see where in the framework it fits the best, if you can. If you can&amp;rsquo;t, just use your best judgment. The next two questions will help you with that.</description>
+    </item>
+    
+    <item>
+      <title>4 Levels of Teamworks</title>
+      <link>https://example.com/docs/03-Soft-Skills/04-Teamwork/4_levels_teamworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/04-Teamwork/4_levels_teamworks/</guid>
+      <description>Focus
+Level 1: Participate as a team member #  Keywords: contribution, problem solving, initiative
+Situation #1 [18.11.02]
+ Level 2: Foster teamwork #  Gives credits and acknowledges contributions and efforts to team effectiveness.
+Situation #1 [18.11.02] acknowledged Kent’s contributions and effort, and wrote a report to the management in a year.
+Communicates expectations for teamwork and collaboration.
+Situation #2 [18.11.02] Setup performance objectives with SMART approach.
+Involves team members in decision making.</description>
+    </item>
+    
+    <item>
+      <title>Empower People and Avoid Conflict by Setting Boundaries / Expectations</title>
+      <link>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Set_boundaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Set_boundaries/</guid>
+      <description>Analog: Keep dog fenced in. I am free not to worry about him. He is in his pen. He has stuff in there to keep him entertained and protected. He has food and water. And if he needs something, he will bark to get my attention.
+Of course, people are not animals. But the point is instructive.
+Everyone should know what they are responsible for.
+Everyone should know what is acceptable behaviour with coworkers, customers, and comany leadership.</description>
+    </item>
+    
+    <item>
+      <title>Focus On Three Simple Things</title>
+      <link>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Three_simple_things/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Three_simple_things/</guid>
+      <description>John Maxwell said, &amp;ldquo;People don&amp;rsquo;t care how much you know&amp;ndash;until they know how much you care.&amp;rdquo;
+You establish authority not by spouting information and facts with a booming, powerful voice. You do it by cultivating relationships. You do it by letting people know that you sincerely care about their welfare.
+Now here are three things that every leader should be the most concerned about.
+Focus on three things #  People #  Businesses are great things.</description>
+    </item>
+    
+    <item>
+      <title>Getting Along With Those Who Disagree With You</title>
+      <link>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Get_along_disagree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Get_along_disagree/</guid>
+      <description>Here are 3 ways you can overcome the resistance between you and your coworkers and reach an agreement.
+  Listen to what she has to say, without judging.
+  Respect her enough to see her opinion is as valuable as yours.
+  Find the common ground and make your moves from there.
+  Moving Forward
+You&amp;rsquo;ve listened.
+You&amp;rsquo;ve shown respect.
+You&amp;rsquo;ve moved toward some common ground.</description>
+    </item>
+    
+    <item>
+      <title>Handle Conflict</title>
+      <link>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Handle_conflicts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Handle_conflicts/</guid>
+      <description>Ronald Reagan said, &amp;ldquo;Peace is not the absence of conflict, it is the ability to handle conflict by peaceful means.&amp;rdquo;
+If you&amp;rsquo;re the leader in your organization, you have given more credit than you are due and more blame than you are responsible for. That&amp;rsquo;s the way people see you.
+Three ways you can handle conflict: prevention, discovery, and hitting it head on.
+An Ounce of Prevention #  As a leader, you&amp;rsquo;re a lot like a fireman.</description>
+    </item>
+    
+    <item>
+      <title>Job posting</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/job_posting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/job_posting/</guid>
+      <description>Canadian Grain Commission
+Winnipeg (Manitoba)
+CH-03
+Indeterminate, Specified period
+$82,579 to $106,319
+Closing date: 17 June 2022 - 23:59, Pacific Time
+Who can apply: Persons residing in Canada, and Canadian citizens and Permanent residents abroad.
+Important messages #  We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation.</description>
+    </item>
+    
+    <item>
+      <title>Job posting</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/job_posting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/job_posting/</guid>
+      <description>Job Posting: Data Specialist
+May 11, 2022.
+Join the DataStream team!
+About The Gordon Foundation. #  The Gordon Foundation is a philanthropic foundation based in Toronto, Canada. The Foundation undertakes research, leadership development and public dialogue so that public policies in Canada reflect a commitment to collaborative stewardship of our freshwater resources and to people-driven, equitable and evolving North. DataStream is an initiative developed by The Gordon Foundation.
+About DataStream.</description>
+    </item>
+    
+    <item>
+      <title>Job posting</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/job_posting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/job_posting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Respect a Coworker You Don&#39;t Like</title>
+      <link>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Respect_dont_like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Respect_dont_like/</guid>
+      <description>If you&amp;rsquo;re honest, at some point you&amp;rsquo;ll have a coworker you just can&amp;rsquo;t stand.
+But since you have to work together, you smile and pretend it doesn&amp;rsquo;t bother you at all.
+Your Smile is Lying
+Here&amp;rsquo;s the problem.
+Did you know that your true feelings always show in your voice?
+No matter how you try to fake it, if you&amp;rsquo;re angry it will leak out. If you&amp;rsquo;re nervous, your voice will reveal even the slightest quiver and hesitation.</description>
+    </item>
+    
+    <item>
+      <title>Transform Conflicts into Opportunity</title>
+      <link>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Transform_conflicts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/03-Lead-Unleadable/Transform_conflicts/</guid>
+      <description>If you want to lead through resistance, you must see every conflict as an opportunity.
+Conflict is Inevitable
+The story of Joseph illustrates two great truths.
+Conflict is part of life, like it or not.
+No matter how well you plan out your life, it probably won&amp;rsquo;t turn out exactly as you planned.
+We engage in conflict for three main reasons: #  The first is enforcement of a rule, policy, or standard.</description>
+    </item>
+    
+    <item>
+      <title>With ToC</title>
+      <link>https://example.com/docs/98-example/table-of-contents/with-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/98-example/table-of-contents/with-toc/</guid>
       <description>Caput vino delphine in tamen vias #  Cognita laeva illo fracta #  Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
  Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit  Natus quaerere #  Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
     </item>
     
     <item>
+      <title>17 Jokes That Only Smart People Will Really Appreciate</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/01-Life/17_jokes_LabRatGifts/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/01-Life/17_jokes_LabRatGifts/</guid>
+      <description>(Article from IFLScience.com)
+There&amp;rsquo;s a special glee that comes from getting a really nerdy joke.
+You feel both smart and dorky at the same time.
+Redditors took turns sharing their best intellectual jokes, and we&amp;rsquo;ve gathered our favorites here.
+From chemistry to art to music, these are the jokes you can pull out at your next dinner party — if you want to hear a bemused groan from the crowd.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/03-Soft-Skills/05-Writing/zzzzz/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/05-Writing/zzzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collection 01</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/Collection_01/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/Collection_01/</guid>
+      <description>Laughter is said to be the best medicine. Here are some great jokes to help you laugh and make your day brighter.
+1: Pool Donation:
+The other day some girls knocked on my door and asked me for a small donation for a local pool.
+I gave them a bottle of water.
+2: What is Beauty?
+A son questioned his father, &amp;ldquo;Dad, what is beauty?&amp;rdquo;
+Have you ever looked at your mother?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/zzzz/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Made Effective Adjustment</title>
+      <link>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/02_made_effective_adjustment/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/02_made_effective_adjustment/</guid>
+      <description>&lt;p&gt;Question #13 When you recently made effective adjustment/change to the procedure.  What did you do? Why was it effective?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why Hire You?</title>
+      <link>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/02_Why_hire_you/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/02_Why_hire_you/</guid>
+      <description>&lt;p&gt;Why Hire You?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/00-blank/99-zzzz/zzzz/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/00-blank/99-zzzz/zzzz/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Interview-Experience/99-zzzz/Interview/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/99-zzzz/Interview/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/01-ATO/ATO/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/01-ATO/ATO/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/02-SGS/SGS/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/02-SGS/SGS/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/03-AEL/AEL/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/03-AEL/AEL/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/07_QA_revision/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/07_QA_revision/</guid>
+      <description>year 2015
+Audit: the week of November 2, 2015.
+Submit:
+ test methods for all appendices to be assessed, method validation for any new appendices, any supporting standard operating procedures, an electronic copy of the quality manual, internal audit records, and management review minutes.  As well, one (1) hard copy of the quality manual must be submitted. The Laboratory Quality System Document Review Form (A18) (see link below) must be completed and submitted with the quality manual.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/AECL-Copy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/AECL-Copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/01-Teamwork/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/01-Teamwork/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/02-Failures/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/02-Failures/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/03-Success/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/03-Success/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/04-Encouragement/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/04-Encouragement/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/zzzz/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/01-Quotes/zzzz/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/01-Life/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/01-Life/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/02-Misc/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/zzzz/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/zzzz/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/99-zzzz/zzzz/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/99-zzzz/zzzz/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapt to working with someone despite your differences</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/03_Adaptability/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/03_Adaptability/</guid>
+      <description>&lt;p&gt;Q: We must often work as a team to get a task done and sometimes the members of that team differ from us in temperament or in the way they work.  Tell us about a recent experience in which you were part of team and had &lt;strong&gt;to adapt to working with someone&lt;/strong&gt; despite your differences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adapt to working with someone despite your differences</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Adaptability/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Adaptability/</guid>
+      <description>&lt;p&gt;Q: We must often work as a team to get a task done and sometimes the members of that team differ from us in temperament or in the way they work.  Tell us about a recent experience in which you were part of team and had &lt;strong&gt;to adapt to working with someone&lt;/strong&gt; despite your differences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conflict Resolution</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/02_conflict_resolution/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/02_conflict_resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cope With Errors</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/12_cope_with_errors/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/12_cope_with_errors/</guid>
+      <description>&lt;p&gt;Q: What did you communicate with others when finding errors?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elicit Comments</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/05_elicit_comments/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/05_elicit_comments/</guid>
+      <description>&lt;p&gt;It is important to be receptive to others&#39; ideas and opinions.  Tell us about a time when you had to elicit comments or feedback from another team member on an important issue.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Humor 101</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/02_humor_101/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/02_humor_101/</guid>
+      <description>If you find yourself avoiding humor out of fear of failing, you may be overlooking one of the most powerful weapons available to you.
+Meet Jones. He&amp;rsquo;s giving a progress report on the new project he&amp;rsquo;s managing and, since he wants to add some levity to his presentation, he starts off with a great new joke that landed in his e-mail box last week. But Jones doesn&amp;rsquo;t realize that his &amp;ldquo;new&amp;rdquo; joke has in fact been circulating on the Internet for at least six months.</description>
+    </item>
+    
+    <item>
+      <title>Implement Unfavorable Policy</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/06_unfavorable_policy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/06_unfavorable_policy/</guid>
+      <description>approved timecard.
+To ensure we have a consistent approach on the use of sick leave for medical appointment.
+HR has advised that sick leave should be used for the time spent at medical appointment and the travel time to and from the appointment only (normally 1 to 4 hours). If the employee decides to take the remainder of the day off, it must be pre-approved and it should be recorded as personal leave (banked time taken, personal business, vacation).</description>
+    </item>
+    
+    <item>
+      <title>SPE Optimization</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/02_SPE_optimization/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/02_SPE_optimization/</guid>
+      <description>While I investigated three hydrolysis approaches, I encountered a problem cleaning up steroids using a solid-phase extraction (SPE) method at LifeLabs. Some targeted steroids were lost.
+I was recommended using this SPE method which was initially developed for the testing of steroids in serum, but I had to make a new method for my application.
+Here is what I did:
+ I consulted with a medical scientist to analyze the problem&amp;rsquo;s root cause and come up with solutions.</description>
+    </item>
+    
+    <item>
+      <title>Effective Interpersonal Skills</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Interpersonal_skills_healthcanada/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Interpersonal_skills_healthcanada/</guid>
+      <description>DEFINITION
+Works collaboratively with others, readily shares information, knowledge and personal strengths, and seeks to understand and the perspectives of others to achieve common goals.
+QUESTIONS
+We must often work as a team to get a task done and sometimes the members of that team differ from us in temperament or in the way they work. Tell us about a recent experience in which you were part of team and had to adapt to working with someone despite your differences.</description>
+    </item>
+    
+    <item>
+      <title>Steve Gladstone: Leadership from Rowing - Culture and People</title>
+      <link>https://example.com/docs/03-Soft-Skills/06-Lead-in-Rowing/Rowing_Steve_Gladstone_interview/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/06-Lead-in-Rowing/Rowing_Steve_Gladstone_interview/</guid>
+      <description>Steve Gladstone: Leadership from Rowing - Culture and People #  Jim Millar: Steve, if culture is a big part of successful teams. how do you try to instill culture in your teams? what&amp;rsquo;s the most difficult part? and what do you do when it&amp;rsquo;s not successful?
+Steve Gladstone: Well I think you know it&amp;rsquo;s the obvious thing. It really comes down to people. and who are the people that you&amp;rsquo;re supporting for admission?</description>
+    </item>
+    
+    <item>
+      <title>Ability to set priorities and meet deadlines</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Prioritizing_healthcanada/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Prioritizing_healthcanada/</guid>
+      <description>[Location: Health_Canada_interview-4, 20:29]
+DEFINITION
+Organize time, work, and resources to accomplish objectives effectively; focuses personal efforts on achieving results consistent with the organization&amp;rsquo;s objectives.
+QUESTIONS
+Often/typically, your work day isn&amp;rsquo;t all laid out for you and you need to decide what you&amp;rsquo;ll do first, second, third, etc. Could you tell us about a time when it was especially tricky to manage your time because of competing demands?
+ What situation where you working in?</description>
+    </item>
+    
+    <item>
+      <title>Adversary Results</title>
+      <link>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Adversary_results/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Adversary_results/</guid>
+      <description>Q: Report low positive chloroform results less than 10, three repeats, same area, same day. (1) is this a concern? (2) what do you do? (3) different approach in different areas?</description>
+    </item>
+    
+    <item>
+      <title>Approach to Client</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Approach_client/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Approach_client/</guid>
+      <description>What are your approaches let&amp;rsquo;s say you&amp;rsquo;re visiting a new client it&amp;rsquo;s important to be able to establish the trust with them? How would you kind of approach meeting a new a new customer or client?
+[listen to the customer and get a good understanding of what the issue is. So that&amp;rsquo;s that&amp;rsquo;s one important aspect of the role being a good listener.]</description>
+    </item>
+    
+    <item>
+      <title>Are You Interested in Running ICP-OES?</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Are_you_interested_in_NAIT_2nd_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Are_you_interested_in_NAIT_2nd_interview/</guid>
+      <description>Review note: My answer was not solid.</description>
+    </item>
+    
+    <item>
+      <title>Are You Interested in Travelling</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/Interview-Prep/Are_you_interested_in_Sysmex/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/Interview-Prep/Are_you_interested_in_Sysmex/</guid>
+      <description>Does travel bother you?
+not at all. I like driving and staying in hotel. In fact, I could concentrate on doing things at hotel than at home.
+How much travel did you have to do in your previous role? And what type of distance were you traveling?</description>
+    </item>
+    
+    <item>
+      <title>Attention to Detail</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Attention_detail_healthcanada/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Attention_detail_healthcanada/</guid>
+      <description>Location: Health_Canada_interview-3, 1:00:16
+DEFINITION
+Demonstrates conscientiousness, consistency and thoroughness by verifying work, information, roles and functions.
+QUESTIONS
+Describe a situation where you did not pay as close attention to the details as you should have.
+ What was the consequence of the error? What did you do to resolve the situation? What would you do differently the next time?  RESPONSE
+[Situation: LifeLabs] experiments of optimizing SPE.
+[Task / Procedure] test 4 SPE columns, 3 washing reagents, and 2 eluting reagents.</description>
+    </item>
+    
+    <item>
+      <title>Call After Hours</title>
+      <link>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Call_after_hours/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Call_after_hours/</guid>
+      <description>Q: Received a call after hours, UV light bulb broke. Everyone went for the day and contract lab is closed. What do you do?
+This question checks if I know of the process.
+[background]: why did I receive the call?
+I will get hold of the manager-on-call.
+Contract lab is closed, could not take sample(s) and do analysis.
+use alternative process?</description>
+    </item>
+    
+    <item>
+      <title>Challenges You Would Face</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Challenges_NAIT/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Challenges_NAIT/</guid>
+      <description>If you were the successful candidate, what do you think some of the challenges you would face? Yeah. What kind of challenges do you think you would face with our group? Or in our group?
+my understanding from the newcomers, perspective, is that to understand the dynamic of the team, the first the first priority, is to find out that how everybody is everybody&amp;rsquo;s work together. And then what is the what the what is everybody&amp;rsquo;s strengths?</description>
+    </item>
+    
+    <item>
+      <title>Elicit Comments</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/02_elicit_comments/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/02_elicit_comments/</guid>
+      <description>Q: 2. It is important to be receptive to others&#39; ideas and opinions. Tell us about a time when you had to elicit comments or feedback from another team member on an important issue.
+refer to AECL\Elicit_communication.</description>
+    </item>
+    
+    <item>
+      <title>Handle Frustrated Clients</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Handle_frustrated_client_Sysmex/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Handle_frustrated_client_Sysmex/</guid>
+      <description>How would you handle situations like that? How would you kind of calm it down?</description>
+    </item>
+    
+    <item>
+      <title>Ice Breaking</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Ice_breaking_NAIT/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Ice_breaking_NAIT/</guid>
+      <description>This is kind of one of our icebreaker questions, but to just to get a little bit of more of a feel for you. We have an inside running joke in our group about Star Wars. And we were wondering if you could compare your personality and your career to any character in the whole Star Wars universe. Who would it be and why?
+Well, I just watched a couple ofthe Star Wars series the movies in the Star War.</description>
+    </item>
+    
+    <item>
+      <title>Initiative</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Initiative_healthcanada/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Initiative_healthcanada/</guid>
+      <description>Location: Health_Canada_interview-3, 1:19:10
+DEFINITION
+Seeks to actively influence events rather than passively accept the status quo. Originates, develops and carries through activities. Undertakes new work activities without specific direction. Rectifies a situation by taking corrective action rather than placing blame. Strives to design and organize activities to carry them through to completion.
+QUESTIONS
+Please give an example of a recent idea that you had to improve the way things are done at work or in your community.</description>
+    </item>
+    
+    <item>
+      <title>Instrumentation</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Instrumentation_NAIT/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Instrumentation_NAIT/</guid>
+      <description>Q: are you familiar with like GCMS, ICP-OES, GPC, and TGA?
+A: in my graduate school, I use TGA and DSC for polymers identifications, and to measure the physical properties. And also the other instrument, but I&amp;rsquo;m not sure that say if you want to use a recyclable plastic and put it into the mix up with the new polymer materials, then probably you would want it to test the different parameters like the like the intensities and strength, those are physical parameters and property you would if you want to do the recipes of the polymers, probably you have a different instrument and to measure to measure the physical properties and measure other such as the the additives to the parliament&amp;rsquo;s So, I have an experience using those instruments, when I work in the industry, and for the GC and those instruments, I had experience hands on experience in in different lab settings, I use T&amp;rsquo;s GCMS, and the LC MS and even LC triple quard.</description>
+    </item>
+    
+    <item>
+      <title>Method Development</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Method_development_NAIT/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Method_development_NAIT/</guid>
+      <description>Q: Do you have any experience with method development?
+A: I have two kinds of scenarios on method development. So one, one kind of scenario is when I worked in AECL, we do the analysis for the volatile organic compound and that is in the environmental samples, and we just follow the standard method. So and also tweaked a little bit based on our what we have of the instrument. So, that is very simple and quick method development that does the process is that open up open a Standard Method and follow the procedures and also there is another protocols that what is what are the parameters, we have to we have to focus on for the massive development and the massive validation, such as precision, precision accuracy, and the bias, and also robot robust, how robustness of the method.</description>
+    </item>
+    
+    <item>
+      <title>Performance Monitoring</title>
+      <link>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Performance_monitoring/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Performance_monitoring/</guid>
+      <description>Q: Give a specific example: how do you monitor performance of people that you lead. How do you ensure your method is working?
+A: set up 5 S.M.A.R.T. when preparing performance subjective.
+review in the middle of the year.
+weekly toolbox meeting.
+2022.06.21 &amp;mdash;-
+How to measure whether the method works? reach the goal? if they donot reach the goal.
+I have used two tools.
+  performance appraisal.
+Before monitoring performance, I set out 5 KPI for the team in one year.</description>
+    </item>
+    
+    <item>
+      <title>Quality Document</title>
+      <link>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Quality_document/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Quality_document/</guid>
+      <description>Q: Why is important to clear the process formal documentation for quality control?
+First of all, we need to write a good document. It is not a documentation for audit. We prepare one, but leave it on the shelf. It is only the good document that becomes important.
+  The good document should be comprehensive, It includes test-associated information as much as possible so that everyone does not need to go elsewhere, for example, method validation results could be attached to the procedure as an appendix.</description>
+    </item>
+    
+    <item>
+      <title>Respectful of Diversity</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Respectful_diversity_healthCanada/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Respectful_diversity_healthCanada/</guid>
+      <description>DEFINITION
+Demonstrates one&amp;rsquo;s respect for and appreciation of people from various backgrounds and of varying viewpoints. It also involves a commitment to the equitable treatment of all employees by recognizing, acknowledging and valuing individual differences and needs through the principles of acceptance and accommodation.
+QUESTIONS
+In order to meet the requirements of the lab quality program, your supervisor asks you to check the analytical records of one of your colleagues. You realize that your colleague has made several errors in his record.</description>
+    </item>
+    
+    <item>
+      <title>Strength and Weakness</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Strength_N_Weakness_Gordon_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Strength_N_Weakness_Gordon_prep/</guid>
+      <description>Strength: technical savvy.
+Weakness:
+ there are still lots to learn. Learn programming codes on the job. had few presentation opportunities at work, but practiced the skillset at Toastmasters. syllable missing.
+   I have done a self-assessment for data scientists and data analysts.
+Strength:
+ I am a good listener. I am focused on getting tangible business results with data. no problem of talking in front of a group.</description>
+    </item>
+    
+    <item>
+      <title>Strength and Weakness</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Strength_N_Weakness_Sysmex/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Strength_N_Weakness_Sysmex/</guid>
+      <description>What would you say are your strengths and weaknesses?
+Syllables</description>
+    </item>
+    
+    <item>
+      <title>Stressful Aspect</title>
+      <link>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Stressful_aspect/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/06-Winnipeg-Water/Interview/Stressful_aspect/</guid>
+      <description>Q: How did you handle stress?
+A: [previously] after hours, small group to help me.
+[today]</description>
+    </item>
+    
+    <item>
+      <title>Stressful Aspect of the Role</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Stress_Sysmex_1st_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Stress_Sysmex_1st_interview/</guid>
+      <description>What would you say was your most stressful aspect of your previous role?
+A: [LifeLabs] situation: high profile.
+Tasks: get things done. Do more complex experiments.
+Actions: overtime every day, work during the weekend.
+Results: got results.</description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/02_Supervise_team_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/02_Supervise_team_CGC_2022/</guid>
+      <description>&lt;p&gt;EC1.2 You are supervising a team of 4 technicians.  One is a brand new hire, one has only been on the team for one year, one has been on the team for 10 years and has been underperforming for the past 2 years, and the remaining technician (on the team for 10 years) is consistently exceeding expectations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tell Me About Yourself</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/Second-Interview/Tell_me_about_yourself_Sysmex_2nd_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/Second-Interview/Tell_me_about_yourself_Sysmex_2nd_interview/</guid>
+      <description>Tell me about yourself #  [adaptability] small town, remote area, winter, long drive, customer service at HR Block, new challenges at LifeLabs.
+My field of study in the university and graduate school is chemistry. I got both bachelor degree and master degree. After schooling, I once worked at an international chemicals company in China. capital project management and a lab consultant where I traveled a lot to manufacturing plants within company and supported QC departments.</description>
+    </item>
+    
+    <item>
+      <title>Tell Me About Yourself</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/Tell_me_about_yourself_NAIT_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/Tell_me_about_yourself_NAIT_prep/</guid>
+      <description>My field of study in university is Chemistry, in graduate school my study is polymer chemistry. I used gel permeation chromatography (GPC), Differential Scanning Calorimetry (DSC) and Thermal Gravimetric Analysis (TGA) to study characterization of polymer materials.
+After graduation, I developed skills and experience in chemical analysis and lab accreditation in Total and SGS in China since year 2000.
+We immigrated to Canada in 2004. I worked at Testmark environmental labs to provide accredited analysis for environmental monitoring and drinking water quality.</description>
+    </item>
+    
+    <item>
+      <title>Tell me about yourself</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Tell_me_about_yourself_Sysmex_1st_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Tell_me_about_yourself_Sysmex_1st_interview/</guid>
+      <description>Would you want to know my education and background? start with the most current or from the beginning?
+My field of study in the university is chemistry. I got both bachelor degree and master degree. After schooling, I once worked at a chemicals company as a lab consultant where I traveled a lot to manufacturing plants within company and supported QC departments. I like the feeling on the go, I read more books than I was at home, I got more things done than I was a home.</description>
+    </item>
+    
+    <item>
+      <title>Thinking Things Through</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Think_through_healthcanada/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Think_through_healthcanada/</guid>
+      <description>[Location: Health_Canada_interview-3, 39:39]
+DEFINITION
+Advise and plan based on analysis of issues and trends, and how these link to the responsibilities, capabilities, and potential of the organization. Scan an ever-changing, complex environment in anticipation of emerging crises and opportunities. Develop well-informed advice and strategies that are sensitive to the various needs of multiple stakeholders and partners, reflect the strategic direction, and position the organization for success.
+QUESTIONS Being able to identify and solve problems is an important aspect of being a Chemist II.</description>
+    </item>
+    
+    <item>
+      <title>Values and Ethics</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Value_ethics_healthcanada/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Value_ethics_healthcanada/</guid>
+      <description>[Location: Health_Canada_interview-4]
+DEFINITION
+Serve Canadians, ensuring integrity in personal and organizational practices, and respect people and Public Service principles, including democratic, professional, ethical, and people values. Build respectful, diverse and inclusive workplaces where decisions and transactions are transparent and fair.
+QUESTIONS
+You have been assigned to verify results from another analyst. During your verification, you have noted an error in the assay of several samples related to a specific drug. It appears that the analyst used the wrong data in applying the formula.</description>
+    </item>
+    
+    <item>
+      <title>Weakness</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Weakness_Sysmex_1st_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Weakness_Sysmex_1st_interview/</guid>
+      <description>What is your weakness
+when pronouncing certain words, I missed syllables (such as background).</description>
+    </item>
+    
+    <item>
+      <title>What Did You Do at</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/Interview-Prep/What_did_you_do_Sysmex_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/Interview-Prep/What_did_you_do_Sysmex_prep/</guid>
+      <description>What did you do at LifeLabs?
+I was hired at LifeLabs as a lab scientist. I was in responsible for steroid profiling in urine, which included quality control, troubleshooting on analysis and instruments, and method development.
+I developed two applications to monitor the instrument (GC-MS/MS detector, and lab test data, such as sample data, and QC data).</description>
+    </item>
+    
+    <item>
+      <title>What do you know about Our Business?</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/Interview-Prep/Know_your_business_Sysmex_2nd_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/Interview-Prep/Know_your_business_Sysmex_2nd_interview/</guid>
+      <description>Knowledge about Sysmex products #  Hematology analyzer for large and small labs. blood coagulation analyzer - Hemostasis.
+Urinalysis analyzer Flow cytometry Informatics solutions</description>
+    </item>
+    
+    <item>
+      <title>What do you know about Our Business?</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Know_your_business_NAIT/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Know_your_business_NAIT/</guid>
+      <description>what do you know about our group and the work that we do? I think you&amp;rsquo;ve, you&amp;rsquo;ve kind of touched on it a little bit, but if you could just like explain it, in your own words.
+They&amp;rsquo;re there, that some research areas, for instance, the PRIA, and then re re, kind of the sort of how to show say that material characterization and site remediation. Is overall that also the different industries that are oil, or gas and industry and food, so he sets up the full size, then to understand the the protein profile in some plant?</description>
+    </item>
+    
+    <item>
+      <title>What Is Your Targeted Compensation</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Targeted_compensation_Sysmex_1st_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Targeted_compensation_Sysmex_1st_interview/</guid>
+      <description>What is your targeted compensation?</description>
+    </item>
+    
+    <item>
+      <title>Why Are You Interested in Applying for This Job</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/First-Interview/Why_interest_in_this_job_NAIT_1st_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/First-Interview/Why_interest_in_this_job_NAIT_1st_interview/</guid>
+      <description>Q: can you share with us why you were interested in applying for this job, as well as the skills and expertise that you bring into this position?
+A: the reason I applied this job is that I have been doing lots of analysis, and experiments in the environmental monitoring and analysis. So I, I&amp;rsquo;ve been in Canada for over over 12 years, and most of the most of the times I&amp;rsquo;ve I developed method and validate method for those purposes.</description>
+    </item>
+    
+    <item>
+      <title>Why Are You Interested in Applying for This Job</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Tell_me_about_yourself_NAIT_2nd_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Second-Interview/Tell_me_about_yourself_NAIT_2nd_interview/</guid>
+      <description>a little bit about yourself and why are excited about working with the clean technologies team and why you think you would be a good fit for the team?
+in a nutshell that I have the versatile skills and broad experience in different industrial applications. I will say that my interest in instrumentations applications and experience in the quality lab laboratory quality management and also I also have a interest interested in the data analysis.</description>
+    </item>
+    
+    <item>
+      <title>Why Are You the Best Fit?</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Why_are_you_the_best_fit_SysMex_1st_interview/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Why_are_you_the_best_fit_SysMex_1st_interview/</guid>
+      <description>Why do you think you are the best fit? / Why should I hire you / why do you want to change career?
+[It serves as a summary of &amp;ldquo;tell me about yourself&amp;rdquo;]
+I would like to thank you again for your time with me for this interview.
+My experience has taught me that most. Instrumentation and its maintenance and troubleshooting have been part of my responsibilities. I have built skills and experience that ensure me to learn new instrumentation quickly and solve computer program related issues.</description>
+    </item>
+    
+    <item>
+      <title>Why Us?</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Why_US_Gordon_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/Why_US_Gordon_prep/</guid>
+      <description>) Career perspective: It is an opportunity of career advancement. There are many data. development. in line with my experience. I love to organize data.
+)</description>
+    </item>
+    
+    <item>
+      <title>Why Us?</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Why_Us_Sysmex/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/First-Interview/Why_Us_Sysmex/</guid>
+      <description>Why specifically Sysmex?
+[It is about helping people]</description>
+    </item>
+    
+    <item>
+      <title>Work With Clients</title>
+      <link>https://example.com/docs/01-Interview-Experience/04-Sysmex/Interview-Prep/Work_with_clients_Sysmex_prep/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/04-Sysmex/Interview-Prep/Work_with_clients_Sysmex_prep/</guid>
+      <description>How would you work with the client?
+Two aspects: people interaction and technical aspects.
+  Listen client&amp;rsquo;s complain
+  Easy the emotion
+  Commitment
+  Identify the problem
+  </description>
+    </item>
+    
+    <item>
+      <title>5 Creative Writing Examples: How to Jazz Up Any Writing</title>
+      <link>https://example.com/docs/03-Soft-Skills/05-Writing/How_to_Jazz_Up/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/05-Writing/How_to_Jazz_Up/</guid>
+      <description>A weird idea exists in the world of writing.
+When writers talk about creative writing, they only refer to fiction.
+As if non-fiction can’t be creative …
+What a crazy idea.
+Of course, non-fiction can be creative. Any creative writing technique can be used to improve any kind of writing.
+Shall I show you?
+Creative writing examples in non-fiction
+When reading non-fiction, I often find myself speeding up. I try to grasp ideas quickly, and I do not pay much attention to words and sentences.</description>
+    </item>
+    
+    <item>
+      <title>Score Takes Care of Itself</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/02_Score_takes_care_of_itself/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/02_Score_takes_care_of_itself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Way Communication: 4 Tips for a More Engaged Workplace</title>
+      <link>https://example.com/docs/03-Soft-Skills/02-Communication/02_Two_way_communication/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/02-Communication/02_Two_way_communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/zzzz/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPTA Application to GRL</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/02_health_safety/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/02_health_safety/</guid>
+      <description>Question 3: To which extent does the HPTA apply to the work of the Grain Research Laboratory? Response: The key objective of Human Pathogen and Toxins Act (HPTA) and Regulations (HPTP) is to make working with human pathogens and toxins safer, more secure and less burdensome for those dealing with lower risk pathogens.
+The HPTA does not apply to: •	a human pathogen or toxin in an environment in which it naturally occurs, as long as it has not been cultivated or intentionally collected or extracted.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/zzzz/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools to Manage Multiple Tasks</title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/02_multiple-projects/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/02_multiple-projects/</guid>
+      <description>&lt;p&gt;Q10	This position will involve managing multiple people and multiple projects.  Describe a situation at work where you demonstrated your ability to manage simultaneous work tasks that had multiple people relying on the outcomes. (Maximum 500 words.)&lt;br&gt;
+Please consider in your response:&lt;br&gt;
+o	What techniques or tools did you use to manage the tasks? &lt;br&gt;
+o	How did you manage expectations of the people relying on the outcomes?&lt;br&gt;
+o	How well were the tasks completed?  How do you know the quality of the outcomes?&lt;br&gt;
+o	What would you do differently next time?&lt;br&gt;
+o	What would you continue to do next time?&lt;br&gt;
+o	Why did you choose this example?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Without ToC</title>
-      <link>https://example.com/docs/example/table-of-contents/without-toc/</link>
+      <link>https://example.com/docs/98-example/table-of-contents/without-toc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/example/table-of-contents/without-toc/</guid>
+      <guid>https://example.com/docs/98-example/table-of-contents/without-toc/</guid>
       <description>At me ipso nepotibus nunc celebratior genus #  Tanto oblite #  Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
 Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    
+    <item>
+      <title>Online Resources</title>
+      <link>https://example.com/docs/03-Soft-Skills/05-Writing/03_online_writing_resource/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/05-Writing/03_online_writing_resource/</guid>
+      <description>letterpile</description>
+    </item>
+    
+    <item>
+      <title>Distribute Workload</title>
+      <link>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/03_distribute_workload/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/03_distribute_workload/</guid>
+      <description>&lt;p&gt;Q: How did you distribute workload?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Source Information</title>
+      <link>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/03_source_information/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/03_source_information/</guid>
+      <description>&lt;p&gt;Question #14: What source information did you use to uncover problem in your working area?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Challenging Two-way Communication</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/04_challenging_two_way_communication/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/04_challenging_two_way_communication/</guid>
+      <description>&lt;p&gt;Q: Give us an example of a time when establishing two-way communication with an individual or group was especially challenging.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Computer Programming</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Programing/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/03_Programing/</guid>
+      <description>Plotting EMV value of GC-MS/MS #  Develop a tool to extract many parameters, including EMV value from auto-tune pdf files. I saw the trend, the EMV value started at the highest, then the voltage declined, then cranked up to the highest point after , then</description>
+    </item>
+    
+    <item>
+      <title>Mastering the Laugh</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/03_mastering_the_laugh/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/03_mastering_the_laugh/</guid>
+      <description>Mastering the Laugh #  Let&amp;rsquo;s face it, humor is hard! Toastmasters helps us overcome stage fright, speak to strangers and think on our feet. We&amp;rsquo;re adept at speaking to inform, persuading our audiences and touching them with inspirational tales of love and loss. But how do we &amp;ldquo;break a leg&amp;rdquo; (a good thing in comedy parlance) by tickling our audiences&#39; &amp;ldquo;funny bones&amp;rdquo;?
+Speeches employing humor are better received; audiences are more receptive when they&amp;rsquo;ve laughed.</description>
+    </item>
+    
+    <item>
+      <title>Change You Behavior / Approach</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/03_change_approach/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/03_change_approach/</guid>
+      <description>Q: 3. Please give me an example of a situation where you changed your behavior or approach according to the circumstances and the people involved.
+Refer to LifeLabs\03_Adaptability</description>
+    </item>
+    
+    <item>
+      <title>Commitment to Quality</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/03_Commitment_quality_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/03_Commitment_quality_CGC_2022/</guid>
+      <description>&lt;p&gt;EC2.1 Sometimes, if we rush, we can make mistakes or overlook a mistake.  Describe a time that you made a mistake and had to act to prevent further impact.  (Maximum 500 words.)
+In your response:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Describe the situation and its complexity.&lt;/li&gt;
+&lt;li&gt;Describe the mistake you made and how you noticed the error.&lt;/li&gt;
+&lt;li&gt;Describe the steps you took to mitigate further impact of the error.&lt;/li&gt;
+&lt;li&gt;Describe what the impact would have been if the error wasn&amp;rsquo;t noticed.&lt;/li&gt;
+&lt;li&gt;Discuss how often this mistake could happen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Please provide the contact information for someone that can corroborate your response.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Two-way communication at the workplace</title>
+      <link>https://example.com/docs/03-Soft-Skills/02-Communication/03_Two_way_communication/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/02-Communication/03_Two_way_communication/</guid>
+      <description>&lt;p&gt;Leader need to take 
+  &lt;a href=&#34;https://hbr.org/2015/01/the-art-of-giving-and-receiving-advice&#34;&gt;advice&lt;/a&gt;, criticism, and to know when to concede and admit they are wrong.  So the first thing leaders should learn is 
+  &lt;a href=&#34;https://www.forbes.com/sites/glennllopis/2013/05/20/6-effective-ways-listening-can-make-you-a-better-leader/?sh=19785f001756&#34;&gt;how to listen and take feedback&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Two-way communication is used to transmit more complex messages, brainstorm, and make arrangements.&lt;/p&gt;
+&lt;p&gt;Examples of two-way communication are: staff meetings, face-to-face conversations, video calls, phone calls, etc.&lt;/p&gt;
+&lt;p&gt;Challenges in two-way communication: language barriers, overload of irrelevance, lack of channels, lack of culture of employee feedback, lack of empathy and transparency, lack of acting on employee feedback,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sow in tears</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/03_Sow_in_tears/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/03_Sow_in_tears/</guid>
+      <description>&lt;p&gt;Sowing In Tears&lt;br&gt;
+TGIF Today God Is First Volume 1 by Os Hillman&lt;/p&gt;
+&lt;p&gt;02/09/2022&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Principles and Practices QA and QC</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/03_QA_QC/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/03_QA_QC/</guid>
+      <description>&lt;p&gt;Knowledge of Principles and Practices of Quality Assurance and Quality Control in a Laboratory&lt;br&gt;
+Question 5: The GRL has procedures and work instructions that explain the correct methods for carrying out various tests that are conducted in the lab.  Why is it necessary to follow these instructions?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contribute to the Team Effort</title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/03_team_efforts/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/03_team_efforts/</guid>
+      <description>&lt;p&gt;Q13	It is often necessary to work together in a group to accomplish a task. Can you tell us about the most recent experience you have had working as part of a group? (maximum 500 words)&lt;br&gt;
+Please consider in your response:&lt;br&gt;
+o	What was your role?&lt;br&gt;
+o	What was the task?&lt;br&gt;
+o	How many people in the group?&lt;br&gt;
+o	What difficulties arouse?&lt;br&gt;
+o	What was the impact if things did not work out?&lt;br&gt;
+o	Why would you use this example?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Humor to the Rescue</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/04_humor_to_the_rescue/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/04_humor_to_the_rescue/</guid>
+      <description>A witty response is good for business.
+For a leader who&amp;rsquo;s building social and business relationships, humor is a wonderful tool. People want to associate with leaders who have a positive personality and a sense of humor. When you are skilled at using humor, it increases trust and likeability. It builds, and sometimes even rescues, relationships. It clearly strengthens your leadership skills. As a significant fringe benefit, a sense of humor gives you a better-tuned humor radar.</description>
+    </item>
+    
+    <item>
+      <title>Go Beyond Job Requirements</title>
+      <link>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/04_beyond_job_requirements/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/04_beyond_job_requirements/</guid>
+      <description>&lt;p&gt;Question #15: Describe a time when you went beyond your job requirements? What did you do? What happened?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Time Management</title>
+      <link>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/04_time_management/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/04_time_management/</guid>
+      <description>&lt;p&gt;Q: Time Management&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hands-on Experience</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/04_Hands-on/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/04_Hands-on/</guid>
+      <description>Back pressure correction #  There was a time at LifeLabs. The back pressure of a LC-MS/MS was built up over 600 bar. The instrument stopped because the back pressure went up above the limit. I disconnected the UHPLC column from the mass spectrometer. Observed the back pressure reading. The back pressure was still high, so I disconnected the UHPLC column from the guard column. The back pressure dropped. I knew the problem was in the UHPLC column.</description>
+    </item>
+    
+    <item>
+      <title>Be Flexible To Solve A Problem</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/04_flexibility_problemsolving/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/04_flexibility_problemsolving/</guid>
+      <description>Q: 4. Tell us about a time when you were able to solve a problem or better serve a client by applying the flexibility that existed in a rule or procedure.</description>
+    </item>
+    
+    <item>
+      <title>Planning, organizing, and coordinating</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/04_Planning_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/04_Planning_CGC_2022/</guid>
+      <description>&lt;p&gt;EC3.1 Describe one of your team&amp;rsquo;s largest or most important projects or activities and how you managed it, from start to finish.  Use a project or activity where others were doing the work, but you were overseeing it.  (Maximum 500 words.) [10 marks]
+–	What was the vision for this project/activity?
+–	What was the outcome?  How do you know this was the outcome?
+–	What was your role in reaching that outcome?
+–	Looking back, what would you have done differently?  Why?&lt;/p&gt;
+&lt;p&gt;Please provide the contact information for someone that can corroborate your response.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Persistence Can Change Failures</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/04_Persistence_change_failure/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/04_Persistence_change_failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Audits</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/04_internal_audit/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/04_internal_audit/</guid>
+      <description>&lt;p&gt;Question 6: Why are Internal Audits conducted on the Quality Management System?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coordination</title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/04_coordination/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/04_coordination/</guid>
+      <description>&lt;p&gt;Q14	Describe a work related experience in which you coordinated a project or activity with other team members? (maximum 500 words)&lt;br&gt;
+Please consider in your response:&lt;br&gt;
+o	What was the project of activity?&lt;br&gt;
+o	Was this new to the employees?&lt;br&gt;
+o	What steps did you take?&lt;br&gt;
+o	Was there a deadline?&lt;br&gt;
+o	What were the expectations?&lt;br&gt;
+o	How would you describe the result?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Getting Comfy with Comedy</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/05_getting_comfy_with_comedy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/05_getting_comfy_with_comedy/</guid>
+      <description>The right amount of well-placed and appropriate humor can make your speech a smashing success!
+Using humor effectively can be tricky. We&amp;rsquo;ve all sat through functions where the speaker is a John Cleese wannabe who hardly belongs on Monty Python&amp;rsquo;s Flying Circus. Not to suggest that public speaking must be a laugh fest, but injecting just the right joke at just the right moment into an address can really capture your audience&amp;rsquo;s attention and goodwill.</description>
+    </item>
+    
+    <item>
+      <title>Hold Accountability</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/05_Acountability_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/05_Acountability_CGC_2022/</guid>
+      <description>&lt;p&gt;EC4.1 Describe a time at work when you had to hold a direct report accountable for their actions and/or behaviors as what they were doing was not consistent with your expectations.  Describe the situation.  Describe the actions you took, and your rationale for taking these actions.  Describe the impact of your actions, as well as the overall outcome of the situation.  (Maximum 500 words.) [10 marks]&lt;/p&gt;
+&lt;p&gt;Please provide the contact information for someone that can corroborate your response.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Involve Other Team Members</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/05_teamwork/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/05_teamwork/</guid>
+      <description>Q: 5. Tell us about a time when you realized that you needed to involve other members of your team in order to achieve a shared objective.
+Leverage others.</description>
+    </item>
+    
+    <item>
+      <title>Finishing touch: 16 years later, Jacobellis gets her gold</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/05_Finishing_touch/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/05_Finishing_touch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Indicators for Successful Quality</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/05_good_quality_indicators/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/05_good_quality_indicators/</guid>
+      <description>&lt;p&gt;Question 7: Describe the key indicators for successfully maintaining the quality control system in ISO 17025 accredited laboratory?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Communicate Complex Information</title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/05_communicate_complex_info/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/05_communicate_complex_info/</guid>
+      <description>&lt;p&gt;Q15	How do you ensure your intended audience understand you when you communicate complex information?  (maximum 300 words)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to Add Humor to Any Speech</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/06_add_humor_to_speech/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/06_add_humor_to_speech/</guid>
+      <description>Learn how to make people laugh. You&amp;rsquo;ll have more fun, and the listeners will too!
+Listeners appreciate a little humor, even in a serious speech. Done incorrectly, humor can be a disaster. Executed correctly, humor lightens the load, eases the burden and releases tension. There are three basic methods for adding humor to a speech: Tell a canned joke, tell an original joke or simply make a wry observation.
+Method #1: Canned Jokes</description>
+    </item>
+    
+    <item>
+      <title>Not Meet Objective</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/06_Not_meet_objective_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/06_Not_meet_objective_CGC_2022/</guid>
+      <description>&lt;p&gt;EC4.2 Describe a situation where you encountered difficulties and did not meet a work objective.  Describe what happened and why you did not meet your objective.  Describe what you did during the situation.  Describe the impact of your actions and overall outcome.  Explain why you chose this example.  (Maximum 500 words.) [10 marks]&lt;/p&gt;
+&lt;p&gt;Please provide the contact information for someone that can corroborate your response.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>To Volunteer to Take on Additional Tasks</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/06_go_beyond/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/06_go_beyond/</guid>
+      <description>Q: 6. While working with a team, have you ever volunteered to take on additional tasks in order to support the group&amp;rsquo;s efforts?</description>
+    </item>
+    
+    <item>
+      <title>How Do You Handle Weight?</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/06_How_you_handle_weight/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/06_How_you_handle_weight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-renewal Accreditation</title>
+      <link>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/06_non_renewal_accreditation/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/11-CGC-QA-2016/Interview/06_non_renewal_accreditation/</guid>
+      <description>&lt;p&gt;Question 8: ISO 17025 accreditation of a test laboratory can be discontinued by the accreditation body. List the possible scenarios that could result in non-renewal of ISO 17025 accreditation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Overlooked Mistakes</title>
+      <link>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/06_overlook_mistake/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/10-CGC-Chemist-2016/Interview/06_overlook_mistake/</guid>
+      <description>&lt;p&gt;Q16	Sometimes, it we rush, we can make mistake or overlook a mistake. Tell us about a time that you made a mistake or had a poor result, but avoided further error by rechecking or reviewing your work? (maximum 500 words)&lt;br&gt;
+Please consider in your response:&lt;br&gt;
+o	What was the activity, a test?&lt;br&gt;
+o	How complex or routine is this activity?&lt;br&gt;
+o	How many people were involved?&lt;br&gt;
+o	What caused your concern allowing you to notice the issue?&lt;br&gt;
+o	What steps did you go through in rechecking?&lt;br&gt;
+o	What would be the impact if it wasn’t caught?&lt;br&gt;
+o	How often could this happen?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comic Timing - The Pause That Refreshes</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/07_comic_timing/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/07_comic_timing/</guid>
+      <description>Humor is one of the most effective tools for connecting with an audience. It builds bonds and refreshes the mind. And although the right words can make people laugh, humor is more than just words. As speakers, we learn that the impact of humor is heightened by how you say it, what you do when you say it, and how you use silence&amp;hellip;the pause. The pause adds punch to the punchline!</description>
+    </item>
+    
+    <item>
+      <title>Gather Information</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/07_gather_info/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/07_gather_info/</guid>
+      <description>Q: 7. Describe a problem you had to solve that required you to gather information from a few different sources.</description>
+    </item>
+    
+    <item>
+      <title>Take Risks for Gains</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/07_Take_risks_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/07_Take_risks_CGC_2022/</guid>
+      <description>&lt;p&gt;EC5.1 Describe a situation when you took a calculated risk on a work project for measured gains.  Describe what you did during the situation.  Describe the impact of your actions and overall outcome.  Explain why you chose this example.  (Maximum 500 words.) [10 marks]&lt;/p&gt;
+&lt;p&gt;Please provide the contact information for someone that can corroborate your response.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leader Don&#39;t Give Up</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/07_Leaders_dont_give_up/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/07_Leaders_dont_give_up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beowulf: Real Leadership is Leader Recognizing that They Serve the People They Lead</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/08_Leadership_quote_in_Beowulf/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/08_Leadership_quote_in_Beowulf/</guid>
+      <description>Beowulf: Real Leadership is Leader Recognizing that They Serve the People They Lead #   Real Leadership is Leader Recognizing that They Serve the People They Lead.
+by Pete Hoekstra
+ This quote perfectly describes the character of Beowulf. Beowulf is agood leader because he shows bravery, honor, and loyalty to his people in spite of the dangers hefaces throughout the poem. In the story, Beowulf knew that his people needed a leader and that hewas the only one who could save them.</description>
+    </item>
+    
+    <item>
+      <title>How To Tell Jokes</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/08_tell_jokes/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/08_tell_jokes/</guid>
+      <description>Are you one of those people who always complain, &amp;ldquo;I just can&amp;rsquo;t tell a joke&amp;rdquo;? Sometimes we tell ourselves this, but it is not necessarily true. Being good at telling jokes doesn&amp;rsquo;t mean you have to be a comedian. What it requires is a better understanding of some basics of telling jokes and a little practice. Once you familiarize yourself with these basics, your joke-telling skills will improve.
+The four basic rules of jokes are timing, rhythm, rule of threes, and material.</description>
+    </item>
+    
+    <item>
+      <title>Overcome Obstacle</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/08_Overcome_obstable_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/08_Overcome_obstable_CGC_2022/</guid>
+      <description>&lt;p&gt;EC5.2 Describe a situation at work when you had to overcome a significant obstacle in order to achieve an established goal.  Describe the actions you took, and your rationale for taking these actions.  Describe the impact of your actions and overall outcome.  Explain why you chose this example.  (Maximum 500 words.) [10 marks]&lt;/p&gt;
+&lt;p&gt;Please provide the contact information for someone that can corroborate your response.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Select an Option</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/08_choose_options/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/08_choose_options/</guid>
+      <description>Q: 8. Tell us about a situation where you had to make a decision or solve a problem based on a number of options.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/09_Cross-training/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/09_Cross-training/</guid>
+      <description>huddle meeting, cross-training. The technologist A was asked to train the technologist B on ICP. Both of them did not get alone. Technologist A insisted that technologist B can&amp;rsquo;t run the routine sample until they are proficient.
+Karen suggested to train technologist B on QC samples. What did I do to train Kent on GCMS? Karen addressed the matter rather than conflicts.</description>
+    </item>
+    
+    <item>
+      <title>Sweating Out Stand-up Comedy</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/09_sweating_out_stand-up_comedy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/09_sweating_out_stand-up_comedy/</guid>
+      <description>There is no substitute for stage time.
+It is possible to hear yourself sweat. It doesn&amp;rsquo;t happen instantly. First, you become aware of the metallic hum of the nearby speakers. Then comes the forlorn rattle of ice cubes in cocktail glasses, then the subtle but unmistakably self-conscious clearing of throats. And then comes a terrifying symphony of creaks, groans, squeaks, scrapes and shuffles you never noticed before, all pouring out of that pitiless black void in front of you.</description>
+    </item>
+    
+    <item>
+      <title>Go Beyond the Direction</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/09_initiative/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/09_initiative/</guid>
+      <description>Q: 9. Describe a situation where you took steps that extended beyond the directions you were given or what a client had asked you to do because you knew it would result in a better outcome.</description>
+    </item>
+    
+    <item>
+      <title>Plan Complex Work Tasks</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/09_Multiply_projects_planning_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/09_Multiply_projects_planning_CGC_2022/</guid>
+      <description>&lt;p&gt;EA1.1 You have a validated multi-analyte method currently in use on one LC-MS/MS (instrument A).  You need to have a backup method in place on a different LC-MS/MS (instrument B) so that your team has continuous analytical capabilities in case of instrument issues, technician absences, etc.  Developing the method for instrument B, and training a new technician will involve coordination amongst the two technicians, as well as with the team lead for another group that also uses the same two instruments.&lt;br&gt;
+Describe in detail the plan you would use to get the backup method operational so that there is always available analytical capability.&lt;br&gt;
+Describe why you include certain steps in your plan, as well as your reasons for the order of steps in your plan.  (Maximum 500 words.) [10 marks]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Life is a game</title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/09_Life_is_a_game/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/09_Life_is_a_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving From Toxic to Nourishing Humor</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/10_from_toxic_to_nourishing_humor/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/10_from_toxic_to_nourishing_humor/</guid>
+      <description>What&amp;rsquo;s the difference between humor that helps and humor that hurts?
+Have you ever had someone say to you, &amp;ldquo;I was only kidding? Can&amp;rsquo;t you take a joke?&amp;rdquo; Do you ever feel guilty after laughing at a joke? Have you ever been an evaluator at a club meeting when the speaker used inappropriate humor?
+Do you wonder why I am asking these questions? These queries will help us focus on the most important question when it comes to using humor: To tell the difference between constructive and destructive humor, between humor that helps and humor that hurts, between laughing *with* others and laughing *at* others.</description>
+    </item>
+    
+    <item>
+      <title>Run Over Me</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/10_run_over_me/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/10_run_over_me/</guid>
+      <description>Randy and Chantelle always sent emails ahead of me or Karen. It made me annoyed. It seems they were running the show. Power hungry.
+As Pamela indicated that I do not have to be the contact point of the group, but I am responsible for the corrective actions when they are arisen.</description>
+    </item>
+    
+    <item>
+      <title>Manage Multiple Projects</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/10_Multiply_projects_management_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/10_Multiply_projects_management_CGC_2022/</guid>
+      <description>&lt;p&gt;EA1.2 This position will involve managing multiple people and multiple projects.  Describe a situation at work where you demonstrated your ability to manage simultaneous work tasks that had multiple people relying on the outcomes.  (Maximum 500 words.)  [10 marks]&lt;/p&gt;
+&lt;p&gt;Please provide the contact information for someone that can corroborate your response.&lt;/p&gt;
+&lt;p&gt;In your response, describe:
+The techniques or tools you used to manage the tasks.&lt;br&gt;
+How you managed expectations of the people relying on the outcomes.
+How well the tasks were completed and how you evaluated the quality of the outcomes.
+What you would do differently next time.
+What you would continue to do next time.
+Why you chose this example to demonstrate your competency in planning, organizing, and coordinating.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Try Various Approaches</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/10_try_options/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/10_try_options/</guid>
+      <description>Q: 10. Tell me about a situation where you tried various approaches or solutions in order to solve a problem.</description>
     </item>
     
     <item>
@@ -44,6 +1757,1019 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static #  Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Acceptable Humor: The Mark of a Professional</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/11_acceptable_humor/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/11_acceptable_humor/</guid>
+      <description>How to navigate the minefield of good and bad taste.
+At a recent Table Topics session, our Topicsmaster quoted a news clipping about someone who grafted an ear to his forehead in the name of art. A member responded: &amp;ldquo;We were asked if an ear grafted to the forehead was art. Technically, it&amp;rsquo;s called Forehead Art&amp;hellip;or F-ART. Which gives you my answer to whether or not it&amp;rsquo;s art.&amp;rdquo;
+Oops. That joke crossed the invisible line separating appropriate humor from the inappropriate.</description>
+    </item>
+    
+    <item>
+      <title>Facilitate the team</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/11_facilitation/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/11_facilitation/</guid>
+      <description> I think you will definitely get more buy in from the team if you say you are there to help facilitate getting things done and removing obstacles FOR them. They need to see you as a great resource that assists them in the common goal, as opposed to an authoritative leader with a title. - Pamela Yule
+ </description>
+    </item>
+    
+    <item>
+      <title>Set Goal and Reach It</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/11_set_goal/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/11_set_goal/</guid>
+      <description>Q: 11. Please provide an example of a time when you set an ambitious, but realistic, goal for yourself and then tried to reach it.</description>
+    </item>
+    
+    <item>
+      <title>How to Tell Tall Tales</title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/12_tell_tall_tales/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/12_tell_tall_tales/</guid>
+      <description>&amp;ldquo;We discovered that tall tales work like potato chips - once we started writing, we couldn&amp;rsquo;t stop at just one.&amp;quot;
+The announcement was made in July: &amp;ldquo;This year, instead of a humorous speech contest, District 27 will hold its first Tall Tales contest.&amp;rdquo; Everyone in the room responded with an, &amp;ldquo;Oh!&amp;rdquo; and I think we may have achieved a record for the variety of ways to say that word. Some were intrigued, some were enthusiastic&amp;hellip; but most of our members were confused and concerned.</description>
+    </item>
+    
+    <item>
+      <title>Meet Established Expectations</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/12_meet_expectactions/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/12_meet_expectactions/</guid>
+      <description>Q: 12. Please talk about a situation that demonstrates your ability and motivation to ensure your performance meets established expectations.
+Revisit 2022.08.02
+[Situation]
+AECL, expectation: review reports in the same day
+multitask
+[Task]
+programming
+[Action]
+training, coding
+[Result]
+more accurate, 100% check</description>
+    </item>
+    
+    <item>
+      <title>Build Trust in Relationship</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/13_build_trust_in_relationship/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/13_build_trust_in_relationship/</guid>
+      <description>&lt;p&gt;Q: How did you build trust in relationship?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Share Instruments and Chemicals</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/13_share_equipment/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/13_share_equipment/</guid>
+      <description>Q: 13. You are working in a laboratory that has shared instruments and chemicals. You have analysis to do. How will you proceed to ensure that yourself and team members all have access to the tools required to complete your work?
+Revisit 2022.08.02
+Think about others for their convenience, rather than making difficulty.
+Instrument: ownership, discuss the schedule, follow the guideline.
+Chemicals: ownership, stocking up,</description>
+    </item>
+    
+    <item>
+      <title>Persuade Boss About Proposal</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/06_persuate_boss/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/06_persuate_boss/</guid>
+      <description>&lt;p&gt;Tell me about a time when you had to present a proposal to a person in authority and were able to do this successfully.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Present A Proposal</title>
+      <link>https://example.com/docs/02-Working-Situations/03-AEL/01_present_proposal/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/03-AEL/01_present_proposal/</guid>
+      <description>&lt;p&gt;Tell me about a time when you had to present a proposal to a person in authority and were able to do this successfully.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Present A Proposal</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/14_persuade_boss/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/14_persuade_boss/</guid>
+      <description>&lt;p&gt;Tell me about a time when you had to present a proposal to a person in authority and were able to do this successfully.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Schedule Your Activities</title>
+      <link>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/14_schedule_activities/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/07-CGC-Senior-Tech/Interview/14_schedule_activities/</guid>
+      <description>Q: 14. Describe a situation in which you had to schedule your activities to meet a work objective.
+Revisit 2022.08.02
+[Situation] LifeLabs
+investigate chemical hydrolysis approach.
+The supply of enzymes used for hydrolyzing steroid conjugates was short a couple of months after I joined LifeLabs. I was requested to investigate alternative materials to replace enzymes. The conventional approach was to use similar enzymes from different suppliers. All we needed to do was to run verification experiments, finding the volume of enzymes we use based on the activity of enzymes of different suppliers.</description>
+    </item>
+    
+    <item>
+      <title>Not Meet Objective</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/15_LIMS/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/15_LIMS/</guid>
+      <description>&lt;p&gt;EC4.2 Describe a situation where you encountered difficulties and did not meet a work objective.  Describe what happened and why you did not meet your objective.  Describe what you did during the situation.  Describe the impact of your actions and overall outcome.  Explain why you chose this example.  (Maximum 500 words.) [10 marks]&lt;/p&gt;
+&lt;p&gt;or
+Question: Tell me about a situation where you had to be persuasive and sell your idea to someone else.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Persuade Coworkers</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/16_persuade_coworkers/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/16_persuade_coworkers/</guid>
+      <description>&lt;p&gt;Describe for me a situation where you persuaded team members to do things your way.  What was the effect?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/17_tolerate_difference/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/17_tolerate_difference/</guid>
+      <description>&lt;p&gt;Tell me about a time when you were tolerant of an opinion that was different from yours.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>4 Levels of Communication</title>
+      <link>https://example.com/docs/03-Soft-Skills/02-Communication/50_4_levels_communication/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/02-Communication/50_4_levels_communication/</guid>
+      <description>Frameworks
+Level 1: Present info that others understand #  Level 2: Take other’s perspective when communicating #  [Convey an understanding …]
+[respond to questions of others]
+Situation #1: Discussion in tool-box meeting.
+Situation #2: LIMS configuration.
+Situation #3: Setup performance objectives
+Level 3: Adapt communication strategies to situations #  Situation #1: work with co-worker who was considered as a difficult personal. (Randy in mind)
+My attitude: focus on mutual goal and work together.</description>
+    </item>
+    
+    <item>
+      <title>Safety Measurements</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/90_safety_implementation/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/90_safety_implementation/</guid>
+      <description>1) Eyewash station expiry date,2) Electric cord (cracks),3) Showers,4) Fume hood velocity,5) no exceed acid, or exceed organic solvent bottles allowed in the fume hood, 6) Fire separation door (door automatic shut-down), 7) emergency lighting devices, 8) obstacle along the corridor or aisles, 9) blockage of fire extinguishers, 10) compatible storage of flammable liquids in liquid storage containers, 11) MSDS on the door, 12) compressed cylinders secure,  ordinary combustibles misplaced.</description>
+    </item>
+    
+    <item>
+      <title>Self-assessment for Data Scientists &amp; Analysts</title>
+      <link>https://example.com/docs/03-Soft-Skills/02-Communication/90_Communication_skills_data_analysis/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/02-Communication/90_Communication_skills_data_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/05_lead_change/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/05_lead_change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/posts/zzz/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/zzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Have you ever worked on a project that was a failure?</title>
+      <link>https://example.com/posts/Project_failure/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Project_failure/</guid>
+      <description>Hint: Life is full of ups and down, successes and failures. The role-coaster ride goes on for most of us, basically since the day we are born until the day we die. In some periods of life successes may prevail and we may feel like standing on the top of the world. But sooner or later a huge setback arrives, teaching us a lesson of humility and acceptance.
+Recruiters and hiring managers know that we learn the most important lessons when things do not go as planed.</description>
+    </item>
+    
+    <item>
+      <title>Unfavorable Policy</title>
+      <link>https://example.com/posts/Unfavorable_policy/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Unfavorable_policy/</guid>
+      <description>CEO, manager, programmer, manual worker – they all have to comply with policies, rules, and laws that govern different sectors of economy, as well as with the internal policies and procedures of an organization they work for.
+Not every rule makes sense, and not each procedure is the most effective one. Yet there are higher goals we have to keep in mind–public safety, environment, justice. Once you start your own business, you can set at least some rules.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/zzzz/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/08-City-of-Calgary/Interview/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/08_huddle_meeting/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/08_huddle_meeting/</guid>
+      <description>Brend, new hire, un-ionized ammonia, method development, Randy&amp;rsquo;s guidance, huddle meeting, SOP preparation.
+Randy returned in Sep, 2015.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/03-Soft-Skills/01-Leadership/zzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/01-Leadership/zzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/zzzz/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Humorous-anecdotes-N-quotes/02-Humorous-anecdotes/03-Messages/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Questions</title>
+      <link>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/01_all_questions/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/09-BV-Winnipeg/Interview/01_all_questions/</guid>
+      <description>The interview was held on June 27th, 2019 in the morning.
+Q#1: Briefly introduce your education, work experience, and why you left the job Response at the interview:
+M Sc. of Chemistry, B Sc. of chemistry.
+7 years in AECL, 4 years in Testmark/Accuracy
+I performed very well, but in 2015 company decided to cut off the analysis service, so I was laid-off.
+Q#2: Example of Safety Implementation Response at the interview:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/03-Soft-Skills/02-Communication/zzzz/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Soft-Skills/02-Communication/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Develop a Thick Skin When It Comes to Job Interviews and Rejections</title>
+      <link>https://example.com/posts/Interview_rejection/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Interview_rejection/</guid>
+      <description>A rejection is not easy to take if you take it personally, and it does feel personal. However, many factors go into the final decision. Some of them have nothing to do with you, but with circumstances. For example, someone from within the company got recommended for the same position by a manager from another department. Since that person already knows about the company and its culture and modus operandi, it may save the hiring manager time and cost in getting the internal candidate onboard and getting productive than hiring someone from outside.</description>
+    </item>
+    
+    <item>
+      <title>Interview Prep</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/1st_interveiw_prep/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/01-Interview-Prep/1st_interveiw_prep/</guid>
+      <description>First Interview Preparation #  Job Responsibilities #  ) data import and export
+) Design and deliver presentations, training sessions, and webinars
+Skills They are Looking For #  ) water science expertise
+) communication
+) data management expertise
+) systematic process to manage large environmental datasets
+) data wrangling and cleaning, ETL (extract, transform, load) processes
+Skills I can bring to the group #  ) Data wrangling, and presentation with R Markdown</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/posts/Deal_with_conflict/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Deal_with_conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>https://example.com/posts/Communication_MegaInterview/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Communication_MegaInterview/</guid>
+      <description>Effective communication skills are needed in every workplace. Communication skills are, therefore regarded as an essential skill by employers. When you’re going for a job interview, you can be sure that the interviewer will ask you about your communication skills. Communication job interview questions are asked in almost every interview, regardless of the position you’re applying for.
+The interviewer wants to test and evaluate your communication skills and find out how you handle challenging work situations.</description>
+    </item>
+    
+    <item>
+      <title>Commitment to Quality</title>
+      <link>https://example.com/posts/Commitment_quality_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Commitment_quality_competency_descriptions/</guid>
+      <description>• Seeks objectives for priorities as needed.
+• Sets timelines and work steps.
+• Uses time, energy and available resources efficiently and responsibly.
+• Stays focused on task to meet established deadlines.
+• Monitors the quality and timeliness of own work.
+• Brings work priority conflicts to the attention of a decision-maker.
+• Identifies when to stop investing time, energy and resources in a task.
+• Identifies who will do what and when, taking into account group members’ skills, needs and, if possible, preferences.</description>
+    </item>
+    
+    <item>
+      <title>Effective Communication</title>
+      <link>https://example.com/posts/Effective_communication_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Effective_communication_competency_descriptions/</guid>
+      <description>• Seeks the input of others.
+• Listens to acquire essential information.
+• Asks questions to confirm own understanding.
+• Seeks to understand others’ frame of reference.
+• Conveys messages clearly and concisely using appropriate vocabulary and a respectful tone.
+• Displays consistency between verbal and non-verbal message.
+• Listens without interrupting or judging.
+• Demonstrates empathy (e.g. acknowledges others’ feelings and concerns and expresses understanding of others’ situation).
+• Accurately summarizes others’ key points and takes them into account in one’s own communications.</description>
+    </item>
+    
+    <item>
+      <title>Integrity and Respect</title>
+      <link>https://example.com/posts/Integrity_respect_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Integrity_respect_competency_descriptions/</guid>
+      <description>• Acts in ways that are consistent with what one says.
+• Interacts professionally with others at all times (i.e. is courteous, prompt and helpful).
+• Honours own commitments.
+• Takes ownership for own mistakes.
+• Maintains personal confidences and does not contribute to gossip or rumours.
+• Communicates intentions, ideas and feelings openly and directly.
+• Listens openly to the opinions of others and respects different viewpoints.
+• Addresses misunderstandings directly with those involved.</description>
+    </item>
+    
+    <item>
+      <title>Managing People</title>
+      <link>https://example.com/posts/Managing_people_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Managing_people_competency_descriptions/</guid>
+      <description>• Works one-on-one with direct reports.
+• Demonstrates a positive attitude and leadership towards own goals and the goals of others.
+• Monitors and addresses workplace wellbeing.
+• Communicates openly and honestly.
+• Shares useful and relevant information and explains the rationale behind decisions.
+• Encourages individual and team input.
+• Manages workload.
+• Balances the needs of employees and the organization.
+• Manages labour relations issues decisively and effectively and secures outside intervention if required.</description>
+    </item>
+    
+    <item>
+      <title>Plan Complex Work Tasks</title>
+      <link>https://example.com/posts/Plan_multiple_projects/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Plan_multiple_projects/</guid>
+      <description>• Seeks objectives for priorities as needed.
+• Sets timelines and work steps.
+• Uses time, energy and available resources efficiently and responsibly.
+• Stays focused on task to meet established deadlines.
+• Monitors the quality and timeliness of own work.
+• Brings work priority conflicts to the attention of a decision-maker.
+• Identifies who will do what and when, taking into account group members’ skills, needs and, if possible, preferences.</description>
+    </item>
+    
+    <item>
+      <title>Planning, Organizing, and Coordinating</title>
+      <link>https://example.com/posts/Planning_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Planning_competency_descriptions/</guid>
+      <description>• Seeks objectives for priorities as needed.
+• Sets timelines and work steps.
+• Uses time, energy and available resources efficiently and responsibly.
+• Stays focused on task to meet established deadlines.
+• Monitors the quality and timeliness of own work.
+• Brings work priority conflicts to the attention of a decision-maker.
+• Identifies when to stop investing time, energy and resources in a task.
+• Identifies who will do what and when, taking into account group members’ skills, needs and, if possible, preferences.</description>
+    </item>
+    
+    <item>
+      <title>Results Oriented</title>
+      <link>https://example.com/posts/Results_oriented_competency_descriptions/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Results_oriented_competency_descriptions/</guid>
+      <description>• Demonstrates understanding of, and works to meet, predetermined standards.
+• Maintains focus on desired result.
+• Promptly and efficiently completes work assignments.
+• Defines ambitious but realistic goals with specific objectives, and measures own results against them.
+• Evaluates own progress and adjusts actions to meet expectations • Helps others improve their efficiency.
+• Helps others to maintain focus on the achievement of established goals or solutions.
+• Helps others complete tasks or projects so that customer expectations and organizational requirements are met or exceeded.</description>
+    </item>
+    
+    <item>
+      <title>Online Interview Questions</title>
+      <link>https://example.com/posts/Interview_questions_online_pool/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Interview_questions_online_pool/</guid>
+      <description>Where do you see yourself five years from now? &amp;ldquo;In five years I hope to be working with an employer in an increasingly responsible position, that enables me to utilize my talents and work closely with my colleagues in solving important problems. I see myself taking on new and exciting challenges in an enjoyable environment and hopefully this will be with your company.&amp;rdquo;
+ Describe a major goal you&amp;rsquo;ve set for yourself recently.</description>
+    </item>
+    
+    <item>
+      <title>25 Supervisor Interview Q&amp;A</title>
+      <link>https://example.com/posts/25_supervisor_interview_QA/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/25_supervisor_interview_QA/</guid>
+      <description>What characterize a great supervisor? #  A great supervisor can motivate their subordinates, they go by example, they have good observation skills, and they can utilize the strengths of the people they lead in their teams. Alternatively you can say that great supervisor maintains the highest possible productivity and motivation of the team (or of each team member), and helps the company to achieve their goals on an ongoing basis.</description>
+    </item>
+    
+    <item>
+      <title>How Did You Lead A Team?</title>
+      <link>https://example.com/posts/Supervise_a_team/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Supervise_a_team/</guid>
+      <description>A Leader&amp;rsquo;s Character #  What it is? #  a) Care about people
+i) care about each and every one
+example: recognize a technologist performance
+ii) care about the team
+example: none
+b) Be patient
+be patient in handling conflicts. Conflict resolution requires actions from both sides.
+be patient in improving performance. Would take more years to get there.
+c) Not give up could be frustrated when helping difficult people.</description>
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/02-Interview/1st_interveiw/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/03-Gordon-Foundation/02-Interview/1st_interveiw/</guid>
+      <description>Interview Questions They Asked #    why don&amp;rsquo;t you start by telling us a little bit about your career path?
+  Have you done field work as well like monitoring of like the data collection?
+  in terms of the position what what interests you the most, from what you saw the description?
+  what do you consider as your greatest achievement professionally?
+  Any sort of experience that you have with working with external stakeholders that have you?</description>
+    </item>
+    
+    <item>
+      <title>Interview Questions</title>
+      <link>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/Interview-Questions/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/05-NAIT/Interview-Prep/Interview-Questions/</guid>
+      <description>First Interview #  Interview Questions Prepared #   Tell me about yourself My field of study in university is Chemistry, in graduate school my study is polymer chemistry. I used gel permeation chromatography (GPC), Differential Scanning Calorimetry (DSC) and Thermalgravimetric Analysis (TGA) to study characterization of polymer materials.  After graduation, I developed skills and experience in chemical analysis and lab accreditation in Total and SGS in China since year 2000.</description>
+    </item>
+    
+    <item>
+      <title>Deal With Difficult People</title>
+      <link>https://example.com/posts/Difficult_people_mocking_01/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Difficult_people_mocking_01/</guid>
+      <description>Q: what is the most challenging issue?
+The person was not up to the task [power hungry, back-stabbing, knew who to do, but procrastinated the work until last minute].
+I tried to put the requests on the performance appraisal.
+I used to label them difficult people. I saw them as different people now.
+really does not matter at all (at the end of the day.)
+ Get the job done is complicated, get the job done with empowering people is complex.</description>
+    </item>
+    
+    <item>
+      <title>Lab Accreditation</title>
+      <link>https://example.com/posts/Lab_accreditation/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Lab_accreditation/</guid>
+      <description>Q: Why is lab accreditation so important?
+A:
+What is lab accreditation? #  ISO 17025 is the standard for laboratory competence.
+It is about lab quality management system.
+PDCA: Plan-Do-Check-Act
+confidence to the data.
+What does a lab get out of lab accreditation? #  for lab, management component and technical component.
+By following the requirements, methods were developed and validated. Run PT samples.
+, continuous improvement.
+What does a client get out of lab accreditation?</description>
+    </item>
+    
+    <item>
+      <title>Solve Complex Issue</title>
+      <link>https://example.com/posts/Solve_complex_issue_tech/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Solve_complex_issue_tech/</guid>
+      <description>Situation: LifeLabs, production was halted. Need to get it back.
+Tasks: 1) look for alternative supplies, 2) do experiments for verification
+Actions: 1) intensive experiments, variables in consideration, proof of concept, 2) executed plan, but problems occurred in investigation. solved it,
+Results: 1) made progress in investigation; 2) optimized the automated SPE.</description>
+    </item>
+    
+    <item>
+      <title>Stress Management</title>
+      <link>https://example.com/posts/Stressful_Aspect_of_the_Role/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Stressful_Aspect_of_the_Role/</guid>
+      <description>A: Stress is not a failure.</description>
+    </item>
+    
+    <item>
+      <title>Supervision Summary</title>
+      <link>https://example.com/posts/Supervision_summary/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Supervision_summary/</guid>
+      <description>Have goal(s) / vision(s) #  Goals could be our challenges to be overcome.
+Goals could be the next level of greatness.
+How do we get there / How do we achieve the goal? #  1) Plan ahead #   short term and long term,
+2) build a team #  “If you want to go fast, go alone; if you want to go far, go together&amp;quot; African Proverb” by Paul Oberschneider</description>
+    </item>
+    
+    <item>
+      <title>Tell Me About Yourself</title>
+      <link>https://example.com/posts/Tell_me_about_yourself_CGC/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Tell_me_about_yourself_CGC/</guid>
+      <description>Points:
+ 6 years of supervisory experience in public and private sectors.
+rewarding experience. build up people, the score will take care of itself.   </description>
+    </item>
+    
+    <item>
+      <title>Why Are You The Best Fit For Supervisor?</title>
+      <link>https://example.com/posts/Why_is_the_best_fit_for_supervisor/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_is_the_best_fit_for_supervisor/</guid>
+      <description>My strength #  My strength: Commitment to team success (1), organization/plan, monitoring, deliver constructive feedback, build up others, build trust in relationship, hold myself accountable for mistakes rather than blame team members.
+My experience #  Experience in supervision in unionized environment.
+Experience in planning, assigning tasks, monitoring performance.
+Experience in motivation,
+Misc. #  CGC: Chemist [2022.06]
+Chalk River: Dosimetry second head [2016.09]
+Koch: Lab manager [2018.06]
+  Commitment to team success: run the business as if it is my business.</description>
+    </item>
+    
+    <item>
+      <title>Continuous Professional Learning</title>
+      <link>https://example.com/posts/Continuous_learning_competency_descriptions/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Continuous_learning_competency_descriptions/</guid>
+      <description>Continuously expanding and applying technical expertise.
+Level 1
+Increases professional capacity and accesses the knowledge of others
+ Continually expands level of knowledge in relevant fields of expertise. Remains up to date on new sources of information. Actively pursues new ideas and options. Continually draws on the knowledge of others through networking, teamwork, partnering and reading.  Level 2
+Engages in activities that promote learning
+ Considers the potential for new learning in assessing projects and collaborative arrangements.</description>
+    </item>
+    
+    <item>
+      <title>Biggest Success</title>
+      <link>https://example.com/posts/Biggest_success/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Biggest_success/</guid>
+      <description>Q: What has been your biggest success so far in your career?
+Good news – you’ve just gained temporary clearance to blow your own trumpet. Although talking about self-proclaimed greatness is something many people find difficult, in an interview, it’s sometimes the only way to make yourself memorable. It’s also the key difference between career progression and career stagnation.
+So set your inhibitions to one side for the sake of this question.</description>
+    </item>
+    
+    <item>
+      <title>Deal with a Difficult Employee</title>
+      <link>https://example.com/posts/Difficult_people_tip_01/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Difficult_people_tip_01/</guid>
+      <description>Q: Tell me about a time you had to deal with a difficult employee
+Difficult people are an inevitable part of life – and as a manager, your ability to deal with them in the right way is extra important.
+You’d be surprised at the amount of useful skills you can demonstrate in answering this question well – as long as you adequately describe the resolution (and its impact), as well as the problem.</description>
+    </item>
+    
+    <item>
+      <title>Disagree With Your Supervisor</title>
+      <link>https://example.com/posts/Disagree_with_supervisor/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Disagree_with_supervisor/</guid>
+      <description>Q: What are some of the things you and your supervisor have disagreed on?
+Situation #1: in hiring a quality officer
+Disagree on:
+I: poor qualification
+Supervisor: better personality
+Consequence: I respected my supervisor. It turned out a good hire.
+Situation #2: Safety moment in the meeting
+Disagree with safety practice.</description>
+    </item>
+    
+    <item>
+      <title>How Did you Make An Important Decision?</title>
+      <link>https://example.com/posts/Make_important_decision/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Make_important_decision/</guid>
+      <description>Q: Give me an example of a time you had to make an important decision. How did you make the decision? How does it affect you today?
+  Went to a Toastmasters club.
+  Took courses on data science on Data Camp.
+  Took the job at LifeLabs.
+  Decide to stay in the lab, not go to the compliance section.
+  Answer these questions in the answer: What motivated me?</description>
+    </item>
+    
+    <item>
+      <title>Make A Decision With Limited Information</title>
+      <link>https://example.com/posts/Decision_without_info/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Decision_without_info/</guid>
+      <description>Q: Tell me about a time when you had to make a decision, but didn’t have all the information you needed.
+Sample excellent response:
+I had to make a decision recently between two configurations on one of our routers. Time was quickly moving away from me, and I had to have all the equipment back up in a matter of minutes. I chose the configuration that I had the most data on because I knew at least that I could better troubleshoot it if there was a problem.</description>
+    </item>
+    
+    <item>
+      <title>Strategies Used to Motivate a Team</title>
+      <link>https://example.com/posts/Strategy_motivate_staff/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Strategy_motivate_staff/</guid>
+      <description>Q: What strategies do you use to motivate a team?
+The most important thing to remember when answering this question is that you should always have more than one strategy.
+Everyone has different work styles, personalities, and performance levels, meaning how they respond to motivation differs too. In other words, it’s never a one-approach-fits-all when it comes to team drive.
+To let the interviewer know you understand this, explain that you always take the time to get to know your team members in order to understand how they work.</description>
+    </item>
+    
+    <item>
+      <title>A Team Project Failure</title>
+      <link>https://example.com/posts/Team_failure_mocking_questions/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Team_failure_mocking_questions/</guid>
+      <description>Q: Tell me about a time when a team project failed. A: similar situation.
+Situation and tasks: did not deliver analysis reports.
+Actions: Business analysis, decide to hire staff, and worked with union to finalize the process. Streamline data processing.
+Results: went through smoothly next year.</description>
+    </item>
+    
+    <item>
+      <title>Ask Assistance Beyond My Job Description</title>
+      <link>https://example.com/posts/Ask_assistance_beyond_my_job/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Ask_assistance_beyond_my_job/</guid>
+      <description>Q: If someone asked you for assistance with a matter that is outside the parameters of your job description, what would you do?
+Firstly ask their working environment.
+Situation and tasks: Ernie, can&amp;rsquo;t find a file in the Document management system, AECL Actions: Found the file for him, explained how the document management system works, prepared a cheatsheet for him to search on his own next time. Results: I received a kudoo.</description>
+    </item>
+    
+    <item>
+      <title>Connect Individuals From Different Backgrounds or Cultures</title>
+      <link>https://example.com/posts/Connect_people/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Connect_people/</guid>
+      <description>Q: Recount an occasion when you were able to connect individuals from different backgrounds or cultures in a unified organizational effort.
+Situation and tasks: visiting, Toastmasters clubs @ Beausejour
+Actions: chat after event with Dennis (who is an education assistant)
+Results: Built relationship</description>
+    </item>
+    
+    <item>
+      <title>Different Ways of Communication</title>
+      <link>https://example.com/posts/Ways_of_communication/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Ways_of_communication/</guid>
+      <description>Q: In terms of communication (face-to-face, phone, e-mail, instant messaging, texting), which is your preference for collaboration? Why?
+A: IIt depends. donot have preference. email provides evidence, but lack of emotion. Face-to-face is more effective, and can see body language.</description>
+    </item>
+    
+    <item>
+      <title>Lack of Contribution</title>
+      <link>https://example.com/posts/Lack_of_contribution/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Lack_of_contribution/</guid>
+      <description>Q: If you had a problem with a team member’s lack of contribution to a project, what would you do?
+Situation and tasks: A Quality officer. claimed to be very busy, and did not do what they suppose to do, liaison with CALA. Actions: With their permission, I became the contact person. Got th job done. Results: After audit was done, I raised my concern to my section head.</description>
+    </item>
+    
+    <item>
+      <title>Lack of Staff</title>
+      <link>https://example.com/posts/Lack_of_staff/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Lack_of_staff/</guid>
+      <description>Q: There’s a deadline to be met. The team members have an excellent grasp of their positions, but one member is absent from work, and no one can do her job well. What would you do?
+Situation and tasks: Paul, Achilles Tendon was ruptured, AECL Actions: worked with union, looked for possibility to break the fine line between two unions, to get retiree, to borrow one staff from a sister lab.</description>
+    </item>
+    
+    <item>
+      <title>Relationship Management Questions</title>
+      <link>https://example.com/posts/Relationship_management_questions/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Relationship_management_questions/</guid>
+      <description>Source: Relationship Management
+Collaboration and Interpersonal Skills #  Behavioral #  Give me an example of a time when you had to deal with a difficult co-worker. How did you handle the situation?
+Describe a difficult time you have had dealing with an employee or customer. Why was it difficult? How did you handle it? What was the outcome?
+Describe a time when you were instrumental in creating or improving a good relationship with another department within your company.</description>
+    </item>
+    
+    <item>
+      <title>What are Challenges or Adjustments for Us</title>
+      <link>https://example.com/posts/Challenges_from_my_perspective/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Challenges_from_my_perspective/</guid>
+      <description>Q: Describe what you foresee to be as challenges or adjustments for us in this new role?
+A: team dynamics, learn to run new instrument, teaching,</description>
+    </item>
+    
+    <item>
+      <title>Deal With Challenge /Disagreement Among Coworkers</title>
+      <link>https://example.com/posts/Deal_with_disagreement/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Deal_with_disagreement/</guid>
+      <description>Q: (Interactive Communication CGC): Deal with challenge/disagreement among coworkers
+(CGC, ISO quality officer, 2016.10)
+tips: what skills did I have, use?
+situation: A coworker raised voice, and commented that I had no clue on ICP analysis.
+[Comments: I raised a red flag. 大忌]
+ Revisit 2022.05
+It is a situational question. Use different approaches when dealing with different personality.
+ Scenario #1:
+Situation and tasks: Kent Feluschko, training, AECL
+Actions: one-on-one discussion, took initiative, Results: problem solved, relationship built, no hidden agenda.</description>
+    </item>
+    
+    <item>
+      <title>Elicit comments or feedback</title>
+      <link>https://example.com/posts/Elicit_comments/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Elicit_comments/</guid>
+      <description>Q: It is important to be receptive to others’ ideas and opinions. Tell us about a time when you had to elicit comments or feedback from another team member on an important issue?
+Probing Questions: •	How did you let them know that you were interested in what they had to say?
+•	What questions did you ask?
+•	In the end did you have a good idea of that person’s ideas about the issue?</description>
+    </item>
+    
+    <item>
+      <title>Greeting</title>
+      <link>https://example.com/posts/Greeting/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Greeting/</guid>
+      <description>Ice-breaking
+今天Kevin YIP 跟我做了一个mocking interview。他对我的帮助比Garth和Tony的要更贴近我一些，还是我和Kevin个性比较接近吧。
+开场破冰要显得自然些。
+This interview will start at 7:30am. I would say something like: Thanks for inviting an interview with you in the early morning. &amp;ldquo;early&amp;rdquo; does not mean &amp;ldquo;early&amp;rdquo; to me. I am an early person. It does not bother me at all.</description>
+    </item>
+    
+    <item>
+      <title>How Did you Hear About This Position?</title>
+      <link>https://example.com/posts/How_did_you_hear_about_this_position/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/How_did_you_hear_about_this_position/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lay Off Coworkers Before Due Date</title>
+      <link>https://example.com/posts/Lay_off_before_project_due_date/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Lay_off_before_project_due_date/</guid>
+      <description>一起做项目的同事在离项目截至日期前三个月被告知裁员，你如何应对？
+Revision 2018.10
+#1 Teamwork.
+#2 Result oriented.
+#3 Empathy.   Original 2016.10
+(CGC, ISO quality officer, 2016.10)
+I did not read the question carefully at the first place. Then I responded as follows:
+I would comfort this coworker with compassion, and encourage him/her to be prepared for the bright future.
+I could do better with the following response:
+it would be a better time to show profession; show integrity.</description>
+    </item>
+    
+    <item>
+      <title>Make a decision Quickly</title>
+      <link>https://example.com/posts/Make_quick_decision/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Make_quick_decision/</guid>
+      <description>Q: Give an example of a time in which you had to be relatively quick in coming to a decision.
+[collected from 150 interview questions]
+Sample excellent response:
+This happens often in the IT industry, but one recent example was when we had a core backbone switch die. It died at the worst possible time — during exams — as they always seem to do, and I needed to get it back up and running quickly.</description>
+    </item>
+    
+    <item>
+      <title>Steps to Follow Before Making a Decision</title>
+      <link>https://example.com/posts/Steps_of_making_decision/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Steps_of_making_decision/</guid>
+      <description>What steps do you follow to study a problem before making a decision.
+[collected from 150 interview questions]
+Sample excellent response:
+Following standard models for problem-solving and decision-making can be very helpful. Here are the steps and how they helped me solve a problem with a group project:
+ Define the problem to be solved and decision to be made. For a project in an introductory management class, the assignment was to report on the corporate structure and financial situation of a couple of companies.</description>
+    </item>
+    
+    <item>
+      <title>Tell Me About Yourself Tips</title>
+      <link>https://example.com/posts/Tell_me_about_yourself_tips/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Tell_me_about_yourself_tips/</guid>
+      <description>Approach #1: Summarize my resume with the focus on their business in mind.
+Approach #2: Answer what (skills) could you bring to the business?
+Approach #3: Answer why should we hire you?
+Approach #4: Answer to why do you want to work here.
+Show them my interest,
+Approach #5: Why are you the best fit?
+) Beside I provide something in common, I provide something that they are missing, and that could strengthen their position and could have synergy happen.</description>
+    </item>
+    
+    <item>
+      <title>Use Written Communication Skills</title>
+      <link>https://example.com/posts/Use_written_communication_skills/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Use_written_communication_skills/</guid>
+      <description>Tell me about a time in which you had to use your written communication skills in order to get an important point across. [from Tony Fraser]
+A: Used for seeking clarification of message [a three-way communication].</description>
+    </item>
+    
+    <item>
+      <title>Why Are You the Best Fit?</title>
+      <link>https://example.com/posts/Why_are_you_the_best_fit_tips/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_are_you_the_best_fit_tips/</guid>
+      <description>The key word is: &amp;ldquo;fit&amp;rdquo;.
+) Fit the team dynamics. Character, easy to work with.
+) Fit the team to create synergy (1+1 &amp;gt; 2).
+)</description>
+    </item>
+    
+    <item>
+      <title>Why Did You Leave?</title>
+      <link>https://example.com/posts/Why_did_you_leave_Sysmex_prep/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_did_you_leave_Sysmex_prep/</guid>
+      <description>Why did you leave LifeLabs?
+not asked to me.
+It was a business decision to &amp;lsquo;shut down&amp;rsquo; the assay.</description>
+    </item>
+    
+    <item>
+      <title>Work With People From Different Sections</title>
+      <link>https://example.com/posts/Work_with_people_from_different_sections/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Work_with_people_from_different_sections/</guid>
+      <description>Q: Recall an occasion when you had to work with people from different divisions to accomplish a single goal.
+Situation and Tasks: year 2015, our lab at Whiteshell was an accredited lab. There is lab quality management system. I was the author of our quality manual. The coorperate quality officer requested to revise the quality manual for aligning with cooperate quality manual, so our quality manual became a component of quality system.</description>
+    </item>
+    
+    <item>
+      <title>Challenging Two-way Communication</title>
+      <link>https://example.com/posts/Challenging_2_way_communication/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Challenging_2_way_communication/</guid>
+      <description>Give us an example of a time when establishing two-way communication with an individual or group was especially challenging.
+listen, understand, communicates openly with them, recognizes their contribution, and gives feedback and encouragement that enhance their job performance, do not take the issue personally. Be assertive
+Revision: 2022.05.31 Situation:
+Revision: 2018.10.17 Situation: Chantelle. She said that she knew everything about ICP-OES. When I pointed out errors on the spreadsheets or reports, She got offended.</description>
+    </item>
+    
+    <item>
+      <title>How Soon Would You Be Able To Start?</title>
+      <link>https://example.com/posts/When_to_join_Sysmex/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/When_to_join_Sysmex/</guid>
+      <description>I told them within a couple of weeks after signing the contract.</description>
+    </item>
+    
+    <item>
+      <title>Reason to Change Career</title>
+      <link>https://example.com/posts/Reason_to_change_career/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Reason_to_change_career/</guid>
+      <description>Since you&amp;rsquo;ve been in the labs, what&amp;rsquo;s triggered an interest to transition over to the instrumentation side?
+[ customer satisfaction is my fulfillment.
+I have interest in maintain instrument performance. I could do good job for one business, I could do better job for many business. ]</description>
+    </item>
+    
+    <item>
+      <title>Received Two Different Orders from Two Bosses</title>
+      <link>https://example.com/posts/Receive_2_different_orders_from_two_bosses/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Receive_2_different_orders_from_two_bosses/</guid>
+      <description>clarify on one-on-one, call all together to clarify if needed.
+ https://www.wikihow.com/Report-To-Multiple-Bosses</description>
+    </item>
+    
+    <item>
+      <title>Why Are You Interested in This Job?</title>
+      <link>https://example.com/posts/Why_interest_in_this_job_tips/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_interest_in_this_job_tips/</guid>
+      <description>) Technical side: your competency.
+) Business side: good company.
+) Personal side: specifically when moving is requested.</description>
+    </item>
+    
+    <item>
+      <title>Tell me about yourself</title>
+      <link>https://example.com/posts/Tell_me_about_yourself_Gordon_prep/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Tell_me_about_yourself_Gordon_prep/</guid>
+      <description>Approach #1: summarize my resume with the focus on their business in mind. high level: 14 years of experience in laboratory analysis for environmental monitoring and drinking water safety, and learned R. My experience helps me understand stakeholder field and communicate stakeholders well.
+low level: Data processing, interpretation, and presentation.
+ Involvement in the EDMS project at AECL, similar to DataStream&amp;rsquo;s data schema.
+) Experience with Ontario environmental data management system.</description>
+    </item>
+    
+    <item>
+      <title>Why Are You Interested in Applying for This Job?</title>
+      <link>https://example.com/posts/Why_interest_in_this_job_Gordon_prep/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_interest_in_this_job_Gordon_prep/</guid>
+      <description>) Point #1: I can do the job. I enjoy in what I am doing.
+) Skills and qualifications: I have master degree, work experience in environmental monitoring, proficiency with Excel, proficiency in R. My project report would demonstrate my presentation and communication skills.
+)</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)fit &amp;lt;- lm(dist ~ speed, data = cars)fitIncluding PlotsYou can also embed plots. See Figure 1 for example:
+par(mar = c(0, 1, 0, 1))pie(c(280, 60, 20),c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),init.</description>
     </item>
     
     <item>
@@ -71,70 +2797,70 @@ Follow the following steps:</description>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/example/collapsed/3rd-level/4th-level/</link>
+      <link>https://example.com/docs/98-example/collapsed/3rd-level/4th-level/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/example/collapsed/3rd-level/4th-level/</guid>
+      <guid>https://example.com/docs/98-example/collapsed/3rd-level/4th-level/</guid>
       <description>4th Level of Menu #  Caesorum illa tu sentit micat vestes papyriferi #  Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
 Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/example/hidden/</link>
+      <link>https://example.com/docs/98-example/hidden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/example/hidden/</guid>
+      <guid>https://example.com/docs/98-example/hidden/</guid>
       <description>This page is hidden in menu #  Quondam non pater est dignior ille Eurotas #  Latent te facies #  Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
  Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona #  O fallor in sustinui iussorum equidem.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/buttons/</link>
+      <link>https://example.com/docs/99-shortcodes/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/buttons/</guid>
+      <guid>https://example.com/docs/99-shortcodes/buttons/</guid>
       <description>Buttons #  Buttons are styled links that can lead to local page or external link.
 Example #  {{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}}  Get Home  Contribute  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/columns/</link>
+      <link>https://example.com/docs/99-shortcodes/columns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/columns/</guid>
+      <guid>https://example.com/docs/99-shortcodes/columns/</guid>
       <description>Columns #  Columns help organize shorter pieces of content horizontally for readability.
 {{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example #  Left Content #  Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/details/</link>
+      <link>https://example.com/docs/99-shortcodes/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/details/</guid>
+      <guid>https://example.com/docs/99-shortcodes/details/</guid>
       <description>Details #  Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
 Example #  {{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} Title Markdown content #  Lorem markdownum insigne&amp;hellip;   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/expand/</link>
+      <link>https://example.com/docs/99-shortcodes/expand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/expand/</guid>
+      <guid>https://example.com/docs/99-shortcodes/expand/</guid>
       <description>Expand #  Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
 Example #  Default #  {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}}   Expand ↕  Markdown content Lorem markdownum insigne&amp;hellip;    With Custom Label #  {{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/hints/</link>
+      <link>https://example.com/docs/99-shortcodes/hints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/hints/</guid>
+      <guid>https://example.com/docs/99-shortcodes/hints/</guid>
       <description>Hints #  Hint shortcode can be used as hint/alerts/notification block.
 There are 3 colors to choose: info, warning and danger.
 {{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example #  Markdown content
@@ -143,20 +2869,20 @@ Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat str
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/katex/</link>
+      <link>https://example.com/docs/99-shortcodes/katex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/katex/</guid>
+      <guid>https://example.com/docs/99-shortcodes/katex/</guid>
       <description>KaTeX #  KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
 Example #  {{&amp;lt; katex [display] [class=&amp;#34;text-center&amp;#34;] &amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt; /katex &amp;gt;}}     \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]    Display Mode Example #  Here is some inline example:  \(\pi(x)\)  , rendered in the same line. And below is display example, having display: block  \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]  Text continues here.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/mermaid/</link>
+      <link>https://example.com/docs/99-shortcodes/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/mermaid/</guid>
+      <guid>https://example.com/docs/99-shortcodes/mermaid/</guid>
       <description>Mermaid Chart #   MermaidJS is library for generating svg charts and diagrams from text.
 Override Mermaid Initialization Config
 To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!
@@ -165,30 +2891,30 @@ To override the initialization config for Mermaid, create a mermaid.json file in
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/section/first-page/</link>
+      <link>https://example.com/docs/99-shortcodes/section/first-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/section/first-page/</guid>
-      <description>First page #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://example.com/docs/99-shortcodes/section/first-page/</guid>
+      <description>First page #  brief 1
+details 1</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/section/second-page/</link>
+      <link>https://example.com/docs/99-shortcodes/section/second-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/section/second-page/</guid>
-      <description>Second Page #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://example.com/docs/99-shortcodes/section/second-page/</guid>
+      <description>Second Page #  brief 2
+detail 2</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/tabs/</link>
+      <link>https://example.com/docs/99-shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/tabs/</guid>
+      <guid>https://example.com/docs/99-shortcodes/tabs/</guid>
       <description>Tabs #  Tabs let you organize content by context, for example installation instructions for each supported platform.
 {{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example #  MacOS MacOS #  This is tab MacOS content.
 Lorem markdownum insigne. Olympo signis Delphis!</description>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Take risks on Mianshi Handbook</title>
+    <link>https://example.com/tags/Take-risks/</link>
+    <description>Recent content in Take risks on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Take-risks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chemical Hydrolysis Approach</title>
+      <link>https://example.com/docs/02-Working-Situations/05-LifeLabs/01_Chemical_hydrolysis_approach/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/05-LifeLabs/01_Chemical_hydrolysis_approach/</guid>
+      <description>The supply of enzymes used for hydrolyzing steroid conjugates was short a couple of months after I joined LifeLabs. I was requested to investigate alternative materials to replace enzymes. The conventional approach was to use similar enzymes from different suppliers. All we needed to do was to run verification experiments, finding the volume of enzymes we use based on the activity of enzymes of different suppliers.
+The experiments turned out the enzyme substitute was not acceptable.</description>
+    </item>
+    
+  </channel>
+</rss>

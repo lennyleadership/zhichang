@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accountability on Mianshi Handbook</title>
+    <link>https://example.com/tags/Accountability/</link>
+    <description>Recent content in Accountability on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Accountability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Team Project Failure</title>
+      <link>https://example.com/posts/Team_failure_mocking_questions/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Team_failure_mocking_questions/</guid>
+      <description>Q: Tell me about a time when a team project failed. A: similar situation.
+Situation and tasks: did not deliver analysis reports.
+Actions: Business analysis, decide to hire staff, and worked with union to finalize the process. Streamline data processing.
+Results: went through smoothly next year.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivation on Mianshi Handbook</title>
+    <link>https://example.com/tags/Motivation/</link>
+    <description>Recent content in Motivation on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Motivation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strategies Used to Motivate a Team</title>
+      <link>https://example.com/posts/Strategy_motivate_staff/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Strategy_motivate_staff/</guid>
+      <description>Q: What strategies do you use to motivate a team?
+The most important thing to remember when answering this question is that you should always have more than one strategy.
+Everyone has different work styles, personalities, and performance levels, meaning how they respond to motivation differs too. In other words, it’s never a one-approach-fits-all when it comes to team drive.
+To let the interviewer know you understand this, explain that you always take the time to get to know your team members in order to understand how they work.</description>
+    </item>
+    
+  </channel>
+</rss>

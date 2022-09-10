@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mistakes on Mianshi Handbook</title>
+    <link>https://example.com/tags/Mistakes/</link>
+    <description>Recent content in Mistakes on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Mistakes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attention to Detail</title>
+      <link>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Attention_detail_healthcanada/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/02-Health-Canada-Chemist/02-Interview/Attention_detail_healthcanada/</guid>
+      <description>Location: Health_Canada_interview-3, 1:00:16
+DEFINITION
+Demonstrates conscientiousness, consistency and thoroughness by verifying work, information, roles and functions.
+QUESTIONS
+Describe a situation where you did not pay as close attention to the details as you should have.
+ What was the consequence of the error? What did you do to resolve the situation? What would you do differently the next time?  RESPONSE
+[Situation: LifeLabs] experiments of optimizing SPE.
+[Task / Procedure] test 4 SPE columns, 3 washing reagents, and 2 eluting reagents.</description>
+    </item>
+    
+    <item>
+      <title>Commitment to Quality</title>
+      <link>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/03_Commitment_quality_CGC_2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Interview-Experience/01-CGC-Chemist_2022/01-Take-Home-Exam/03_Commitment_quality_CGC_2022/</guid>
+      <description>&lt;p&gt;EC2.1 Sometimes, if we rush, we can make mistakes or overlook a mistake.  Describe a time that you made a mistake and had to act to prevent further impact.  (Maximum 500 words.)
+In your response:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Describe the situation and its complexity.&lt;/li&gt;
+&lt;li&gt;Describe the mistake you made and how you noticed the error.&lt;/li&gt;
+&lt;li&gt;Describe the steps you took to mitigate further impact of the error.&lt;/li&gt;
+&lt;li&gt;Describe what the impact would have been if the error wasn&amp;rsquo;t noticed.&lt;/li&gt;
+&lt;li&gt;Discuss how often this mistake could happen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Please provide the contact information for someone that can corroborate your response.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

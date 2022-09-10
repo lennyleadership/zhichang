@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview Preparation on Mianshi Handbook</title>
+    <link>https://example.com/tags/Interview-Preparation/</link>
+    <description>Recent content in Interview Preparation on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Interview-Preparation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Did You Leave?</title>
+      <link>https://example.com/posts/Why_did_you_leave_Sysmex_prep/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_did_you_leave_Sysmex_prep/</guid>
+      <description>Why did you leave LifeLabs?
+not asked to me.
+It was a business decision to &amp;lsquo;shut down&amp;rsquo; the assay.</description>
+    </item>
+    
+    <item>
+      <title>Why Are You Interested in Applying for This Job?</title>
+      <link>https://example.com/posts/Why_interest_in_this_job_Gordon_prep/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/Why_interest_in_this_job_Gordon_prep/</guid>
+      <description>) Point #1: I can do the job. I enjoy in what I am doing.
+) Skills and qualifications: I have master degree, work experience in environmental monitoring, proficiency with Excel, proficiency in R. My project report would demonstrate my presentation and communication skills.
+)</description>
+    </item>
+    
+  </channel>
+</rss>

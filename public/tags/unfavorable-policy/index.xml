@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unfavorable policy on Mianshi Handbook</title>
+    <link>https://example.com/tags/unfavorable-policy/</link>
+    <description>Recent content in unfavorable policy on Mianshi Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/unfavorable-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implement Unfavorable Policy</title>
+      <link>https://example.com/docs/02-Working-Situations/04-AECL/06_unfavorable_policy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Working-Situations/04-AECL/06_unfavorable_policy/</guid>
+      <description>approved timecard.
+To ensure we have a consistent approach on the use of sick leave for medical appointment.
+HR has advised that sick leave should be used for the time spent at medical appointment and the travel time to and from the appointment only (normally 1 to 4 hours). If the employee decides to take the remainder of the day off, it must be pre-approved and it should be recorded as personal leave (banked time taken, personal business, vacation).</description>
+    </item>
+    
+  </channel>
+</rss>
