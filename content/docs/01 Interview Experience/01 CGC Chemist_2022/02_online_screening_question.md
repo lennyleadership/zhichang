@@ -20,7 +20,8 @@ toc: true
 
 <br />  
 <br />  
-**1. Do you have a degree from a recognized post-secondary institution with specialization in chemistry?**   
+**1. Do you have a degree from a recognized post-secondary institution with specialization in chemistry?**    
+
 ---   
 Note:   
 The courses for the specialization must be acceptable and must have been taken at a recognized post-secondary institution, but not necessarily within a degree program in the required specialization.  
@@ -33,6 +34,7 @@ If you answer YES : Please describe your education.
 <br />  
 <br />  
 **2. Do you have experience <mark>supervising staff</mark>?**   
+
 ---   
 If you answer YES: Please describe the number of staff, their position/job titles/relationship to your position, along with the years and location where you supervised these staff.  
 ****************************************************************************************************  
@@ -70,7 +72,8 @@ Although I had many scars in the supervision journey, I could not imagine I had 
 
 <br />  
 <br />  
-**3. Do you have experience <mark>planning and managing work tasks for staff</mark>?**  
+**3. Do you have experience <mark>planning and managing work tasks for staff</mark>?**   
+
 ---  
 If you answer YES: Please describe the type of planning and managing of staff work that you performed. Please indicate the number of staff for which you did this work, as well as the period of time you planned and managed their work tasks.  
 ****************************************************************************************************  
@@ -109,7 +112,8 @@ During the peak seasons, I hired a seasonal worker to help us.
 
 <br />  
 <br />  
-**4. Do you have experience <mark>managing, assessing, and developing staff performance</mark>?**  
+**4. Do you have experience <mark>managing, assessing, and developing staff performance</mark>?**    
+
 ---  
 If you answer YES: Please describe the type of performance assessment, performance management, and performance development you performed. Please indicate the number of staff, as well as the period of time, you managed, assessed, and developed staff performance.  
 ****************************************************************************************************  
@@ -150,7 +154,8 @@ A new Lab Information Management System was put in place.  I was involved in imp
 
 <br />  
 <br />  
-**5. Do you have significant* experience with laboratory quality assurance and quality control procedures?**  
+**5. Do you have significant* experience with laboratory quality assurance and quality control procedures?**    
+
 ---  
 *Significant is defined as 1 or more years in duration.  
 If you answer Yes: Do you have experience preparing (ie. extracting, cleaning extracts, concentrating, diluting, etc.) complex matrices such as food, biological materials, or soil for the analysis of organic contaminants? In this context, preparing means extracting, cleaning, concentrating, or diluting sample extracts.
@@ -171,7 +176,8 @@ I worked with urine and serum samples for steroid profiles analysis. Samples wer
 
 <br />  
 <br />  
-**6. Do you have experience operating and maintaining liquid chromatographic-mass spectrometric instrumentation?**  
+**6. Do you have experience operating and maintaining liquid chromatographic-mass spectrometric instrumentation?**    
+
 --- 
 If you answer Yes: Do you have experience operating and maintaining liquid chromatographic-mass spectrometric instrumentation for the analysis of organic contaminants in complex matrices?  
 If you answer YES: Please describe the specific instrumentation that you have operated and maintained, the period of time you operated and maintained the instrumentation, the organic contaminants you analyzed, as well as the ionization and ion monitoring mode(s) you used and the specific maintenance tasks you performed.  
@@ -186,7 +192,8 @@ I went above and beyond the routine maintenance requirement.  I built a proactiv
 
 <br />  
 <br />  
-**7. Do you have experience developing and validating methods for quantitative analysis using liquid chromatography-mass spectrometry?**  
+**7. Do you have experience developing and validating methods for quantitative analysis using liquid chromatography-mass spectrometry?**    
+
 ---  
 If you answer YES: Please demonstrate clearly how, when and where you gained this experience and provide concrete examples.  
 ****************************************************************************************************  
@@ -209,7 +216,8 @@ The experiment data were populated with Visual Basic for Applications (VBA), R, 
 
 <br />  
 <br />  
-**8. Do you have extensive* experience in <mark>managing technical personnel</mark>?**  
+**8. Do you have extensive* experience in <mark>managing technical personnel</mark>?**   
+
 ---  
 ** Extensive experience will be evaluated in terms of <mark>**the depth, breadth and complexity of activities**</mark> as well as the level of autonomy demonstrated, normally acquired over a period of five (5) years, continuously.  
 ****************************************************************************************************  
@@ -242,7 +250,8 @@ Technical personnel could be determined and take pride in their work.  Some seni
 
 <br />  
 <br />  
-**9. Do you have experience working within an ISO 17025 system?**  
+**9. Do you have experience working within an ISO 17025 system?**   
+
 ---  
 If you answer Yes: If you answer YES: Please describe your responsibilities and role, time period, and location working within an ISO17025 system.  
 ****************************************************************************************************  
@@ -285,10 +294,11 @@ September 2004 - Nov. 2008
 
 <br />  
 <br />  
-**10. Do you have significant* experience <mark>performing or supervising the analysis</mark> of mycotoxins, pesticides, pharmaceuticals, personal care products, veterinary drugs, persistent organic pollutants, or other organic contaminants in complex matrices using liquid chromatography-mass spectrometry?**  
----  
+**10. Do you have significant* experience <mark>performing or supervising the analysis</mark> of mycotoxins, pesticides, pharmaceuticals, personal care products, veterinary drugs, persistent organic pollutants, or other organic contaminants in complex matrices using liquid chromatography-mass spectrometry?**   
+
+---   
 * Significant experience will be evaluated in terms of <mark>**the depth, breadth and complexity of activities**</mark> as well as the level of autonomy demonstrated, normally acquired over a period of two (2) years, continuously,  
-If you answer Yes: If you answer YES: Please describe the specific organic contaminants and matrices that you have extensive experience with, your specific role in their analysis, as well as the time period of your experience, and the ionization and ion monitoring mode(s) you used.  
+If you answer Yes: If you answer YES: Please describe the specific organic contaminants and matrices that you have extensive experience with, your specific role in their analysis, as well as the time period of your experience, and the ionization and ion monitoring mode(s) you used.   
 ****************************************************************************************************   
 
 ### Lab scientist

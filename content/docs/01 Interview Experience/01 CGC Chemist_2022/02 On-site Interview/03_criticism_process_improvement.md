@@ -5,7 +5,7 @@ authors: Lenny Lin
 categories: Interview 
 tags: []
 description: 
-draft: false
+draft: true
 date: "2022-09-09"
 lastmod: "2022-09-09"
 series: null
@@ -20,4 +20,18 @@ EC2.2 What is some of the most useful criticism you’ve ever received? Why? Wha
 <!--more-->
 
 ---
+
+Case #1:  
+
+email to a vendor, inconsistent quality, frustrated, leave the email for overnight.
+
+Case #2:  
+from an interview, present research result for a non-scientist.  be mindful of the intended audience. learned tools to tell the story of data.  "improvements in clarity of communications" "consider the audience when you are crafting your responses."
+
+>In general, <u>improvements in clarity of communications</u> will go a long way.  The aim of the assessment is for a candidate to clearly demonstrate their knowledge of the essential criteria and that they consistently display the essential abilities and competencies.  My advice is to consider the audience when you are crafting your responses – particularly their knowledge, experience, familiarity with the topics at hand, etc.
+>CGC
+
+
+>Your ability to effectively present data was far better than mine or most people’s.  
+>LifeLabs
 
