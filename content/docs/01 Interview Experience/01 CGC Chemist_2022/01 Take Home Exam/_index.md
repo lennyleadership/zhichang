@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 3
 title: Take Home Exam
 categories: null
 description: 
