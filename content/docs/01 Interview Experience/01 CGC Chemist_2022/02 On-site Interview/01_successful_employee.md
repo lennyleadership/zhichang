@@ -21,3 +21,12 @@ EC1.3 Discuss a time that an employee became more successful as a result of your
 
 ---
 
+A technologist.
+low-key
+smoke, coffee time, 
+was caught by the site head.
+back-stab
+start with conflict, proactive action, deal with the conflict.
+
+business analysis, performer.
+no incentive, lay-back, provided the manager solid evidence of his performance for performance appraisal.

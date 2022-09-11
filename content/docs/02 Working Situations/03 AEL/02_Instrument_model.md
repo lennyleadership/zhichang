@@ -1,9 +1,9 @@
 ---
-weight: 99
-title: 
+weight: 2
+title: Instrument Model
 authors: Lenny Lin
 categories: Working Situations
-tags: null
+tags: [Instrument]
 date: " "
 description: 
 draft: false
@@ -12,5 +12,5 @@ series: null
 toc: true
 ---
 
-
+Varian Saturn 3800/2000 GC/MS
 
