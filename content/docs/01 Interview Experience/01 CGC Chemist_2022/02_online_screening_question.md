@@ -32,8 +32,8 @@ If you answer YES : Please describe your education.
 
 <br />  
 <br />  
-**2. Do you have experience <mark>supervising staff</mark>?**  
----  
+**2. Do you have experience <mark>supervising staff</mark>?**   
+---   
 If you answer YES: Please describe the number of staff, their position/job titles/relationship to your position, along with the years and location where you supervised these staff.  
 ****************************************************************************************************  
 
