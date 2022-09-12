@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 12
 title: CGC Chemist 2016
 categories: null
 description: 
