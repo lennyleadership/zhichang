@@ -22,37 +22,12 @@ EC1.3 Discuss a time that an employee became more successful as a result of your
 ---
 
 
+My definition of employee's success is they enjoy what they are doing, and they see the value in what they are doing.  The way I did to make them success is recognition, and recognition comes in different forms.  I would like to share two situations.
 
-start with conflict, proactive action, deal with the conflict.
 
-business analysis, performer.
-no incentive, lay-back, provided the manager solid evidence of his performance for performance appraisal.
+The first situation happened at Testmark where I was the lab manager.  It was the business transition period, the team was reorganized.  I redeployed one technician from the position in the lab to the customer service rep because she had experience in testings, and her ability to make people connect.  There was potential in her.  It turned that she thrived at the new position, today she is the customer service manager managing customer service reps at 5 facilities across Ontario.
 
-Did not see much value in what he was doing.
-
-'drive employee engagement'
-
-I am a high-standards, results-driven chemist. rely on soft skills.
-
-Action: 
-1) built relationship  
-2) watch performance. 
-
----
-
-There is nothing more important, for an employee, than to see much value in what they are doing. Everyone is different with different motivators.  
-
-I want to talk about how I motivated employees with different approaches.
-two cases: 
-1) redeployed an employee at Testmark, strength in customer service.  As a result, she is still there.
-because there was an opportunity of reconstruction.  
-
-2) It was a long story, and it took a long time.  The story started with conflict.  I was not happy with the training outcome.  He was not as well.  I took a proactive approach to solve the conflict.  We started to build the relationship.  He shared his life and struggles to me, I sympathized with him.  
-
-As I looked into the lab operation and analyzed how the lab was doing in a year, I found out that he was a performer.
-
-In a year when doing performance appraisal, the section head quit, so the branch manager was going to do the performance.  During a conversation with him about the performance appraisal.  He was , and he was a low key type of person.  I said I will write an email to the manager.  So I provided concrete data about number of analysis he has done, 
+The second situation happened at AECL where I was the Chemist. The story started with solving a conflict with the employee.  I took a proactive approach seeking his feedback on how I could do differently down the road.  Luckly enough, he began with providing feedback, then telling his struggling in his life.  We came closer in relationship.  Later on, I looked into performance of each individual technologist.  I collected data.  I realized he was the top performer all the time.  I sent an email to the branch manager providing data to support that this employee exceeded expectation for his performance appraisal.  My voice was heard, and his performance was valued.  He showed his support to me while I dealt with the most difficult situation.  When the section was laid-off, he asked me to become his reference while he was looking for job.
 
 
 
-recognized an employee's contribution.

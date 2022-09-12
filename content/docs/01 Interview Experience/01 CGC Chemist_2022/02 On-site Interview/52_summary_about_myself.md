@@ -24,4 +24,4 @@ I will help the team members be successful, be motivated, be engaged in their jo
 I will become the solution to improve operation efficiency and effectiveness.  
 I have potential to meet future need.
 
-Overall, 
+Overall, I have skills and passion with a common heartfelt purpose.
