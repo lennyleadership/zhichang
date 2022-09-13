@@ -21,11 +21,19 @@ EC2.2 What is some of the most useful criticism you’ve ever received? Why? Wha
 
 ---
 
-Case #1:  
+Case #1:
+
+Internal customer complained the turn around time. There were some concerns our team, I developed some VBA programs to streamline data processing and data review.  It helped to cut off data population time after-analysis
+VBA 
+
+---
+
+Case #2:  
 
 email to a vendor, inconsistent quality, frustrated, leave the email for overnight.
 
-Case #2:  
+---
+Case #3:  
 from an interview, present research result for a non-scientist.  be mindful of the intended audience. learned tools to tell the story of data.  "improvements in clarity of communications" "consider the audience when you are crafting your responses."
 
 >In general, <u>improvements in clarity of communications</u> will go a long way.  The aim of the assessment is for a candidate to clearly demonstrate their knowledge of the essential criteria and that they consistently display the essential abilities and competencies.  My advice is to consider the audience when you are crafting your responses – particularly their knowledge, experience, familiarity with the topics at hand, etc.

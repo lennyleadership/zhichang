@@ -21,19 +21,14 @@ EC1.4 Describe a personnel management mistake that you made in the past. Looking
 
 ---
 
-When I was the lab manager at Testmark.  I fired a technician because he did not do testing on a weekend that was scheduled.  The reason was he was drunk the day before in the evening.
+I was just appointed as the lab manager when Testmark bought out Accuracy Labs.  A technician did not show up to do testing on a weekend that was scheduled.  I fired him.  I had every reason to do so, because he had performance issues due to drinking issue, Accuracy took actions of discipline, sent out letters of disciplines, but there were no changes in his behavior.
 
-background: nice person.  I had every reason to do so, because he had performance issues, the company took actions of discipline, sent out letters of disciplines, but there were no changes in behavior.  
+When looking back, I would give myself a time to help him at work.  Firstly, I knew little about him in the past.  The information about him came from coworkers.  It was not fair to have opinion about coworkers from others. I would build relationship with him.  Secondly, I would begin with discipline process, monitoring his progress closely.  Thirdly my understanding about the supervisor roll has changed since working at AECL.  
+
+Care about people, I
 
 
-what would I do differently?  
-I would take opportunities to work with him, know his performance, 
-Give myself an opportunity to help him.  It does not mean I want to be nice.  
 
-Like what I did to an technologist at AECL. Although this technologist at AECL had room for improvement, 
-documented
-
-How I see my position differently.
 
 
 *** 
