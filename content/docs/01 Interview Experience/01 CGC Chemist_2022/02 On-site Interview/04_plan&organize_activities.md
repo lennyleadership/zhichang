@@ -20,31 +20,15 @@ EC3.2 What were your team’s goals last year? What was your role in setting the
 
 ---
 
-Plan:  
-1) four technologists in our team.  
+Our section was suffered from productivity at AECL for a couple of years. I tracked the analysis flow for a couple of years. In the first year when I was delegated to oversee the lab operation, I approved technologist's timesheets, so I had statistics on time they spent to different aspects.  I consolidated data for each technologist performance.  I had a clue on where we were at now, and what aim we could reach at.  Therefore, when I was asked to set the performance objectives, I knew what I should put on.  I also understood I should not expect too much. I came up with the team's goals and individual goals on top of objectives at the branch level.  I had meeting with each one going over the list, and had mutual agreement.  The goals were measurable, so the performance could be measured.
 
-What were the team's goals:  
-
-K.P.I. of operation:     
-1) Issue results within a requested time frame (striving to a desired time frame).  
-2) Issue report within a requested time frame.  
-3) Complete analyses within holding time. (100%)  
-4) Report QC reports within a requested time frame.  
-5) Get pipette calibrations check (11 out of 12 on time).  
-
-Goals of individual on:  
-1) Training
-2) Document revision/ update
-
-How did you decide to select these as goals?  
-did business analysis.  weakness area for improvement.
-1) address concerns,  
-2) know where they are at presence, where they are going to go in future.  
+mid-year performance review. follow up during huddle meeting.
 
 
-To what extent did you meet them?  meet most.
+How did you measure whether or not you met them? Because they were set with S.M.A.R.T. approach. [Specific, Measurable, Achievable, Relevant, Time-bound]
 
-How did you measure whether or not you met them? Because they were set with S.M.A.R.T. approach.  
-[Specific, Measurable, Achievable, Relevant, Time-bound]
+---
+One of my managers was good at provide clear expectations.
 
-refer to the powerpoint.
+---
+I have high standard for myself and for the team.  how do I get myself and my team to go where we should? It is: Execute the plan. hold others accountable

@@ -21,13 +21,12 @@ EC1.4 Describe a personnel management mistake that you made in the past. Looking
 
 ---
 
-I was just appointed as the lab manager when Testmark bought out Accuracy Labs.  A technician did not show up to do testing on a weekend that was scheduled.  I fired him.  I had every reason to do so, because he had performance issues due to drinking issue, Accuracy took actions of discipline, sent out letters of disciplines, but there were no changes in his behavior.
 
-When looking back, I would give myself a time to help him at work.  Firstly, I knew little about him in the past.  The information about him came from coworkers.  It was not fair to have opinion about coworkers from others. I would build relationship with him.  Secondly, I would begin with discipline process, monitoring his progress closely.  Thirdly my understanding about the supervisor roll has changed since working at AECL.  
+I used to believe in the management mindset of the previous CEO Jack Welch, "leaders should fire the bottom 10% of their workforce each year, as part of an orderly continuous improvement process." I practiced that when I was managing the lab at Testmark.  A technician did not show up to do testing on a weekend that was scheduled.  I fired him.  I had every reason to do so, because he had performance issues due to drinking issue, Accuracy took actions of discipline, sent out letters of disciplines, but there were no changes in his behavior.
 
-Care about people, I
+My mindset has changed since I joined in at AECL.  I adopted the philosophy of "build up people, the score will take care of itself."  I think it works in Canadian culture.  That does not mean being nice always, it means be fair with employee. There are unlimited means to provide constructive feedback if the leader cares about people as long as the employee makes a choice to have a good life and improve their performance.  I believe people come to work together for reasons.  It is not coincident. 
 
-
+I found that the struggling in life could affect the work performance.  Looking back, I did not know much about his past. I would give myself a chance to know him, walk through with him just I did for the employee at AECL.
 
 
 
