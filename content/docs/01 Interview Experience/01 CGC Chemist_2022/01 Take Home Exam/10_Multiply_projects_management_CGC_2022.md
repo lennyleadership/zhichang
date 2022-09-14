@@ -17,13 +17,13 @@ EA1.2 This position will involve managing multiple people and multiple projects.
 
 Please provide the contact information for someone that can corroborate your response.
 
-In your response, describe:
+In your response, describe:  
 The techniques or tools you used to manage the tasks.  
-How you managed expectations of the people relying on the outcomes.
-How well the tasks were completed and how you evaluated the quality of the outcomes.
-What you would do differently next time.
-What you would continue to do next time.
-Why you chose this example to demonstrate your competency in planning, organizing, and coordinating.
+How you managed expectations of the people relying on the outcomes.  
+How well the tasks were completed and how you evaluated the quality of the outcomes.  
+What you would do differently next time.  
+What you would continue to do next time.  
+Why you chose this example to demonstrate your competency in planning, organizing, and coordinating.  
 
 <!--more-->
 
