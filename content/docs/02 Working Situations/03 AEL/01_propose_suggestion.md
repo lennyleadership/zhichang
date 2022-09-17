@@ -1,6 +1,6 @@
 ---
 weight: 14
-title: Present A Proposal
+title: Propose a Suggestion
 authors: Lenny Lin
 categories: Working Situations
 tags: [Communication]
