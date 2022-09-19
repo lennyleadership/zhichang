@@ -1,7 +1,15 @@
 ---
 weight: 1
-bookFlatSection: true
 title: "4 Levels of Teamworks"
+authors:
+categories: null
+tags:
+description: 
+draft: false
+date: "2022-09-19"
+lastmod: "2022-09-19"
+series: null
+toc: true
 ---
 
 Focus

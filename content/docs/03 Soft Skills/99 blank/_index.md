@@ -1,13 +1,15 @@
 ---
-weight: 4
-title: Teamwork
+weight: 99
+title: 
 authors:
 categories: null
 tags:
 description: 
 draft: false
-date: "2022-08-05"
-lastmod: "2022-08-05"
+date: "2022-09-19"
+lastmod: "2022-09-19"
+series: null
+toc: true
 bookCollapseSection: true
 ---
 

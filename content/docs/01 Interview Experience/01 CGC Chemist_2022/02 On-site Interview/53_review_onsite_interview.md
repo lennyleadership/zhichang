@@ -55,12 +55,12 @@ There is rare people who knows both analytical chemistry and programming.
 I think I would get the position. 1) working experience in federal crown cooperation (AECL); 2) versatile skills more than any other chemists.  
 
 
-## Questions for digging out from my answers
+## Questions they asked for digging out from my answers
 1) Did you share the performance matrix with technologists?  
 2) 
 
 
-## Technical questions asked onsite
+## Technical questions they asked onsite
 
 1) Good lab practices:  
 Q: two strategies to prevent errors in analysis.  
@@ -77,6 +77,7 @@ Q: two scenarios we use calibration standards in solvent is preferable over matr
 
 
 ## The job description
+More supervision than technology competency
 
 
 ## About them
@@ -88,3 +89,11 @@ EC4 x 4
 **The mycotoxin group**  
 EC4 x 4
 Sampler x 1
+
+
+## Room for improvement
+I asked the hiring manager if I could share the electronic troubleshooting logbook to them.  The hiring manager told me to describe it.  I did not prepare for it.  Daisy was right, she told me do not spend time on polishing the website, but spend time on talking about it.  
+
+I did not ask the pregnant chemist the due date or congratulated her.  It seems the hiring manager implied me to move to another quiet room, so that she could get the network problem fixed.  She asked me, but I did not catch it.  
+
+

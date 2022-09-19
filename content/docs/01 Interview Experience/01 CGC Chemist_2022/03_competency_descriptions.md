@@ -2,7 +2,7 @@
 weight: 3
 title: Competency Descriptions
 authors: Lenny Lin
-categories: Interview
+categories: [Interview, Competency Descriptions]
 tags: []
 description: 
 draft: false
