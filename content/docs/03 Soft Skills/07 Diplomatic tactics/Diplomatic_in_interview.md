@@ -39,7 +39,7 @@ You can practice diplomacy in both your professional and personal life. It invol
 
 
 ---
-[LEgalPeople](https://www.legalpeople.com.au/news/when-to-apply-diplomacy-skills-in-a-job-interview/23862)
+[LegalPeople](https://www.legalpeople.com.au/news/when-to-apply-diplomacy-skills-in-a-job-interview/23862)
 
 
 # Resource: Quora
@@ -53,4 +53,6 @@ For example - If they ask you for the reason for leaving the present job , you m
 
 ---
 [Quora](https://www.quora.com/How-can-you-be-diplomatic-in-an-interview)
+
+
 

@@ -50,8 +50,6 @@ blogdown::find_hugo()
 # Note: I made a mistake.  under tag, I missed '-' before.
 
 
-
-
 #----
 # To upload a batch of files
 # in the 'Terminal' tab next to the 'Console' tabe
