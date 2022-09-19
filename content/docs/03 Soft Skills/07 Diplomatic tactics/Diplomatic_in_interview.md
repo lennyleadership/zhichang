@@ -12,11 +12,12 @@ series: null
 toc: true
 ---
 
+# Resource: Legal People
 ## When to apply diplomacy skills in a job interview.
 
 There are many occasions when diplomacy is your best choice in a job interview.
 
-Diplomacy is an art. It involves being as truthful as you can without being negative. Using diplomacy in a job interview is an opportunity to show off your emotional intelligence and communication skills.
+Diplomacy is an art. It involves being as truthful as you can without being negative. <u>Using diplomacy in a job interview is an opportunity to show off your emotional intelligence and communication skills</u>.
 
 A diplomatic interview answer will involve appearing professional at all times. The following interview questions provide examples of diplomatic answers.
 
@@ -38,5 +39,18 @@ You can practice diplomacy in both your professional and personal life. It invol
 
 
 ---
-[Resource](https://www.legalpeople.com.au/news/when-to-apply-diplomacy-skills-in-a-job-interview/23862)
+[LEgalPeople](https://www.legalpeople.com.au/news/when-to-apply-diplomacy-skills-in-a-job-interview/23862)
+
+
+# Resource: Quora
+
+Being diplomatic simply means displaying a sense of maturity, tact and wit. Employers don't like immature kiddish approach to the situations in the interviews as they are well aware of the expected behaviour in the real work scenario.  
+
+For example - If they ask you for the reason for leaving the present job , you may be diplomatic by applying the following:  
+* you could start with the positives first.
+* Start with the gains from the present job and then subtly state your reasons for learning NEW things from the new job ,getting over the saturation at the present job.
+* In addition you could showcase your AWARENESS of the learnings/challenges/opportunities which the new job could offer ( this comes from a thorough and keen research of the prospective job ). 
+
+---
+[Quora](https://www.quora.com/How-can-you-be-diplomatic-in-an-interview)
 
