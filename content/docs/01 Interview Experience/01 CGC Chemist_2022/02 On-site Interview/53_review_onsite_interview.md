@@ -77,7 +77,7 @@ Q: two scenarios we use calibration standards in solvent is preferable over matr
 
 
 ## The job description
-More supervision than technology competency
+More supervision, data analysis than technology competency
 
 
 ## About them
