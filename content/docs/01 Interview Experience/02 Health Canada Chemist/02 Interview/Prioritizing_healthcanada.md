@@ -13,7 +13,7 @@ toc: true
 ---
 
 
-[Location: Health_Canada_interview-4, 20:29]
+[Record file name: Health_Canada_interview-4, 20:29]
 
 **DEFINITION**  
 Organize time, work, and resources to accomplish objectives effectively; focuses personal efforts on achieving results consistent with the organization's objectives.  

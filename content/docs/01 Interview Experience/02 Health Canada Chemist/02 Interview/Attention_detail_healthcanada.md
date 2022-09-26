@@ -14,7 +14,7 @@ toc: true
 
 
 
-Location: Health_Canada_interview-3, 1:00:16  
+Record file name: Health_Canada_interview-3, 1:00:16  
 
 **DEFINITION**  
 Demonstrates conscientiousness, consistency and thoroughness by verifying work, information, roles and functions.  
@@ -39,3 +39,9 @@ Describe a situation where you did not pay as close attention to the details as 
 [Solution]  leave empty spot in between SPE column.
 
 This response is not detailed.  I could do better next time.  
+
+---
+
+revisited 2022.09.25  
+[Situation: LifeLabs] experiments of optimizing SPE.  
+[Task / Procedure] test 4 SPE columns, 2 washing reagents (pH adjusted), and 2 eluting reagents.  

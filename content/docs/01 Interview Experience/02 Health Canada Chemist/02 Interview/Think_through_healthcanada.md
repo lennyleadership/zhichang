@@ -14,7 +14,7 @@ toc: true
 
 
 
-[Location: Health_Canada_interview-3, 39:39]  
+[Record file name: Health_Canada_interview-3, 39:39]  
 
 **DEFINITION**  
 Advise and plan based on analysis of issues and trends, and how these link to the responsibilities, capabilities, and potential of the organization.  Scan an ever-changing, complex environment in anticipation of emerging crises and opportunities.  Develop well-informed advice and strategies that are sensitive to the various needs of multiple stakeholders and partners, reflect the strategic direction, and position the organization for success.  

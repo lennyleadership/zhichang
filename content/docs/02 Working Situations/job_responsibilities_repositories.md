@@ -104,6 +104,7 @@ output:
 - Conducted monthly safety inspection and mitigated an average of 30 safety hazards annually through cooperating with management, fire department, and site safety committee.
 
 <font color =#3fb5bd>LIMS</font>\
+- LIMS administrator
 - With persistence, resolved two major critical LIMS issues by coordinating with corporate and local IT departments and local management leading to a successful software update.\
 - Created a workaround solution to ensure lab operational continuity under the condition of LIMS malfunctioning.
 

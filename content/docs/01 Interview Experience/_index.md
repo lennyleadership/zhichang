@@ -27,6 +27,24 @@ Option #2: skill-oriented.
 
 ) I was freezing in greeting.
 
+---
+My values:
 ) I didn't work for paycheck.  Satisfaction is my fulfillment.  
 
 ) My commitment to success makes me stand out.
+
+) setup higher standard for me and for the team.  
+) Build up people, the score will take care of itself.
+
+---
+Daisy's observation:  
+I carry over what my family passed onto me.  
+1) I don't care about other's feeling like my mom 不在乎别人的感受.  
+2) 
+) I am an introvert, so I am not relax in the interview.  
+) 
+
+---
+I realized:  
+) I need to work on writing answers down and memorizing it.
+I failed to introduce the electronic troubleshooting logbook in speech.  I need to organize thoughts.  There should be a structure to follow.  
