@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 1
 title: "How to Use Quotes in Your Speech: 8 Benefits and 21 Tips"
 authors: Lenny Lin
 categories: [Speech]

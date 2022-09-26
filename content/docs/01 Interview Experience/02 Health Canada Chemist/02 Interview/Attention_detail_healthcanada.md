@@ -44,4 +44,4 @@ This response is not detailed.  I could do better next time.
 
 revisited 2022.09.25  
 [Situation: LifeLabs] experiments of optimizing SPE.  
-[Task / Procedure] test 4 SPE columns, 2 washing reagents (pH adjusted), and 2 eluting reagents.  
+[Task / Procedure] test 4 SPE columns, <b>2</b> washing reagents (pH adjusted), and 2 eluting reagents.  

@@ -96,4 +96,6 @@ I asked the hiring manager if I could share the electronic troubleshooting logbo
 
 I did not ask the pregnant chemist the due date or congratulated her.  It seems the hiring manager implied me to move to another quiet room, so that she could get the network problem fixed.  She asked me, but I did not catch it.  
 
+## The drawback of this position
+The focus of this position is supervision, not the technical competency.  It is not the primary focus of hands-on experience.  Although I would have chance to learn.    
 
