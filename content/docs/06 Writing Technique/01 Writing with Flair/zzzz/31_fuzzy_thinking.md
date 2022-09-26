@@ -50,13 +50,9 @@ Now, pause and think about why that fuzziness is happening.
 
 That's right.
 
-There's a lack of clarity about various things, like whose quest for greatness, and what kind of greatness?
+There's a lack of clarity about various things, like whose quest for greatness, and what kind of greatness? Things, things like that.
 
-Things, things like that.
-
-If you ever write a sentence like this, the first thing you want to do is figure out, what am I really
-
-trying to say here?
+If you ever write a sentence like this, the first thing you want to do is figure out, what am I really trying to say here?
 
 Don't leave it there, hoping that your readers will somehow manage to figure it out, because they probably won't bother.
 
@@ -64,11 +60,10 @@ And why should they?
 
 Now, before we can even get into making the sentence more simple, elegant and evocative, we have to know what it's basically trying to to say, alright?
 
-So I want to give you a bit more of the blog post to help you figure out what the author's intent is with that sentence. "In the continuing quest for greatness, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole, as their tragic tales may help you to avert a foreseeable catastrophe.
+So I want to give you a bit more of the blog post to help you figure out what the author's intent is with that sentence. 
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-09-26 113304.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 
-I understand that for budding entrepreneurs, like yourself, it's natural to yearn for the countless success stories in the world of business.
-
-A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."
+*"In the continuing quest for greatness, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole - as their tragic tales may help you to avert a foreseeable catastrophe. I understand that for budding entrepreneurs, like yourself, it's natural to yearn for the countless success stories in the world of business. A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."*
 
 Now, those subsequent sentences are clear enough, I think, and they suggest that this might otherwise be, you know, a pretty engaging piece.
 
