@@ -1,6 +1,6 @@
 ---
-weight: 90
-title: ""
+weight: 6
+title: "Writing Technique"
 categories: null
 description: 
 draft: false

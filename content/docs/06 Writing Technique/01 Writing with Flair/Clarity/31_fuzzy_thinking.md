@@ -50,7 +50,7 @@ Now, pause and think about why that fuzziness is happening.
 
 That's right.
 
-There's a lack of clarity about various things, like whose quest for greatness, and what kind of greatness? Things, things like that.
+There's a lack of clarity about various things, like <u>whose quest for greatness</u>, and <u>what kind of greatness</u>? Things, things like that.
 
 If you ever write a sentence like this, the first thing you want to do is figure out, what am I really trying to say here?
 
@@ -58,12 +58,13 @@ Don't leave it there, hoping that your readers will somehow manage to figure it 
 
 And why should they?
 
-Now, before we can even get into making the sentence more simple, elegant and evocative, we have to know what it's basically trying to to say, alright?
+Now, before we can even get into making the sentence more <b>simple, elegant and evocative</b>, we have to know what it's basically trying to to say, alright?
 
-So I want to give you a bit more of the blog post to help you figure out what the author's intent is with that sentence. 
+So I want to give you a bit more of the blog post to help you figure out what the author's intent is with that sentence.  
+<br>  
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-09-26 113304.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 
-*"In the continuing quest for greatness, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole - as their tragic tales may help you to avert a foreseeable catastrophe. I understand that for budding entrepreneurs, like yourself, it's natural to yearn for the countless success stories in the world of business. A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."*
+*<b>"In the continuing quest for greatness, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole - as their tragic tales may help you to avert a foreseeable catastrophe. I understand that for budding entrepreneurs, like yourself, it's natural to yearn for the countless success stories in the world of business. A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."</b>*
 
 Now, those subsequent sentences are clear enough, I think, and they suggest that this might otherwise be, you know, a pretty engaging piece.
 
@@ -77,21 +78,13 @@ So let's have a think.
 
 How could we make that idea a little bit less fuzzy?
 
-Sp, pause this, and use the other information that's there to create a first half of the sentence that links up well with the second half.
+So, pause this, and use the other information that's there to create a first half of the sentence that links up well with the second half.
 
-Okay,
-
-how did it go?
+Okay, how did it go?
 
 Here's something I came up with based on the rest of the information that's provided in the post.
 
-"As you battle to turn your company into a raging success, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole, as their tragic tales may help you to avert a foreseeable catastrophe.
-
-I understand that for budding entrepreneurs, like yourself, is natural to yearn for the countless success stories
-
-in the world of business.
-
-A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."
+*<b>"As you battle to turn your company into a raging success, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole, as their tragic tales may help you to avert a foreseeable catastrophe. I understand that for budding entrepreneurs, like yourself, is natural to yearn for the countless success stories in the world of business. A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."</b>*
 
 See how, in a pretty simple way, you can turn that fuzzy sentence into something that just clicks, it just sounds you know jazzier now, doesn't it?
 
