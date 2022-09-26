@@ -64,7 +64,7 @@ So I want to give you a bit more of the blog post to help you figure out what th
 <br>  
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-09-26 113304.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 
-*<b>"In the continuing quest for greatness, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole - as their tragic tales may help you to avert a foreseeable catastrophe. I understand that for budding entrepreneurs, like yourself, it's natural to yearn for the countless success stories in the world of business. A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."</b>*
+>*<b>"In the continuing quest for greatness, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole - as their tragic tales may help you to avert a foreseeable catastrophe. I understand that for budding entrepreneurs, like yourself, it's natural to yearn for the countless success stories in the world of business. A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."</b>*
 
 Now, those subsequent sentences are clear enough, I think, and they suggest that this might otherwise be, you know, a pretty engaging piece.
 
@@ -84,7 +84,7 @@ Okay, how did it go?
 
 Here's something I came up with based on the rest of the information that's provided in the post.
 
-*<b>"As you battle to turn your company into a raging success, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole, as their tragic tales may help you to avert a foreseeable catastrophe. I understand that for budding entrepreneurs, like yourself, is natural to yearn for the countless success stories in the world of business. A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers."</b>*
+>As you battle to turn your company into a raging success, remember that a lot can be learned from people whose startups have crashed. They might, in fact, be the best people to consult with if your business is stuck in a hole, as their tragic tales may help you to avert a foreseeable catastrophe. I understand that for budding entrepreneurs, like yourself, is natural to yearn for the countless success stories in the world of business. A new study, however, suggests it may be more instructive to go and grab a beer with some entrepreneurial losers.
 
 See how, in a pretty simple way, you can turn that fuzzy sentence into something that just clicks, it just sounds you know jazzier now, doesn't it?
 
