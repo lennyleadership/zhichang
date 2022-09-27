@@ -16,7 +16,7 @@ toc: true
 
 ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5db94b3c-6c55-47da-961b-1229a4fc44ff/how-to-write-a-good-sentence-main-image.jpg)
 
-- *Sigh**
+- *Sigh*
 
 You know it’s time to knuckle down.
 
