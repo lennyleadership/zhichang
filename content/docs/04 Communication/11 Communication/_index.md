@@ -1,11 +1,12 @@
 ---
-weight: 2
-title: Video Clips
+weight: 11
+title: "Communication"
 categories: null
 description: 
 draft: false
-date: "2022-08-04"
-lastmod: "2022-08-04"
+date: "2022-09-27"
+lastmod: "2022-09-27"
 bookCollapseSection: true
+
 ---
 
