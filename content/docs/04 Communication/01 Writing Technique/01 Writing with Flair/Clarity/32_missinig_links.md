@@ -55,9 +55,9 @@ But why? why did they do that?
 
 Why are those two things linked? in this sentence that we have.
 
-That's not really spelt out.
+That's not really spelled out.
 
-The link is not spelt out.
+The link is not spelled out.
 
 The problem is that the two things are quite far apart.
 
@@ -140,7 +140,7 @@ Now, I want you to just compare that with the original version, where there is a
 
 >*"Plunging coal exports forced a sharp drop in government revenue this year, economists say."*
 
-Now, notice how much easier we've made it for readers to understand the sentence quickly by supplying more links in the causal chain
+Now, notice how much easier we've made it for readers to understand the sentence quickly by supplying more links in the causal chain.
 
 The real lesson here is that you've got to write in a way that doesn't leave the reader's mind going blank, or in a way that forces them to make inferences.
 
@@ -148,7 +148,5 @@ What you're saying should, as much as possible, spell out the logical connection
 
 Now, there's an easy way of telling whether you've left out key logical connections as in the original sentence, because simply when you read what you've written back, if you find that your mind goes blank while reading it, it usually means the logical connection is too far apart, and that there is at least one missing link in your sentence.
 
-If you're not feeling it, as if it's kind of an instantly gettable point, it's telling you that something is probably wrong, which means you have to go back and fill out the picture for readers a bit more. A lot of writers will just let this go and hope that readers will somehow make the necessary inferences.
-
-But remember, this is your responsibility, to make sure all your ideas are clear and that everything lines up nicely.
+If you're not feeling it, as if it's kind of an instantly gettable point, it's telling you that something is probably wrong, which means you have to go back and fill out the picture for readers a bit more. A lot of writers will just let this go and hope that readers will somehow make the necessary inferences.  But remember, this is your responsibility, to make sure all your ideas are clear and that everything lines up nicely.
 
