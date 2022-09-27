@@ -1,6 +1,6 @@
 ---
 weight: 90
-title: ""
+title: "Blank"
 categories: null
 description: 
 draft: false
