@@ -1,7 +1,7 @@
 ---
 Weight: 1
 title: Write a Sparkling Sentence
-authors: Edited by Lenny Lin
+authors: Henneke, Edited by Lenny Lin
 categories: null
 tags: null
 date: "2022-02-05"

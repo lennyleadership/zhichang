@@ -3,7 +3,7 @@ weight: 2
 title: "Effective Interpersonal Skills"
 authors: Lenny Lin
 categories: Interview
-tags: [Relationship Management, Interpersonal Skills, LifeLabs Case]
+tags: [Relationship Management, Interpersonal Skills, Adaptability, LifeLabs Case]
 date: " "
 description: 
 draft: false
@@ -38,8 +38,14 @@ It is similar to compromise with spouse on the vacation plan.
 At the end of the day, we all finished our works.  
 
 
-**COMMENTS**  
+**Revisit**  
 [2022.08.01] Jan Palaty. excel spreadsheet, experimental plan, consistent unit, color codes (such as calculated cells, concentration, volume)
+
+[2022.09.29] When I worked at LifeLabs, I performed many experiments. my team lead was an Excel expert.  He wanted me to design experiments, demonstrate the concentration calculations with less conversion, and do report of experiment, everything on Excel. He set out his color pattern for Excel cells embedded with equation, cells of concentrations, and cells of volume.  
+He generated an Excel template for me. I followed this template. I made some mistakes for the first couple of experiment reports, and corrected them.  After that, I did not make mistake.  After that, I realized that it is a way of organizing data and information.  I learned that my team lead was a visual learner. He was happy with my performance.
+
+
+
 
 
 **Reference**  

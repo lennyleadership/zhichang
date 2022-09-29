@@ -12,6 +12,26 @@ series: null
 toc: true
 ---
 
+
+<!--more-->
+---
+
+**2022-09-29**  
+This is my prayer before going to an interview:  
+Be kind to each other, tenderhearted, forgiving one another. (Eph 4:32)  
+
+This is my prayer when going to an interview:  
+This is my mind-set  
+
+Lord, help me to present my experience the best way, help me to control my mouth not giving information beyond what they want to know.    
+
+
+
+
+
+**2022-09-28**  
+It 
+
 **2022-09-27**  
 自从我进AECL后，好像是变了一个人。  
 见到Chantelle Kryschuk, Nicole La Rue那样差的人也能进公司，质疑他们是怎么过面试的。Chantelle在工作中给我制造了不少的障碍，给我挫折感。  

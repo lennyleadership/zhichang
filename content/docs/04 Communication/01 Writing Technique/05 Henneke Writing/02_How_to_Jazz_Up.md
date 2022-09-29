@@ -1,7 +1,7 @@
 ---
 Weight: 2
 title: "5 Creative Writing Examples: How to Jazz Up Any Writing"
-authors: Edited by Lenny Lin
+authors: Henneke, Edited by Lenny Lin
 categories: null
 tags: null
 date: "2022-02-05"

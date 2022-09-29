@@ -1,20 +1,30 @@
 ---
-weight: 1
+weight: 11
 title: 4 Tactics that Backfire When Dealing with a Difficult Colleague
 authors:
-categories: null
-tags:
+categories: [Interview Tips]
+tags: [Forgiveness, Difficult Employee Situation]
 description: 
 draft: false
 date: "2022-09-27"
-lastmod: "2022-09-27"
+lastmod: "2022-09-29"
 series: null
 toc: true
 ---
 
-<img width ="360" height= "200" src = "/docs/images/Sep22_21_85536448.jpg" />
+**2022-09-28**  
+It feels like I am released from such conflict because I have done my part even though I did not win C.K. in personal relationship.  
 
-**Summary**. When you’re at your wit’s end with a challenging colleague and it feels like you’ve tried everything, well-meaning friends and coworkers may tell you to “just ignore it” or to “suck it up” and move on with your life. But suppressing our emotions rarely helps. In this piece, the author outlines four tactics that are tempting to try — but often backfire — when dealing with a difficult colleague. Another one to avoid: waiting to see if your difficult colleague will just leave on their own. Your dream that they’ll walk out the door may come true, but there’s no guarantee that the culture will shift or that you’ll get along with their replacement. Ultimately you’re better off trying to create a workable situation with your colleague now. And remember: even small improvements can make a big difference.  
+**2022-09-27**  
+C. K. was such a challenging colleague.  There was no win-win outcome.  It felt like I have tried everything.
+
+**Definition**:  
+at your wit's end: at a loss for a means of solving a problem.  
+<!--more-->
+---
+<img width ="360" height= "200" src = "/docs/images/Sep22_21_85536448.jpg" class = "center">
+
+**Summary**. When you’re at your wit’s end with a challenging colleague and <u>it feels like you’ve tried everything</u>, well-meaning friends and coworkers may tell you to “just ignore it” or to “suck it up” and move on with your life. But suppressing our emotions rarely helps. In this piece, the author outlines four tactics that are tempting to try — but often backfire — when dealing with a difficult colleague. Another one to avoid: waiting to see if your difficult colleague will just leave on their own. Your dream that they’ll walk out the door may come true, but there’s no guarantee that the culture will shift or that you’ll get along with their replacement. Ultimately you’re better off trying to <u>create a workable situation with your colleague now. And remember: even small improvements can make a big difference</u>.  
 
 One of my favorite questions to ask people who are dealing with a difficult colleague is: *What would you do about this situation if you could do* anything *you wanted?*
 
@@ -24,7 +34,7 @@ I ask this question because I want people to think expansively about how they mi
 
 But there are quite a few tactics that are less productive that we sometimes gravitate toward because we think they’ll help us feel better, when in actuality, they often backfire. They may alleviate our pain in the short term but are ultimately bad for us, the other person, and our organization. Avoiding these common tactics will prevent you from making things worse.
 
-## **Suppressing your emotions**
+## **1. Suppressing your emotions**
 
 When you’re at your wit’s end with a challenging colleague and it feels like you’ve tried everything, well-meaning friends and coworkers may tell you to “just ignore it” or to “suck it up” and move on with your life. This *can* be good advice if you’re truly able to let it go. But often we decide we’re going to do nothing but actually end up doing *a whole lot of things*, whether it’s stewing about the situation, talking incessantly about it to our partner, or becoming passive-aggressive. Suppressing our emotions rarely helps.
 
@@ -40,15 +50,15 @@ In other words, sucking it up doesn’t usually decrease your stress level. It r
 
 The risk that you’ll take your negative feelings out on innocent bystanders isn’t the only reason to avoid this tactic. Caroline Webb, author of *How to Have a Good Day*, points out that, while the intention behind pretending you’re not upset with a difficult colleague may be good — perhaps you want to preserve the relationship — they’re likely to sense your irritation anyway. “Because of emotional contagion, they might not be conscious that you harbor negativity toward them, but it will still have an effect on them. Your passive-aggressiveness is going to come through, even in remote work environments,” she told me in an interview for my book. [Research has shown](http://www.psych.rochester.edu/research/jamiesonlab/wp-content/uploads/2014/01/peters.pdf) that it’s not just you who suffers the physical impact of suppression either. If you hide anger or frustration, the blood pressure of those around you is likely to rise as well. They may not know exactly what you’re feeling and thinking, but they register underlying tension just the same.
 
-## **Retaliating**
+## **2. Retaliating**
 
 Another tempting response to mistreatment is to fight fire with fire. If [your passive-aggressive teammate](https://hbr.org/2016/01/how-to-deal-with-a-passive-aggressive-colleague) says one thing in a meeting and does something completely different afterward, why not do the same to them? Or if your pessimistic colleague is going to poke a zillion holes in your ideas, why shouldn’t you take them down when they suggest something new? Unfortunately, stooping to their level doesn’t generally work. You intensify the feeling of being on opposing sides rather than giving the dynamic a chance to change. And retaliation often makes you look bad. Or worse, it violates your values.
 
 To avoid giving into the (understandable) desire for revenge, commit to behaving in line with your values. Sometimes it’s helpful to write them down. What is it that you care about? What matters most to you? If you’re not sure, consider looking at [a set of universal values](https://www.psychologytoday.com/us/blog/theory-knowledge/201410/theory-ten-universal-values) and see which resonate with you, listing them in order of importance. Then, when you’re coming up with a plan for how you want to respond to your insecure boss or biased coworker, refer to the list and make sure that the tactics you land on align with your values.
 
-## **Shaming**
+## **3. Shaming**
 
-When I’m dealing with someone who pushes my buttons, I often fantasize about sending an email to everyone who knows them, outing them as a jerk. My (flawed) logic is that if the person who has wronged me is humiliated enough, they will be forced to change their ways.
+When I’m dealing with <u>someone who pushes my buttons</u>, I often fantasize about sending an email to everyone who knows them, outing them as a jerk. My (flawed) logic is that if the person who has wronged me is humiliated enough, they will be forced to change their ways.
 
 Bob Sutton, author of *The No Asshole Rule*, summed it up this way: “Calling people an asshole is one of the most reliable ways to turn someone into an asshole — or make them hate you.” That’s because feelings of shame rarely inspire us to behave better; more often, they make us lash out further.
 
@@ -65,7 +75,7 @@ Making your colleague feel as if they’re a bad person, labeling them as a jerk
 
 Similarly, dehumanizing a difficult coworker doesn’t help. It’s easy to demonize the person who causes us harm, but hating them only pits you against one another. Instead, make sure that every step of the way, you remind yourself that you’re dealing with a fellow human, not a robot or an arch villain.
 
-## **Hoping your colleague will leave**
+## **4. Hoping your colleague will leave**
 
 Many of us bank on outlasting our difficult colleagues and focus on making the situation workable until they get fired or move on to another job. But be careful of putting all of your eggs in the “eventually they’ll be gone” basket. Sutton warns that sometimes “removing the bad apples” does little to change the underlying issue, especially if your colleague’s obnoxious behavior is validated by the organizational culture. Often other things need to change to prevent incivility, he says — things like the “incentive system, who’s promoted and rewarded, how meetings are run, and the pressure people are under to perform.”
 
@@ -73,7 +83,7 @@ A few years ago, the head of HR for a health insurance company asked me to train
 
 Sometimes it’s not individual people who are the problem but the systems that allow, and in some cases encourage, hostility over cooperation. And systems are hard to change. Your dream that your difficult coworker will walk out the door may come true, but there’s no guarantee that the culture will shift or that you’ll get along with their replacement. Ultimately you’re better off trying to create a workable situation with your colleague now than hoping things will improve if they leave.
 
-Will you always be able to avoid these flawed responses? No. Nobody’s perfect, and these unproductive approaches are seductive. But if you get a flat tire, you don’t fix the problem by slashing the other three tires. When you strike out with the first tactic (or several tactics) you choose, try something else — or reach out for help. Maybe your boss, a friend, or a mutual colleague can offer a novel solution. The point is to keep at it; remember: even small improvements can make a big difference.
+Will you always be able to avoid these flawed responses? No. Nobody’s perfect, and these unproductive approaches are seductive. But if you get a flat tire, you don’t fix the problem by slashing the other three tires. When you strike out with the first tactic (or several tactics) you choose, try something else — or reach out for help. Maybe your boss, a friend, or a mutual colleague can offer <u>a novel solution</u>. <u>The point is to keep at it; remember: even small improvements can make a big difference</u>.
 
 *This article is excerpted from Amy’s Gallo book,* [Getting Along: How to Work with Anyone (Even Difficult People)](https://www.amazon.com/Getting-Along-Anyone-Difficult-People/dp/1647821061/) *(Harvard Business Review Press 2022).*
 

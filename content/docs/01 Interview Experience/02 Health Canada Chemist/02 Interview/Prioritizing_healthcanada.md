@@ -2,7 +2,7 @@
 weight: 2
 title: Ability to set priorities and meet deadlines
 authors: Lenny Lin
-categories: Interview
+categories: [Interview]
 tags: ["Set Priorities"]
 date: " "
 description: 
@@ -37,7 +37,8 @@ Discard it and redid the experiments, stay late.
 Complete.  
 
 
-**Revisit @ 2022-08-01**  
+**Revisit**
+[2022-08-01] 
 
 
 **COMMENTS**  
