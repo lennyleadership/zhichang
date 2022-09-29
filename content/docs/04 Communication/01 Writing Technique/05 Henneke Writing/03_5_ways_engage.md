@@ -1,7 +1,7 @@
 ---
 Weight: 3
 title: "5 Ways to Engage, Touch, and Energize Your Readers"
-authors: Edited by Lenny Lin
+authors: Henneke Duistermaat, Edited by Lenny Lin
 categories: null
 tags: null
 description: 

@@ -12,6 +12,10 @@ series: null
 toc: true
 ---
 
+This article does not talk about bringing positive outcome from dealing with a difficult coworker.  It is not a win-win solution.  
+
+<!--more-->
+---
 
 By Indeed Editorial Team
 

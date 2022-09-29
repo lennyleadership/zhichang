@@ -82,7 +82,7 @@ h2 + p::first-letter {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%; /* image zoom*/
+  /*width: 50%; /* image zoom*/
 }
 
 /* quoting */
@@ -90,4 +90,16 @@ blockquote {
   text-indent: -.5em;
   font-size: 90%;
   font-style: italic;
+}
+
+/* quoting with background */
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
 }

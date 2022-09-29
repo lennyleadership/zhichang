@@ -34,8 +34,9 @@ Looking back, I wish I could have been trained earlier in business psychology at
 I will continue to learn business psychology in the new job position to ensure the smooth and successful running of the laboratory.  
 
 ---
-**Revisit** 
+**Revisit**  
 [2022.09.29]  
+Option #1  
 There were many difficult employee situations that I had to handle.  I used different strategies to resolve the situations.  
 The first situation was poor productivity, for example, samples were analyzed, but it took long time to do reporting, sometimes it exceeded our internal clients' expectations.  I developed programs to automate the data processing.  It cut off the reporting time from three-four business days to a couple of hours.     
 The second situation was that a junior technologist thought they knew all about ICP-OES analysis, they questioned my discernment when I pointed out errors after reviewing an analytical report at one time. They did not care about the data quality because the results had been lower than the regulated limit.  I leveraged a senior technologist's influence. I had him verify my observation.  I also brought it up to the manager's attention.    
@@ -43,10 +44,22 @@ The third situation was that a technologist did not meet a training expectation.
 
 I joined in a Toastmasters club and learn leadership ...
 
-Looking back, I wish I could have been trained earlier in business psychology at AECL before handling the difficult employee situation.  Here is an example: I later read a book, "The Platinum Rule," later on.  The principle is "Do unto others as they would like done unto them."  Then the author developed strategies to work with persons in four categories, Directors, Socializers, Relaters, and Thinkers.  I can relate that person to Socializer, and I learnt that I followed some of the guidelines in the book, but I missed others.  I would have more strategies to help them out.  I applied this principle at LifeLabs.  I could identify different personal styles and manage to work with them better.  
+Looking back, I should do differently as follows:  
+We should have a disciplinary process to bring their performance back to what we expected.  
 
 ---
-[2022.09.30]  
+Option #2
+A technologist was responsible for VOC analysis at AECL.
+1) (Acknowledge and identify the problems)  The training expectation was not met.  
+2) (Listen their feedback. Get to know their perspective)  I took a proactive approach seeking his feedback on how I could do differently down the road.  Luckly enough, he began with providing feedback.  He preferred a cheatsheet using his own language.   
+3) (Maintained the positive working relationship. Showed compassion) then telling his struggling in his life.  We came closer in relationship.  
+4) (Create a revised training plan. Followed up consistently) The training was successful in the end. Job-shadowing.  
+5) (Find the positive. Motivation, Recognition) Later on, while I looked into performance of each individual technologist, and collected data.  I realized he was the top performer all the time.  During a performance appraisal in one year, the section head quit the job, he was afraid that the branch manager knew nothing about his performance.  I sent an email to the branch manager providing data to support that this employee exceeded expectation.  My voice was heard, and his performance was valued.  As a result, he changed his behaviours in many ways, such as violation of coffee time policy.  Afterwards, he showed his support to me while I dealt with the most difficult employee situation.  When the section was laid-off, he asked me to become his reference while he was looking for job.  In this situation, I turned a work conflict to winning a person.  
+
+---
+Option #3  
+Reword the scenario and use it when the interview panel asked me an example of failure.  
+The performance is out of my control, I can only do so much, not a good example.      
 
 A technologist was responsible for element analysis using ICP.  
 
@@ -61,10 +74,17 @@ I have developed some strategies to resolve the situation with the manager, whic
 3) (Helped them.)  I developed programs to streamline data processing, and cut off repetitive and tedious works.  
 4) (Leveraged senior's influence.) The person worked better under the senior technologist's influence.  Therefore, I leveraged the peer influence to push them to get started.  Occasionally the senior technologist had to work with them side-by-side.  They accomplished works well, but it is not sustainable.  Once the senior technologist retired, their productivity suffered.
 5) (Find the positives. Focus on the positives. Minimized the impact and controlled the factors.) I realized that they were good at administrative work.  As a result, the manager and I reduced their analysis responsibilities to minimize the operation's damage and assigned more administrative work.  In addition, we asked them to join the site safety committee and other administrative-related work.
-6) (Maintained the positive working relationship. Show compassion) I applied the idea of "the emotional bank account" from the book "The 7 habits of Highly Effective People" to them.  We maintained a positive work relationship, even though I had to deal with conflicts with them.  With the advice of the Employee Assistance Program at Morneau Shepell, I was able to identify the root cause of their behaviour.  I shared it with the manager, but we did not come up with better solutions for this one.
+6) (Maintained the positive working relationship. Show compassion.) I applied the idea of "the emotional bank account" from the book "The 7 habits of Highly Effective People" to them.  We maintained a positive work relationship, even though I had to deal with conflicts with them.  With the advice of the Employee Assistance Program at Morneau Shepell, I was able to identify the root cause of their behaviour.  I shared it with the manager, but we did not come up with better solutions for this one.
+
+2) The outcome:  
+The outcome was not a win-win ending, but a lose-win ending in relationship.  
+
+The team performance was slightly improved in the culture.  After the culture changed, everyone was motivated to demonstrate their performance.    
 
 Looking back, I should do differently as follows:  
-1) Join in Toastmasters club earlier, and learn to deliver constructive feedback.  
+We should have a disciplinary process to bring their performance back to what we expected.  
+share the same mission with coworkers, and monitored closely.  
+
 
 
   

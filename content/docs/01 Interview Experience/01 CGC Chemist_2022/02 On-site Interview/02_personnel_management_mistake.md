@@ -17,7 +17,6 @@ EC1. Managing people. Promotes team communication, builds team effectiveness and
 EC1.4 Describe a personnel management mistake that you made in the past. Looking back, what would you do differently? [10 marks]
 
 <!--more-->
-
 ---
 
 
@@ -30,7 +29,7 @@ I found that the struggling in life could affect the work performance.  Looking 
 
 
 *** 
-
+Hannah:  
 Hi Lenny! It is so good to hear from you!! Things are going well at work and in my personal life.
 I am now Customer Service Manager for all 5 labs in Ontario and responsible for the Customer Service Reps and Bottle Order Technicians in all locations…busy busy!! Lol
 
