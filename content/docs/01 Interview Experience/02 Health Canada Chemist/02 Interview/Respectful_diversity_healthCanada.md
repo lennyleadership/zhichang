@@ -37,7 +37,7 @@ The following questions are provided to guide you in your response.  You donot h
 [General] Respect, be open-minded.
 
 **Revisit**  
-[2022.09.29] (firstly I do problem solving part). I want to work with the colleague to solve the problem.  I would want the colleague to explain interpretation from their perspective, and understand their point of views. I wish we would come to the agreement. (secondly I report to the supervisor). If it was not the case, I would bring it to the supervisor's attention.  I would lay out the discrepancy of both observations and interpretations.
+[2022.09.29] (firstly I do problem solving part). I want to work with the colleague to solve the problem.  I would get to know their perspective.  I would want the colleague to explain interpretation from their perspective, and understand their point of views. I wish we would come to the agreement. (secondly I report to the supervisor). If it was not the case, I would bring it to the supervisor's attention.  I would lay out the discrepancy of both observations and interpretations.
 
 **REFERENNCE**
 [Location: Health_Canada_interview-3.mp4]  
