@@ -54,6 +54,7 @@ Shall I show you some examples?
 
 <figure class="quote">
   <blockquote>
+  
 **Example sentence #1:**
 
 When I started my own business, it has given me a whole new perspective to see the bigger picture when it comes to finding a work / life balance.
@@ -77,6 +78,7 @@ Also, in the example above, “the bigger picture” and “a new perspective”
 
 <figure class="quote">
   <blockquote>
+  
 **Example sentence #2:**
 
 I will provide you with suggestions on your performance so you can overcome the challenges you encounter every day while working for a difficult boss, so you can feel less stressed.
@@ -102,7 +104,8 @@ The nouns “comments,” “splash,” and “progress” are called “zombie 
 
 <figure class="quote">
   <blockquote>
-**Example sentence #3:**
+  
+<b>Example sentence #3</b>:
 
 Our mastermind group for beginning solo-entrepreneurs will help you fight the solitude related to a solo-business and provide a sounding board to make the right decisions faster, so you can stop dithering and make progress faster.
 

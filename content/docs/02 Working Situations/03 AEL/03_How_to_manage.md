@@ -19,6 +19,8 @@ Bits:
 1) Maintain routine operation  
 daily operations: micro lab, chemical lab, QA, customer service, financial and HR.  employee retaining, employee training, OCWA, data uploading for water quality.  
 
+Stay late everyday to make sure samples were sent down to Sudbury.  
+
 2) Human resources: reconstruction, reorganization, redeployment
 Fired/ disciplined/ redeployed/ downsized
 
