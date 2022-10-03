@@ -99,3 +99,4 @@ I did not ask the pregnant chemist the due date or congratulated her.  It seems 
 ## The drawback of this position
 The focus of this position is supervision, not the technical competency.  It is not the primary focus of hands-on experience.  Although I would have chance to learn.    
 
+我觉得我比较张扬，忘乎所以。跟CO-OP的效果一样。

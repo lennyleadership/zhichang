@@ -35,6 +35,22 @@ I will continue to learn business psychology in the new job position to ensure t
 
 ---
 **Revisit**  
+
+[2022.09.30]  
+A junior technologist was responsible for element analysis using ICP primarily as well as other works.  
+
+1) Acknowledge and identify the problems/ issues:  
+  a) mind-set issues: They thought they knew the ICP analysis inside out, but not.  There were two results. First, they did not take my constructive feedback when I explained my observation sometimes. Second, they did not care about the data quality because the results were lower than the regulatory limits.
+  b) Performance issues: they procrastinated analysis.  There were two results. First, samples passed the holding time. Second, samples were backlogged.  Third, the internal client's expectation was not met.
+
+2) Resolutions:  
+Regarding taking my constructive feedback, I remembered there was a time when I pointed out a couple of errors with QC results, we had to end the conversation, because it caused tension.  I had to leverage a senior technologist's influence.  The senior technologist was the mentor to the junior technologist. I explained my observations to the senior technologist.  we came to the same ground, then the senior technologist went to help the junior technologist to figure out the problem.  In that situation, I reported it to the manager.
+
+Regarding the careless about the data quality, I stood firmly about the value of our testing service.  I expressed clearly that we should not sacrifice our professional value.
+
+Regarding the performance issues. I did three things.  Firstly, I held them accountable to delivery testing.  I broke down to some key performance indices, and monitored the progress. Secondly, I developed programming codes to automate data processing.  It cut off their time to process data. Thirdly, they showed interests in administration works, I came up with an idea of having them help purchasing and join in the site safety committee. I proposed it to the manager.  The consequence was that we reduced their analysis workload and redistribute workload among the team. We improved the data processing, They were happy in doing what they were good at.  We made progress in meeting the internal client's expectation.
+
+---
 [2022.09.29]  
 Option #1  
 There were many difficult employee situations that I had to handle.  I used different strategies to resolve the situations.  
@@ -84,6 +100,8 @@ The team performance was slightly improved in the culture.  After the culture ch
 Looking back, I should do differently as follows:  
 We should have a disciplinary process to bring their performance back to what we expected.  
 share the same mission with coworkers, and monitored closely.  
+
+
 
 
 

@@ -356,6 +356,8 @@ Elif Shafak excels at sketching multi-sensory images to transport her readers to
 > The brothel where Leila worked was among the oldest in the area. A single fluorescent tube flickered at the entrance with the force of a thousand tiny matches catching light and burning one after another. The air was thickened by the scent of cheap perfume, the taps encrusted with deposits of limescale and the ceiling coated with the sticky brown stains of nicotine and tar from years of tobacco smoke.
 > 
 
+From: [10 Minutes 38 Seconds in this Strange World](https://www.amazon.com/gp/product/B07WSPK7D5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07WSPK7D5&linkCode=as2&tag=enchanmarket-20&linkId=26d6e6c001d34d8f2c9869ff56ab9872) by Elif Shafak
+
 ### 2. A sensory business book
 
 Chip and Dan Heath are my favorite business writers. In their book *The Power of Moments*, they show how to weave miniature stories into your writing—even a business book.
