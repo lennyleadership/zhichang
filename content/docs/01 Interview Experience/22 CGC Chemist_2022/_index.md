@@ -25,4 +25,4 @@ Sep 7th: I got invitation for the in-person interview.
 
 Sep 14th: In-person interview.
 
-Sep 2th: I followed up.
+Sep 26th: I followed up.
