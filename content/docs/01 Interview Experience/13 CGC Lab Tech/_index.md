@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 13
 title: CGC Senior Lab Tech
 categories: null
 description: 

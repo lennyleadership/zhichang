@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 18
 title: Health Canada Chemist 2022
 categories: null
 description: 

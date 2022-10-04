@@ -1,5 +1,5 @@
 ---
-weight: 07
+weight: 16
 title: CGC Senior Tech 2018
 categories: null
 description: 
