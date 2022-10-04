@@ -1,6 +1,6 @@
 ---
-weight: 99
-title: "blank"
+weight: 1
+title: "Limited Experience with LC-MS/MS"
 authors: Lenny Lin
 categories: 
 tags: []
@@ -13,4 +13,15 @@ toc: true
 ---
 
 
+How / What do I convince them that is okay?  
 
+
+
+1) I know what I am looking for from my experience with GC-MS to my first time with GC-MS/MS.  Multiple reaction monitoring (MRM) was new. I was trained on quantitative module of MassHunter by the Agilent field service engineer for about a couple of hours.  
+
+Achievements:  
+      The program of instrumentation is a piece of cake.  
+      1) I developed VBA macro to process data.  
+      2) I did text mining in autotune reports, and plotted the trend of EMV.  
+
+2) 
