@@ -24,4 +24,5 @@ Achievements:
     The program of instrumentation is a piece of cake.  
     i) I developed VBA macro to process data.  
     ii) I did text mining in autotune reports, and plotted the trend of EMV data.  
+
 2) 
