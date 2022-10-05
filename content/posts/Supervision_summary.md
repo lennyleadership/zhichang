@@ -83,9 +83,6 @@ I am not coercive as much as I though I was, because the coercive style is extre
 
 
 
-
-
-
 ## Prepare it from taking challenges/ troubleshooting perspective.
 Supervision is a challenging journey. challenges in relationship management, to motivate staff who did not care (work for pay-cheque)
 What did I do? be fair, recognize achievements, hold myself accountable, build up people,

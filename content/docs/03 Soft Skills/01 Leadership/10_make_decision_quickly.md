@@ -61,16 +61,16 @@ Here are a few quick decision-making strategies you can try:
 **1. Ignore your emotions and use a formula instead**  
 Decision-making becomes easier when you know your values and don’t let your emotions get in the way of sticking to them.  
 
-For example, in his book Thinking, Fast and Slow, psychologist Daniel Kahneman recommends that if you’re hiring for a sales position before you interview anyone, create a list of six traits that are important to the role. As you interview candidates, give each a score on a scale of one to five on each trait.  
+For example, in his book *Thinking, Fast and Slow*, psychologist Daniel Kahneman recommends that if you’re hiring for a sales position before you interview anyone, create a list of six traits that are important to the role. As you interview candidates, give each a score on a scale of one to five on each trait.  
 
-In the end, tally up the scores and commit to choosing the person with the highest score, even if you feel like someone else might be a better fit.  
+In the end, tally up the scores and commit to choosing the person with the highest score, even if you *feel* like someone else might be a better fit.  
 
 **2. Know when to stop researching and commit to a decision**  
 [Analysis paralysis](https://rescuetime.wpengine.com/indecisive-teammates-bosses/) can set in when you spend too much time researching options versus committing to one. But how do you know how much time is too much time spent on research?
 
 There are a few methods out there, but my favorite is the [37% Rule or Optimal Stopping](https://www.huffpost.com/entry/algorithms-to-live-by_b_9772622). 
 
-According to the book Algorithms to Live By, if you stop at 37% of your search, you have a 37% chance of picking the best option. If a less-than-half chance seems dismal, keep in mind it’s still mathematically the highest chance you’ll get.
+According to the book *Algorithms to Live By*, if you stop at 37% of your search, you have a 37% chance of picking the best option. If a less-than-half chance seems dismal, keep in mind it’s still mathematically the highest chance you’ll get.
 
 As the authors write: 
 
