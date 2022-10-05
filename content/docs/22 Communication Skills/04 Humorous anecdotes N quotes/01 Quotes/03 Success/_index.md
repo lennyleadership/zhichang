@@ -1,12 +1,12 @@
 ---
-weight: 4
-title: "Communication"
+weight: 1
+title: 
 categories: null
+tags:
 description: 
 draft: false
-date: "2022-08-05"
-lastmod: "2022-08-05"
+date: 
+lastmod: "2022-08-01"
 bookCollapseSection: true
-
 ---
 
