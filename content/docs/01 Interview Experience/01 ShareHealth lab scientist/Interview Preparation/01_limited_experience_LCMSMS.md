@@ -25,4 +25,4 @@ Achievements:
     i) I developed VBA macro to process data.  
     ii) I did text mining in autotune reports, and plotted the trend of EMV data.  
 
-2) 
+2) when problem comes up, I have tools to use, I can contact the vendor.  I will take a note on my logbook.  I have a plan of implementing an electronic troubleshooting logbook.
