@@ -1,17 +1,17 @@
-+++
-title = "Planning, Organizing, and Coordinating"
-description = ""
-tags = [
-    "CGC-Chemist",
-    "",
-    ""
-]
-date = "2022-07-27"
-categories = [
-    "Competency Descriptions",
-]
-menu = "main"
-+++
+---
+weight: 3
+title: Planning, Organizing, and Coordinating
+categories: [Competency Descriptions]
+description: 
+draft: false
+date: "2022-10-05"
+lastmod: "2022-10-05"
+---
+
+CGC
+
+<!--more-->
+---
 
 • Seeks objectives for priorities as needed.  
 • Sets timelines and work steps.  

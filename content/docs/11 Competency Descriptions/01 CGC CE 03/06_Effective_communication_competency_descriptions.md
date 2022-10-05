@@ -1,17 +1,18 @@
-+++
-title = "Effective Communication"
-description = ""
-tags = [
-    "CGC-Chemist",
-    "",
-    ""
-]
-date = "2022-07-27"
-categories = [
-    "Competency Descriptions",
-]
-menu = "main"
-+++
+---
+weight: 1
+title: Effective Communication
+categories: [Competency Descriptions]
+description: 
+draft: false
+date: "2022-10-05"
+lastmod: "2022-10-05"
+---
+
+CGC
+
+<!--more-->
+---
+
 
 • Seeks the input of others.  
 • Listens to acquire essential information.  

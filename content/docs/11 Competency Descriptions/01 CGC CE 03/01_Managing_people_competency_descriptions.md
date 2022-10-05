@@ -1,17 +1,16 @@
-+++
-title = "Managing People"
-description = ""
-tags = [
-    "CGC-Chemist",
-    "",
-    ""
-]
-date = "2022-07-27"
-categories = [
-    "Competency Descriptions",
-]
-menu = "main"
-+++
+---
+weight: 1
+title: Managing People
+categories: [Competency Descriptions]
+description: 
+draft: false
+date: "2022-10-05"
+lastmod: "2022-10-05"
+---
+CGC
+
+<!--more-->
+---
 
 • Works one-on-one with direct reports.  
 • Demonstrates a positive attitude and leadership towards own goals and the goals of others.  

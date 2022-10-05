@@ -1,16 +1,17 @@
-+++
-title = "Continuous Professional Learning"
-description = ""
-tags = [
-    "NRC-Researcher",
-    "",
-]
-date = "2022-06-17"
-categories = [
-    "Competency Descriptions",
-]
-menu = "main"
-+++
+---
+weight: 1
+title: Continuous Professional Learning
+categories: [Competency Descriptions]
+description: 
+draft: false
+date: "2022-10-05"
+lastmod: "2022-10-05"
+bookCollapseSection: true
+---
+NRC
+
+[!---More---]
+---
 
 Continuously expanding and applying technical expertise.  
 

@@ -1,17 +1,18 @@
-+++
-title = "Integrity and Respect"
-description = ""
-tags = [
-    "CGC-Chemist",
-    "",
-    ""
-]
-date = "2022-07-27"
-categories = [
-    "Competency Descriptions",
-]
-menu = "main"
-+++
+---
+weight: 4
+title: Integrity and Respect
+categories: [Competency Descriptions]
+description: 
+draft: false
+date: "2022-10-05"
+lastmod: "2022-10-05"
+---
+
+CGC
+
+<!--more-->
+---
+
 
 • Acts in ways that are consistent with what one says.  
 • Interacts professionally with others at all times (i.e. is courteous, prompt and helpful).  

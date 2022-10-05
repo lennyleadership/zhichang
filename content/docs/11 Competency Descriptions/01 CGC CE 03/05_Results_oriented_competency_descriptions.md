@@ -1,17 +1,17 @@
-+++
-title = "Results Oriented"
-description = ""
-tags = [
-    "CGC-Chemist",
-    "",
-    ""
-]
-date = "2022-07-27"
-categories = [
-    "Competency Descriptions",
-]
-menu = "main"
-+++
+---
+weight: 5
+title: Results Oriented
+categories: [Competency Descriptions]
+description: 
+draft: false
+date: "2022-10-05"
+lastmod: "2022-10-05"
+---
+
+CGC
+
+<!--more-->
+---
 
 • Demonstrates understanding of, and works to meet, predetermined standards.  
 • Maintains focus on desired result.  
