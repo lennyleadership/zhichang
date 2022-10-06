@@ -2,7 +2,7 @@
 weight: 1
 title: "Limited Experience with LC-MS/MS"
 authors: Lenny Lin
-categories: [Interview Preparation]
+categories: [Interview Preparation, Technical Questions]
 tags: []
 description: 
 draft: false
