@@ -19,7 +19,7 @@ toc: true
 **2022-10-01**  
 
 <table style="width:100%;">
-<caption style="text-align:left", align = "top"><b>iNTERVIEW MOMENTS</b></caption>
+<caption style="text-align:left", align = "top"><b>INTERVIEW MOMENTS</b></caption>
 <colgroup><col style="width: 40%" /><col style="width: 60%" />
 </colgroup>
 <thead>
@@ -30,13 +30,13 @@ toc: true
 </thead>
 <tbody VALIGN=TOP>
   <tr class="odd">
-    <td><p>Are you interested in running ICP-OES? Honestly I did not run ICP-OES, but I have no problem running it.
+    <td><p>At NAIT. <br>Are you interested in running ICP-OES? Honestly I did not run ICP-OES, but I have no problem running it.
     </p></td>
     <td><p>I purchased an ICP long time ago, and had hands-on experience on the old model.
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>I learned knowledge through webinars.
+    <td><p>At CGC. <br>I learned knowledge through webinars.
     </p></td>
     <td><p>I learned LC-MS/MS on the job at LifeLabs, then took webinars to upgrade my knowledge. I built a blog to organize what I have learned on troubleshooting.
     </p></td>

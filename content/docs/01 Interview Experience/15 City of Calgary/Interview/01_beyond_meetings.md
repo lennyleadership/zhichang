@@ -15,7 +15,6 @@ toc: true
 Question #12: Accomplishing team goals often requires activities and tasks beyond formal meetings or arrangement, are there somethings you have done?
 
 <!--more-->
-
 ---
 
 1. Real-time response:  
@@ -41,3 +40,8 @@ I had meeting with the manager.
 	 
 As a result, I helped to accomplish team goals by building team, recognizing and evaluating team.  
 
+
+**Revisit**  
+[2022.10.06] 
+key words: At AECL, monthly meeting. Usually we would have to-do list from the formal meeting.  I committed myself to get them done.  
+We updated each others during the huddle meeting.  

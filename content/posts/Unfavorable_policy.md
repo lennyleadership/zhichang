@@ -2,7 +2,7 @@
 title = "Unfavorable Policy"
 description = ""
 tags = [
-    "Interviewpenguin",
+    "Interview Penguin",
     "",
     ""
 ]
