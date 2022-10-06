@@ -6,11 +6,10 @@ description:
 draft: false
 date: "2022-10-05"
 lastmod: "2022-10-05"
-bookCollapseSection: true
 ---
 NRC
 
-[!--More--]
+<!--more-->
 ---
 
 Continuously expanding and applying technical expertise.  
