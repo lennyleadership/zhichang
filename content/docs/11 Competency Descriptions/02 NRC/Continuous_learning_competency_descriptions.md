@@ -10,7 +10,7 @@ bookCollapseSection: true
 ---
 NRC
 
-[!---More---]
+[!--More--]
 ---
 
 Continuously expanding and applying technical expertise.  

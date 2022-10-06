@@ -1,5 +1,5 @@
 ---
-weight: 02
+weight: 2
 title: "Good Lab Practices"
 authors: Lenny Lin
 categories: 
