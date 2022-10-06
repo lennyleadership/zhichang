@@ -1,5 +1,5 @@
 ---
-weight: 99
+weight: 1
 title: Work With Others
 categories: null
 description: 
