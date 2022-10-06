@@ -13,4 +13,8 @@ toc: true
 ---
 
 
+I have a broad experience in environmental testing and monitoring for non-RAD and ...
+
+<img width ="360" height= "200" src = "/docs/images/AECL-Sampling.png" style ="float: left" HSPACE="10" VSPACE="10"/>
+
 
