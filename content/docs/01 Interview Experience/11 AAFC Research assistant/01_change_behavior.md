@@ -22,10 +22,10 @@ EC1.1	Please give an example of a situation where you changed your behaviour or 
 
 Probing Questions:
 
-•	Why did you need to change your approach? 
-•	Describe how you changed your approach/behaviour. 
-•	How easily did you adapt to the situation? 
-•	What was the outcome?
+•	Why did you need to change your approach?  
+•	Describe how you changed your approach/behaviour.   
+•	How easily did you adapt to the situation?   
+•	What was the outcome?  
 
 Notes:
 
@@ -43,6 +43,12 @@ Adapt to a new paradigm. Mind-set is changed.
 
 补充：我觉得这个问题要考面试人会怎么适应变革、适应新环境。比如，你怎么样适应新工作、新的老板、
 
-How would a peace-maker adapt a new circumstance?
-Adaptability - transformation
+How would a peace-maker adapt a new circumstance?  
+Adaptability - transformation  
+
+**Revisit**  
+[2022.10.06]  
+at LifeLabs.  team lead. expectation of experimental report using Excel.  outcome: my report was impressive.
+
+
 
