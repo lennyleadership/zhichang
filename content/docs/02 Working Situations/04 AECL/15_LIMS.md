@@ -3,11 +3,11 @@ weight: 15
 title: Not Meet Objective
 authors: Lenny Lin
 categories: Working Situations
-tags: [Integrity, Failure, Results Oriented, Persuation]
-date: " "
+tags: [Integrity, Failure, Results Oriented, Persuasion]
 description: 
 draft: false
-lastmod: "2022-07-27"
+date: "2022-07-27"
+lastmod: "2022-10-07"
 series: null
 toc: true
 ---

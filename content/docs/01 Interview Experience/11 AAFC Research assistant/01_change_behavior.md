@@ -48,7 +48,9 @@ Adaptability - transformation
 
 **Revisit**  
 [2022.10.06]  
-at LifeLabs.  team lead. expectation of experimental report using Excel.  outcome: my report was impressive.
+at LifeLabs.  team lead. expectation of experimental report using Excel.  outcome: my report was impressive.  
+
+at AECL. 
 
 
 
