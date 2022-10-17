@@ -12,7 +12,38 @@ lastmod: "2022-10-05"
 <!--more-->
 ---
 
-[2022.10.05]  
+**[2022.10.10] target the potential employer such as clinic diagnostic lab**  
+
+Keywords:  
+The technical specifications: specificity (isomers), selectivity, sensitivity, matrix effects, Receiver Operating Characteristic (ROC) [false positive, false negative] 
+The business requirements: the medical decision limit / clinical decision limit, the cost of assay, the length of development time (it could take 6 months or 18 months),
+The operation requirements: throughput. 
+The project requirements: Work around the operation schedule.  
+
+factors to be considered / steps:  
+1) tune the mass spectrometer, positive mode or negative mode. read papers.  I had experience in 7 alpha C4 bile acid metabolite project.    
+2) select column, beginning with current column, working with mobile phases, and pH adjustment (modifiers). I had experience in 7 alpha C4 bile acid metabolite project
+3) work with sample preparation. I had experience in the Solid Phase Extraction in hydrolysis of steroid. Tools that I used were: experimental design, statistical analysis,  
+
+teamwork: scientists, vendors, technologists  
+
+I have not done validation.  
+
+I have knowledge of receiver operating characteristic (ROC)
+
+
+**[2022.10.10] target the potential employer such as AECL / CNL**    
+
+
+I did method development and method validation.  I passed the proficiency test.  
+
+I stuck to use the current column, followed by optimizing the temperature ramp program, identified quantifier and qualifier. 
+no sample preparation, but taking a tip of adding salt to increase sensitivity.  challenge was the contaminated water blank, mostly methylene chloride.
+
+
+
+---
+**[2022.10.05]**  
 I did method development for one assay from scratch until the end of it at AECL, I did partial development work for two assays at LifeLabs.
 
 Reminder: High level view, not much details. The difference can be used to form the answer.

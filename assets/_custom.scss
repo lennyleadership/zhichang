@@ -102,3 +102,52 @@ blockquote {
   margin: 1em;
 }
 /* the end */
+
+
+.column_left {
+  float: left;
+  padding: 20px; /* space between two tables*/
+  
+}
+
+.column_right {
+  float: right;
+  padding: 20px; /* space between two tables*/
+  
+}
+
+figure {
+  /*text-align: left;*/
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+  display: table;
+}
+
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
+
+a:link {
+  color: darkred;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
