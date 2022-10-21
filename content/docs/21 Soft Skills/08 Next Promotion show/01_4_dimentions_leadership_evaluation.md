@@ -23,7 +23,7 @@ toc: true
 </figure>
 
 ---
-div class = "quote">
+<div class = "quote">
 跃升见证团评价：  
 杨天真：思凡的自尊心太强。
 </div>
