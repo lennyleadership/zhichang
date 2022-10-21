@@ -41,7 +41,8 @@ Sam: 情绪把我们吃掉了。
 
 <br>
 <div class = "quote">
-注解：我在CGC面试最后总结的时候提到了我的high standard。现在看是需要做些补充的，不然的话就看不出我怎样带团队的。
+注解：我在CGC面试最后总结的时候提到了我的high standard。现在看是需要做些补充的，不然的话就会有误解，以为所有事情都是我来做的，以为我是发指令型的领导，看不出我怎样带团队的。我在AEL的管理风格基本上是发指令式的。要多看看郝非凡是怎样带团队的。
 </div>
 
+<br>
 <iframe width="360" height="200" src="https://www.youtube.com/embed/8X6-k9QWtug" title="《跃上高阶职场》完整版第6期(下)：矛盾激化！组长面临被撤职危机 | Next Promotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
