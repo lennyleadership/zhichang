@@ -15,7 +15,7 @@ toc: true
 
 # Hydro Quebec Lab
 
-<button class = "collapsible"> Hydro Quebec Lab</button>
+<button type = "button" class = "collapsible"> Hydro Quebec Lab</button>
 <div class = "content">
 <p>The Hydro Lab is an open innovation laboratory where inventive ideas take root. It is a co-creative space designed to accelerate the company’s innovative projects and to find new ways of meeting the expectations of the public and of Hydro‑Québec employees.
 
