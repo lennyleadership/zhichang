@@ -1,11 +1,11 @@
 ---
-weight: 95
-title: Misc.
+weight: 4
+title: Decision-making
 categories: null
 description: 
 draft: false
-date: "2022-10-06"
-lastmod: "2022-10-06"
+date: "2023-02-03"
+lastmod: "2023-02-03"
 bookCollapseSection: true
 ---
 

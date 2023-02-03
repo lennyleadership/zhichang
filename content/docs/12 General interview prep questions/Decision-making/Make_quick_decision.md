@@ -1,16 +1,20 @@
-+++
-title = "Make a decision Quickly"
-description = ""
-tags = [
+---
+weight: 3
+title: Make a Decision Quickly
+authors: Lenny Lin
+categories: 
+tags: [
     "Decision-making",
     "150 interview questions",
 ]
-date = "2022-05-31"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+description: 
+draft: false
+date: "2023-02-03"
+lastmod: "2023-02-03"
+series: null
+toc: true
+---
+
 
 Q: Give an example of a time in which you had to be relatively quick in coming to a decision.  
 [collected from 150 interview questions]  

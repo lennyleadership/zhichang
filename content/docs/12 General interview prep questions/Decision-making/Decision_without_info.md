@@ -1,16 +1,17 @@
-+++
-title = "Make A Decision With Limited Information"
-description = ""
-tags = [
-    "Decision-making",
-    "",
-]
-date = "2022-06-15"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+---
+weight: 1
+title: Make A Decision With Limited Information
+authors: Lenny Lin
+categories: 
+tags: [Decision-making]
+description: 
+draft: false
+date: "2022-06-15"
+lastmod: "2023-02-03"
+series: null
+toc: true
+---
+
 
 **Q: Tell me about a time when you had to make a decision, but didn’t have all the information you needed.**
 

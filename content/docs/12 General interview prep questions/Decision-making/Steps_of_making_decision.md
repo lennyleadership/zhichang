@@ -1,16 +1,20 @@
-+++
-title = "Steps to Follow Before Making a Decision"
-description = ""
-tags = [
+---
+weight: 4
+title: Steps to Follow Before Making a Decision
+authors: Lenny Lin
+categories: 
+tags: [
     "Decision-making",
     "150 interview questions",
 ]
-date = "2022-05-31"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+description: 
+draft: false
+date: "2022-05-31"
+lastmod: "2023-02-03"
+series: null
+toc: true
+---
+
 
 What steps do you follow to study a problem before making a decision.  
 [collected from 150 interview questions]

@@ -1,16 +1,17 @@
-+++
-title = "How Did you Make An Important Decision?"
-description = ""
-tags = [
-    "Decision-making",
-    "",
-]
-date = "2022-06-15"
-categories = [
-    "Interview",
-]
-menu = "main"
-+++
+---
+weight: 2
+title: How Did you Make An Important Decision?
+authors: Lenny Lin
+categories: 
+tags: [Decision-making]
+description: 
+draft: false
+date: "2022-06-15"
+lastmod: "2023-02-03"
+series: null
+toc: true
+---
+
 
 **Q: Give me an example of a time you had to make an important decision. How did you make the decision? How does it affect you today?**
 

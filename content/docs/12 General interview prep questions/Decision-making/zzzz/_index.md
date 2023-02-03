@@ -1,11 +1,12 @@
 ---
-weight: 95
-title: Misc.
+weight: 1
+title: 
 categories: null
+tags:
 description: 
 draft: false
-date: "2022-10-06"
-lastmod: "2022-10-06"
+date: 
+lastmod: "2022-08-01"
 bookCollapseSection: true
 ---
 

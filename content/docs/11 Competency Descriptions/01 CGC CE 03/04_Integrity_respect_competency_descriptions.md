@@ -8,7 +8,7 @@ date: "2022-10-05"
 lastmod: "2022-10-05"
 ---
 
-CGC
+CGC: Integrity and Respect
 
 <!--more-->
 ---
