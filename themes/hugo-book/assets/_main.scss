@@ -307,7 +307,7 @@ body[dir="rtl"] .book-menu {
 }
 
 .collapsible:after {
-  content: '\002B';
+  content: '\02795'; /* \002B */
   color: white;
   font-weight: bold;
   float: right;
@@ -315,7 +315,7 @@ body[dir="rtl"] .book-menu {
 }
 
 .active:after {
-  content: "\2212";
+  content: "\22796";
 }
 
 .content {
