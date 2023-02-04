@@ -21,7 +21,7 @@ Please provide the contact information for someone that can corroborate your res
 
 ---
 
-Refer to `Working Situations/04 AECL/15_LIMS`
+Refer to <a href = "https://zhichang.netlify.app/docs/01-interview-experience/24-cgc-chemist_2022/01-take-home-exam/06_not_meet_objective_cgc_2022/" target="_blank" rel="noopener noreferrer">[Working Situations/04 AECL/15_LIMS]</a>
 
 Contact: KF
 
