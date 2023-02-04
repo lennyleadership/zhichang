@@ -1,12 +1,11 @@
 ---
-weight: 1
-title: 
+weight: 8
+title: Decision-making
 categories: null
-tags:
 description: 
 draft: false
-date: 
-lastmod: "2022-08-01"
+date: "2023-02-03"
+lastmod: "2023-02-03"
 bookCollapseSection: true
 ---
 
