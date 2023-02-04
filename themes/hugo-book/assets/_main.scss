@@ -288,6 +288,24 @@ body[dir="rtl"] .book-menu {
 
 
 
+/* highlight options *******************************************************************************/
+mark.black {
+  background-color: black;
+  color: white;
+}
+
+mark.grey {
+  background-color: #dcdcdc;
+}
+
+mark.lemon {
+  background-color: #fffacd;
+}
+/* the end *****************************************************************************************/
+
+
+
+
 /* collapse ****************************************************************************************/
 
 .collapsible {

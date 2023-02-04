@@ -1,6 +1,6 @@
 ---
 weight: 11
-title: "competency Description"
+title: "Competency Description"
 categories: null
 description: 
 draft: false
