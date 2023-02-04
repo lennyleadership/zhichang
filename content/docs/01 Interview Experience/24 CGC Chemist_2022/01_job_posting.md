@@ -1,7 +1,18 @@
 ---
 weight: 1
-title: "Job posting"
+title: Job posting
+authors: Lenny Lin
+categories: Interview
+tags: []
+description: 
+draft: true
+date: "2022-09-10"
+lastmod: "2022-09-10"
+series: null
+toc: true
 ---
+
+
 
 Canadian Grain Commission   
  Winnipeg (Manitoba)   
