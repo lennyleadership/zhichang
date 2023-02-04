@@ -18,7 +18,7 @@ MB Hydro: Decision Making
 
 # DEFINITION  
 
-Decision‐Making is about making good, timely decisions and solving problems involving varied levels of complexity, ambiguity and risk. It includes thinking creatively and focusing on innovation, consulting and engaging others and reconciling competing interests. It is also about acting with integrity in an honest and trustworthy manner based on personal accountability and a conviction to do the right thing. It is about making decisions within established Code of Ethics & standards
+Decision‐Making is about making good, timely decisions and solving problems involving varied levels of complexity, ambiguity and risk. It includes thinking creatively and focusing on innovation, consulting and engaging others and reconciling competing interests. It is also about acting with integrity in an honest and trustworthy manner based on personal accountability and a conviction to do the right thing. It is about making decisions within established Code of Ethics & standards.
 
 
 # WHY IS IT IMPORTANT?  
