@@ -24,14 +24,17 @@ WHY IS IT IMPORTANT?
 
 This is important for Manitoba Hydro to achieve the results to accomplish our strategic objectives. This behaviour shows the necessary determination and tenacity to complete high quality work and involves raising performance levels over the short, medium and long term. It includes overcoming obstacles caused by conflicting priorities, resource challenges or difficult or demanding situations in the internal or external environment. 
 
-Level 1 TAKES PERSONAL RESPONSIBILITY FOR RESULTS 
-• Clarifies what is expected and accepts accountability for completing tasks. 
-• Takes pride and ownership in own work. 
-• Demonstrates a high level of dependability in all aspects of the job.    
-• Respects the rights of others while achieving one’s own goals.   
+
+# Level 1 TAKES PERSONAL RESPONSIBILITY FOR RESULTS   
+
+• Clarifies what is expected and accepts accountability for completing tasks.   
+• Takes pride and ownership in own work.   
+• Demonstrates a high level of dependability in all aspects of the job.     
+• Respects the rights of others while achieving one’s own goals.    
 • Adjusts easily to changes at work. 
 
-LEVEL 2 WORKS TO GOALS AND MANAGES OBSTACLES WITH INNOVATIVE SOLUTIONS 
+
+# LEVEL 2 WORKS TO GOALS AND MANAGES OBSTACLES WITH INNOVATIVE SOLUTIONS 
 
 • Is persistent in achieving improved results.   
 • Measures progress against targets.   
@@ -39,7 +42,8 @@ LEVEL 2 WORKS TO GOALS AND MANAGES OBSTACLES WITH INNOVATIVE SOLUTIONS
 • Acknowledges the work and contribution of others.     
 • Modifies behaviour to fit the situation.   
 
-LEVEL 3 DRIVES FOR IMPROVEMENT 
+
+# LEVEL 3 DRIVES FOR IMPROVEMENT 
 
 • Tackles difficult problems and takes    personal responsibility for reaching solutions.   
 • Sees obstacles as challenges and develops innovative strategies to overcome them. 
@@ -47,7 +51,8 @@ LEVEL 3 DRIVES FOR IMPROVEMENT
 • Sets challenging goals and objectives and measures performance against these. 
 • Demonstrates the ability to use corporate resources and expertise to achieve desired results. 
 
-LEVEL 4 SETS AND MEETS CHALLENGING GOALS & SEEKS LONG TERM IMPROVEMENT 
+
+# LEVEL 4 SETS AND MEETS CHALLENGING GOALS & SEEKS LONG TERM IMPROVEMENT 
 
 • Committed to setting goals, achieving results and creating a work environment focused on accountability, responsibility and action.   
 • Develops and clearly articulates key strategic actions to sustain a climate of achievement and efficiency in the workplace. 
@@ -56,7 +61,8 @@ LEVEL 4 SETS AND MEETS CHALLENGING GOALS & SEEKS LONG TERM IMPROVEMENT
 • Creates plans, defines goals and expected outcomes that affect a significant part of the organization.
 
 
-POSITIVE INDICATORS:  
+# POSITIVE INDICATORS:  
+
  Agrees to achievable goals at the start of each project.  
  Fulfills commitments made to peers, co‐workers and supervisor.  
  Monitors tasks for accomplishment, quality and timeliness.  
@@ -64,7 +70,8 @@ POSITIVE INDICATORS:
  Accepts responsibility for own behaviour & job related tasks.  
  Adjusts priorities with changing demands , with appropriate stakeholder consultation.  
 
-WARNING SIGNS:
+
+# WARNING SIGNS:
 
  Stops and gives up at the first obstacle.  
  Seeks excuses rather than solutions or ways forward.  
