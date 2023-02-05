@@ -45,7 +45,7 @@ blogdown::find_hugo()
 # overwrite:
 # 1) config.yaml
 # 2) content
-# 3) huo-eureka
+# 3) hugo-eureka
 
 # Note: I made a mistake.  under tag, I missed '-' before.
 
