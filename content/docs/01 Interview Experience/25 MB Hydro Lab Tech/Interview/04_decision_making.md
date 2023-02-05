@@ -16,8 +16,6 @@ toc: true
 
 Decision‐Making is about making good, timely decisions and solving problems involving varied levels of complexity, ambiguity and risk. It includes thinking creatively and focusing on innovation, consulting and engaging others and reconciling competing interests. It is also about acting with integrity in an honest and trustworthy manner based on personal accountability and a conviction to do the right thing. It is about making decisions within established Code of Ethics & standards.
 
-<!--more-->
-
 Level 1   
 
 DMQ1 Describe a recent situation when you made an important decision.  What resources did you use to help you make your decision?  
@@ -37,9 +35,18 @@ Probe: How did you make this decision?  What did you consider?
 DMQ5 Describe a situation when you had to make a decision, but all the facts were not available.  
 Probe: How did you make your decision? What was the decision?  What did you consider?
 
-DMQ6 Give me an example of a difficult decision you made, when there were no policies and little supportig facts to guide you.  
+DMQ6 Give me an example of a difficult decision you made, when there were no policies and little supporting facts to guide you.  
 Probe: What did you consider?  Were there any risks?  What was the result?
 
+
+# Case #1 Fired a colleague at Testmark
+
+
+# Case #2 Stay with my Professional
+stretch to data analysis, not to far to become data analyst. move to BC, learn skills.
+
+# Case #3 Stand up with my Professional Standard
+Situation: AECL, ICP QC results off.  I asked to review them.  Their emotion was raised.  I decided to have another tech to help them, and report to my supervisor.  It would be easier for them to take peer opinion.
 
 
 

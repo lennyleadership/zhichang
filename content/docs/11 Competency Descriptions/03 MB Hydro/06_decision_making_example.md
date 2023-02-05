@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "Interviewpenguin | Decision-making Examples"
+title: "InterviewPenguin | Decision-making Examples"
 authors: Lenny Lin
 categories: [Competency Definitions]
 tags: [Decision-making]
@@ -40,9 +40,9 @@ Let’s have a look at **7 sample answers** to this interesting interview questi
 
 At the end of the day, **your attitude matters for the hiring managers**, not the particular situation you narrate. And you can demonstrate the right attitude describing any tough decision you made, even in your personal life. What is the right attitude in this case?
 
-- When talking about work-related decision, it means to prioritize the company, to **not let the emotions interfere with your work** (for example when deciding about dismissing someone, see sample answer no. 4).  
+&emsp;- When talking about work-related decision, it means to prioritize the company, to **not let the emotions interfere with your work** (for example when deciding about dismissing someone, see sample answer no. 4).  
 
-- Another thing is to **show that you are ready sacrifice something**, and **step out of your comfort zone**, when you try to **find personal fulfillment and meaning in your work.** Check sample answer no 2. or no 6. for your inspiration.  
+&emsp;- Another thing is to **show that you are ready sacrifice something**, and **step out of your comfort zone**, when you try to **find personal fulfillment and meaning in your work.** Check sample answer no 2. or no 6. for your inspiration.  
 
 - Special Tip: **This isn’t the only difficult question** you will face while interviewing for any decent job. You will face questions about **prioritization, dealing with pressure, dealing with ambiguity**, and other tricky scenarios that happen in the workplace. If you want to make sure that you **stand out with your answers** and outclass your competitors, have a look at our [Interview Success Package](https://interviewpenguin.com/interview-success-package/?most_difficult_decision_1). Up to **10 premium answers** to **31 tricky scenario based questions** (+ more) will make your life much easier in the interviews. Thank you for checking it out!
 
