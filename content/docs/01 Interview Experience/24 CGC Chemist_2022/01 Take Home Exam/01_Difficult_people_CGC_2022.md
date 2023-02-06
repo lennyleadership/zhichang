@@ -4,15 +4,15 @@ title: Deal with difficult people
 authors: Lenny Lin
 categories: Interview 
 tags: [Difficult people]
-date: " "
 description: 
 draft: false
-lastmod: "2022-06-28"
+date: "2022-06-28"
+lastmod: "2023-02-06"
 series: null
 toc: true
 ---
 
-
+Company: CGC  
 
 
 EC1.1 Describe the most difficult employee situation you had to handle.  What did you do to resolve the situation?  Why did you select these actions?  What was the final outcome?  Looking back, what would you have done differently?  Why?  (Maximum 500 words.)
@@ -53,6 +53,17 @@ Regarding the performance issues. I did three things.  Firstly, I held them acco
 ---
 [2022.09.29]  
 Option #1  
+If both sides are willingly solving the conflict,  
+A technologist was responsible for VOC analysis at AECL.
+1) (Acknowledge and identify the problems)  The training expectation was not met.  
+2) (Listen their feedback. Get to know their perspective)  I took a proactive approach seeking his feedback on how I could do differently down the road the next day.  Luckly enough, he began with providing feedback.  He preferred a cheatsheet using his own language.   
+3) (Maintained the positive working relationship. Showed compassion) then telling his struggling in his life.  We came closer in relationship.  
+4) (Create a revised training plan. Followed up consistently) The training was successful in the end. Job-shadowing.  
+5) (Find the positive. Motivation, Recognition) Later on, while I looked into performance of each individual technologist, and collected data.  I realized he was the top performer all the time.  During a performance appraisal in one year, the section head quit the job, he was afraid that the branch manager knew nothing about his performance.  I sent an email to the branch manager providing data to support that this employee exceeded expectation.  My voice was heard, and his performance was valued.  As a result, he changed his behaviours in many ways, such as violation of coffee time policy.  Afterwards, he showed his support to me while I dealt with the most difficult employee situation.  When the section was laid-off, he asked me to become his reference while he was looking for job.  In this situation, I turned a work conflict to winning a person.  
+
+---
+
+Option #2  
 There were many difficult employee situations that I had to handle.  I used different strategies to resolve the situations.  
 The first situation was poor productivity, for example, samples were analyzed, but it took long time to do reporting, sometimes it exceeded our internal clients' expectations.  I developed programs to automate the data processing.  It cut off the reporting time from three-four business days to a couple of hours.     
 The second situation was that a junior technologist thought they knew all about ICP-OES analysis, they questioned my discernment when I pointed out errors after reviewing an analytical report at one time. They did not care about the data quality because the results had been lower than the regulated limit.  I leveraged a senior technologist's influence. I had him verify my observation.  I also brought it up to the manager's attention.    
@@ -62,15 +73,6 @@ I joined in a Toastmasters club and learn leadership ...
 
 Looking back, I should do differently as follows:  
 We should have a disciplinary process to bring their performance back to what we expected.  
-
----
-Option #2
-A technologist was responsible for VOC analysis at AECL.
-1) (Acknowledge and identify the problems)  The training expectation was not met.  
-2) (Listen their feedback. Get to know their perspective)  I took a proactive approach seeking his feedback on how I could do differently down the road.  Luckly enough, he began with providing feedback.  He preferred a cheatsheet using his own language.   
-3) (Maintained the positive working relationship. Showed compassion) then telling his struggling in his life.  We came closer in relationship.  
-4) (Create a revised training plan. Followed up consistently) The training was successful in the end. Job-shadowing.  
-5) (Find the positive. Motivation, Recognition) Later on, while I looked into performance of each individual technologist, and collected data.  I realized he was the top performer all the time.  During a performance appraisal in one year, the section head quit the job, he was afraid that the branch manager knew nothing about his performance.  I sent an email to the branch manager providing data to support that this employee exceeded expectation.  My voice was heard, and his performance was valued.  As a result, he changed his behaviours in many ways, such as violation of coffee time policy.  Afterwards, he showed his support to me while I dealt with the most difficult employee situation.  When the section was laid-off, he asked me to become his reference while he was looking for job.  In this situation, I turned a work conflict to winning a person.  
 
 ---
 Option #3  

@@ -1,9 +1,9 @@
 ---
 weight: 1
-title: “Career Sidekick | 10 Resume Summary Examples"
+title: Career Sidekick | 10 Resume Summary Examples
 authors: Lenny Lin
 categories: 
-tags: []
+tags: [Resume Summary]
 description: 
 draft: false
 date: "2023-02-05"

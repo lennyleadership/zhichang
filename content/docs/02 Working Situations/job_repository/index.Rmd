@@ -47,43 +47,43 @@ source("/Job Hunting/Job applications/applications after 2022.11.30/job duty rep
 `r do.call(paste, c(aecl, sep = "", collapse = NULL))` 
 
 
-Swastika  
+## Swastika  
 
 `r do.call(paste, c(swas, sep = "", collapse = NULL))` 
 
 
-Testmark  
+## Testmark  
 
 `r do.call(paste, c(testmark, sep = "", collapse = NULL))`
 
 
-Northern College  
+## Northern College  
 
 `r do.call(paste, c(college, sep = "", collapse = NULL))`
 
 
 
-SGS  
+## SGS  
 
 `r do.call(paste, c(sgs, sep = "", collapse = NULL))`
 
 
 
-TOTAL  
+## TOTAL  
 
 `r do.call(paste, c(total, sep = "", collapse = NULL))`
 
 
 # Training
 
-### Leadership
+## Leadership
 AECL Leadership Academy and Toastmasters
 
 Pinawa, MB
 
 2009, 2010
 
-### Data Scientist with R
+## Data Scientist with R
 DataCamp
 
 Online
@@ -92,7 +92,7 @@ Online
 
 
 
-### Design of Experiments for Optimisation
+## Design of Experiments for Optimisation
 udemy
 
 Online
@@ -101,7 +101,7 @@ Online
 
 
 
-### Design and Analysis of Experiments | DOE
+## Design and Analysis of Experiments | DOE
 udemy
 
 Online
