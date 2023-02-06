@@ -11,5 +11,17 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-$$[Peak \: Area]_{free\: steroid} \:=\: a \times [Incubation\: Time] + b \times [Dose\: of\: Enzyme] + c$$
+<script>
+    MathJax = {
+        chtml: { displayAlign: 'left' }
+    };
+</script>
+
+$$
+\begin{equation}
+[Peak \: Area]_{free\: steroid} \:=\: a \times [Incubation\: Time] + b \times [Dose\: of\: Enzyme] + c
+\end{equation}
+$$
