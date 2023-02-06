@@ -4,6 +4,12 @@ author: "Lenny Lin"
 date: 2023-02-06
 categories: ["R"]
 tags: []
+output: 
+  html_document:
+    css: report_v05.css
+    toc: true
+    toc_float: true
+    collapsed: true
 ---
 
 
@@ -65,3 +71,42 @@ source("/Job Hunting/Job applications/applications after 2022.11.30/job duty rep
 **TOTAL**  
 <br>
 `r do.call(paste, c(total, sep = "", collapse = NULL))`
+
+
+# Training
+
+### Leadership
+AECL Leadership Academy and Toastmasters
+
+Pinawa, MB
+
+2009, 2010
+
+### Data Scientist with R
+DataCamp
+
+Online
+
+2019 *-* 2022
+
+
+
+### Design of Experiments for Optimisation
+udemy
+
+Online
+
+2022
+
+
+
+### Design and Analysis of Experiments | DOE
+udemy
+
+Online
+
+2022
+
+# Recognition Award
+
+*-*   Voyageur Certificate of Recognition Award for retaining lab accreditation to the ISO 17025 re-accreditation
