@@ -12,7 +12,7 @@ series: null
 toc: true
 ---
 
-
+Company: NAIT
 
 My field of study in university is Chemistry, in graduate school my study is polymer chemistry.  I used gel permeation chromatography (GPC), Differential Scanning Calorimetry (DSC) and Thermal Gravimetric Analysis (TGA) to study characterization of polymer materials.  
 
