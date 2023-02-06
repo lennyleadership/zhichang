@@ -39,13 +39,12 @@ DMQ6 Give me an example of a difficult decision you made, when there were no pol
 Probe: What did you consider?  Were there any risks?  What was the result?
 
 
-# Case #1 Fired a colleague at Testmark
+# Present it at the technician level
 
-
-# Case #2 Stay with my Professional
+## Case #1 Stay with my Professional
 stretch to data analysis, not to far to become data analyst. move to BC, learn skills.
 
-# Case #3 Stand up with my Professional Standard
+## Case #2 Stand up with my Professional Standard
 Situation: AECL, ICP QC results off.  I asked to review them.  Their emotion was raised.  I decided to have another tech to help them, and report to my supervisor.  It would be easier for them to take peer opinion.
 
 
