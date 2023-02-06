@@ -6,6 +6,11 @@ categories: ["R"]
 tags: []
 ---
 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
 ```{r, include=F}
 source("/Job Hunting/Job applications/applications after 2022.11.30/job duty repository/repository_lifelabs.R")
 source("/Job Hunting/Job applications/applications after 2022.11.30/job duty repository/repository_consultant.R")
