@@ -19,7 +19,7 @@ Decision‐Making is about making good, timely decisions and solving problems in
 Level 1   
 
 DMQ1 Describe a recent situation when you made an important decision.  What resources did you use to help you make your decision?  
-Probes: Were there any guidlines that you could follow? Did you consult anyone else?  What factors did you consider?
+Probes: Were there any guidelines that you could follow? Did you consult anyone else?  What factors did you consider?
 
 DMQ2 Tell me about a situation where you had difficulty making a decision.  How did you make your decision?  
 Probes: What did you consider? How did you choose between alternatives? What was the result.  
@@ -39,13 +39,42 @@ DMQ6 Give me an example of a difficult decision you made, when there were no pol
 Probe: What did you consider?  Were there any risks?  What was the result?
 
 
-# Present it at the technician level
+# Fact
+Is there any system for reaching the right decision?  such as to gather as much information as possible.  
 
-## Case #1 Stay with my Professional
-stretch to data analysis, not to far to become data analyst. move to BC, learn skills.
-
-## Case #2 Stand up with my Professional Standard
-Situation: AECL, ICP QC results off.  I asked to review them.  Their emotion was raised.  I decided to have another tech to help them, and report to my supervisor.  It would be easier for them to take peer opinion.
+Is there ethical compass (moral compass)? such as work ethics, 
 
 
+# Present it at the technician/chemist level
 
+## Case #1 Report adversary data of microbiology (E. coli)
+
+The result affects the people's life.
+
+
+## Case #2 Hold the report
+
+The QC result affects the data quality.  I monitored the instrument response to a QC at a certain level.  Based on it, I rejected the report.  The analyst was not happy.  [do not go to the conflict]
+
+
+## Case #3 Ship out the samples at the end of the day
+
+The attitude of integrity, even when nobody watched.  
+
+Situation: Testmark.  Sample depot.
+
+
+
+# Present it at the personal level
+
+## Case #1 Stay with my professional
+
+Stretch to data analysis, but not go far t become data analyst.
+
+
+
+# Present it at the supervisor level
+
+## Case #1 Fire Mitch at Testmark
+
+small town situation, may not get a job easily.

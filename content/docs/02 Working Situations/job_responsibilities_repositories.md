@@ -14,7 +14,7 @@ output:
     css: report_v05.css
     toc: true
     toc_float: true
-    collapsed: false
+    collapsed: true
 ---
 
 # Skills

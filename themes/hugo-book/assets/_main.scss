@@ -288,6 +288,157 @@ body[dir="rtl"] .book-menu {
 
 
 
+/* ****first letter color begin********************************************************************/
+/*a.firstword {
+    display: block;
+}*/
+
+a::first-letter {
+    /*text-transform: uppercase;*/
+    color: #ff4500;
+}
+/* ****first letter capital end**** */
+
+
+/* ****paragraph: first letter color begin**********************************************************/
+h2 + p::first-letter {
+  color: #ff4500;
+  font-size: 250%;
+  padding: 0px 0px;
+  margin-right: 10px;
+  float: left;
+}
+/*end***********************************************************************************************/
+
+
+/* ***** hovertip begin*****************************************************************************/
+.hovertip {
+  position: relative;
+  border-bottom: 1px dotted black;
+}
+
+.hovertip:before {
+  content: attr(tooltip_text);
+  visibility: hidden;
+  
+  overflow-y: inherit; /*new, used to prevent from cutting off*/
+
+  width: 250px;
+  background-color: #add8e6;
+  color: black;
+  text-align: left;
+  border-radius: 5px;
+  padding: 5px 0;
+  /* fade-in*/
+  opacity: 0;  
+  transition: opacity 1s ease-in-out;
+
+  /* top tooltip*/
+  position: absolute; /*let tooltip wrap instead of overflow*/
+  z-index: 1;
+  left: auto; /*50%;*/
+  bottom: auto; /*110%;*/
+  margin-left: -60px;
+}
+
+.hovertip.hovertiptext::before {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.hovertip:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+/* ***** hovertip end*******************************************************************************/
+
+
+/* center the image */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 50%; /* image zoom*/
+}
+
+/* quoting */
+blockquote {
+  text-indent: -.5em;
+  font-size: 90%;
+  font-style: italic;
+}
+
+/* quoting with background */
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
+}
+/* the end */
+
+
+.column_left {
+  float: left;
+  padding: 20px; /* space between two tables*/
+  
+}
+
+.column_right {
+  float: right;
+  padding: 20px; /* space between two tables*/
+  
+}
+
+figure {
+  /*text-align: left;*/
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+  display: table;
+}
+
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
+
+a:link {
+  color: darkred;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
 /* highlight options *******************************************************************************/
 mark.black {
   background-color: black;
