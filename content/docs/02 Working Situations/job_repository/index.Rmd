@@ -30,46 +30,47 @@ source("/Job Hunting/Job applications/applications after 2022.11.30/job duty rep
 
 
 
-<br>
-# **LifeLabs**
-<br>
+# Experience
+
+## LifeLabs
+
 `r do.call(paste, c(lifelabs, sep = "", collapse = NULL))` 
 
-<br>
-## **Consultant**  
-<br>
+
+## Consultant  
+
 `r do.call(paste, c(consultant, sep = "", collapse = NULL))` 
 
-<br>
-### **AECL**  
-<br>
+
+## AECL  
+
 `r do.call(paste, c(aecl, sep = "", collapse = NULL))` 
 
-<br>
-**Swastika**  
-<br>
+
+Swastika  
+
 `r do.call(paste, c(swas, sep = "", collapse = NULL))` 
 
-<br>
-**Testmark**  
-<br>
+
+Testmark  
+
 `r do.call(paste, c(testmark, sep = "", collapse = NULL))`
 
-<br>
-**Northern College**  
-<br>
+
+Northern College  
+
 `r do.call(paste, c(college, sep = "", collapse = NULL))`
 
 
-<br>
-**SGS**  
-<br>
+
+SGS  
+
 `r do.call(paste, c(sgs, sep = "", collapse = NULL))`
 
 
-<br>
-**TOTAL**  
-<br>
+
+TOTAL  
+
 `r do.call(paste, c(total, sep = "", collapse = NULL))`
 
 
