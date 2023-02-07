@@ -3,6 +3,7 @@ title = "Deal With Challenge /Disagreement Among Coworkers"
 description = ""
 tags = [
     "CGC",
+"NAIT",
     "Interpersonal Skills",
     "Relationship Management",
     "Collaboration"

@@ -7,7 +7,7 @@ tags = [
 ]
 date = "2022-06-21"
 categories = [
-    "Interview",
+    "Mocking Interview Questions",
 ]
 menu = "main"
 +++
