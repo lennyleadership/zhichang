@@ -22,6 +22,6 @@ To let the interviewer know you understand this, explain that you always take th
 
 As always, it’s a good idea to use examples to show how you’ve succeeded at this in the past. Not only will this provide context for the strategies you use, it’ll also prove they actually work.
 
-Right answer: ‘My main strategies are based around recognising colleagues’ achievements, giving consistent feedback, and providing context for their work – but the ones I utilise most depends on the employee. For example, those who are most goal orientated tend to respond best to understanding the impact of their work, and colleagues that are under-performing are best motivated when given set areas to work on and improve.’ 
+Right answer: ‘My main strategies are based around recognizing colleagues’ achievements, giving consistent feedback, and providing context for their work – but the ones I utilise most depends on the employee. For example, those who are most goal orientated tend to respond best to understanding the impact of their work, and colleagues that are under-performing are best motivated when given set areas to work on and improve.’ 
 
 Wrong answer: ‘Blackmail seems to work…’

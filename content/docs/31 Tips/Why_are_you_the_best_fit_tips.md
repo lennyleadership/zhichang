@@ -2,12 +2,11 @@
 title = "Why Are You the Best Fit?"
 description = ""
 tags = [
-    "Tips",
     "Tell me about yourself"
 ]
 date = "2022-05-31"
 categories = [
-    "Interview",
+    "Interview Tips",
 ]
 menu = "main"
 +++

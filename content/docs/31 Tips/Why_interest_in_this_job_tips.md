@@ -3,11 +3,11 @@ title = "Why Are You Interested in This Job?"
 description = ""
 tags = [
     "Tell me about yourself",
-    "Tips",
+    
 ]
 date = "2022-05-30"
 categories = [
-    "Interview",
+    "Interview Tips",
 ]
 menu = "main"
 +++

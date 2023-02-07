@@ -14,7 +14,8 @@ categories = [
 menu = "main"
 +++
 
-Q: Tell me about a time when a team project failed.
+Q: Tell me about a time when a team project failed.  
+
 A: similar situation.
 
 **Situation and tasks**: did not deliver analysis reports.  

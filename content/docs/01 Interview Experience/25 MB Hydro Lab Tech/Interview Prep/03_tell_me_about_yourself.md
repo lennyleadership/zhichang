@@ -2,8 +2,8 @@
 weight: 2
 title: Tell Me About Yourself
 authors: Lenny Lin
-categories: 
-tags: []
+categories: [Interview Preparation]
+tags: [Tell Me about Yourself]
 description: 
 draft: false
 date: "2023-02-06"

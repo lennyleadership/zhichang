@@ -3,74 +3,102 @@ title = "Online Interview Questions"
 description = ""
 tags = [
     "Online interview questions",
-    "",
-    ""
+
 ]
 date = "2022-07-18"
 categories = [
-    "Interview",
+    "Interview Tips",
 ]
 menu = "main"
 +++
 
 
 
-Where do you see yourself five years from now?
+Where do you see yourself five years from now?  
+
 "In five years I hope to be working with an employer in an increasingly responsible position, that enables me to utilize my talents and work closely with my colleagues in solving important problems. I see myself taking on new and exciting challenges in an enjoyable environment and hopefully this will be with your company."
 ***
 
-Describe a major goal you've set for yourself recently.
+Describe a major goal you've set for yourself recently.  
 Give an example of a goal you both set and achieved. Ideally, this should be a professional goal; such as improved time management skills, achieved new performance targets, or learned a new skill. A personal example can also be appropriate if it reinforces your pattern of accomplishments. For example, if you take a great deal of initiative and quickly move into leadership positions, you might use a personal example relating to your recent community work: organized a community walk-a-thon that raised $30,000 in matching funds to purchase new computers for the local library. Talk about results of achieving your goal. This indicates you set realistic goals and that you can focus on outcomes. Select an example that has interesting outcomes related to your efforts. The example should showcase your skills and abilities.
 
 ***
 The Best Answers to Tough Interview Questions
 
-Tell me about yourself.
-This is really more of a request than a question. But these few words can put you on the spot in a way no question can. Many quickly lose control of the interview during the most critical time- the first five minutes. This is not the time to go into a lengthy history or wander off in different directions. Your response should be focused and purposeful. Communicate a pattern of interests and skills that relate to the position in question. Consider your response to this question as a commercial that sells your autobiography. Provide an answer that includes information about where you grew up, where you went to school, your initial work experience, additional education and special training, where you are now, and what you intend to do next. One of the most effective ways to prepare for this question is to develop a 60-second biographic sketch that emphasizes a pattern of interests, skills, and accomplishments. Focus your response around a common theme related to your major interests and skills. Take, for example, the following response, which emphasizes computers.
-"I was born in Canton, Ohio and attended Lincoln High School. Ever since I was a teenager, I tinkered with computers. It was my hobby, my passion, and my way of learning. Like most kids I enjoyed computer games. When my folks gave me a computer as a reward for making honor roll my sophomore year, I mastered DOS, Windows, and WordPerfect within six months. I then went on to teach myself programming basics.
-By the time I graduated high school, I knew I wanted to study programming. From that point on, everything fell into place. My life revolved around computing. By my junior year at Syracuse, I decided I wanted to work for a major software manufacturer. That is why I had an internship last summer at FastTrack Software.
-I now want to work for a major player so I can be at the forefront of breaking trends and new technology. When my college roommate told me about his start in your department, I hounded him until he helped me get a referral, which brought me here today.
-I am prepared to answer any questions you may have about my education and experience."
-This response sets a nice tone for starting the interview. The interviewee is able to say a lot within 60 seconds by staying focused. The message is clear: the interviewee has both passion and focus relating to the position. He stays on message and concludes by leaving the door open for additional questions about his education and experience. Unfortunately some candidates get off on the wrong foot by rambling on for several minutes about their childhood, family, hobbies, travels, and interests.
-Repeat Key Accomplishment Statements
+Tell me about yourself.  
+
+This is really more of a request than a question. But these few words can put you on the spot in a way no question can. Many quickly lose control of the interview during the most critical time - the first five minutes. This is not the time to go into a lengthy history or wander off in different directions. Your response should be focused and purposeful. Communicate a pattern of interests and skills that relate to the position in question. Consider your response to this question as a commercial that sells your autobiography. Provide an answer that includes information about where you grew up, where you went to school, your initial work experience, additional education and special training, where you are now, and what you intend to do next. One of the most effective ways to prepare for this question is to develop a 60-second biographic sketch that emphasizes a pattern of interests, skills, and accomplishments. Focus your response around a common theme related to your major interests and skills. Take, for example, the following response, which emphasizes computers.  
+
+"I was born in Canton, Ohio and attended Lincoln High School. Ever since I was a teenager, I tinkered with computers. It was my hobby, my passion, and my way of learning. Like most kids I enjoyed computer games. When my folks gave me a computer as a reward for making honor roll my sophomore year, I mastered DOS, Windows, and WordPerfect within six months. I then went on to teach myself programming basics.  
+
+By the time I graduated high school, I knew I wanted to study programming. From that point on, everything fell into place. My life revolved around computing. By my junior year at Syracuse, I decided I wanted to work for a major software manufacturer. That is why I had an internship last summer at FastTrack Software.  
+
+I now want to work for a major player so I can be at the forefront of breaking trends and new technology. When my college roommate told me about his start in your department, I hounded him until he helped me get a referral, which brought me here today.  
+
+I am prepared to answer any questions you may have about my education and experience."  
+
+This response sets a nice tone for starting the interview. The interviewee is able to say a lot within 60 seconds by staying focused. The message is clear: the interviewee has both passion and focus relating to the position. He stays on message and concludes by leaving the door open for additional questions about his education and experience. Unfortunately some candidates get off on the wrong foot by rambling on for several minutes about their childhood, family, hobbies, travels, and interests.  
+
+Repeat Key Accomplishment Statements  
+
 Throughout the interview you will be asked numerous questions about your attitude and ability to do the job. Whenever possible, talk about your accomplishments in terms of what you did and the results of your actions for employers. Give examples of your effectiveness, which should include specific skills and statistics.
 
-Where do you see yourself five years from now?
-This open-ended question is one of the most difficult and stressful ones job seekers face. Employers ostensibly ask this question because they are looking for people who know what they want to do and who are focused on specific professional goals. If you lack goals, you will have difficulty answering this question. Be sure you arrive at the interview with a clear vision of what you want to do today, tomorrow and five years from now. Be consistent with the objective on your resume and the skills and accomplishments you're communicating to the interviewer. Your answer should be employer-centered. For example,
-"In five years I hope to be working with an employer in an increasingly responsible position, that enables me to utilize my talents and work closely with my colleagues in solving important problems. I see myself taking on new and exciting challenges in an enjoyable environment and hopefully this will be with your company."
-Do not indicate that you hope to start your own business, change careers, or go back to school. Such responses indicate a lack of long-term interest since you do not plan to be around for long. While some may respond that they honestly haven't really thought that far ahead, the interviewer infers that the applicant lacks vision and goals.
+Where do you see yourself five years from now?  
 
-Describe a major goal you've set for yourself recently.
+This open-ended question is one of the most difficult and stressful ones job seekers face. Employers ostensibly ask this question because they are looking for people who know what they want to do and who are focused on specific professional goals. If you lack goals, you will have difficulty answering this question. Be sure you arrive at the interview with a clear vision of what you want to do today, tomorrow and five years from now. Be consistent with the objective on your resume and the skills and accomplishments you're communicating to the interviewer. Your answer should be employer-centered. For example, "In five years I hope to be working with an employer in an increasingly responsible position, that enables me to utilize my talents and work closely with my colleagues in solving important problems. I see myself taking on new and exciting challenges in an enjoyable environment and hopefully this will be with your company."  
+
+Do not indicate that you hope to start your own business, change careers, or go back to school. Such responses indicate a lack of long-term interest since you do not plan to be around for long. While some may respond that they honestly haven't really thought that far ahead, the interviewer infers that the applicant lacks vision and goals. 
+
+Describe a major goal you've set for yourself recently. 
+
 Give an example of a goal you both set and achieved. Ideally, this should be a professional goal; such as improved time management skills, achieved new performance targets, or learned a new skill. A personal example can also be appropriate if it reinforces your pattern of accomplishments. For example, if you take a great deal of initiative and quickly move into leadership positions, you might use a personal example relating to your recent community work: organized a community walk-a-thon that raised $30,000 in matching funds to purchase new computers for the local library. Talk about results of achieving your goal. This indicates you set realistic goals and that you can focus on outcomes. Select an example that has interesting outcomes related to your efforts. The example should showcase your skills and abilities.
 
-Now that you've had a chance to learn more about us, what would you change about our company?
-Be careful here. Most companies don't want you to come in and shake up the place. At the same time, they don't want someone who says, "Nothing, everything looks great here." Seek a middle ground by focusing on one or two non-threatening issues that may have come up in your discussions. For example,
-"From our discussion of the problem with the southwest accounts, I think we should look into the possibility of consolidating them the LA office. However, I think we need to do a thorough cost-benefit analysis of this region before making such a move. We may find the Phoenix office to be more beneficial."
+Now that you've had a chance to learn more about us, what would you change about our company?  
+
+Be careful here. Most companies don't want you to come in and shake up the place. At the same time, they don't want someone who says, "Nothing, everything looks great here." Seek a middle ground by focusing on one or two non-threatening issues that may have come up in your discussions. For example, "From our discussion of the problem with the southwest accounts, I think we should look into the possibility of consolidating them the LA office. However, I think we need to do a thorough cost-benefit analysis of this region before making such a move. We may find the Phoenix office to be more beneficial."
+
 Such an answer indicates you are open to making changes but you also have a certain non-threatening decision-making style. Your response should sound sensible and innovative.  \
 
-We all have weaknesses. What are some of your major weaknesses?
-This is not the time to confess all your problems nor to confidently say you have no weaknesses. The best way to handle this question is to mention personal weaknesses that are outside the job or a professional weakness that you have already improved upon. For example,
-"I have a real weakness for chocolate that tends to go right to my waist! I'm watching my calories carefully these days!" or "I've never been good with accounting. I'm glad this job doesn't involve accounting." Or "I have a tendency to take on too much on my own. I am working on this by delegating more."
+We all have weaknesses. What are some of your major weaknesses?  
 
-What type of decisions do you have difficulty making?
+This is not the time to confess all your problems nor to confidently say you have no weaknesses. The best way to handle this question is to mention personal weaknesses that are outside the job or a professional weakness that you have already improved upon. For example, "I have a real weakness for chocolate that tends to go right to my waist! I'm watching my calories carefully these days!" or "I've never been good with accounting. I'm glad this job doesn't involve accounting." Or "I have a tendency to take on too much on my own. I am working on this by delegating more."
+
+What type of decisions do you have difficulty making?  
+
 Show that you are generally decisive but mention that there are situations that give you time to pause or you are learning how to better make decisions. For example, "I sometimes have difficulty choosing between two equally good ideas." or "I used to have difficulty saying 'no' to people until I learned to better set priorities."
 
-What is your biggest failure?
-Focus on something outside your work or something that happened on the job that you later fixed. Do not admit to any personal quality that might hamper job performance, such as procrastination, laziness or lack of concentration. Choose something that will not reflect badly on your ability to perform in the given position, such as one that took place early in your career. For example,
-"My biggest failure was not being selected as a SEAL because I was diagnosed with night vision problems. When I was 18, all I wanted to be was a SEAL. But I'm glad I didn't, because I may have overlooked an exciting career in information technology" or "When I was working at CL Advertising Associates, I lost the $2 million Jettler account after only six weeks on the job! I felt awful and thought I would be fired. I was determined to get the account back and did after six months. Today the account makes up 1/3 of CL Advertising."
+What is your biggest failure?  
 
-What are the major reasons for your success?
-This is not the time to become extremely self-centered and arrogant. Keep in mind that employers are often looking for team players rather than Lone Rangers. A good response to this question may relate to a mentor/and or philosophy of work or the people you work with. Also, use this question as an opportunity to inquire about an appropriate "fit for success" with this company. For example,
+Focus on something outside your work or something that happened on the job that you later fixed. Do not admit to any personal quality that might hamper job performance, such as procrastination, laziness or lack of concentration. Choose something that will not reflect badly on your ability to perform in the given position, such as one that took place early in your career. For example,
+<div class ="quote">
+"My biggest failure was not being selected as a SEAL because I was diagnosed with night vision problems. When I was 18, all I wanted to be was a SEAL. But I'm glad I didn't, because I may have overlooked an exciting career in information technology" or "When I was working at CL Advertising Associates, I lost the $2 million Jettler account after only six weeks on the job! I felt awful and thought I would be fired. I was determined to get the account back and did after six months. Today the account makes up 1/3 of CL Advertising."
+</div>
+
+What are the major reasons for your success?  
+
+This is not the time to become extremely self-centered and arrogant. Keep in mind that employers are often looking for team players rather than Lone Rangers. A good response to this question may relate to a mentor/and or philosophy of work or the people you work with. Also, use this question as an opportunity to inquire about an appropriate "fit for success" with this company. For example, 
+<div class ="quote">
 "Many years ago I learned an important lesson from Bob Nelson, who was my first supervisor and really became my most important mentor. He told me his secret to success was to 'Look at each day as a new opportunity to be your very best. Set high goals, be honest, never say no, and work with people who share your passion for doing their best.' I've always remembered that advice and try to live it every day. I am very self motivated, determined and honest. I really love what I do and I try to surround myself with people who share similar passions. I thrive on this type of environment. Am I likely to find this environment with your company? Can you tell me a little more about the characteristics of successful people at your company? What do you see as some of the key success factors for this position?"
-We're considering two other candidates for this position. Why should we hire you rather than someone else?
+</div>
+
+We're considering two other candidates for this position. Why should we hire you rather than someone else?  
+
 Do not be distracted by the mention of two other candidates, you don't know anything about them and they could be fictitious. Focus on what strengths you bring to the table. These should be consistent with the four things most employers are looking for in candidates during the job interview: competence, professionalism, enthusiasm, and likability. Remember, they are looking for chemistry between you and them. Be prepared to summarize in 60 seconds why you are the best candidate for the job. Also, let the employer know you want the job and you will enjoy working with them. A lack of interest in the job may indicate a lack of enthusiasm for the job and them.
-How do you spend your free time?
-This question may have several purposes. The interviewer may be just curious about your personal life without getting into illegal questions. He may also want to know how well rounded you are in your personal and professional lives. Focus on some of the standard hobbies or activities that most people engage in: golf, tennis, boating, reading, music, opera, collecting, gardening, or cooking. If you are operating a home-based business as a sideline, you may not want to reveal your entrepreneurial spirit-it may indicate you are planning to leave and go solo as soon as the business starts doing well.
-Source: Haldane's Best Answers to Tough Interview Questions, Bernard Haldane Associates, 2000.
-Why do you want to work in this industry?
-Tell a story about how you first became interested in this type of work. Point out any similarities between the job you're interviewing for and your current or most recent job. Provide proof that you aren't simply shopping in this interview. Make your passions for you work a theme that you allude to continually throughout the interview.
-"I've always wanted to work in an industry that makes tools. One of my hobbies is home-improvement projects, so I've collected a number of saws manufactured by your company. I could be an accountant anywhere, but I'd rather work for a company whose products I trust."
-How do you stay current?
+
+How do you spend your free time?  
+
+This question may have several purposes. The interviewer may be just curious about your personal life without getting into illegal questions. He may also want to know how well rounded you are in your personal and professional lives. Focus on some of the standard hobbies or activities that most people engage in: golf, tennis, boating, reading, music, opera, collecting, gardening, or cooking. If you are operating a home-based business as a sideline, you may not want to reveal your entrepreneurial spirit-it may indicate you are planning to leave and go solo as soon as the business starts doing well.  
+
+Source: Haldane's Best Answers to Tough Interview Questions, Bernard Haldane Associates, 2000.  
+
+Why do you want to work in this industry?  
+
+Tell a story about how you first became interested in this type of work. Point out any similarities between the job you're interviewing for and your current or most recent job. Provide proof that you aren't simply shopping in this interview. Make your passions for you work a theme that you allude to continually throughout the interview.  
+
+"I've always wanted to work in an industry that makes tools. One of my hobbies is home-improvement projects, so I've collected a number of saws manufactured by your company. I could be an accountant anywhere, but I'd rather work for a company whose products I trust."  
+
+How do you stay current?  
+
 Demonstrate natural interest in the industry or career field by describing publications or trade associations that are compatible with your goal.
 "I pore over the Wall Street Journal, the Times, Institutional Investor, and several mutual fund newsletters. And I have a number of friends who are analysts."
 Why do you think this industry would sustain your interest in the long haul?

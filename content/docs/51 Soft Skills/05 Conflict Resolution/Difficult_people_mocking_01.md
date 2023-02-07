@@ -4,7 +4,7 @@ description = ""
 tags = [
     "AECL Case",
     "Challenges",
-    "Deal With Difficult People"
+    "Difficult People"
 ]
 date = "2022-06-21"
 categories = [

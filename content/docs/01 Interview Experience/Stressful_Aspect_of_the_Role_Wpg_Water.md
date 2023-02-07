@@ -2,7 +2,7 @@
 title = "Stress Management"
 description = ""
 tags = [
-    "CGC",
+    "Winnipeg Water Service",
     "",
 ]
 date = "2022-06-21"
