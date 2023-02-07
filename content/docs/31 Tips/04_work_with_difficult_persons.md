@@ -2,8 +2,8 @@
 weight: 4
 title: Career Sidekick | Difficult to Work With Someone
 authors: Lenny Lin
-categories: 
-tags: []
+categories: [Interview Tips]
+tags: [Interpersonal Skills, Difficult People]
 description: 
 draft: false
 date: "2023-02-07"
