@@ -46,3 +46,31 @@ This mistake happened occasionally.
 Furthermore, I learned from this mistake and developed an R Shiny application at LifeLabs to visualize all historical data of samples, including calibrators, QCs, internal standards, and a critical parameter of GC-MS/MS.  It became an effective diagnostic tool for troubleshooting analysis and proactively maintaining instruments.
 
 Contact: KF
+
+
+---
+[Revisited 2023.02.06]
+
+Answer: We used to determine volatile organic compounds (VOCs) in groundwater samples at AECL.  A comprehensive method was developed for quantitatively detecting 32 compounds, including benzene, ethylbenzene, toluene, and xylene (BTEX).  
+
+Two VOCs mixes were purchased, ATG-16 and ATG-17.  ATG-16 contained 32 compounds, ATG-17 was customized and it contained BTEX plus additional Styrene.  
+
+During our routine analysis, we only received requests of BTEX analysis, therefore, we used the ATG-17 mix.  The method was also shortlisted to have BTEX only.  Styrene was not detected and reported.  
+
+I used to purchase standard mixes by myself during the stage of method development and validation.  After we put the method into production, a technologist took over the responsibility of purchasing.  
+
+There was a time when we were about to run PT, we needed to purchase ATG-16 and ATG-17.  When placing the order of the new standard mixes, I forgot to mention we need the customized ATG-17, not the commercial ATG-17.
+
+We failed on styrene at that time. We found it out by overlaying the styrene peaks of the problematic batch with previous batches. The peaks were significantly lower than those before.
+
+This purchasing problem was not caught up during the routine analysis until we ran PT.  
+
+If testing request was BTEX plus styrene, we would encounter a severe problem.
+
+I asked the technologist to reorder the customized ATG-17 right away.  In the meantime, I prepared technical specification documents for standards for procurement references.
+
+This mistake happened occasionally.
+
+Furthermore, I learned from this mistake and developed an R Shiny application at LifeLabs to visualize all historical data of samples, including calibrators, QCs, internal standards, and a critical parameter of GC-MS/MS.  It became an effective diagnostic tool for troubleshooting analysis and proactively maintaining instruments.
+
+

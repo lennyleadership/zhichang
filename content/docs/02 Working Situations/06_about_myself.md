@@ -32,13 +32,16 @@ toc: true
 13 years in Canada.
 17 years in chemical analysis.
 
-## Self-diagnostics
+## Shiny Points
 \* Do work with all my heart, all my soul, and all my might.  
 \* Do things right at the first place. Save time, save money when developing methods, specifically in the new lab operation.  
 \* Have 7 habits of highly effective people. I have habits, and would get a job more than others.  
 \* Have high expectations.  
-\* sell point: never settle down: automate data processing, increase productivity, cut off turn-around-time.
-
+\* Never settle down: streamline data processing, increase productivity, cut off turn-around-time.  
+* Integrity  
+* Commitment  
+* Self-motivated  
+* Be assertive, be proactive when dealing with conflicts
 
 **2022.01.08**
 

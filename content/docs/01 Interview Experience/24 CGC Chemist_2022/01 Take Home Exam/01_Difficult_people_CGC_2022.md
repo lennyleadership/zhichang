@@ -53,13 +53,15 @@ Regarding the performance issues. I did three things.  Firstly, I held them acco
 ---
 [2022.09.29]  
 Option #1  
-If both sides are willingly solving the conflict,  
-A technologist was responsible for VOC analysis at AECL.
+If both sides are willingly solving the conflict, we can solve the conflict.  
+
+A technologist was responsible for VOC analysis at AECL.  
+
 1) (Acknowledge and identify the problems)  The training expectation was not met.  
 2) (Listen their feedback. Get to know their perspective)  I took a proactive approach seeking his feedback on how I could do differently down the road the next day.  Luckly enough, he began with providing feedback.  He preferred a cheatsheet using his own language.   
 3) (Maintained the positive working relationship. Showed compassion) then telling his struggling in his life.  We came closer in relationship.  
 4) (Create a revised training plan. Followed up consistently) The training was successful in the end. Job-shadowing.  
-5) (Find the positive. Motivation, Recognition) Later on, while I looked into performance of each individual technologist, and collected data.  I realized he was the top performer all the time.  During a performance appraisal in one year, the section head quit the job, he was afraid that the branch manager knew nothing about his performance.  I sent an email to the branch manager providing data to support that this employee exceeded expectation.  My voice was heard, and his performance was valued.  As a result, he changed his behaviours in many ways, such as violation of coffee time policy.  Afterwards, he showed his support to me while I dealt with the most difficult employee situation.  When the section was laid-off, he asked me to become his reference while he was looking for job.  In this situation, I turned a work conflict to winning a person.  
+5) (Find the positive. Motivation, Recognition) Later on, while I looked into performance of each individual technologist, and collected data of working hours in the lab, workload each technologist has done.  I realized he was the top performer all the time.  During a performance appraisal in one year, the section head quit the job, he was afraid that the branch manager knew nothing about his performance.  I sent an email to the branch manager providing data to support that this employee exceeded expectation.  My voice was heard, and his performance was valued.  As a result, he changed his behaviours in many ways, such as violation of coffee time policy.  Afterwards, he showed his support to me while I dealt with the tough conflict.  When the section was laid-off, he asked me to become his reference while he was looking for job.  In this situation, I turned a work conflict to winning a person.  
 
 ---
 
