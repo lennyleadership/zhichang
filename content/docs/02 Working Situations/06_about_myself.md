@@ -2,8 +2,8 @@
 weight: 6
 title: About Myself
 authors: Lenny Lin
-categories: Working Situations
-tags: null
+categories: [Working Situations]
+tags: [Shiny Points]
 description: 
 draft: false
 date: "2022-09-10"

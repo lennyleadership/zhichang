@@ -1,13 +1,13 @@
 ---
 weight: 2
-title: 
+title: Quality Plan Revision
 authors: Lenny Lin
 categories: Working Situations
-tags:
-date: " "
+tags: [Multi-tasks, Planning, Coordination, Teamwork]
 description: 
 draft: false
-lastmod: "2022-08-02"
+date: "2022-08-02"
+lastmod: "2023-02-06"
 series: null
 toc: true
 ---
