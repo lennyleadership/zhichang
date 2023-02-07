@@ -38,7 +38,7 @@ Probes: What was the project? What was your role?
 
 Response:  
 
-Situation #1: AECL.  A senior technologist who was expert in inorganic analysis. He has been working with AECL for over 20 years.  A strong personality.  calibration curve.  
+Situation #1: AECL.  A senior technologist who was expert in inorganic analysis. He has been working with AECL for over 20 years.  A strong personality, a top performer.  calibration curve.  
 
 Difficult to work with.  
 
@@ -52,9 +52,11 @@ To work together.
 Actions:  
 1) I did not take such things personally.
 
+2) I got advice from my manager.  Leave him alone.
+
 2) I realized that he and I have one common ground - work ethic.  
 
-3) I helped him to catch errors on reports.
+3) I improved my competency, helped him to catch errors on reports.
 
 Result: Build trust in relationship, built partnership.
 
