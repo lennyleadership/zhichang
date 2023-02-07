@@ -24,6 +24,14 @@ keywords: listen and take feedback, turn challenging two-way communication into 
 
 Address emotion first.  How do you feel?  
 
-Situation: GC/MS training.
+## Situation #1: GC/MS training
 
 Attitude: pause, cooled down and returned. Be assertive  
+
+
+## Situation #2: ICP QC results
+
+Solution:  
+Step #1: reconcile by one-on-one
+Step #2: leverage other coworker  
+Step #3: Get supervisor involved

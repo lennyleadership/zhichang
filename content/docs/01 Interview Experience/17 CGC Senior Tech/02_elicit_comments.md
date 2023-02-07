@@ -14,4 +14,4 @@ toc: true
 
 Q: 2.  It is important to be receptive to others' ideas and opinions.  Tell us about a time when you had to elicit comments or feedback from another team member on an important issue.
 
-refer to `AECL\Elicit_communication`.
+refer to <a href = "docs/02-working-situations/04-aecl/05_elicit_comments/" target="_blank" rel="noopener noreferrer">AECL | Elicit_communication</a>.
