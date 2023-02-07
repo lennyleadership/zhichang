@@ -1,5 +1,4 @@
 +++
-
 title = "Tell Me About Yourself Tips"
 description = ""
 tags = [
@@ -7,7 +6,7 @@ tags = [
 ]
 date = "2022-05-31"
 categories = [
-    "Interview",
+    "Interview Tips",
 ]
 menu = "main"
 +++

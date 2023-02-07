@@ -8,7 +8,7 @@ tags = [
 ]
 date = "2022-07-28"
 categories = [
-    "MegaInterview",
+    "Interview Tips",
 ]
 menu = "main"
 +++

@@ -3,16 +3,16 @@ weight: 2
 title: Method Development
 authors: Lenny Lin
 categories: Interview
-tags: ["ice breaking","Method Development","follow-up interview"]
-date: " "
+tags: ["Method Development","follow-up interview"]
 description: 
 draft: false
-lastmod: "2022-07-27"
+date: "2022-07-27"
+lastmod: "2023-02-07"
 series: null
 toc: true
 ---
 
-
+Company: NAIT
 
 **Q: Do you have any experience with method development?**
 
@@ -39,3 +39,16 @@ Low level.
 two components.  
 1) factors to be taken for consideration: time frame, cost, 
 2) approach of designing experiments. one change at a time.
+
+------
+
+Revisit  
+
+[2023.02.07]   
+
+I rephrase what Victoria said.  
+
+There are three ways to do method development.  
+1) Follow the reference method provided by ASTM or standard methods.  adjust instrument parameters, optimize sample preparation.   
+2) There are times, there are no reference methods, but some published papers, or application notes.  We have to figure out ourselves.   
+3) There are other times, when there are no reference methods, and no published papers, no application notes, we just start somewhere and try to work our way through it until we can get quantifiable data.
