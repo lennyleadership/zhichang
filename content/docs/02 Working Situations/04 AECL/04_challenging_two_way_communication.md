@@ -3,7 +3,7 @@ weight: 3
 title: Challenging Two-way Communication
 authors: Lenny Lin
 categories: Working Situations
-tags: [Interactive skill, communication, Conflict Resolution]
+tags: [Interactive Communication, Communication, Conflict Resolution]
 date: " "
 description: 
 draft: false
@@ -12,6 +12,7 @@ series: null
 toc: true
 ---
 
+Company: AECL
 
 Q: Give us an example of a time when establishing two-way communication with an individual or group was especially challenging.  
 
@@ -19,6 +20,10 @@ Q: Give us an example of a time when establishing two-way communication with an 
 
 ---
 
-keywords: turn challenging two-way communication into engaged communication.  
+keywords: listen and take feedback, turn challenging two-way communication into engaged communication.  
 
-pause, cooled down and returned.
+Address emotion first.  How do you feel?  
+
+Situation: GC/MS training.
+
+Attitude: pause, cooled down and returned. Be assertive  
