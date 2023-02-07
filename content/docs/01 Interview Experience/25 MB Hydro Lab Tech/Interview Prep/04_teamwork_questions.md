@@ -38,7 +38,29 @@ Probes: What was the project? What was your role?
 
 Response:  
 
-Situation #1: AECL.  The person was the union president of technologist union.  
+Situation #1: AECL.  A senior technologist who was expert in inorganic analysis. He has been working with AECL for over 20 years.  A strong personality.  calibration curve.  
+
+Difficult to work with.  
+
+1) He did not want me to get involved in inorganic analysis.   
+2) Every report had to get him review and pass them to me for approval.  
+
+Task:
+To build relationship with him.  
+To work together.
+
+Actions:  
+1) I did not take such things personally.
+
+2) I realized that he and I have one common ground - work ethic.  
+
+3) I helped him to catch errors on reports.
+
+Result: Build trust in relationship, built partnership.
+
+
+
+
 
 
 ---

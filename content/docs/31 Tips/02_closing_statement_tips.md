@@ -1,8 +1,8 @@
 ---
-weight: 3
+weight: 2
 title: [BossHire | Closing Statement]
 authors: Lenny Lin
-categories: 
+categories: [Interview Tips]
 tags: [Closing Statement]
 description: 
 draft: false
