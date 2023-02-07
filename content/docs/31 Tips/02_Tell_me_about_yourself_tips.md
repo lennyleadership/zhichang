@@ -1,15 +1,18 @@
-+++
-title = "Tell Me About Yourself Tips"
-description = ""
-tags = [
-    "Tell me about yourself",
-]
-date = "2022-05-31"
-categories = [
-    "Interview Tips",
-]
-menu = "main"
-+++
+---
+weight: 2
+title: Tell Me About Yourself
+authors: Lenny Lin
+categories: [Interview Tips]
+tags: [Tell Me About Yourself]
+description: 
+draft: false
+date: "2022-05-31"
+lastmod: "2022-05-31"
+series: null
+toc: true
+---
+
+
 
 Approach #1: Summarize my resume with the focus on their business in mind.     
 
