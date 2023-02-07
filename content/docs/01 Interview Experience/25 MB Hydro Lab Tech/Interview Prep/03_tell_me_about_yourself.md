@@ -20,9 +20,12 @@ My wife and I immigrated to Canada in 2004.  We decided to move to Kirkland Lake
 
 I started with the Quality officer maintaining the quality system and the lab accreditation.  Afterwards, I performed routine testing, such as anions with ion chromatography, TKN, TP with continuous flow analyzer, F1 - F4 with GC/FID, and E. coli, not to mention COD, BOD, pH, alkalinity, conductivity.  I did instrument maintenance and troubleshooting.  
 
-While I worked at the lab, the community college offered me an instructor position to teach some courses for the water technician diploma program.  I had opportunities to teach what I practiced in lab, and experience of regulatory compliance I gained.
+While I worked at the lab, the community college offered me an instructor position to teach some courses for the water technician diploma program.  I had opportunities to teach what I practiced in lab, and experience of regulatory compliance I gained. I gained 
 
-I accepted a job offer as a chemist in the lab at AECL in 2009. We primarily provided testing for environmental monitoring and regulatory compliance.  Parameters include volatile organic compounds, metals, anions, pH, COD, BOD, ammonia, gross beta.   first task, recommissioned GC-MS with headspace for volatile organic compounds. I oversaw other testing, such as anions and metals.
+I accepted a job offer as a chemist in the lab at AECL in 2009. We primarily provided testing for environmental monitoring and regulatory compliance.  Parameters include volatile organic compounds, metals, anions, pH, COD, BOD, ammonia, gross beta.   first task, recommissioned GC-MS with headspace for volatile organic compounds. I oversaw other testing, such as anions and metals. 
+
+I developed macro, I did multi-tasks with easy. work hard and smart.  
+
 unionized environment.
 
 The job at AECL was done in 2016 due to business change.

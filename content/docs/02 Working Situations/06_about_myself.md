@@ -33,6 +33,7 @@ toc: true
 17 years in chemical analysis.
 
 ## Shiny Points
+
 \* Do work with all my heart, all my soul, and all my might.  
 \* Do things right at the first place. Save time, save money when developing methods, specifically in the new lab operation.  
 \* Have 7 habits of highly effective people. I have habits, and would get a job more than others.  
@@ -42,6 +43,9 @@ toc: true
 * Commitment  
 * Self-motivated  
 * Be assertive, be proactive when dealing with conflicts
+
+
+## 
 
 **2022.01.08**
 
