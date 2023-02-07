@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: Career Sidekick | 
+title: Career Sidekick | Overcome Difficult Challenge
 authors: Lenny Lin
 categories: [Interview Tips]
 tags: [Interpersonal Skills, Difficult People]
@@ -11,6 +11,8 @@ lastmod: "2023-02-07"
 series: null
 toc: true
 ---
+
+<a href = "https://careersidekick.com/challenges-overcome/" target="_blank" rel="noopener noreferrer">CareerSidekick | Answers to “What Challenges Have You Overcome?”</a>
 
 In a job interview, you’re likely to be asked, “What challenges or obstacles have you overcome?”
 

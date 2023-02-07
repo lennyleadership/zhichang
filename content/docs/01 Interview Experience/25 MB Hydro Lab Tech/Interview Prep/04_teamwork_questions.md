@@ -38,7 +38,8 @@ Probes: What was the project? What was your role?
 
 Response:  
 
-Situation #1: AECL. "procrastination".  monitor the progress.  hold them accountable in the meeting.  [a good example of decision-making in difficult situation.  ]
+Situation #1: AECL.  The person was the union president of technologist union.  
+
 
 ---
 
@@ -48,6 +49,4 @@ Probes:  What were the differences?  What was the impact on your ability to get 
 
 Response:  
 
-Situation #1: AECL.
-
-A senior technologist, 
+Situation #1: AECL. "procrastination".  motivation issue. solution: 1) monitor the progress. 2) leveraged coworker. got a senior technologist work along with them. 3) hold them accountable in the meeting.  [a good example of decision-making in difficult situation.  I decided to provide solutions]
