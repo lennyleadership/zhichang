@@ -32,10 +32,18 @@ Response: say it with my words, and confirm with the person.
 COMQ #4 Describe a situation when you had a miscommunication with someone.  What did you do to try to solve the problem?  
 Probes: How did you approach the problem?  What did you say?  What was the result?
 
+Response: AECL. I directly contact an environmental specialist at Chalk River regarding a requirement of decimal places of data.  An environmental specialist at Whiteshell found it out, and he was not happy about that.  He complained to our section head.
+
+Task: conversation with him.  
+Action: He felt I had malicious intention and made him look bad at his superior.  
+The cause: I did not know the reporting line between.  
+Result: reconcile with him.
+
+---
 
 COMQ #5 Tell me about a situation where you were required to explain a difficult concept to someone.  How did you ensure your message as understood?
 
-Response: use terms they understand.
+Response: use terms they understand.  high-resolution mass spectrometer vs. low-resolution mass spectrometer.  
 
 ---
 

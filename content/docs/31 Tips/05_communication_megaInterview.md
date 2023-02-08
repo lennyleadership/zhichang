@@ -1,17 +1,17 @@
-+++
-title = "MegaInterview | Communication"
-description = ""
-tags = [
-    "Communication",
-    "",
-    ""
-]
-date = "2022-07-28"
-categories = [
-    "Interview Tips",
-]
-menu = "main"
-+++
+---
+weight: 5
+title: MegaInterview | Communication
+authors: Lenny Lin
+categories: [Interview Tips]
+tags: [Communication]
+description: 
+draft: false
+date: "2022-07-28"
+lastmod: "2023-02-07"
+series: null
+toc: true
+---
+
 
 Effective communication skills are needed in every workplace. Communication skills are, therefore regarded as an essential skill by employers. When you’re going for a job interview, you can be sure that the interviewer will ask you about your communication skills. Communication job interview questions are asked in almost every interview, regardless of the position you’re applying for.
 
