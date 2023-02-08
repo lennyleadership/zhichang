@@ -28,7 +28,7 @@ problem #2: we were not able to generate report from LIMS.  The reality was it t
 
 The outcomes were: The turn-around-time and data quality were affected.
 
-At that time, I was delegated to oversee the lab operation.  I did two things.  One thing was that I submitted a service ticket to the IT group asking for support.  Another thing was that I came up with two work-around solutions, 1) create a QC batch generator； 2） 
+At that time, I was delegated to oversee the lab operation.  I did two things.  One thing was that I submitted a service ticket to the IT group asking for support.  Another thing was that I came up with a work-around solution, 1) create a QC batch generator； 2） 
 
 ---
 
