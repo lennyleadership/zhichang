@@ -3,7 +3,7 @@ weight: 11
 title: 4 Tactics that Backfire When Dealing with a Difficult Colleague
 authors:
 categories: [Interview Tips]
-tags: [Forgiveness, Difficult Employee Situation]
+tags: [Forgiveness, Difficult People]
 description: 
 draft: false
 date: "2022-09-27"

@@ -3,7 +3,7 @@ weight: 4
 title: Questions on Teamwork
 authors: Lenny Lin
 categories: 
-tags: [Teamwork]
+tags: [Teamwork, Difficult People]
 description: 
 draft: false
 date: "2023-02-07"
@@ -28,7 +28,12 @@ problem #2: we were not able to generate report from LIMS.  The reality was it t
 
 The outcomes were: The turn-around-time and data quality were affected.
 
-At that time, I was delegated to oversee the lab operation.  I did two things.  One thing was that I submitted a service ticket to the IT group asking for support.  Another thing was that I came up with a work-around solution, 1) create a QC batch generator； 2） 
+At that time, I was delegated to oversee the lab operation.  I did two things.  One thing was that I submitted a service ticket to the IT group asking for updating and upgrading LIMS.  Another thing was that I came up with a work-around solution to address three aspects, 1) create a QC batch generator； 2）create macro-enabled spreadsheet for each method to populate data; 3) create marco-enabled spreadsheet to consolidate QC data and plot control charts.
+
+Regarding difficulty, I did not get enough IT support until I had my manager contacted the IT manager.  It took a long time.
+
+Results: the work-around solution was in use.
+
 
 ---
 
@@ -36,7 +41,17 @@ TWQ #4: Getting others to accept our ideas can be challenging at times.  Tell me
 
 Response:   
 
-Situation #1: AECL, balance interface.  partnership with advocates, walk through the process.
+Situation #1: 
+
+AECL, balance interface.  partnership with advocates, walk through the process.
+
+In my second year at AECL, I proposed to my manager a balance interfacing software. Because we did calibration check for all pipettes every month, and there were over 20 pipettes. With the balance interfacing in place, we can reduce error while taking reading, and save time for pipette calibration. Once the weighting data is fed to a template, the calibration check was done.  
+
+There was one group of technologists who were not keen on switching to the software.  It was not a big deal to them, it did not save their time.  The manager did not push all technologists to use the software.  
+
+My strategy was to have those technologists who used the software showcased the benefit to them.  I followed up with them on a regular base.  One day they wanted to try, but did not want to bring file on the thumb drive to the lab.  They wanted to have the PC attached to the balance connected on the intranet.  After it was resolved, they were happy with the software.
+
+
 
 Situation #2: LifeLabs, R application, VBA application, team lead.
 
@@ -47,7 +62,7 @@ Probes: What was the project? What was your role?
 
 Response:  
 
-Situation #1: AECL.  A senior technologist who was expert in inorganic analysis. He has been working with AECL for over 20 years.  A strong personality, a top performer.  calibration curve.  
+Situation #1: AECL.  A senior technologist who was expert in inorganic analysis. He has been working with AECL for over 20 years.  A strong personality, a top performer, for instance, his way of building calibration curve was not conventional.  
 
 Difficult to work with.  
 
@@ -63,15 +78,11 @@ Actions:
 
 2) I got advice from my manager.  Leave him alone.
 
-2) I realized that he and I have one common ground - work ethic.  
+3) I realized that he and I have one common ground - work ethic.  
 
-3) I improved my competency, helped him to catch errors on reports.
+4) I improved my competency, helped him to catch errors on reports.
 
 Result: Build trust in relationship, built partnership.
-
-
-
-
 
 
 ---
@@ -82,4 +93,17 @@ Probes:  What were the differences?  What was the impact on your ability to get 
 
 Response:  
 
-Situation #1: AECL. "procrastination".  motivation issue. solution: 1) monitor the progress. 2) leveraged coworker. got a senior technologist work along with them. 3) hold them accountable in the meeting.  [a good example of decision-making in difficult situation.  I decided to provide solutions]
+Situation #1:   
+
+AECL. A technologist had an issue of "procrastination" who was responsible for backlogged analysis.  I did not think such workload would be a problem.  It seems to me there was a motivation issue. 
+
+Action / Solutions: 1) monitored and updated the analysis progress.  
+2) leveraged coworker. got a senior technologist work along with them.  
+3) hold them accountable in the meeting.  [a good example of decision-making in difficult situation.  I decided to provide solutions]
+4) Prepare a S.M.A.R.T. performance objective to help them improve their performance.
+
+Result:  Their performance was improved a bit.  The relationship needed to be highly maintained.
+
+Situation #2:   
+
+SGS. "Isolation" by the lab manager.  I did not get enough support.  This is not a good example because I did not go and talk to the lab manager.
