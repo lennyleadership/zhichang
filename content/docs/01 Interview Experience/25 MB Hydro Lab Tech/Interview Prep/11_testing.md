@@ -19,6 +19,17 @@ record sample temperature, voltage potential at 7, and either voltage potential 
 
 Slope error(%) could be narrowed, usually \u00B1 5%.  
 
-I monitor pH while checking report.  I asked the technologist for logbook.  Calculate temperature based on slope error and two voltage potential readings.  Slope is depend upon temperature.
+I monitor pH while checking report.  I asked the technologist for logbook.  Calculate temperature based on slope error and two voltage potential readings.  Slope is a function of temperature.
+
+Check the level of fill in the probe. 
+
+Immerse the probe in the water after rinsing it.
+
+Calibrate temperature probe.
+
+
+## Conductivity
+
+
 
 
