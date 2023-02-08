@@ -1,4 +1,5 @@
 ---
+weight: 3
 authors: Lenny Lin
 title: Interview
 categories: Interview
