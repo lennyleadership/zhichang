@@ -3,7 +3,7 @@ weight: 4
 title: Questions on Teamwork
 authors: Lenny Lin
 categories: 
-tags: []
+tags: [Teamwork]
 description: 
 draft: false
 date: "2023-02-07"
@@ -19,7 +19,16 @@ Level 2: Contributes to team process and involves others
 TWQ #3: Tell me about a recent team experience where you were not the leader, but played a critical role in helping the team work together to achieve its objectives.  
 Probes: What was your role?  What strategies did you use? What difficulties did you experience? How did you feel about the results?  
 
-Response:  situation: AECL. work around solutions to LIMS.
+Response:  
+
+situation:   
+Our lab's operational performance suffered from problematic LIMS.  There were two problems:  
+problem #1: The LIMS did not function well, we were not able to generate QC batch for each analysis.  Instead we hand wrote sample information on the logbook. solution: create a QC batch generator.
+problem #2: we were not able to generate report from LIMS.  The reality was it took us many time for reporting. solution: create a program to process data.
+
+The outcomes were: The turn-around-time and data quality were affected.
+
+At that time, I was delegated to oversee the lab operation.  I did two things.  One thing was that I submitted a service ticket to the IT group asking for support.  Another thing was that I came up with two work-around solutions, 1) create a QC batch generator； 2） 
 
 ---
 
