@@ -102,7 +102,7 @@ Action / Solutions: 1) monitored and updated the analysis progress.
 3) hold them accountable in the meeting.  [a good example of decision-making in difficult situation.  I decided to provide solutions]
 4) Prepare a S.M.A.R.T. performance objective to help them improve their performance.
 
-Result:  Their performance was improved a bit.  The relationship needed to be highly maintained.
+Result:  Their performance was improved a bit.  The professional relationship needed to be highly maintained.
 
 Situation #2:   
 
