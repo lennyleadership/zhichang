@@ -12,5 +12,11 @@ series: null
 toc: true
 ---
 
-Q: 6.  While working with a team, have you ever volunteered to take on additional tasks in order to support the group's efforts?
+Q #6.  While working with a team, have you ever volunteered to take on additional tasks in order to support the group's efforts?
+
+**Revisit 2023.02.08**
+
+AECL. volunteer to recommission GC/MS-headspace.
+
+retired, no knowledge passed down, support, training, recommission, passed PT, 
 

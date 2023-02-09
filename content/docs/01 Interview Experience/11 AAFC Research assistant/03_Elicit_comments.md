@@ -3,7 +3,7 @@ weight: 3
 title: Elicit Comments or Feedback
 authors: Lenny Lin
 categories: 
-tags: [Interactive communication]
+tags: [Communication, AECL Situation]
 description: 
 draft: false
 date: "2022-10-06"
@@ -15,6 +15,10 @@ toc: true
 
 <!--more-->
 ---
+
+Company: AAFC  
+
+
 
 EC3.1	It is important to be receptive to others’ ideas and opinions. Tell us about a time when you had to elicit comments or feedback from another team member on an important issue? (Max 5 Marks)
 
