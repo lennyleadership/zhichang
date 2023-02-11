@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 3
 title: Career Sidekick | Overcome Difficult Challenge
 authors: Lenny Lin
 categories: [Interview Tips]
