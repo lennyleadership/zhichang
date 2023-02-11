@@ -3,7 +3,7 @@ weight: 6
 title: Opportunity for Improvements to the Existing Procedures
 authors: Lenny Lin
 categories: [Interview]
-tags: [Concern for Safety]
+tags: [Safety, AECL Situation]
 description: 
 draft: false
 date: "2022-10-06"

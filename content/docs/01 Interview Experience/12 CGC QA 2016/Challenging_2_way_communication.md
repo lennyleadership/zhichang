@@ -4,6 +4,7 @@ description = ""
 tags = [
     "CGC",
     "Communication",
+    "AECL Situation"
 ]
 date = "2022-05-30"
 categories = [
@@ -18,8 +19,7 @@ Give us an example of a time when establishing two-way communication with an ind
 Be assertive
 
 
-Revision: 2022.05.31
-Situation: 
+
 
 
 Revision: 2018.10.17

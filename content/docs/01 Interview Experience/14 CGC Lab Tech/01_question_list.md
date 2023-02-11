@@ -2,8 +2,8 @@
 weight: 1
 title: Questions
 authors: Lenny Lin
-categories: 
-tags: []
+categories: [Interview]
+tags: [Communication, Adaptability, Team Player, Initiative, Analytical Thinking, Result Oriented, Plan]
 description: 
 draft: false
 date: "2022-09-11"

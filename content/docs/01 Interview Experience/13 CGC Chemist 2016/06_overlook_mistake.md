@@ -3,7 +3,7 @@ weight: 6
 title: Overlooked Mistakes
 authors: Lenny Lin
 categories: Interview
-tags: [Commitment to Quality]
+tags: [Quality, AECL Situation]
 description: 
 draft: false
 date: "2016-07-15"

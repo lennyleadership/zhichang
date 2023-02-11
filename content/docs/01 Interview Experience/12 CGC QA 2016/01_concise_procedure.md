@@ -2,8 +2,8 @@
 weight: 1
 title: Concise Procedure
 authors: Lenny Lin
-categories: Interview
-tags: [Concise Procedure]
+categories: [Interview]
+tags: [Procedure]
 description: 
 draft: false
 date: "2016-10-09"
@@ -11,6 +11,8 @@ lastmod: "2022-10-04"
 series: null
 toc: true
 ---
+
+Company: CGC
 
 Question 2: Identify an accident/incident in your community that your local newspaper, radio, news, etc. reported within the last two or three months that involved either personal harm or property damage.   
 •	Write a Report on this accident/incident and develop a procedure on how to avoid this happening again.   

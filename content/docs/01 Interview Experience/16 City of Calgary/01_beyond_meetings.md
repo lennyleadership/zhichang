@@ -3,7 +3,7 @@ weight: 1
 title: Go Beyond Meetings or Arrangement
 authors: Lenny Lin
 categories: Interview
-tags: []
+tags: [AECL Situation]
 date: " "
 description: 
 draft: false
@@ -39,6 +39,12 @@ I had meeting with the manager.
 	In all these three actions, my role was a Chemist. I was delegated to review and authored analysis reports. I was not a supervisor, but played as a facilitator/coordinator.  
 	 
 As a result, I helped to accomplish team goals by building team, recognizing and evaluating team.  
+
+
+---
+**Revisit**  
+[2023.02.10]  
+Could be anything, such as balance interfacing, data visualization, macro, 
 
 
 **Revisit**  

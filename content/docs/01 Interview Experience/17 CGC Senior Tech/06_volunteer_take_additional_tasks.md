@@ -3,7 +3,7 @@ weight: 6
 title: To Volunteer to Take on Additional Tasks
 authors: Lenny Lin
 categories: Interview
-tags: [Teamwork, Initiative]
+tags: [Initiative, AECL Situation]
 date: " "
 description: 
 draft: false

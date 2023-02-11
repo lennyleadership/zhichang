@@ -3,7 +3,7 @@ weight: 1
 title: Establishing Two-way Communication
 authors: Lenny Lin
 categories: Interview
-tags: [Interactive Communication]
+tags: [Communication, AECL Situation]
 date: " "
 description: 
 draft: false
@@ -15,5 +15,18 @@ toc: true
 Q: 1 Give us an example of a time when establishing two-way communication with an individual or group was especially challenging.
 
 
-Refer to <a href = "https://zhichang.netlify.app/docs/02-working-situations/04-aecl/04_challenging_two_way_communication/" target="_blank" rel="noopener noreferrer">`AECL\Challenging_two_way_communication`</a>
+keywords: listen and take feedback, turn challenging two-way communication into engaged communication.  
 
+Address emotion first.  How do you feel?  
+
+## Situation #1: GC/MS training
+
+Attitude: pause, cooled down and returned. Be assertive  
+
+
+## Situation #2: ICP QC results
+
+Solution:  
+Step #1: reconcile by one-on-one
+Step #2: leverage other coworker  
+Step #3: Get supervisor involved

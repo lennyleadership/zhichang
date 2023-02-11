@@ -2,8 +2,8 @@
 weight: 
 title: All Questions
 authors: Lenny Lin
-categories:
-tags: []
+categories: [Interview]
+tags: [Quality, Communication, AECL Situation]
 description: 
 draft: false
 date: " "
@@ -70,7 +70,7 @@ to be mentioned next time: refer to the new page
 小结：在面试现场，我只想到 Conor Neil 在 YouTube 上的视频画面，而且记不全。另外，我只讲了两点 credibility 和 conflict management，没有举例。
 
 **Q#10: How did you distribute workloads?**
-现场我举的是写新版QA manual的例子。Hold QA officer accoutable, due date, coordination with CALA.  
+现场我举的是写新版QA manual的例子。Hold QA officer accountable, due date, coordination with CALA.  
 可能举weekly toolbox meeting的例子比较好。  
 refer to the new page.  
 

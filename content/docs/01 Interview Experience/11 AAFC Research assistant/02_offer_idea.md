@@ -3,7 +3,7 @@ weight: 2
 title: "Offer Ideas/Suggestions"
 authors: Lenny Lin
 categories: [Interview]
-tags: [Initiative]
+tags: [Initiative, AECL Situation]
 description: 
 draft: false
 date: "2022-10-06"
@@ -12,7 +12,7 @@ series: null
 toc: true
 ---
 
-AAFC
+Company: AAFC
 
 <!--more-->
 ---
@@ -36,3 +36,8 @@ Brain-storming meeting. They offered feedback to improve the spreadsheet. Protec
 Results: replaced the logbook. Happiness.
 
 
+
+---
+
+**Revisit**  
+Situation: AECL, balance interface

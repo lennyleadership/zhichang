@@ -3,7 +3,7 @@ weight: 2
 title: Made Effective Adjustment
 authors: Lenny Lin
 categories: Interview
-tags: []
+tags: [AECL Situation]
 date: "2022-08-04"
 description: 
 draft: false
@@ -38,4 +38,4 @@ Question #13 When you recently made effective adjustment/change to the procedure
 balance interfacing program at AECL.
 
 
-**Revisit 2022.10.06**  
+
