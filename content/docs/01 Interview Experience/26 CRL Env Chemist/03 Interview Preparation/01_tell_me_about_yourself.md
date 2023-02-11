@@ -27,6 +27,12 @@ While I worked at the lab, the community college offered me an instructor positi
 
 I accepted a job offer as a chemist in the lab at AECL in 2009. We primarily provided testing for environmental monitoring and regulatory compliance.  Parameters include volatile organic compounds, metals, mercury, anions, pH, COD, BOD, ammonia, and radioactivity (gross beta).  
 
+experience with sample preparation of biota samples.
+
+two environmental labs.
+
+mention liquid scintillation counter
+
 Due to the unionized environment, my responsibility on instrumentation was limited to method development and validation.  I developed and validated GC-MS with headspace for volatile organic compounds. I helped to streamline data processing, and implement a balance interface program.  As a result, we were able to do multitasks without being stressful; and we facilitated accurate data with rapid turn-around-time.  
 
 
@@ -40,8 +46,10 @@ As a person, I take my job seriously. I put my best efforts to the job as if I w
 
 
 
-
+build trust in relationship with management.
 # Summary
-I have versatile skills, I am capable to oversee all aspects of laboratory operation: field sampling, sample preparation, instrumental analysis, data processing, report review, quality management, 
+I have versatile skills, I am capable to oversee all aspects of laboratory operation: field sampling, sample preparation, instrumental analysis, data processing, report review, quality management.  
+
+
 
 

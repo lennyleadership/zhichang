@@ -12,6 +12,10 @@ series: null
 toc: true
 ---
 
+It seems to me that the chemist role in the branch is an assisting role, 
+
+I assume the chemist review all data.
+
 Was there a chemist before?  
 
 What types of instrument are there?  
@@ -22,4 +26,7 @@ what does the regular day look alike for the Chemist?
 
 What do you expect me to do?
 
+How does the Chemist interact with the team?
+
+How does the chemist function in the operation?
 

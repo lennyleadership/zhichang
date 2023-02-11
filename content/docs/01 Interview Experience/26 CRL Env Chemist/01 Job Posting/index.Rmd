@@ -28,7 +28,7 @@ The Environmental Program Chemist is responsible for providing subject matter ex
 **DUTIES**  
 
 - Chemistry support for the branch.  
-- Assisting in <u>the maintenance of laboratories and troubleshooting of instrumentation</u>.  
+- <mark class = "lemon">Assisting</mark> in the maintenance of laboratories and troubleshooting of instrumentation.  
 - Providing technical expertise and support to branch staff as needed.  
 - <u>Interpretation of chemistry and process data</u> and acting <u>proactively</u> to improve chemistry processes in support of branch objectives.  
 - Assisting as needed in any special investigations regarding anomalous monitoring results or upset operational conditions on the site.   
