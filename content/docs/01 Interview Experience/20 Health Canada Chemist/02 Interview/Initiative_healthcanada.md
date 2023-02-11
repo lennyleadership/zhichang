@@ -3,7 +3,7 @@ weight: 2
 title: Initiative
 authors: Lenny Lin
 categories: Interview
-tags: [Initiative, LifeLabs Case]
+tags: [Initiative, LifeLabs Situation]
 description: 
 draft: false
 date: " "

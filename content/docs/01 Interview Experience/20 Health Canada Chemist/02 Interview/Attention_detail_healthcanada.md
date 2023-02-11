@@ -3,7 +3,7 @@ weight: 2
 title: Attention to Detail
 authors: Lenny Lin
 categories: Interview
-tags: ["Attention to detail", "LifeLabs Case", "Mistakes"]
+tags: ["Attention to detail", "LifeLabs Situation", "Mistakes"]
 date: ""
 description: 
 draft: false

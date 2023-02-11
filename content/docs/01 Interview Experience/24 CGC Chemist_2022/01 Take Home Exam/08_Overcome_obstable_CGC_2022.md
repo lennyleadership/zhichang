@@ -3,7 +3,7 @@ weight: 8
 title: Overcome Obstacle
 authors: Lenny Lin
 categories: Interview
-tags: ["LifeLabs Case", "Results Oriented"]
+tags: ["LifeLabs Situation", "Results Oriented"]
 date: " "
 description: 
 draft: false

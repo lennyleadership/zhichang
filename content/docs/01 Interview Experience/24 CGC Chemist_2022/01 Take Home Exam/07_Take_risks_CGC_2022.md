@@ -3,7 +3,7 @@ weight: 7
 title: Take Risks for Gains
 authors: Lenny Lin
 categories: Interview
-tags: ["Results Oriented", "LifeLabs Case", "Hovertip demo"]
+tags: ["Results Oriented", "LifeLabs Situation", "Hovertip demo"]
 date: " "
 description: 
 draft: false

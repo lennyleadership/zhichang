@@ -3,7 +3,7 @@ weight: 14
 title: Schedule Your Activities
 authors: Lenny Lin
 categories: Interview
-tags: [Scheduling and coordinating, Teamwork, LifeLabs Case, AECL Situation]
+tags: [Scheduling and coordinating, Teamwork, LifeLabs Situation, AECL Situation]
 date: " "
 description: 
 draft: false

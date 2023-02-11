@@ -3,7 +3,7 @@ weight: 2
 title: "Effective Interpersonal Skills"
 authors: Lenny Lin
 categories: Interview
-tags: [Relationship Management, Interpersonal Skills, Adaptability, LifeLabs Case]
+tags: [Relationship Management, Interpersonal Skills, Adaptability, LifeLabs Situation]
 date: " "
 description: 
 draft: false
