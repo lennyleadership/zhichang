@@ -440,12 +440,12 @@ a:active {
 
 
 /* highlight options *******************************************************************************/
-mark.black {
+.black {
   background-color: black;
   color: white;
 }
 
-mark.grey {
+.grey {
   background-color: #dcdcdc;
 }
 
@@ -453,12 +453,15 @@ mark.grey {
   background-color:#84b2ff;
 }
 
-mark.lemon {
+.lemon {
   background-color: #fffacd;
 }
 /* the end *****************************************************************************************/
 
 
+.red{
+  border-bottom:1px solid red;
+}
 
 
 /* collapse ****************************************************************************************/

@@ -12,9 +12,25 @@ series: null
 toc: true
 ---
 
-It seems to me that the chemist role in the branch is an <mark class = "lemon">assisting</mark> role, 
+My understanding of the rule:  
 
-I assume the chemist review all data.
+1) proactively improve chemistry processes  
+
+2) Perform trend evaluations
+
+3) Develop and maintain understanding of sampling and analytical methodologies  
+
+4) Produce technical documentation
+
+5) Drive improvement in sampling and analytical methodologies
+
+
+
+The rule won't:
+
+1) review report
+
+2) be accountable for quality plan
 
 Was there a chemist before?  
 
