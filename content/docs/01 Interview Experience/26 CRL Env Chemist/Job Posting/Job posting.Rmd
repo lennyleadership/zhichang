@@ -1,0 +1,93 @@
+---
+title: "CNL Chalk River - Chemist"
+author: "Lenny Lin"
+date: "2022-09-20"
+output: 
+  #tufte::tufte_html: default
+  html_document:
+    css: report_v05.css
+---
+
+Date posted: 9/15/2022  
+Job ID: 30467
+
+**INTRO**  
+
+The <u>Environmental Program Chemist</u> of the Environmental Monitoring Branch will work under the direction of the Manager, Environmental Monitoring Branch. The Environmental Monitoring Branch is a well-established team of technical staff who <u>provide specialist services, information, and evaluations that support the integrated environmental monitoring of CNL sites</u>. The team is actively involved in developing, maintaining, and facilitating environmental monitoring at CNL through the coordination and execution of field sampling, sample preparations, laboratory analyses, and result interpretations.  
+
+The Environmental Program Chemist is responsible for providing subject matter expertise in the technical basis for:  
+1) the <u>various sample collection</u> and <u>analytical methodologies</u> implemented within the branch,   
+2) supporting/leading the development of any new required sampling or analytical methodologies,   
+3) supporting any special investigations or studies as required by the monitoring programs or environmental risk assessment,   
+4) maintaining industry and S&T contacts in the relevant areas,  
+5) participating in <u>compliance audits</u>, and  
+6) supporting <u>the continual improvement in quality assurance</u> across the branch to ensure that services provided by the branch meet customer expectations.  
+
+**DUTIES**  
+
+- Chemistry support for the branch.  
+- Assisting in <u>the maintenance of laboratories and troubleshooting of instrumentation</u>.  
+- Providing technical expertise and support to branch staff as needed.  
+- <u>Interpretation of chemistry and process data</u> and acting <u>proactively</u> to improve chemistry processes in support of branch objectives.  
+- Assisting as needed in any special investigations regarding anomalous monitoring results or upset operational conditions on the site.   
+- Assisting in identifying, documenting, and evaluating the significance of operations, activities, and projects at the CRL site and other sites as necessary.  
+- Performing <u>trend evaluations</u>, statistical evaluations of monitoring results.  
+- Advising on chemical characteristics of effluent quality, surface water quality, or otherwise.  
+- Documenting the technical basis and validation for sampling and analytical methods utilized by the branch.  
+- Develops and maintains branch understanding of the technical basis for the branch’s sampling and analytical methodologies, and producing technical documentation.  
+- Leading and/or supporting the development of new sampling or analytical methods, or the optimization of existing methods.  
+- Develop new methodologies as needed by the changing requirements of the monitoring programs.  
+- Acts on audit, evaluation and other unit performance information.  
+- Actively drive improvement in sampling and analytical methodologies utilized within the branch, benchmarking against best industry practices.
+- Support the continual improvement in quality assurance across the branch to ensure that services provided by the branch meet customer expectations.
+- Assist in determination and maintenance of appropriate quality data acceptance criteria.
+- Assist in troubleshooting any excursions of quality data acceptance criteria.
+
+**QUALIFICATIONS**  
+
+<u>Education</u>:
+
+- Graduate degree in Chemistry or an honours degree from an accredited university with equivalent nuclear/radiological chemistry experience as the minimum requirement.
+
+<u>Experience</u>:
+
+- Minimum of seven (7) years of experience in an analytical chemistry laboratory, preferably with experience in the analysis of both radiological and non-radiological parameters on both aqueous and biota samples.
+- Experience in laboratory quality control and analysis of results is essential.
+- Possesses a broad scientific background, acquired through formal training and several years of experience, preferably in chemistry/radiochemistry/chemical engineering and ideally in analytical chemistry/radiochemistry.
+- Experience in development and validation of analytical methods.
+
+<u>Abilities and Skills</u>:
+
+- Strong working knowledge of chemistry, chemical principles and instrumentation.
+- Strong practical background in statistics, and <mark>statistical analysis</mark> of <mark>counting data</mark>.
+- Strong expertise in <mark>aqueous chemistry or radiochemistry</mark>, and experience with associated laboratory chemical analyses.
+- Wet chemistry, solution preparation and instrument calibration and use.
+- Use of scientific databases.
+- Data Analysis and reporting of results.
+- Method development and improvement.
+- Ability to work both in a team environment and independently.
+- Excellent written and oral communications skills.
+- Ability to manage work within allocated time and budget constraints.
+- Advanced level capability in MS Office Suite (Word, Excel, PowerPoint, SharePoint Online) and other software applications.
+- Proficient in scientific data processing and graphing software programs.
+
+<u>Job/Industry Specific Knowledge</u>:
+
+- Knowledge of chemistry and radiation chemistry.
+- Practical knowledge of ISO 9001 or an equivalent Quality Assurance program.
+- Familiarity with developing and writing procedures and specifications.
+- Knowledge of environmental aqueous sampling techniques.
+- Knowledge of environmental biota sampling techniques.
+- Knowledge of and ability to work with radioactive materials.
+- Knowledge of <mark>gamma spectrometry</mark>.
+- Knowledge of <mark>gas flow proportional counting</mark>.
+- Knowledge of <mark>liquid scintillation counting</mark>.
+- Knowledge of laboratory Quality Assurance and Quality Control.
+
+CNL is committed to providing an atmosphere free from barriers that promote equity, diversity and inclusion in achieving our [mission](https://www.cnl.ca/about-cnl/corporate-profile-mission-and-values/). CNL welcomes and celebrates employees, stakeholders and partners of all racial, cultural, and ethnic identities.
+
+CNL also supports a workplace environment and a corporate culture built on our Core Values: Respect, Teamwork, Accountability, Safety, Integrity and Excellence, which encourage equitable employment practices and career prospects inclusive of accommodations for all employees.
+
+CNL is committed to being an equal-opportunity employer. If you require accommodation measures during any phase of the hiring process, please inform the Talent Acquisition Advisor with whom you are in contact. All information received in relation to accommodation requests will be kept confidential.
+
+The Chalk River Laboratories site is located on the unceded and unsurrendered territory of the Algonquin Anishinaabe people. As an organization, CNL recognizes and appreciates their historic connection to this place. CNL also recognizes the contributions that First Nations, Métis, Inuit and other Indigenous Peoples have made, both in shaping and strengthening this community in particular, and this province and country as a whole.

@@ -3,7 +3,7 @@ weight: 13
 title: Share Instruments and Chemicals
 authors: Lenny Lin
 categories: Interview
-tags: [Scheduling and coordinating, teamwork]
+tags: [Teamwork]
 date: " "
 description: 
 draft: false
