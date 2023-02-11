@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 2
 title: Questions for Them
 authors: Lenny Lin
 categories: 
@@ -15,7 +15,7 @@ toc: true
 
 What does the unionized environment look like in the team?
 
-what does the regular day look alike?
+what does the regular day look alike for the Chemist?
 
 What do you expect me to do?
 
