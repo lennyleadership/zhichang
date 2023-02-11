@@ -37,3 +37,8 @@ The following questions are provided to guide you in your response. You do not h
 5) report to the supervisor.  
 6) Have the customer rep contact the client and revise the report.    
 7) document it as a preventive action.  
+
+
+**Revisit**
+[2023.02.11]  
+1) Confirm the data quality.

@@ -60,5 +60,13 @@ SPE process optimization
 3) 
 
 
-**REVISIT 2022.08.01**  
-There was no good case before.  There was one in CGC take-home exam regarding selection of internal standards.
+**REVISIT 2023.02.11**  
+
+[LifeLabs] 
+Situation: The recovery of free steroids in the SPE process was bad. 
+
+Actions:
+1) Discuss the issue with the scientist team.  
+2) Drew a fish-bone diagram listing all factors that could affect the recovery.
+3) Designed a series of experiments to test idea.
+

@@ -12,6 +12,9 @@ series: null
 toc: true
 ---
 
+Was there a chemist before?  
+
+What types of instrument are there?  
 
 What does the unionized environment look like in the team?
 
