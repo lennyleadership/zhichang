@@ -1,5 +1,6 @@
 ---
-title: "CNL Chalk River - Chemist"
+weight: 1
+title: "Job Posting"
 author: "Lenny Lin"
 date: "2022-09-20"
 output: 
@@ -8,6 +9,7 @@ output:
     css: report_v05.css
 ---
 
+Position: Environmental Chemist  
 Date posted: 9/15/2022  
 Job ID: 30467
 
