@@ -30,7 +30,9 @@ The rule won't:
 
 1) review report
 
-2) be accountable for quality plan
+2) be accountable for quality plan  
+
+3) be delegated  
 
 Was there a chemist before?  
 

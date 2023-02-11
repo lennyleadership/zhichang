@@ -61,8 +61,8 @@ The Environmental Program Chemist is responsible for providing subject matter ex
 <u>Abilities and Skills</u>:
 
 - Strong working knowledge of chemistry, chemical principles and instrumentation.
-- Strong practical background in statistics, and <mark>statistical analysis</mark> of <mark>counting data</mark>.
-- Strong expertise in <mark>aqueous chemistry or radiochemistry</mark>, and experience with associated laboratory chemical analyses.
+- Strong practical background in statistics, and <mark class = "lemon">statistical analysis</mark> of <mark class = "lemon">counting data</mark>.
+- Strong expertise in <mark class = "lemon">aqueous chemistry or radiochemistry</mark>, and experience with associated laboratory chemical analyses.
 - Wet chemistry, solution preparation and instrument calibration and use.
 - Use of scientific databases.
 - Data Analysis and reporting of results.
@@ -81,9 +81,9 @@ The Environmental Program Chemist is responsible for providing subject matter ex
 - Knowledge of environmental aqueous sampling techniques.
 - Knowledge of environmental biota sampling techniques.
 - Knowledge of and ability to work with radioactive materials.
-- Knowledge of <mark>gamma spectrometry</mark>.
-- Knowledge of <mark>gas flow proportional counting</mark>.
-- Knowledge of <mark>liquid scintillation counting</mark>.
+- Knowledge of <mark class = "lemon">gamma spectrometry</mark>.
+- Knowledge of <mark class = "lemon">gas flow proportional counting</mark>.
+- Knowledge of <mark class = "lemon">liquid scintillation counting</mark>.
 - Knowledge of laboratory Quality Assurance and Quality Control.
 
 CNL is committed to providing an atmosphere free from barriers that promote equity, diversity and inclusion in achieving our [mission](https://www.cnl.ca/about-cnl/corporate-profile-mission-and-values/). CNL welcomes and celebrates employees, stakeholders and partners of all racial, cultural, and ethnic identities.
