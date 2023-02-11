@@ -2,8 +2,8 @@
 weight: 90
 title: Safety Measurements
 authors: Lenny Lin
-categories: Working Situations
-tags: [Safety, BV Winnipeg Interview]
+categories: [Interview]
+tags: [Safety, AECL Situation]
 date: " "
 description: 
 draft: false
