@@ -12,7 +12,13 @@ series: null
 toc: true
 ---
 
-I took different troubleshooting strategy depending on the situation.
+
 
 Step #1: diagnose problem.
 
+I took different troubleshooting strategy depending on the situation.
+
+1) previous experience.
+experience in head, better yet previous troubleshooting records.
+
+2) step-by-step diagnose.
