@@ -30,7 +30,7 @@ The Environmental Program Chemist is responsible for providing subject matter ex
 - Chemistry support for the branch.  
 - <mark class = "lemon">Assisting</mark> in the maintenance of laboratories and troubleshooting of instrumentation.  
 - Providing technical expertise and support to branch staff as needed.  
-- <u>Interpretation of chemistry and process data</u> and acting <u>proactively</u> to improve chemistry processes in support of branch objectives.  
+- <u>Interpretation of chemistry and process data</u> and acting <mark class = "blue">proactively</mark> to improve chemistry processes in support of branch objectives.  
 - Assisting as needed in any special investigations regarding anomalous monitoring results or upset operational conditions on the site.   
 - Assisting in identifying, documenting, and evaluating the significance of operations, activities, and projects at the CRL site and other sites as necessary.  
 - Performing <u>trend evaluations</u>, statistical evaluations of monitoring results.  
