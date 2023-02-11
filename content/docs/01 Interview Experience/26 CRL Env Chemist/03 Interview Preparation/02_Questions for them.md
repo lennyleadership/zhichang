@@ -12,6 +12,10 @@ series: null
 toc: true
 ---
 
+Is it a new position?  Was there a chemist before?  
+
+What is the branch mission?  
+
 My understanding of the rule:  
 
 1) proactively improve chemistry processes  
@@ -34,7 +38,7 @@ The rule won't:
 
 3) be delegated  
 
-Was there a chemist before?  
+
 
 What types of instrument are there?  
 
