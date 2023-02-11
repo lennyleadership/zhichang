@@ -3,7 +3,7 @@ weight: 3
 title: Commitment to Quality
 authors: Lenny Lin
 categories: Interview
-tags: [Commitment to Quality, Attention to detail, Mistakes, Integrity, AECL Case]
+tags: [Commitment to Quality, Attention to detail, Mistakes, Integrity, AECL Situation]
 date: " "
 description: 
 draft: false

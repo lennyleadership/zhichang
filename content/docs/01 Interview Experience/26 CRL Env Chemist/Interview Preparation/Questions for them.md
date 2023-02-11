@@ -13,7 +13,7 @@ toc: true
 ---
 
 
-how is the unionized environment in the team?
+What does the unionized environment look like in the team?
 
 what does the regular day look alike?
 

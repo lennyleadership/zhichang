@@ -3,7 +3,7 @@ weight: 6
 title: Not Meet Objective
 authors: Lenny Lin
 categories: Interview
-tags: [Integrity, Failure, Results Oriented, AECL Case]
+tags: [Integrity, Failure, Results Oriented, AECL Situation]
 date: " "
 description: 
 draft: false

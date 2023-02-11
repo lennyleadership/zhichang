@@ -4,7 +4,7 @@ description = ""
 tags = [
     "Relationship Management",
     "Conflict Resolution",
-    "AECL Case",
+    "AECL Situation",
     "NAIT"
 ]
 date = "2022-06-15"
