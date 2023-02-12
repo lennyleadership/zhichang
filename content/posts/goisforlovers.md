@@ -6,11 +6,11 @@ tags = [
     "golang",
     "templates",
     "themes",
-    "development",
+    "Program Development",
 ]
 date = "2014-04-02"
 categories = [
-    "Development",
+    "Program Development",
     "golang",
 ]
 menu = "main"
