@@ -50,7 +50,7 @@ Aside
 ================================================================================
 
 
-![](nuclear.jpg)
+![](nuclear.jpg, style ="width: 50%;")
 
 
 Contact Info {#contact}

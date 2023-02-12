@@ -44,10 +44,6 @@ What types of instrument are there?
 
 What does the unionized environment look like in the team?
 
-what does the regular day look alike for the Chemist?
-
-What do you expect me to do?
-
 How does the Chemist interact with the team?
 
 How does the chemist function in the operation?
