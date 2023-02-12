@@ -27,5 +27,7 @@ The senior technologist handed over the data review to me.
 Q#2: how did you implement change/improvement?
 
 
-<img width ="50%" src = "change_process.jpg">
+<img width ="50%" src = "/change_process.jpg">
+
+![](change_process.jpg)
 
