@@ -2,7 +2,7 @@
 title = "Why Are You The Best Fit For Supervisor?"
 description = ""
 tags = [
-    "Supervision"
+    "Leadership"
 ]
 date = "2022-06-21"
 categories = [

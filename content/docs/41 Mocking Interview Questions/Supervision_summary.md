@@ -2,7 +2,7 @@
 title = "Supervision Summary"
 description = ""
 tags = [
-    "How To Lead A Team",
+    "Leadership",
     "",
 ]
 date = "2022-06-21"

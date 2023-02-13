@@ -2,7 +2,7 @@
 title = "25 Supervisor Interview Q&A"
 description = ""
 tags = [
-    "Supervision",
+    "Leadership",
     "",
     ""
 ]

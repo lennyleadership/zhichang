@@ -2,7 +2,7 @@
 title = "How Did You Lead A Team?"
 description = ""
 tags = [
-    "Supervision"
+    "Leadership"
 ]
 date = "2022-07-03"
 categories = [

@@ -3,7 +3,7 @@ weight: 1
 title: 思凡领导力评价表
 authors:
 categories: null
-tags: [Leadership Evaluation]
+tags: [Leadership]
 description: 
 draft: false
 date: "2022-10-20"

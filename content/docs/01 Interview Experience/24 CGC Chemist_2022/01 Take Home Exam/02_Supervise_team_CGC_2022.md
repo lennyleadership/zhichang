@@ -3,7 +3,7 @@ weight: 2
 title: Supervision
 authors: Lenny Lin
 categories: Interview
-tags: [Supervision]
+tags: [Leadership]
 date: " "
 description: 
 draft: false
