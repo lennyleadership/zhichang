@@ -28,7 +28,7 @@ I could elaborate the result a bit.
 2) I did routine maintenance, such as clean up the ion source at the mass spectrometer.
 3) retrieved EMV value from autotune reports, and plotted monitoring trend.
 
-[AECL situation]
+[AECL situation]  
 Situation #1: learn GC/MS  
 Result: developed the method and validated it, and passed CALA PT
 

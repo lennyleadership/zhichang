@@ -3,7 +3,7 @@ title = "Lay Off Coworkers Before Due Date"
 description = ""
 tags = [
     "CGC",
-    "Team work",
+    "Teamwork",
 ]
 date = "2022-05-31"
 categories = [
