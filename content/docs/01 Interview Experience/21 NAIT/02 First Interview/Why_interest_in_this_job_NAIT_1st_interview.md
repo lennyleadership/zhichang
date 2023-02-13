@@ -3,7 +3,7 @@ weight: 2
 title: Why Are You Interested in Applying for This Job
 authors: Lenny Lin
 categories: Interview
-tags: ["Tell me about yourself", "first interview"]
+tags: ["Tell me about yourself"]
 date: " "
 description: 
 draft: false
