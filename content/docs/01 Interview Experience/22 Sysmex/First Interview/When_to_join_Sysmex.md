@@ -2,8 +2,7 @@
 title = "How Soon Would You Be Able To Start?"
 description = ""
 tags = [
-    "Sysmex",
-    "First Interview",
+
 ]
 date = "2022-05-30"
 categories = [

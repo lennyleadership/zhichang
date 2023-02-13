@@ -2,8 +2,6 @@
 title = "Reason to Change Career"
 description = ""
 tags = [
-    "Sysmex",
-    "First Interview",
 ]
 date = "2022-05-30"
 categories = [

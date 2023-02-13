@@ -2,7 +2,6 @@
 title = "Elicit comments or feedback"
 description = ""
 tags = [
-    "AGR",
     "Communication",
     "AECL Situation"
 ]

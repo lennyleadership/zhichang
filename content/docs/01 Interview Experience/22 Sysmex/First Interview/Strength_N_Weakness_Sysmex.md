@@ -4,9 +4,7 @@ title: Strength and Weakness
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "Non-technical Questions",
     "Strength and Weakness",
-    "First Interview"
 ]
 date: " "
 description: 

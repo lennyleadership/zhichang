@@ -4,7 +4,6 @@ title: Stressful Aspect of the Role
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "First Interview",
     "Stress"
 ]
 date: " "

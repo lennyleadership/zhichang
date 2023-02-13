@@ -4,7 +4,6 @@ title: Handle Frustrated Clients
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "First Interview",
     "Customer Service"
 ]
 date: " "

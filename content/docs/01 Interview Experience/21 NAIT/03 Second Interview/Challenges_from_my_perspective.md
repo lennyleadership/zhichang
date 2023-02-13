@@ -2,8 +2,7 @@
 title = "What are Challenges or Adjustments for Us"
 description = ""
 tags = [
-    "NAIT",
-    "Follow-up Interview",
+    "Challenges"
 ]
 date = "2022-06-01"
 categories = [

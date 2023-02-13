@@ -5,7 +5,6 @@ authors: Lenny Lin
 categories: Interview
 tags: [
     "Tell me about yourself",
-    "First Interview"
 ]
 date: " "
 description: 

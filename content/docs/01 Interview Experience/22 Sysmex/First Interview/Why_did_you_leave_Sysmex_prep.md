@@ -2,12 +2,11 @@
 title = "Why Did You Leave?"
 description = ""
 tags = [
-    "Sysmex",
-    "Interview Preparation",
+
 ]
 date = "2022-05-31"
 categories = [
-    "Interview",
+    "Interview Preparation",
 ]
 menu = "main"
 +++

@@ -4,7 +4,7 @@ title: Weakness
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "First Interview",
+    "Weakness",
 ]
 date: " "
 description: 

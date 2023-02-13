@@ -4,7 +4,7 @@ title: What Is Your Targeted Compensation
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "First Interview",
+
 ]
 date: " "
 description: 

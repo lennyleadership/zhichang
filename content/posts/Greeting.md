@@ -3,7 +3,6 @@ title = "Greeting"
 description = ""
 tags = [
     "ice breaking",
-    "SysMex",
 ]
 date = "2022-05-31"
 categories = [
