@@ -3,7 +3,7 @@ weight: 3
 title: Elicit Comments or Feedback
 authors: Lenny Lin
 categories: 
-tags: [Communication, AECL Situation]
+tags: [Communication, AECL Situations]
 description: 
 draft: false
 date: "2022-10-06"

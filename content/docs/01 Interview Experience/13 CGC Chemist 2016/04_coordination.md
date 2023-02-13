@@ -3,7 +3,7 @@ weight: 4
 title: Coordination
 authors: Lenny Lin
 categories: Interview
-tags: [Coordination, AECL Situation]
+tags: [Coordination, AECL Situations]
 description: 
 draft: false
 date: "2016-07-15"

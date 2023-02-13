@@ -3,7 +3,7 @@ weight: 2
 title: "Offer Ideas/Suggestions"
 authors: Lenny Lin
 categories: [Interview]
-tags: [Initiative, AECL Situation]
+tags: [Initiative, AECL Situations]
 description: 
 draft: false
 date: "2022-10-06"

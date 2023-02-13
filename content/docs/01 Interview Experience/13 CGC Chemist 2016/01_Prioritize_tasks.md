@@ -3,7 +3,7 @@ weight: 1
 title: Prioritize Work Tasks
 authors: Lenny Lin
 categories: Interview
-tags: [Multiple Tasks, AECL Situation]
+tags: [Multiple Tasks, AECL Situations]
 description: 
 draft: false
 date: "2016-07-15"

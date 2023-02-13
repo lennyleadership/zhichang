@@ -3,7 +3,7 @@ weight: 4
 title: Be Flexible To Solve A Problem
 authors: Lenny Lin
 categories: Interview
-tags: [Adaptability, AECL Situation]
+tags: [Adaptability, AECL Situations]
 date: " "
 description: 
 draft: false

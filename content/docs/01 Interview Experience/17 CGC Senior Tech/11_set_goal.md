@@ -3,7 +3,7 @@ weight: 11
 title: Set Goal and Reach It
 authors: Lenny Lin
 categories: Interview
-tags: [Results Oriented, AECL Situation]
+tags: [Results Oriented, AECL Situations]
 date: " "
 description: 
 draft: false

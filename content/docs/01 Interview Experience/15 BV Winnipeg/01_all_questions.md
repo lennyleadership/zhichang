@@ -3,7 +3,7 @@ weight:
 title: All Questions
 authors: Lenny Lin
 categories: [Interview]
-tags: [Quality, Communication, AECL Situation]
+tags: [Quality, Communication, AECL Situations]
 description: 
 draft: false
 date: " "

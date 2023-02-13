@@ -3,7 +3,7 @@ weight: 3
 title: Change You Behavior / Approach
 authors: Lenny Lin
 categories: Interview
-tags: [Adaptability, LifeLabs Situation]
+tags: [Adaptability, LifeLabs Situations]
 date: " "
 description: 
 draft: false

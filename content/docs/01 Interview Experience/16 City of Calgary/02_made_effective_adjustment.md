@@ -3,7 +3,7 @@ weight: 2
 title: Made Effective Adjustment
 authors: Lenny Lin
 categories: Interview
-tags: [AECL Situation]
+tags: [AECL Situations]
 date: "2022-08-04"
 description: 
 draft: false

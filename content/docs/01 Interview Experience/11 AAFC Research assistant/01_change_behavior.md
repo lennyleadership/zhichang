@@ -3,7 +3,7 @@ weight: 1
 title: Change Your Behaviour or Approach
 authors: Lenny Lin
 categories: [Interview]
-tags: [Adaptability, LifeLabs Situation, AECL Situation]
+tags: [Adaptability, LifeLabs Situations, AECL Situations]
 description: 
 draft: false
 date: "2022-10-06"

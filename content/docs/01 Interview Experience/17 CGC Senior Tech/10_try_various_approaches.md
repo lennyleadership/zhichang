@@ -3,7 +3,7 @@ weight: 10
 title: Try Various Approaches
 authors: Lenny Lin
 categories: Interview
-tags: [Initiative, LifeLabs Situation]
+tags: [Initiative, LifeLabs Situations]
 date: " "
 description: 
 draft: false

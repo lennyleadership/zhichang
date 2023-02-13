@@ -3,7 +3,7 @@ weight: 2
 title: Cope With Errors
 authors: Lenny Lin
 categories: 
-tags: [AECL Situation]
+tags: [AECL Situations]
 date: " "
 description: 
 draft: false

@@ -3,7 +3,7 @@ weight: 5
 title: Environmental Concerns Encountered in Lab
 authors: Lenny Lin
 categories: [Interview]
-tags: [Health & Safety, AECL Situation]
+tags: [Health & Safety, AECL Situations]
 description: 
 draft: false
 date: "2022-10-06"

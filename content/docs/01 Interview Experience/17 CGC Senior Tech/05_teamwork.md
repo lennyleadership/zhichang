@@ -3,7 +3,7 @@ weight: 5
 title: Involve Other Team Members
 authors: Lenny Lin
 categories: Interview
-tags: [Teamwork, AECL Situation, LifeLabs Situation]
+tags: [Teamwork, AECL Situations, LifeLabs Situations]
 date: " "
 description: 
 draft: false

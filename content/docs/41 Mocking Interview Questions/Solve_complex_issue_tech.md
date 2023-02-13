@@ -2,7 +2,7 @@
 title = "Solve Complex Issue"
 description = ""
 tags = [
-    "LifeLabs Situation",
+    "LifeLabs Situations",
     "",
     ""
 ]

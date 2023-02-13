@@ -3,7 +3,7 @@ weight: 4
 title: Questions to be Prepared
 authors: Lenny Lin
 categories: [Interview Preparation]
-tags: [AECL Situation]
+tags: [AECL Situations]
 description: 
 draft: false
 date: "2023-02-11"
@@ -13,21 +13,33 @@ toc: true
 ---
 
 
-Q#1: how do you work with technologists?
+## Q#1: how do you work with technologists?
 
-situation: [AECL] difficult situation
+situation: [AECL] difficult situation / deal with conflict
 
-Action: 1) developed a macro to process data and calculate uncertainty  
+Action:  
+1) developed a macro to process data and calculate uncertainty  
 2) monitored instrument intensity  
-3) self learnt knowledge
+3) self learnt knowledge  
 
-Result: Built trust in relationship  
-The senior technologist handed over the data review to me. 
+Results:   
+1) Built trust in relationship,   
+The senior technologist handed over the data review to me.  
+2) Built credibility,  
+3) Saved them from tedious works
 
-Q#2: how did you implement change/improvement?
+
+## Q#2: how did you implement change/improvement?
+
+1) Be the change.  I implemented many changes for good.  
+2) Build relationship.  
+3) Meet co-workers' needs.  
+4) Be persistent.  
+5) Partnership with advocates  
+6) Walk through the process.
 
 
-<img width ="50%" src = "/change_process.jpg">
+<img width ="50%" src = "change_process.jpg">
 
-![](change_process.jpg)
+
 

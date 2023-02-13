@@ -3,7 +3,7 @@ weight: 90
 title: Safety Measurements
 authors: Lenny Lin
 categories: [Interview]
-tags: [Health & Safety, AECL Situation]
+tags: [Health & Safety, AECL Situations]
 date: " "
 description: 
 draft: false

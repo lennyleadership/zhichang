@@ -3,7 +3,7 @@ weight: 8
 title: Select an Option
 authors: Lenny Lin
 categories: Interview
-tags: [Analytical Thinking, LifeLabs Situation]
+tags: [Analytical Thinking, LifeLabs Situations]
 date: " "
 description: 
 draft: false

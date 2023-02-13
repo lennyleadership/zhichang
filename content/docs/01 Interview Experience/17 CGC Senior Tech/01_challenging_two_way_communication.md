@@ -3,7 +3,7 @@ weight: 1
 title: Establishing Two-way Communication
 authors: Lenny Lin
 categories: Interview
-tags: [Communication, AECL Situation]
+tags: [Communication, AECL Situations]
 date: " "
 description: 
 draft: false

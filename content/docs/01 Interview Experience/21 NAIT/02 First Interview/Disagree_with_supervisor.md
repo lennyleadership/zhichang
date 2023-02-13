@@ -4,7 +4,7 @@ description = ""
 tags = [
     "Relationship Management",
     "Conflict Resolution",
-    "AECL Situation",
+    "AECL Situations",
 ]
 date = "2022-06-15"
 categories = [

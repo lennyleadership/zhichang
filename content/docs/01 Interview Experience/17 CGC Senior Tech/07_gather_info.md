@@ -3,7 +3,7 @@ weight: 7
 title: Gather Information
 authors: Lenny Lin
 categories: Interview
-tags: [Analytical thinking, LifeLabs Situation]
+tags: [Analytical thinking, LifeLabs Situations]
 date: " "
 description: 
 draft: false

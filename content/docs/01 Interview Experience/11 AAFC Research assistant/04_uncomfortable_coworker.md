@@ -3,7 +3,7 @@ weight: 4
 title: Feel Uncomfortable With a Co-worker
 authors: Lenny Lin
 categories: [Interview]
-tags: [Teamwork, AECL Situation]
+tags: [Teamwork, AECL Situations]
 description: 
 draft: false
 date: "2022-10-06"

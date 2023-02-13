@@ -3,7 +3,7 @@ weight: 3
 title: Contribute to the Team Effort
 authors: Lenny Lin
 categories: Interview
-tags: [Teamwork, AECL Situation]
+tags: [Teamwork, AECL Situations]
 description: 
 draft: false
 date: "2016-07-15"

@@ -3,7 +3,7 @@ weight: 2
 title:  Elicit Comments
 authors: Lenny Lin
 categories: Interview
-tags: [Communication, AECL Situation]
+tags: [Communication, AECL Situations]
 description: 
 draft: false
 date: "2022-07-27"

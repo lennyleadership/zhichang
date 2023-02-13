@@ -2,7 +2,7 @@
 title = "Deal With Difficult People"
 description = ""
 tags = [
-    "AECL Situation",
+    "AECL Situations",
     "Challenges",
     "Difficult People"
 ]

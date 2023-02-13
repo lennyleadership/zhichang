@@ -3,7 +3,7 @@ title = "Challenging Two-way Communication"
 description = ""
 tags = [
     "Communication",
-    "AECL Situation"
+    "AECL Situations"
 ]
 date = "2022-05-30"
 categories = [
