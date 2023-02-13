@@ -12,11 +12,11 @@ series: null
 toc: true
 ---
 
-Is it a new position?  Was there a chemist before?  
+* Is it a new position?  Was there a chemist before?  
 
-What is the branch mission?  
+* What is the branch mission?  
 
-My understanding of the rule:  
+* Confirm my understanding of the rule:  
 
 1) proactively improve chemistry processes  
 
@@ -28,8 +28,6 @@ My understanding of the rule:
 
 5) Drive improvement in sampling and analytical methodologies
 
-
-
 The rule won't:
 
 1) review report
@@ -40,11 +38,15 @@ The rule won't:
 
 
 
-What types of instrument are there?  
+* What types of instrument are there?  
 
-What does the unionized environment look like in the team?
+* What does the unionized environment look like in the team?
 
-How does the Chemist interact with the team?
+* How does the Chemist interact with the team?
 
-How does the chemist function in the operation?
+* How does the chemist function in the operation?
+
+* any plan for lab accreditation?
+
+* LIMS and EDMS interface
 

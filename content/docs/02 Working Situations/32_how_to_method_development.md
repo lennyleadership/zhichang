@@ -35,6 +35,9 @@ isomer compounds
 3) cost-effective
 Run time (cut VOC method down to 15 min.)  
 
+4) details level  
+column, 
+
 
 <b><font class = "font_upper">Useful Tools</font></b>  
 Design of experiments because some variables 
