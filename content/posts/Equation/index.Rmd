@@ -3,7 +3,7 @@ title: "Equation"
 author: "Lenny Lin"
 date: 2022-12-01T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["R Markdown"]
 ---
 
 ```{r setup, include=FALSE}

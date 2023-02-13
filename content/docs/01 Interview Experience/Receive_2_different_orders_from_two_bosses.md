@@ -2,7 +2,6 @@
 title = "Received Two Different Orders from Two Bosses"
 description = ""
 tags = [
-    "Monsanto",
     "Communication",
 ]
 date = "2022-05-30"
@@ -11,6 +10,9 @@ categories = [
 ]
 menu = "main"
 +++
+
+
+Company: Monsanto
 
 clarify on one-on-one, call all together to clarify if needed.  
 
