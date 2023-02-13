@@ -2,8 +2,8 @@
 weight: 31
 title: How to Assure Quality
 authors: Lenny Lin
-categories: 
-tags: null
+categories: [Summary]
+tags: [Quality]
 date: " "
 description: 
 draft: false
