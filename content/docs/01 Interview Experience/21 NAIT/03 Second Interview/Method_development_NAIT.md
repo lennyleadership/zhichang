@@ -3,7 +3,7 @@ weight: 2
 title: Method Development
 authors: Lenny Lin
 categories: Interview
-tags: ["Method Development","follow-up interview"]
+tags: ["Method Development"]
 description: 
 draft: false
 date: "2022-07-27"

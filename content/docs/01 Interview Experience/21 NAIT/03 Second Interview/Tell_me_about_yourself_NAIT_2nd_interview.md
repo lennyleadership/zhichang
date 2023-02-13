@@ -3,7 +3,7 @@ weight: 2
 title: Why Are You Interested in Applying for This Job
 authors: Lenny Lin
 categories: Interview
-tags: ["ice breaking", "Why Interested", "Why should we hire you", "follow-up interview"]
+tags: ["Ice Breaking"]
 date: " "
 description: 
 draft: false

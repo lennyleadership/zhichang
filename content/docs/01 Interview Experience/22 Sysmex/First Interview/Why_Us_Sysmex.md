@@ -4,8 +4,7 @@ title: Why Us?
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "First Interview",
-    "Why Us?"
+    "Ice Breaking"
 ]
 date: " "
 description: 

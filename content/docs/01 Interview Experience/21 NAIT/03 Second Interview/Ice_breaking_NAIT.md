@@ -3,8 +3,7 @@ weight: 2
 title: Ice Breaking
 authors: Lenny Lin
 categories: Interview
-tags: ["ice breaking","follow-up interview"
-]
+tags: ["ice breaking"]
 date: " "
 description: 
 draft: false

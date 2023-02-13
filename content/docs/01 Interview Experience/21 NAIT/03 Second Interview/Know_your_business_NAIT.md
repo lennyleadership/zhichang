@@ -3,7 +3,7 @@ weight: 2
 title: What do you know about Our Business?
 authors: Lenny Lin
 categories: Interview
-tags: ["Non-technical questions","follow-up interview"]
+tags: ["Ice Breaking"]
 date: " "
 description: 
 draft: false
