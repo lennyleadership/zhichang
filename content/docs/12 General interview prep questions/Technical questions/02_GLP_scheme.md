@@ -2,7 +2,7 @@
 weight: 2
 title: "Good Lab Practices"
 authors: Lenny Lin
-categories: [Technical Questions]
+categories: []
 tags: []
 description: 
 draft: false

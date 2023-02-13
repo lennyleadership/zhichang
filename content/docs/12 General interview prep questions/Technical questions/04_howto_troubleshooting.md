@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: Experience in Troubleshooting
-categories: [Technical Questions]
+categories: []
 tag: [Troubleshooting]
 description: 
 draft: false

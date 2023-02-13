@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: Experience in Method Development and Validation
-categories: [Technical Questions]
+categories: []
 tag: [Method Development and Validation]
 description: 
 draft: false
