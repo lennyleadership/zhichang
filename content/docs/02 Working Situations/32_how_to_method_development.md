@@ -12,7 +12,7 @@ series: null
 toc: true
 ---
 
-There are three scenarios of method development:
+<b><font class = "font_upper">There are three scenarios of method development</font></b>:
 
 1) There are reference methods.  
 The reference methods could  be ASTM, AOAC standard methods, and EPA methods.  I had this scenario at AECL.  
@@ -21,3 +21,20 @@ The reference methods could  be ASTM, AOAC standard methods, and EPA methods.  I
 I had this scenario at LifeLabs.
 
 3) There are no reference methods, and no paper on same analysis.  So we need to start from somewhere and figure it out.
+
+
+<b><font class = "font_upper">There are considerations for method development</font></b>:
+1) Regulatory requirement of reporting detection limit  
+the method detection limit must be lower than that,   
+
+2) Interference  
+isobaric compounds,   
+matrix effects (useful for designing sample preparation)  
+isomer compounds
+
+3) cost-effective
+Run time (cut VOC method down to 15 min.)  
+
+
+<b><font class = "font_upper">Useful Tools</font></b>  
+Design of experiments because some variables 
