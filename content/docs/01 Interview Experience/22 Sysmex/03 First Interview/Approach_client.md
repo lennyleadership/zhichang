@@ -4,7 +4,7 @@ title: Approach to Client
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "Customer/Client Focus",
+    "Customer Service",
     "Relationship Management"
 ]
 date: " "

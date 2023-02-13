@@ -3,7 +3,7 @@ weight: 1
 title: Chemical Hydrolysis Approach
 authors: Lenny Lin
 categories: 
-tags: [Take risks, Commit to success, Analytical Thinking, Think through, Teamwork, Decision-making, Working under pressure]
+tags: [Take risks, Commit to success, Analytical Thinking,  Teamwork, Decision-making, Working under pressure]
 date: " "
 description: 
 draft: false

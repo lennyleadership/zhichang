@@ -5,7 +5,7 @@ tags = [
     "Relationship Management",
     "Collaboration",
     "Interpersonal Skills",
-    "Customer/Client Focus",
+    "Customer Service",
     "Teamwork"
 ]
 date = "2022-06-01"

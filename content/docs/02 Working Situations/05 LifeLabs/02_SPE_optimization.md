@@ -3,7 +3,7 @@ weight: 2
 title: SPE Optimization - General Description
 authors: Lenny Lin
 categories: 
-tags: [Teamwork, Commitment, Never Settle Down, Resilience, Overcome Obstacles, Analytical Thinking, Think Through, Experimental Planning]
+tags: [Teamwork, Commitment, Never Settle Down, Resilience, Overcome Obstacles, Analytical Thinking,  Experimental Planning]
 date: "2022-08-02"
 description: 
 draft: false

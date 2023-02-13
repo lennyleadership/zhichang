@@ -3,7 +3,7 @@ weight: 4
 title: Planning, organizing, and coordinating
 authors: Lenny Lin
 categories: Interview
-tags: [Supervision, "Planning, organizing, and coordinating", AEL Case]
+tags: [Supervision, "Planning, organizing, and coordinating", AEL Situations]
 date: " "
 description: 
 draft: false
