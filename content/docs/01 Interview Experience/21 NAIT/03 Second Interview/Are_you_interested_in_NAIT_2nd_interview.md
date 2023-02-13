@@ -3,7 +3,7 @@ weight: 2
 title: Are You Interested in Running ICP-OES?
 authors: Lenny Lin
 categories: Interview
-tags: ["Ice Breaking""]
+tags: ["Ice Breaking"]
 date: " "
 description: 
 draft: false
