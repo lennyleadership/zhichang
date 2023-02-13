@@ -4,7 +4,6 @@ title: Why Are You the Best Fit?
 authors: Lenny Lin
 categories: Interview
 tags: [
-    "Tips",
     "Tell me about yourself"
 ]
 date: " "

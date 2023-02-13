@@ -3,7 +3,7 @@ weight: 1
 title: Applying Learning
 authors: Lenny Lin
 categories: [Interview]
-tags: [Applying Learning, LifeLabs Situation, AECL Situation]
+tags: [Applying Learning, LifeLabs Situation, AECL Situation, VBA]
 description: 
 draft: false
 date: "2023-02-12"
