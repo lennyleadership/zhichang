@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: Fourth Interview
+title: Third Interview
 categories: null
 description: 
 draft: false
@@ -8,16 +8,16 @@ lastmod: "2022-08-01"
 bookCollapseSection: true
 ---
 
-# Fourth Interview
+# Third Interview
 
 {{< columns >}} <!-- begin columns block -->
 Date:
 
 Interview panel:
 <---> <!-- magic separator, between columns -->
-2022-03-23
+2022-03-14
 
-Piero Amicone, Am
+Arash Boloori
 
 {{< /columns >}}
 
