@@ -34,8 +34,9 @@ My job at AECL was done in 2016.  I went to self-learn R programming language, a
 I have been working in the laboratory setting for 15 years.  I developed variety of skills, including wet chemistry analysis, data analysis, quality control and quality assurance, and research and development.  I can bring my skills and experience on board at this position.
 
 
-
 # Summary
+Visay, I think you are at the stage of setting up team goals, and forming team.  I have variety of skills and lots of potential to help you achieve the team goals in aspect of improving efficiency and effectiveness of lab operation, meeting customer requirements, 
+
 With my skills and experience in field sampling, sample preparation, instrumental analysis, data processing, database, report review, and quality management, it seems to me that I can offer skills and experience that the team is looking for. I can build trust in relationship, build credibility, adapt/ fit in the new team real quickly.
 
 

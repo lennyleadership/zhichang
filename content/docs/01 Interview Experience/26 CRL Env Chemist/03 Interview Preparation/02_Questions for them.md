@@ -12,6 +12,10 @@ series: null
 toc: true
 ---
 
+* What is your short-term goal and long-term goal?
+lab accreditation? bring analysis back home from Maxxam? cost-effective?
+
+
 * Is it a new position?  Was there a chemist before?  
 
 * What is the branch mission?  

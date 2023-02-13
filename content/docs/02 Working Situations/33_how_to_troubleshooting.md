@@ -20,7 +20,7 @@ It is the high-level summary.
 
 1) The best performance of instrument as a reference  
 
-2) Monitoring:
+2) Monitoring:  
 &emsp;2.1) instrument parameters
 &emsp;&emsp;such as EMV of GC/MS
 
@@ -39,7 +39,7 @@ The problematic location could be easily identified in some cases based on previ
 
 In other cases, the problematic location are not easily identified, then we could use fish-bone diagram, and we could leverage many resources, such as brain storming with co-workers, vendor technical support,  user group forum.
 
-case #1: layout current batch against previous batches
+case #1: layout current batch against previous batches when we failed CALA PT 
 
 
 <b><font class = "font_upper">When solving problem</font></b>: 
