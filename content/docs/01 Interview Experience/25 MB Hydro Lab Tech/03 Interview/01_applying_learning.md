@@ -33,6 +33,6 @@ Situation #1: learn GC/MS
 Result: developed the method and validated it, and passed CALA PT
 
 Situation #2: learn VBA (specific rounding rules for data and uncertainty)  
-Result: Kill three birds with one stone  
+Result: **Kill three birds with one stone**  
 1) streamlined data processing, 
 2) by-product: built trust in relationship, built credibility in team, did multiply tasks. 

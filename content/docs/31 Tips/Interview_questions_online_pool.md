@@ -2,12 +2,12 @@
 title = "Online Interview Questions"
 description = ""
 tags = [
-    "Online interview questions",
+    "",
 
 ]
 date = "2022-07-18"
 categories = [
-    "Interview Tips",
+    "Mocking Interview Questions",
 ]
 menu = "main"
 +++

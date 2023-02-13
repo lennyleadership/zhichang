@@ -3,7 +3,7 @@ weight: 03
 title: Two-way communication at the workplace
 authors: Jelena Kalaba at Pumble, edited by Lenny Lin
 categories: null
-tags: [Two-way communication]
+tags: [Communication]
 date: "2022-07-08"
 lastmod: "2022-08-04"
 draft: false

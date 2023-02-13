@@ -34,7 +34,7 @@ A candidate response that demonstrates the ability to communicate orally may inc
 [Office of the Superintendent of Bankruptcy Canada]
     </p></td>
     <td><p>Case #01 [AECL] in 2015, when I was working with AECL as a Chemist.  There were problems with the laboratory information management system (LIMS).  We did not get the LIMS updated that year. I talked with my manager about reasons. Firstly, it slowed down data processing. Secondly, we paid annual service fee without getting benefit.  Meanwhile, I leveraged the retired manager’s power to persuade the manager.  I suggested having my manager seeking support from the IT manager at the corporate level.  Finally, the LIMS issue became a top priority for the manager, and we got the LIMS updated.  
-[Two-way communication] Case #02 [LifeLabs] identify aqueous residual issue - technologist with scientist. 
+[Two way communication] Case #02 [LifeLabs] identify aqueous residual issue - technologist with scientist. 
     </p></td>
   </tr>
 </tbody>

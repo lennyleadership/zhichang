@@ -3,7 +3,7 @@ weight: 2
 title: "Two-Way Communication: 4 Tips for a More Engaged Workplace"
 authors: David Grossman, edited by Lenny Lin
 categories: null
-tags: [Two-way Communication, Employee Engagement]
+tags: [Communication, Employee Engagement]
 date: "2019-04-29"
 lastmod: "2022-08-04"
 draft: false
