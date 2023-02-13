@@ -38,7 +38,7 @@ The rule won't:
 
 2) be accountable for quality plan  
 
-3) be delegated  
+3) supervise / be delegated  
 
 
 

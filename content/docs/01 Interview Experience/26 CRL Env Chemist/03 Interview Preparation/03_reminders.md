@@ -30,5 +30,9 @@ Kaylin Lambert - example: followed up her concerning high mercury in blank, and 
 
 3) achievement with dealing with conflict in order to gain trust, build credibility, influence co-workers  
 
+
 4) Data dashboard, data visualization, insight of data
+
+
+5) I made positive marks on coworker's career
 
