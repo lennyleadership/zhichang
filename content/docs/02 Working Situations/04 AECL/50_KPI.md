@@ -2,7 +2,7 @@
 weight: 2
 title: Performance KPI
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags:
 date: " "
 description: 

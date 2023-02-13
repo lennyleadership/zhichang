@@ -2,7 +2,7 @@
 weight: 14
 title: Present A Proposal
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Communication, Change Management, Persuasion, Balance Interfacing]
 description: 
 draft: false

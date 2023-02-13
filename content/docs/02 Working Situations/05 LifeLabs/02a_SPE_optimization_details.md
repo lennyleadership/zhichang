@@ -2,7 +2,7 @@
 weight: 22
 title: Steroid Assay
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: 
 description: 
 draft: true

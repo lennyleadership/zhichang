@@ -2,7 +2,7 @@
 weight: 2
 title: Instrument Model
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Instrument]
 date: " "
 description: 

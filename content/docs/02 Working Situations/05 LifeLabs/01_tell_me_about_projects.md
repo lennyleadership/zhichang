@@ -2,8 +2,8 @@
 weight: 1
 title: Tell Us About Your Method Development Projects
 authors: Lenny Lin
-categories: Working Situations
-tags: 
+categories: 
+tags: [Method Development]
 description: 
 draft: false
 date: "2022-09-27"

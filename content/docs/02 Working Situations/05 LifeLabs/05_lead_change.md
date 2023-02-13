@@ -2,7 +2,7 @@
 weight: 5
 title: How to Lead the Change
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: 
 description: 
 draft: false

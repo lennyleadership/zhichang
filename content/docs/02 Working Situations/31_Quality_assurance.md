@@ -2,7 +2,7 @@
 weight: 31
 title: How to Assure Quality
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: null
 date: " "
 description: 

@@ -2,7 +2,7 @@
 weight: 14
 title: Propose a Suggestion
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Communication]
 date: " "
 description: 

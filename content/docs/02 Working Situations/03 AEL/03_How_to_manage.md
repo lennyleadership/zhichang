@@ -2,7 +2,7 @@
 weight: 3
 title: How did I Manage the Lab?
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: null
 description: 
 draft: false

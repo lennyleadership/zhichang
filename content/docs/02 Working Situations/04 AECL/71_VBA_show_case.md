@@ -2,7 +2,7 @@
 weight: 31
 title: VBA projects
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [VBA, "Shiny Points", "Continuous Improvement"]
 description: 
 draft: false

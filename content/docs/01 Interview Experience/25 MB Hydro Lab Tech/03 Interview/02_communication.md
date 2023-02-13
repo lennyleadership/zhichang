@@ -14,5 +14,5 @@ toc: true
 
 Q: Describe a situation when you had a miscommunication with someone.  What did you do to try to solve the problem?
 
-A:
+A: 
 

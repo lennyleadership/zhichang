@@ -2,8 +2,7 @@
 title = "Stress Management"
 description = ""
 tags = [
-    "Winnipeg Water Service",
-    "",
+    "Stress",
 ]
 date = "2022-06-21"
 categories = [

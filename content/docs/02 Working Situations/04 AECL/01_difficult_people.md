@@ -2,7 +2,7 @@
 weight: 1
 title: Resolve Difficult Employee Situations
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Difficult People, Conflict Resolution]
 date: "2022-08-02"
 description: 

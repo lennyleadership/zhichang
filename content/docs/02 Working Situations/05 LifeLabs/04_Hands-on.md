@@ -2,7 +2,7 @@
 weight: 4
 title: Hands-on Experience
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Troubleshooting, Maintenance]
 date: " "
 description: 

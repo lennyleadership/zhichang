@@ -2,7 +2,7 @@
 weight: 16
 title: Persuade Coworkers
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Persuasion]
 date: "2022-08-07"
 description: 

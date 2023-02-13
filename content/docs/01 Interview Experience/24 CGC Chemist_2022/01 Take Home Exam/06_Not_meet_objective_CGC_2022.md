@@ -35,7 +35,7 @@ Contact: KF
 
 ---
 
-Refer to <a href = "https://zhichang.netlify.app/docs/02-working-situations/04-aecl/15_lims/" target="_blank" rel="noopener noreferrer">[Working Situations/04 AECL/15_LIMS]</a>
+Refer to <a href = "https://zhichang.netlify.app/docs/02-working-situations/04-aecl/15_lims/" target="_blank" rel="noopener noreferrer">[/04 AECL/15_LIMS]</a>
 
 
 

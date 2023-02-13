@@ -2,7 +2,7 @@
 weight: 11
 title: Facilitate the team
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags:
 date: " "
 description: 

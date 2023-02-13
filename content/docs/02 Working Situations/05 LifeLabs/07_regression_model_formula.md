@@ -2,7 +2,7 @@
 weight: 7
 title: Regression model formula
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: 
 description: 
 draft: false

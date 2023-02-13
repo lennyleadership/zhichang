@@ -2,7 +2,7 @@
 weight: 9
 title: 
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Cross training]
 date: " "
 description: 

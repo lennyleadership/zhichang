@@ -2,7 +2,7 @@
 weight: 2
 title: Implement Unfavorable Policy
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [unfavorable policy]
 date: "2022-08-02"
 description: 

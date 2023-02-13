@@ -2,7 +2,7 @@
 weight: 8
 title: Instrument Dashboard
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: 
 description: 
 draft: false

@@ -2,7 +2,7 @@
 weight: 2
 title: Reminder list for performance 2012-2013
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags:
 description: 
 draft: true

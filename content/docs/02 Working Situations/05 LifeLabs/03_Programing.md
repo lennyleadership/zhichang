@@ -2,7 +2,7 @@
 weight: 3
 title: Computer Programming
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: 
 date: " "
 description: 

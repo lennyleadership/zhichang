@@ -2,7 +2,7 @@
 weight: 2
 title: Adapt to working with someone despite your differences
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Adaptability]
 date: " "
 description: 

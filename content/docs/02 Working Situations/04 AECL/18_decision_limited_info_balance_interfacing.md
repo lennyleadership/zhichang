@@ -2,7 +2,7 @@
 weight: 18
 title: "Decision Making Based on Limited Information: Balance Interfacing Project"
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags:
 description: 
 draft: false

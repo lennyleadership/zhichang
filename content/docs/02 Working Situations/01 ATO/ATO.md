@@ -2,7 +2,7 @@
 weight: 2
 title: 
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: null
 date: " "
 description: 

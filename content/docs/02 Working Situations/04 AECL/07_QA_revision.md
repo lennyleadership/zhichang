@@ -2,7 +2,7 @@
 weight: 2
 title: Quality Plan Revision
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Multi-tasks, Planning, Coordination, Teamwork]
 description: 
 draft: false

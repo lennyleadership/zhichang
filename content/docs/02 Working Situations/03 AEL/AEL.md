@@ -2,7 +2,7 @@
 weight: 99
 title: 
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: null
 description: 
 draft: false

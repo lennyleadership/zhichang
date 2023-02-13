@@ -2,7 +2,7 @@
 weight: 23
 title: Derivatization Reagent
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: 
 description: 
 draft: false

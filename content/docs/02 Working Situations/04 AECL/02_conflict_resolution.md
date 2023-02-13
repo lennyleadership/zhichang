@@ -2,7 +2,7 @@
 weight: 2
 title: Conflict Resolution
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Difficult People, Conflict Resolution, Sysmex 2nd Interview]
 date: "2022-08-02"
 description: 

@@ -2,7 +2,7 @@
 weight: 13
 title: Build Trust in Relationship
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [AECL Situation]
 date: " "
 description: 

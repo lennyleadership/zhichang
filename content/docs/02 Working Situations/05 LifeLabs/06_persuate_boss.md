@@ -2,7 +2,7 @@
 weight: 14
 title: Persuade Boss About Proposal
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Communication, Change Management, Persuasion, R]
 date: " "
 description: 

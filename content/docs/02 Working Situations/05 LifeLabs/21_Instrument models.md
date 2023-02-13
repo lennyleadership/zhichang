@@ -2,7 +2,7 @@
 weight: 21
 title: "Instrument Models"
 authors: Lenny Lin
-categories: Working Situations
+categories: 
 tags: [Instrument]
 description: 
 draft: false
