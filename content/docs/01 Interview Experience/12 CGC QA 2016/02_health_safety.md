@@ -3,7 +3,7 @@ weight: 2
 title: HPTA Application to GRL
 authors: Lenny Lin
 categories: Interview
-tags: ["Health & Safety"]
+tags: [Health & Safety]
 description: 
 draft: false
 date: "2016-10-09"
