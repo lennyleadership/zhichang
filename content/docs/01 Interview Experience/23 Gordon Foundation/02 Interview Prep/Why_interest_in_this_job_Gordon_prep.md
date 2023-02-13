@@ -2,13 +2,11 @@
 title = "Why Are You Interested in Applying for This Job?"
 description = ""
 tags = [
-    "Tell me about yourself",
-    "Gordon Foundation",
-    "Interview Preparation"
+    "Ice Breaking",
 ]
 date = "2022-05-27"
 categories = [
-    "Interview",
+    "Interview Preparation",
 ]
 menu = "main"
 +++

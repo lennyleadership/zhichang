@@ -2,13 +2,13 @@
 title = "Solve Complex Issue"
 description = ""
 tags = [
-    "LifeLabs",
+    "LifeLabs Situation",
     "",
     ""
 ]
 date = "2022-06-21"
 categories = [
-    "Mocking Interview Questions",
+    "Interview Preparation",
 ]
 menu = "main"
 +++

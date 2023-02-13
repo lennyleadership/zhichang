@@ -2,7 +2,6 @@
 title = "Challenging Two-way Communication"
 description = ""
 tags = [
-    "CGC",
     "Communication",
     "AECL Situation"
 ]
@@ -12,6 +11,8 @@ categories = [
 ]
 menu = "main"
 +++
+
+Company: CGC  
 
 Give us an example of a time when establishing two-way communication with an individual or group was especially challenging.
 

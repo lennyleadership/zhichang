@@ -3,11 +3,10 @@ title = "Tell me about yourself"
 description = ""
 tags = [
     "Tell me about yourself",
-    "Gordon Foundation",
 ]
 date = "2022-05-27"
 categories = [
-    "Mocking Interview Questions",
+    "Interview Preparation",
 ]
 menu = "main"
 +++

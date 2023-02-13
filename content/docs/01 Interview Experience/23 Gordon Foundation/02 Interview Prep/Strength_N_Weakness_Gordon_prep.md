@@ -4,8 +4,6 @@ title: Strength and Weakness
 authors: Lenny Lin
 categories: Interview Preparation
 tags: [
-    "Gordon Foundation",
-    "Non-technical Questions",
     "Strength and Weakness",
 ]
 date: " "

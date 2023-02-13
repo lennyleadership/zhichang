@@ -3,7 +3,7 @@ weight: 1
 title: What do you know about Our Business?
 authors: Lenny Lin
 categories:  Interview Preparation
-tags: ["Non-technical questions", "Gordon Foundation"]
+tags: ["Ice Breaking"]
 date: " "
 description: 
 draft: false

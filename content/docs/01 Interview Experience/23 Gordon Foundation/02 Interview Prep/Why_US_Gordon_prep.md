@@ -3,7 +3,7 @@ weight: 2
 title: Why Us?
 authors: Lenny Lin
 categories: Interview Preparation
-tags: Gordon Foundation
+tags: 
 date: " "
 description: 
 draft: false
