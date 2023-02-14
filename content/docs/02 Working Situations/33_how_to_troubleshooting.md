@@ -23,7 +23,7 @@ It is the high-level summary.
 2) Monitoring:  
 2.1) instrument parameters  
 &emsp;&emsp;such as EMV of GC/MS  
-&emsp;2.2) internal standard 
+2.2) internal standard 
 
 3) Use fish-bone diagram as a tool for isolating / breaking down the system  
 
