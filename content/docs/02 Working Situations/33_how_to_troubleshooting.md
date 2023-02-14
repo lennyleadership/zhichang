@@ -21,9 +21,8 @@ It is the high-level summary.
 1) The best performance of instrument as a reference  
 
 2) Monitoring:  
-&emsp;2.1) instrument parameters
+2.1) instrument parameters  
 &emsp;&emsp;such as EMV of GC/MS
-
 &emsp;2.2) internal standard 
 
 3) Use fish-bone diagram as a tool for isolating / breaking down the system  

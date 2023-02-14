@@ -3,7 +3,7 @@ weight: 2
 title: "Thinking Things Through"
 authors: Lenny Lin
 categories: Interview
-tags: ["Analytical Thinking", "Troubleshooting", "LifeLabs Situations"]
+tags: ["Analytical Thinking", "Troubleshooting", "LifeLabs Situations", "SPE"]
 date: " "
 description: 
 draft: false

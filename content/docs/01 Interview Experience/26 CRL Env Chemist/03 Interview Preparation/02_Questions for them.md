@@ -54,3 +54,4 @@ The rule won't:
 
 * LIMS and EDMS interface
 
+* Has the Waste Characterization Services section developed analytical capabilities yet?  What is the relationship between your lab and their lab?
