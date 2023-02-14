@@ -26,17 +26,19 @@ Kaylin Lambert - example: followed up her concerning high mercury in blank, and 
 
 1) achievement with VBA   
 
-
-2) achievement with quality plan revision   
-
-
-3) achievement with dealing with conflict in order to gain trust, build credibility, influence co-workers  
+2) achievement with the design of experiments  
 
 
-4) Data dashboard, data visualization, insight of data
+3) achievement with quality plan revision   
 
 
-5) I made positive marks on coworker's career
+4) achievement with dealing with conflict in order to gain trust, build credibility, influence co-workers  
+
+
+5) Data dashboard, data visualization, insight of data
+
+
+6) I made positive marks on coworker's career
 
 
 <b><font class = "font_upper">3) Shiny personality</font></b>:  
