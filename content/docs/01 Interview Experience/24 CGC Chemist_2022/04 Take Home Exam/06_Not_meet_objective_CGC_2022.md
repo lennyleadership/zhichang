@@ -3,11 +3,11 @@ weight: 6
 title: Not Meet Objective
 authors: Lenny Lin
 categories: Interview
-tags: [Integrity, Failure, Results Oriented, AECL Situations]
-date: " "
+tags: [Integrity, Failure, Results Oriented, AECL Situations, LIMS]
 description: 
 draft: false
-lastmod: "2022-07-27"
+date: "2022-07-27"
+lastmod: "2023-02-13"
 series: null
 toc: true
 ---
@@ -33,9 +33,6 @@ This example demonstrated:
 
 Contact: KF
 
----
-
-Refer to <a href = "https://zhichang.netlify.app/docs/02-working-situations/04-aecl/15_lims/" target="_blank" rel="noopener noreferrer">[/04 AECL/15_LIMS]</a>
 
 
 

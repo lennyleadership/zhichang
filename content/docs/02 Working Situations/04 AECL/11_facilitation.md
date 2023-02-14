@@ -3,10 +3,10 @@ weight: 11
 title: Facilitate the team
 authors: Lenny Lin
 categories: 
-tags:
-date: " "
+tags: []
 description: 
 draft: false
+date: " "
 lastmod: "2022-08-02"
 series: null
 toc: true

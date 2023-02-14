@@ -36,3 +36,7 @@ Kaylin Lambert - example: followed up her concerning high mercury in blank, and 
 
 5) I made positive marks on coworker's career
 
+I do my best to become a peace-maker, and always strives to build win-win relationship.  The compass I follow is well described in a quote, saying "better to light a candle, than curse the darkness."  With that, I offered different approaches to deal with conflicts and work with difficult people. And the outcome can turn out to be fruitful and encouraging sometimes. situation 1, 2, 3.
+
+The Results: built trust in relationship, got things done, generated allys.
+

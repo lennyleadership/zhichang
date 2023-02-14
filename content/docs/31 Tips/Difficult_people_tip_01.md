@@ -2,8 +2,7 @@
 title = "Deal with a Difficult Employee"
 description = ""
 tags = [
-    "Leadership",
-    "Deal With Difficult People"
+    "Difficult People"
 ]
 date = "2022-06-15"
 categories = [
