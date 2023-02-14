@@ -13,7 +13,7 @@ toc: true
 ---
 
 
-<b><font class = "font_upper">1) Connections</font></b>:
+<b><font class = "font_upper">1) Connections</font></b>:  
 Stephen White - Quality plan revision  
 
 Todd Chaput - sampling schedule, questions on 
