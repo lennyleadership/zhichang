@@ -1,8 +1,8 @@
 ---
 weight: 2
-title: 
+title: Continuous Improvement
 authors: Lenny Lin
-categories: 
+categories: [Interview]
 tags: []
 description: 
 draft: false
