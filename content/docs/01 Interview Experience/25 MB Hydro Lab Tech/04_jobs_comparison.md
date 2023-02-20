@@ -22,7 +22,7 @@ toc: true
 <table>
   <caption style="text-align:left", align = "top"><b>Comparison </b></caption>
   <colgroup>
-    <col style="width: 100%" /><col style="width: 20%" /><col style="width: 20%" />
+    <col style="width: 80%" /><col style="width: 20%" /><col style="width: 20%" />
   </colgroup>
   <thead>
   <tr class="header">
@@ -34,7 +34,7 @@ toc: true
   <tbody>
     <tr class="odd">
       <th class = "left"><p>Church:
-      Is there a brethren chapel nearby?
+      <br>&emsp;Is there a brethren chapel nearby?
       </p></th>
       <td><p>
       </p></td>
