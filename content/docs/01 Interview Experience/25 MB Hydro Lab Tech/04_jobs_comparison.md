@@ -49,7 +49,41 @@ toc: true
       </p></td>
     </tr>
     <tr class="odd">
-      <th class = "left"><p>Is it close to Pinawa?
+      <th class = "left"><p> <br>Job_MB</br>:
+      <br>1) Is there a Chemist position?
+      <br>2) 
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>Is it close to home at Pinawa?
       </p></th>
       <td><p>
       </p></td>
@@ -65,6 +99,54 @@ toc: true
       </p></td>
     </tr>    
     <tr class="odd">
+      <th class = "left"><p>Pention plan
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>Weather
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>Healthcare for Caiyu
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>Living cost
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>Commute/Rental
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
       <th class = "left"><p>
       </p></th>
       <td><p>
@@ -74,6 +156,102 @@ toc: true
     </tr>
     <tr class="even">
       <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <th class = "left"><p>
+      </p></th>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <th class = "left"><p>Ivy
       </p></th>
       <td><p>
       </p></td>
