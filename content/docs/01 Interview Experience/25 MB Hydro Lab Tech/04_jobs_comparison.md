@@ -26,12 +26,14 @@ toc: true
   </colgroup>
   <thead>
   <tr class="header">
-    <th><p>Factors</p></th><th><p>Job_MB</p></th><th><p>Job_ON</p></th>
+    <th class = "left"><p>Factors</p></th>
+    <th><p>Job_MB</p></th>
+    <th><p>Job_ON</p></th>
   </tr>
   </thead>
   <tbody>
     <tr class="odd">
-      <th class = "left"><p>There is a brethren chapel nearby
+      <th class = "left"><p>Is there a brethren chapel nearby?
       </p></th>
       <td><p>
       </p></td>
@@ -47,7 +49,7 @@ toc: true
       </p></td>
     </tr>
     <tr class="odd">
-      <th class = "left"><p>
+      <th class = "left"><p>Is it close to Pinawa?
       </p></th>
       <td><p>
       </p></td>
@@ -55,7 +57,7 @@ toc: true
       </p></td>
     </tr>
     <tr class="even">
-      <th class = "left"><p>
+      <th class = "left"><p>Is it convenient to go to China?
       </p></th>
       <td><p>
       </p></td>
