@@ -19,7 +19,7 @@ toc: true
 ---
 
 
-<table style="width:100%; font-size: 80%">
+<table>
   <caption style="text-align:left", align = "top"><b>Comparison </b></caption>
   <colgroup>
     <col style="width: 60%" /><col style="width: 20%" /><col style="width: 20%" />
@@ -31,7 +31,7 @@ toc: true
   </thead>
   <tbody>
     <tr class="odd">
-      <th><p>There is a brethren chapel nearby
+      <th class = "left"><p>There is a brethren chapel nearby
       </p></th>
       <td><p>
       </p></td>
@@ -39,7 +39,7 @@ toc: true
       </p></td>
     </tr>
     <tr class="even">
-      <th><p>Could Daisy quit her job?
+      <th class = "left"><p>Could Daisy quit her job?
       </p></th>
       <td><p>
       </p></td>
@@ -47,112 +47,48 @@ toc: true
       </p></td>
     </tr>
     <tr class="odd">
-      <td><p>
-      </p></td>
+      <th class = "left"><p>
+      </p></th>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="even">
-      <td><p>
-      </p></td>
+      <th class = "left"><p>
+      </p></th>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>    
     <tr class="odd">
-      <td><p>
-      </p></td>
+      <th class = "left"><p>
+      </p></th>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="even">
-      <td><p>
-      </p></td>
+      <th class = "left"><p>
+      </p></th>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="odd">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <td><p>
-      </p></td>
+      <th class = "left"><p>
+      </p></th>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="even">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <td><p>
-      </p></td>
+      <th class = "left"><p>
+      </p></th>
       <td><p>
       </p></td>
       <td><p>
