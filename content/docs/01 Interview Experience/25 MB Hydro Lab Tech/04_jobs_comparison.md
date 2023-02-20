@@ -31,16 +31,16 @@ toc: true
   </thead>
   <tbody>
     <tr class="odd">
-      <td><p>Could Daisy quit her job?
-      </p></td>
+      <th><p>There is a brethren chapel nearby
+      </p></th>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="even">
-      <td><p>
-      </p></td>
+      <th><p>Could Daisy quit her job?
+      </p></th>
       <td><p>
       </p></td>
       <td><p>

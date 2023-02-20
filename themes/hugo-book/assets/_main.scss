@@ -359,6 +359,57 @@ h2 + p::first-letter {
 /* ***** hovertip end*******************************************************************************/
 
 
+
+
+/* table *******************************************************************************************/
+table {
+  font-size: 80%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+
+
+th {
+  background-color: #d9e2f3;
+  vertical-align: middle;
+}
+
+th.left, td.left {
+  text-align: left;
+  padding: 2px;
+
+}
+
+th.center, td.center {
+  padding: 2px;
+  text-align: center; 
+  
+
+}
+td {  /* Table  */
+  font-size: 14px;
+}
+
+td.pink{
+  background-color: #fbe4d5;
+}
+
+td.green{
+  background-color: #e2efd9;
+}
+
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+
+/* end *********************************************************************************************/
+
+
 /* center the image */
 .center {
   display: block;
