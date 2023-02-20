@@ -42,7 +42,8 @@ toc: true
       </p></td>
     </tr>
     <tr class="even">
-      <th class = "left"><p>Could Daisy quit her job?
+      <th class = "left"><p>Daisy:
+      <br>&emsp;Could Daisy quit her job?
       </p></th>
       <td><p>
       </p></td>
@@ -50,9 +51,10 @@ toc: true
       </p></td>
     </tr>
     <tr class="odd">
-      <th class = "left"><p>Job_MB:
-      <br>1) Is there a Chemist position?
-      <br>2) 
+      <th class = "left"><p>Job:
+      <br>&emsp;Job_MB:
+      <br>&emsp;&emsp;1) Is there a Chemist position?
+      <br>&emsp;&emsp;2) 
       </p></th>
       <td><p>
       </p></td>
