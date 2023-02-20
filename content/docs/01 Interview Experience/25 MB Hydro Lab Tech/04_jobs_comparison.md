@@ -33,7 +33,8 @@ toc: true
   </thead>
   <tbody>
     <tr class="odd">
-      <th class = "left"><p>Is there a brethren chapel nearby?
+      <th class = "left"><p>Church:
+      Is there a brethren chapel nearby?
       </p></th>
       <td><p>
       </p></td>
