@@ -22,7 +22,7 @@ toc: true
 <table>
   <caption style="text-align:left", align = "top"><b>Comparison </b></caption>
   <colgroup>
-    <col style="width: 80%" /><col style="width: 20%" /><col style="width: 20%" />
+    <col style="width: 60%" /><col style="width: 20%" /><col style="width: 20%" />
   </colgroup>
   <thead>
   <tr class="header">
@@ -54,7 +54,7 @@ toc: true
       <th class = "left"><p>Job:
       <br>&emsp;Job_MB:
       <br>&emsp;&emsp;1) Is there a Chemist position?
-      <br>&emsp;&emsp;2) 
+      <br>&emsp;&emsp;2) Is the supervisor a chemist?
       </p></th>
       <td><p>
       </p></td>
