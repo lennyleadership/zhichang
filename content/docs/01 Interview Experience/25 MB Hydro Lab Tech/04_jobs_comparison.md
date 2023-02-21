@@ -22,256 +22,155 @@ toc: true
 <table>
   <caption style="text-align:left", align = "top"><b>Comparison </b></caption>
   <colgroup>
-  <col style="width: 30%"><col style="width: 15%"><col style="width: 15%">
+  <col style="width: 30%"><col style="width: 30%"><col style="width: 30%">
   </colgroup>
   <thead>
   <tr class="header">
     <th class = "left"><p>Factors</p></th>
-    <th><p>Job_MB</p></th>
-    <th><p>Job_ON</p></th>
+    <th><p>Job_MB</p></td>
+    <th><p>Job_ON</p></td>
   </tr>
   </thead>
   <tbody>
     <tr class="odd">
-      <th class = "left"><p>Church:
-      <br>&emsp;Is there a brethren chapel nearby?
-      </p></th>
-      <td><p>
+      <td class = "left pink"><p>Church:
+      </p></td>
+      <td class = "pink"><p>
+      </p></td>
+      <td class = "pink"><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <td class = "left"><p>
+      &emsp;Is there a brethren chapel nearby?
+      </p></td>
+      <td><p> in Selkirk, and in Winnipeg
+      </p></td>
+      <td><p>in Pembroke
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <td class = "left pink"><p>Daisy:
+      </p></td>
+      <td class = "pink"><p>
+      </p></td>
+      <td class = "pink"><p>
+      </p></td>
+    </tr>    
+    <tr class="even">
+      <td class = "left"><p>
+      &emsp;Could Daisy quit her job?
+      </p></td>
+      <td><p>after a couple of years
+      </p></td>
+      <td><p>after six months
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <td class = "left pink"><p>Jobs:
+      </p></td>
+      <td class = "pink"><p>
+      </p></td>
+      <td class = "pink"><p>
+      </p></td>
+    </tr>
+    <tr class="even">
+      <td class = "left"><p>
+      &emsp;Job details:
+      </p></td>
+      <td><p>1) 4 days a week
+      <br>2) There are chemist positions
+      <br>3) Don't know 
       </p></td>
       <td><p>
       </p></td>
     </tr>
-    <tr class="even">
-      <th class = "left"><p>Daisy:
-      <br>&emsp;Could Daisy quit her job?
-      </p></th>
+    <tr class="odd">
+      <td class = "left"><p>&emsp;Passion at Works
+      </p></td>
+      <td><p>GC-MS/MS, data analysis, 
+      </p></td>
+      <td><p>no challenge in non-RAD analysis;
+      <br>Challenge at liquid scintillation counting
+      </p></td>
+    </tr>
+    <tr class="odd">
+      <td class = "left pink"><p>Family:
+      </p></td>
+      <td class = "pink"><p>
+      </p></td>
+      <td class = "pink"><p>
+      </p></td>
+    </tr>
+     <tr class="even">
+      <td class = "left"><p>&emsp;1) Is it close to home at Pinawa?
+      </p></td>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="odd">
-      <th class = "left"><p>Job:
-      <br>&emsp;Job_MB:
-      <br>&emsp;&emsp;1) Is there a Chemist position?
-      <br>&emsp;&emsp;2) Is the supervisor a chemist?
-      </p></th>
-      <td><p>
+      <td class = "left"><p>&emsp;2) Is it convenient to go to China?
       </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>Is it close to home at Pinawa?
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>Is it convenient to go to China?
-      </p></th>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>    
-    <tr class="odd">
-      <th class = "left"><p>Pention plan
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
     <tr class="even">
-      <th class = "left"><p>Weather
-      </p></th>
+      <td class = "left"><p>&emsp;3) Healthcare for Caiyu
+      </p></td>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="odd">
-      <th class = "left"><p>Healthcare for Caiyu
-      </p></th>
+      <td class = "left"><p>&emsp;4) Living cost
+      </p></td>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="even">
-      <th class = "left"><p>Living cost
-      </p></th>
+      <td class = "left"><p>&emsp;5) Commute/Rental
+      </p></td>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="odd">
-      <th class = "left"><p>Commute/Rental
-      </p></th>
+      <td class = "left"><p>
+      </p></td>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="even">
-      <th class = "left"><p>
-      </p></th>
+      <td class = "left"><p>Living:
+      <br>&emsp;1) Weather
+      </p></td>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
+      <td class = "left"><p>Retirement Life:
+      <br>&emsp;Pension plan
       </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
     </tr>
     <tr class="even">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
+      <td class = "left"><p>
       </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>Ivy
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="odd">
-      <th class = "left"><p>
-      </p></th>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr class="even">
-      <th class = "left"><p>
-      </p></th>
       <td><p>
       </p></td>
       <td><p>
