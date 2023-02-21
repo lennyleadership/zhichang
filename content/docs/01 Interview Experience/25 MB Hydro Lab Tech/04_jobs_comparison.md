@@ -22,7 +22,7 @@ toc: true
 <table>
   <caption style="text-align:center"><b>Comparison </b></caption>
   <colgroup>
-  <col style="width: 30%><col style="width: 30%"><col style="width: 30%">
+  <col style="width: 20%"><col style="width: 20%"><col style="width: 20%">
   </colgroup>
   <tr class = "left">
     <th>Factors</th>
@@ -46,6 +46,14 @@ toc: true
     <td>No</td>
     <td>Yes</td>
   </tr>
+  <tr>
+    <td class = "pink">&emsp;Donation
+    </td>
+    <td>$5,000
+    </td>
+    <td>$10,000
+    </td>
+  </tr>
   <tr class="pink">
       <td colspan = "3" class = "pink subtitle"><b>Daisy</b>:
       </td>
@@ -61,11 +69,15 @@ toc: true
   <tr>
     <td class = "pink">&emsp;Could Daisy find a new job?
     </td>
-    <td >1) maybe.  Engineering consulting firms
-      <br>2) less competative, such as no experience in 3D AutoCAD
+    <td ><ul>
+    <li>&nbsp;maybe.  Engineering consulting firms</li>
+    <li>&nbsp;less competative, such as no experience in 3D AutoCAD</li>
+      </ul>
     </td>
-    <td >1) easier, due to experience and network at Whiteshell. 
-      <br>2) specialized in DDC
+    <td ><ol>
+    <li>&nbsp;easier, due to experience and network at Whiteshell.</li> 
+    <li>&nbsp;specialized in DDC.</li>
+    </ol>
     </td>
   </tr>
   <tr>
@@ -73,21 +85,28 @@ toc: true
     </td>
   </tr>
   <tr>
+    <td class = "pink">&emsp;Salary
+    </td>
+    <td>Starts: $55k
+    </td>
+    <td>Starts: $110k
+    </td>
+  </tr>
+  <tr>
     <td class = "pink">&emsp;Time, Date:
     </td>
-    <td>1) 4 days a week  
+    <td>4 days a week  
     <br>&emsp;I could do what interests me on Friday
     </td>
-    <td>
+    <td>5 days a week
     </td>
   </tr>
   <tr>
     <td class = "pink">&emsp;Position
     </td>
-    <td>1) 14-month term
-    <br>2) There are chemist positions which would become available
+    <td>14-month term
     </td>
-    <td>1) full-time permanent
+    <td>full-time permanent
     </td>
   </tr>
   <tr>
@@ -100,31 +119,35 @@ toc: true
     </td>
   </tr>
   <tr>
-    <td class = "pink">&emsp;Salary
+    <td class = "pink">&emsp;Other job opportunities
     </td>
-    <td>Starts: $55k
+    <td><ol>
+    <li>&nbsp;There are chemist positions which would become available.</li> 
+    <li>&nbsp;Lab scientist I in SharedHealth</li>
+    </ol>
     </td>
-    <td>Starts: $110k
+    <td>
     </td>
   </tr>
   <tr>
-    <td colspan = "3" class = "pink subtitle"><b>Family</b>:
+    <td colspan = "3" class = "pink subtitle"><b>Living</b>:
     </td>
   </tr>
   <tr>
     <td class = "pink">&emsp;1) Is it close to home at Pinawa?
     </td>
-    <td>
+    <td>Live at home
     </td>
-    <td>
+    <td>drive to Ottawa, take flight, rent a car.
+    <br> cost: $1,000/month or <b>$12,000/year</b>
     </td>
   </tr>
   <tr>
     <td class = "pink">&emsp;2) Is it convenient to go to China?
     </td>
-    <td>
+    <td>five-hour drive to Toronto, stay overnight
     </td>
-    <td>
+    <td> 1.5-hour drive to Winnipeg
     </td>
   </tr>    
   <tr>
@@ -146,22 +169,34 @@ toc: true
   <tr>
     <td class = "pink">&emsp;5) Commute/Rental
     </td>
-    <td>
+    <td> two hours commute:
+    <br>&emsp;$1.5/L x 20L/day = $30/day
+    <br>&emsp;$30/day x 16 days/month = $480/month
+    <br>no rental
+    <br>Total cost: $500/month or <b>$6000/year</b>
     </td>
-    <td>
+    <td>one hour commute:
+    <br>&emsp;$1.4/L x 10L/day = $14/day
+    <br>&emsp;$14/day x 25 days/month = $350/month
+    <br>Rental: $1000/month
+    <br>Total cost: $1400/month or <b>$16,800/year</b>
     </td>
   </tr>
   <tr>
-    <td colspan = "3" class = "pink subtitle"><b>Living</b>:
+    <td class = "pink">&emsp;6) Weather
+    </td>
+    <td>long and cold winter
+    </td>
+    <td>moderate winter
     </td>
   </tr>
   <tr>
-    <td class = "pink">&emsp;1) Weather
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
+  <td class = "pink">&emsp;7) Friendship/ fellowship
+  </td>
+  <td>Christian fellowship
+  </td>
+  <td>Christian fellowship, <br>make new neighbor, <br>Chinese families
+  </td>
   </tr>
   <tr>
     <td colspan = "3" class = "pink subtitle"><b>Retirement Life</b>:

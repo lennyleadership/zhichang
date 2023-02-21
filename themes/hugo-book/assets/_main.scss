@@ -287,6 +287,10 @@ body[dir="rtl"] .book-menu {
 }
 
 
+.p-indent {
+  text-indent: 50px;
+}
+
 
 /* ****first letter color begin********************************************************************/
 /*a.firstword {
@@ -363,12 +367,11 @@ h2 + p::first-letter {
 
 /* table *******************************************************************************************/
 
-
 table {
   width: 100%;  
   font-size: 80%;
   border: 1px solid #fbe4d5;
-  vertical-align: middle;
+  /*vertical-align: middle;*/
   
   overflow: auto;
   display: block;
@@ -404,6 +407,9 @@ tr:nth-child(even) {
 }
 
 
+/* end *********************************************************************************************/
+
+
 .left {
   text-align: left;
 }
@@ -414,16 +420,7 @@ tr:nth-child(even) {
 
 
 
-
-
-
-
-
-
-/* end *********************************************************************************************/
-
-
-/* center the image */
+/* center the image ********************************************************************************/
 .center {
   display: block;
   margin-left: auto;
@@ -501,9 +498,67 @@ a:active {
 }
 
 
+/* paragraph bulletin indent ***********************************************************************/
+
+ol,li {
+    margin: 0;
+    padding: 0;
+}
+
+ol {
+    counter-reset: foo;
+    display: table;
+}
+
+ol > li {
+    counter-increment: foo;
+    display: table-row;
+}
+
+ol > li::before {
+    content: counter(foo) ")";
+    display: table-cell; /* aha! */
+    text-align: right;
+}
 
 
-/* color options *******************************************************************************/
+  
+  
+/* or */  
+  
+ul {
+  list-style-position: inside;
+}  
+
+ul,li {
+    margin: 0;
+    padding: 0;
+}
+
+ul > li {
+    counter-increment: foo;
+    display: table-row;
+}
+
+ul > li::before {
+    content: counter(foo) ")";
+    display: table-cell; /* aha! */
+    text-align: right;
+}
+
+
+
+
+ul,
+ol {
+    /*padding-inline-start: $padding-16 * 2;*/
+  }
+  
+/*end **********************************************************************************************/
+
+
+
+/* color options ***********************************************************************************/
 .black {
   background-color: black;
   color: white;
