@@ -75,12 +75,19 @@ toc: true
       </p></td>
     </tr>
     <tr class="even">
-      <td class = "left"><p>
-      &emsp;Job details:
+      <td class = "left"><p>&emsp;Time, Date:
       </p></td>
       <td><p>1) 4 days a week
-      <br>2) There are chemist positions
-      <br>3) Don't know 
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    </tr>
+     <tr class="odd">
+      <td class = "left"><p>&emsp;Position
+      </p></td>
+      <td><p>1) There are chemist positions
+      <br>2) Don't know 
       </p></td>
       <td><p>
       </p></td>
@@ -92,6 +99,15 @@ toc: true
       </p></td>
       <td><p>no challenge in non-RAD analysis;
       <br>Challenge at liquid scintillation counting
+      </p></td>
+    </tr>
+    </tr>
+     <tr class="even">
+      <td class = "left"><p>&emsp;Salary
+      </p></td>
+      <td><p>Starts: $55k
+      </p></td>
+      <td><p>Starts: $110k
       </p></td>
     </tr>
     <tr class="odd">
@@ -143,16 +159,16 @@ toc: true
       </p></td>
     </tr>
     <tr class="odd">
-      <td class = "left"><p>
+      <td class = "left pink"><p>Living:
       </p></td>
-      <td><p>
+      <td class = "pink"><p>
       </p></td>
-      <td><p>
+      <td class = "pink"><p>
       </p></td>
     </tr>
     <tr class="even">
-      <td class = "left"><p>Living:
-      <br>&emsp;1) Weather
+      <td class = "left"><p>
+      &emsp;1) Weather
       </p></td>
       <td><p>
       </p></td>
@@ -160,20 +176,19 @@ toc: true
       </p></td>
     </tr>
     <tr class="odd">
-      <td class = "left"><p>Retirement Life:
-      <br>&emsp;Pension plan
+      <td class = "left pink"><p>Retirement Life:
       </p></td>
-      <td><p>
+      <td class = "pink"><p>
       </p></td>
-      <td><p>
+      <td class = "pink"><p>
       </p></td>
     </tr>
     <tr class="even">
-      <td class = "left"><p>
+      <td class = "left"><p>&emsp;Pension plan
       </p></td>
-      <td><p>
+      <td><p>defined benefit
       </p></td>
-      <td><p>
+      <td><p>defined contribution
       </p></td>
     </tr>
   </tbody>
