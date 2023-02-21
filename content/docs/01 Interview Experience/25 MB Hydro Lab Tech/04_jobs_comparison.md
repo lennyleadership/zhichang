@@ -22,7 +22,7 @@ toc: true
 <table>
   <caption style="text-align:left", align = "top"><b>Comparison </b></caption>
   <colgroup>
-    <col style="width: 70%" /><col style="width: 40%" /><col style="width: 40%" />
+    <col style="width: 60%" /><col style="width: 40%" /><col style="width: 40%" />
   </colgroup>
   <thead>
   <tr class="header">
