@@ -398,7 +398,7 @@ th { /*a header cell*/
 
 
 tr:nth-child(2n) {
-  /*background: var(--gray-100);*/
+  background: var(--gray-100);
     }
 
 
@@ -521,33 +521,15 @@ ol > li::before {
     text-align: right;
 }
 
-
-  
-  
-/* or */  
   
 ul {
-  list-style-position: inside;
+  list-style-position: outside;
 }  
 
 ul,li {
     margin: 0;
     padding: 0;
 }
-
-ul > li {
-    counter-increment: foo;
-    display: table-row;
-}
-
-ul > li::before {
-    content: counter(foo) ")";
-    display: table-cell; /* aha! */
-    text-align: right;
-}
-
-
-
 
 ul,
 ol {

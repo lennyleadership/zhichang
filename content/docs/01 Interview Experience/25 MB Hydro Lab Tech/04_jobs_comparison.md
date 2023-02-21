@@ -81,6 +81,14 @@ toc: true
     </td>
   </tr>
   <tr>
+    <td class = "pink">&emsp;
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
     <td colspan = "3" class = "pink subtitle"><b>Jobs</b>:
     </td>
   </tr>
@@ -96,7 +104,7 @@ toc: true
     <td class = "pink">&emsp;Time, Date:
     </td>
     <td>4 days a week  
-    <br>&emsp;I could do what interests me on Friday
+    <br>I could do what interests me on Friday
     </td>
     <td>5 days a week
     </td>
@@ -121,10 +129,10 @@ toc: true
   <tr>
     <td class = "pink">&emsp;Other job opportunities
     </td>
-    <td><ol>
+    <td><ul>
     <li>&nbsp;There are chemist positions which would become available.</li> 
     <li>&nbsp;Lab scientist I in SharedHealth</li>
-    </ol>
+    </ul>
     </td>
     <td>
     </td>
@@ -145,29 +153,31 @@ toc: true
   <tr>
     <td class = "pink">&emsp;2) Is it convenient to go to China?
     </td>
-    <td>five-hour drive to Toronto, stay overnight
+    <td>
+    <ul>
+    <li>1.5-hour drive to Winnipeg.</li>
+    <li>Difficult to get Chinese passport renewed.</li>
+    </ul>
     </td>
-    <td> 1.5-hour drive to Winnipeg
+    <td>
+    <ol>
+    <li>&nbsp;five-hour drive to Toronto, stay overnight.</li>
+    <li>&nbsp;Ease to get Chinese passport renewed.</li>
+    <li>&nbsp;Close to China Embassy.</li>
+    </ol>
     </td>
   </tr>    
   <tr>
     <td class = "pink">&emsp;3) Healthcare for Caiyu
     </td>
-    <td>
+    <td>It is what we want.
+    <br>$49,000
     </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td class = "pink">&emsp;4) Living cost
-    </td>
-    <td>
-    </td>
-    <td>
+    <td>There is none, I assume.
     </td>
   </tr>
   <tr>
-    <td class = "pink">&emsp;5) Commute/Rental
+    <td class = "pink">&emsp;4) Commute/Rental
     </td>
     <td> two hours commute:
     <br>&emsp;$1.5/L x 20L/day = $30/day
@@ -183,7 +193,7 @@ toc: true
     </td>
   </tr>
   <tr>
-    <td class = "pink">&emsp;6) Weather
+    <td class = "pink">&emsp;5) Weather
     </td>
     <td>long and cold winter
     </td>
@@ -191,7 +201,7 @@ toc: true
     </td>
   </tr>
   <tr>
-  <td class = "pink">&emsp;7) Friendship/ fellowship
+  <td class = "pink">&emsp;6) Friendship/ fellowship
   </td>
   <td>Christian fellowship
   </td>
