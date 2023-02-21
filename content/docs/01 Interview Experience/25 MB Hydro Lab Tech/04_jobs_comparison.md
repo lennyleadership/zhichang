@@ -21,11 +21,14 @@ toc: true
 
 <table>
   <caption style="text-align:left", align = "top"><b>Comparison </b></caption>
+  <colgroup>
+  <col style="width: 30%"><col style="width: 15%"><col style="width: 15%">
+  </colgroup>
   <thead>
   <tr class="header">
-    <th style="width:40%" class = "left"><p>Factors</p></th>
-    <th style="width:30%"><p>Job_MB</p></th>
-    <th style="width:30%"><p>Job_ON</p></th>
+    <th class = "left"><p>Factors</p></th>
+    <th><p>Job_MB</p></th>
+    <th><p>Job_ON</p></th>
   </tr>
   </thead>
   <tbody>
