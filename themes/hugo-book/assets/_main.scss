@@ -362,53 +362,62 @@ h2 + p::first-letter {
 
 
 /* table *******************************************************************************************/
+
+
 table {
   width: 100%;  
   font-size: 80%;
-  border-collapse: collapse;
-  border-spacing: 0;
   border: 1px solid #fbe4d5;
-}
-
-
-
-th {
-  background-color: #d9e2f3;
   vertical-align: middle;
-}
-
-th.left, td.left {
-  text-align: left;
-  padding: 2px;
-
-}
-
-th.center, td.center {
-  padding: 2px;
-  text-align: center; 
   
+  overflow: auto;
+  display: block;
+  border-spacing: 0;
+  border-collapse: collapse;
+  margin-top: $padding-16;
+  margin-bottom: $padding-16;
 
-}
-td {  /* Table  */
-  font-size: 14px;
+  tr th,
+  tr td {
+    padding: $padding-8 $padding-16;
+    border: $padding-1 solid var(--gray-200);
+    }
+  }
+
+.subtitle {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}  
+
+th { /*a header cell*/
+  background-color: #D6EEEE;
 }
 
-td.subtitle{
-  height: 10px;
-}
 
-td.pink{
-  background-color: #fbe4d5;
-}
-
-td.green{
-  background-color: #e2efd9;
-}
+tr:nth-child(2n) {
+  /*background: var(--gray-100);*/
+    }
 
 
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  /*background-color: #f2f2f2;*/
 }
+
+
+.left {
+  text-align: left;
+}
+
+.center {
+  text-align: center; 
+}
+
+
+
+
+
+
+
 
 
 /* end *********************************************************************************************/
@@ -494,23 +503,36 @@ a:active {
 
 
 
-/* highlight options *******************************************************************************/
+/* color options *******************************************************************************/
 .black {
   background-color: black;
   color: white;
 }
 
+
 .grey {
   background-color: #dcdcdc;
 }
+
 
 .blue{
   background-color:#84b2ff;
   border-bottom:1px solid red;
 }
 
+
 .lemon {
   background-color: #fffacd;
+}
+
+
+.green{
+  background-color: #e2efd9;
+}
+
+
+.pink{
+  background-color: #fbe4d5;
 }
 /* the end *****************************************************************************************/
 
