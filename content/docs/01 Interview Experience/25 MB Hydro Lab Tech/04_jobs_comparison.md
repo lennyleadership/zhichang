@@ -81,11 +81,11 @@ toc: true
     </td>
   </tr>
   <tr>
-    <td class = "pink">&emsp;
+    <td class = "pink">&emsp;Could Daisy pursue Professional Engineer designation?
     </td>
-    <td>
+    <td>No. She does not have time.
     </td>
-    <td>
+    <td>Yes.  She could have time.
     </td>
   </tr>
   <tr>
@@ -93,11 +93,15 @@ toc: true
     </td>
   </tr>
   <tr>
-    <td class = "pink">&emsp;Salary
+    <td class = "pink">&emsp;Compensation
     </td>
-    <td>Starts: $65k
+    <td>Salary starts: $65k
+    <br>Pension: Defined-benefit
+    <br>Medical plan: better
     </td>
-    <td>Starts: $120k
+    <td>Salary starts: $120k
+    <br>Pension: Defined-contribution
+    <br> Medical plan: good
     </td>
   </tr>
   <tr>
@@ -122,8 +126,11 @@ toc: true
     </td>
     <td>GC-MS/MS, data analysis, 
     </td>
-    <td>no challenge in non-RAD analysis;
-      <br>Challenge at liquid scintillation counting
+    <td>The branch objectives in 5 years:
+    <br>&emsp;1) Cross-training;
+    <br>&emsp;2) Quality management/ lab accreditation;
+    <br>&emsp;3) Strengthen LIMS;
+    <br>&emsp;4) Strengthen EMB reputation
     </td>
   </tr>
   <tr>
