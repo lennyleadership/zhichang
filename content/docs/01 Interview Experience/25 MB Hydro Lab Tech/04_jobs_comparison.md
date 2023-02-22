@@ -24,11 +24,13 @@ toc: true
   <colgroup>
   <col style="width: 20%"><col style="width: 20%"><col style="width: 20%">
   </colgroup>
+  <THEAD>
   <tr class = "left">
     <th>Factors</th>
     <th>Job_MB</th>
     <th>Job_ON</th>
   </tr>
+  </THEAD>
   <tr>
     <td colspan = "3" class = "pink subtitle"><b>Church</b>:
     </td>
