@@ -127,10 +127,11 @@ toc: true
     <td>GC-MS/MS, data analysis, 
     </td>
     <td>The branch objectives in 5 years:
-    <br>&emsp;1) Cross-training;
-    <br>&emsp;2) Quality management/ lab accreditation;
-    <br>&emsp;3) Strengthen LIMS;
-    <br>&emsp;4) Strengthen EMB reputation
+    <ul>
+    <li>Cross-training;</li>
+    <li>Quality management/ lab accreditation;</li>
+    <br>Strengthen LIMS;
+    <br>Strengthen EMB reputation
     </td>
   </tr>
   <tr>
