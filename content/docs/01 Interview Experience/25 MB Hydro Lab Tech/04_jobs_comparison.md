@@ -49,9 +49,9 @@ toc: true
   <tr>
     <td class = "pink">&emsp;Donation
     </td>
-    <td>$5,000
+    <td>$6,000
     </td>
-    <td>$10,000
+    <td>$12,000
     </td>
   </tr>
   <tr class="pink">
@@ -95,9 +95,9 @@ toc: true
   <tr>
     <td class = "pink">&emsp;Salary
     </td>
-    <td>Starts: $55k
+    <td>Starts: $65k
     </td>
-    <td>Starts: $110k
+    <td>Starts: $120k
     </td>
   </tr>
   <tr>
@@ -134,7 +134,19 @@ toc: true
     <li>&nbsp;Lab scientist I in SharedHealth</li>
     </ul>
     </td>
-    <td>
+    <td>positions in other branches
+    </td>
+  </tr>
+  <tr>
+    <td colspan = "3" class = "pink subtitle"><b>Mental Health</b>:
+    </td>
+  </tr>
+  <tr>
+    <td class = "pink">&emsp;Stress level
+    </td>
+    <td>medium
+    </td>
+    <td>high due to relocation, find place to live, 
     </td>
   </tr>
   <tr>
@@ -208,6 +220,10 @@ toc: true
   <td>Christian fellowship, <br>make new neighbor, <br>Chinese families
   </td>
   </tr>
+  <td class = "pink">&emsp;7）Mom's settlement
+  </td>
+  <td>Mom can come to Canada soon</td>
+  <td>Mom will come to Canada next year</td>
   <tr>
     <td colspan = "3" class = "pink subtitle"><b>Retirement Life</b>:
     </td>
