@@ -237,19 +237,11 @@ toc: true
     </td>
   </tr>
   <tr>
-    <td class = "pink">&emsp;1) Pension plan
+    <td class = "pink">&emsp;Location
     </td>
-    <td>defined benefit
+    <td>Winnipeg/ Surrey
     </td>
-    <td>defined contribution
-    </td>
-  </tr>
-  <tr>
-    <td class = "pink">&emsp;2) Location
-    </td>
-    <td>Winnipeg, Surrey
-    </td>
-    <td>outside of Toronto, Surrey
+    <td>outside of Toronto/ Surrey
     </td>
   </tr>
 </table>
