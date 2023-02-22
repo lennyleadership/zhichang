@@ -380,13 +380,18 @@ table {
   margin-top: $padding-16;
   margin-bottom: $padding-16;
 
-  tr th,
+  tr th {
+    padding: $padding-8 $padding-16;
+    border-bottom: $padding-1 solid black;
+    }
+
+
   tr td {
     padding: $padding-8 $padding-16;
     border: $padding-1 solid var(--gray-200);
     }
   }
-
+  
 .subtitle {
   padding-top: 2px;
   padding-bottom: 2px;
