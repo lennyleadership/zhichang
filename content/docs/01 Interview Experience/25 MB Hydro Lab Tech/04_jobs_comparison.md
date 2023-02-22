@@ -182,7 +182,7 @@ toc: true
   <tr>
     <td class = "pink">&emsp;3) Healthcare for Caiyu
     </td>
-    <td>It is what we want.
+    <td>It is what we have.
     <br>$49,000
     </td>
     <td>There is none, I assume.
