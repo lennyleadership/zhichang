@@ -87,7 +87,7 @@ toc: true
     </td>
     <td>No. She does not have time.
     </td>
-    <td>Yes.  She could have time.
+    <td>Yes. She could have time.
     </td>
   </tr>
   <tr>
@@ -132,8 +132,8 @@ toc: true
     <ul>
     <li>Cross-training;</li>
     <li>Quality management/ lab accreditation;</li>
-    <br>Strengthen LIMS;
-    <br>Strengthen EMB reputation
+    <li>Strengthen LIMS;</li>
+    <li>Strengthen EMB reputation</li>
     </td>
   </tr>
   <tr>
