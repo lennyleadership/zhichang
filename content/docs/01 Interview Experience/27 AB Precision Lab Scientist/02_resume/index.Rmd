@@ -80,7 +80,7 @@ Education {#education}
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-Last updated on `r Sys.Date()`.
+Last updated on 2023-01-25.
 
 
 
