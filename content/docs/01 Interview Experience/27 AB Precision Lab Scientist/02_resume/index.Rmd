@@ -36,7 +36,7 @@ library(fontawesome)
 Aside
 ================================================================================
 
-<img width = "50%" src = "lifescience-icon.jpg">
+<img width = "30%" src = "lifescience-icon.jpg">
 
 
 
