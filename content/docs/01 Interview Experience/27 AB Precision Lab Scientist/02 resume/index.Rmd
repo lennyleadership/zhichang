@@ -1,0 +1,305 @@
+---
+weight: 2
+title: "Resume"
+author: "Lenny Lin"
+date: "`r Sys.Date()`"
+output:
+  #word_document: default
+  #html_document: default
+  pagedown::html_resume:
+    css: css\CV_v06.css
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+
+```{css, echo=FALSE}
+/*note the side-bar after the first page can only be eliminated by placing this css chunk here.  It cannot work in css.*/
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+
+```
+
+
+```{r, include=F, warning=F}
+library(fontawesome)
+
+```
+
+
+Aside
+================================================================================
+
+<img width = "50%" src = "lifescience-icon.jpg">
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+`r fa("envelope")` zh.lenny.lin@gmail.com  
+`r fa("phone")` (778) 919-5250  
+`r fa("location-dot")` Pinawa, MB
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+`r fa("flask-vial")`  MassHunter    
+`r fa("chart-column")`  LIMS  
+`r fa("code")` R, R Markdown  
+`r fa("code")` Shiny   
+`r fa("code")` VBA, PivotTable  
+
+
+Soft Skills {#skills}
+--------------------------------------------------------------------------------
+`r fa("gear")` Organized  
+`r fa("gear")` Flexible  
+`r fa("gear")` Self-motivated  
+`r fa("gear")` Team player  
+`r fa("gear")` Detail-oriented  
+`r fa("gear")` Purpose-driven  
+`r fa("gear")` Time management  
+`r fa("gear")` Problem-solving
+
+
+Education {#education}
+--------------------------------------------------------------------------------
+
+`r fa("graduation-cap")` MSc Chemistry  
+`r fa("graduation-cap")` BSc Chemistry  
+`r fa("chalkboard")` Data science with R  
+`r fa("chalkboard")` Design of Experiments  
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+**Lenny Lin** {#title}
+--------------------------------------------------------------------------------
+Summary {data-icon=address-card}
+--------------------------------------------------------------------------------
+:::::: {.summary-lists}
+
+::: {.spacer}
+:::
+
+::: {lists}
+- Chemist with MS degree, member of Association of the Chemical Profession of Ontario   
+- 15 years of experience in clinic and environmental testing lab settings  
+- Experience in method troubleshooting, development and validation, and research and development  
+- Operation, maintenance, and troubleshooting of a variety of instruments including Agilent LC-MS/MS  
+- Operation, optimization of automated solid phase extraction (SPE)  
+- Expertise in laboratory quality management, laboratory accreditation standard ISO 17025, and training      
+- Extensive experience in facilitating accurate data with rapid turn-around-time
+:::
+
+::::::
+
+
+Professional Experience {data-icon=briefcase}
+--------------------------------------------------------------------------------
+### Lab Scientist 
+LifeLabs
+
+Burnaby, BC
+
+Nov., 2021 - May, 2021
+
+- Performed sample preparation and operated GC-MS/MS and LC-MS/MS to troubleshoot the hydrolysis procedure of the assay of steroid profile in urine.  
+- Optimized the enzymatic hydrolysis and the SPE procedures with the design of experiments approach.    
+- Transformed manual SPE to automated SPE and optimized the SPE programs. 
+- Performed pre-study validation for a bile acid metabolite in serum.  
+- Automated data processing using VBA, PivotTable, and R resulting in faster reporting and better data interpretation.  
+- Made a dashboard of analysis data with the Shiny application for quality control.  
+- Built a proactive maintenance and troubleshooting program for MS instruments.  
+- Created a dashboard of a whole fleet of MS instruments for effective management.  
+- Undertook maintenance and troubleshooting of instruments.  
+
+\newpage
+
+### Consultant
+Self-employed
+
+Pinawa, MB
+
+Present - May, 2020  
+
+- Validation of R packages for untargeted metabolomics in the characterization of botanical extracts by HRMS with the MS facility at Simon Fraser University.  
+- Accomplished a project of mass spectrometry data mining with R.  
+- Developed a digital troubleshooting logbook prototype.  
+- Developed a comprehensive documentation blog on chemical analysis.   
+- Developed an R web scraping application to download search query results of literature from PubMed.  
+
+
+### Chemist
+Canadian Nuclear Laboratories (formerly Atomic Energy of Canada (AECL))
+
+Pinawa, MB
+
+Oct., 2016 - Oct., 2009
+
+- Responsible for the day-to-day laboratory operation and laboratory accreditation.    
+- Reviewed analytical data of inorganic, organic, and gross Beta radioactivity to meet compliance requirements of the nuclear industry regulator, the Canadian Nuclear Safety Commission.  
+- Recommissioned GC/MS-Headspace, resumed volatile organic analysis, and passed proficiency tests to ensure business continuity.  
+- Performed routine maintenance and troubleshooting on GC-MS.   
+- Led the development and validation of ICP-OES, ion chromatography, fluorescence analysis, and FAAS methods for environmental analytes significantly contributing to successful lab accreditation.   
+- Led a project using Excel VBA to enhance data analysis/processing: review time was cut from three days to a few hours and data accuracy increased from 95% to 100%.   
+- Led the revision and implementation of the lab Quality Plan by collaborating with corporate and local quality specialists resulting in better alignment of the company-wide Quality Manual, the Environmental Program Quality Manual, and ISO 17025; and successful reaccreditation and a company-wide recognition award.  
+- Enforced requirements of lab accreditation and health and safety through activities, such as observation and coaching moments and monthly lab inspections.  
+- Addressed non-conformance issues in responding to findings of self-assessments and audits.  
+
+
+### Instructor
+Northern College of Applied Arts and Technology
+
+Kirkland Lake, ON
+
+Aug, 2009 - Dec 2005
+
+- Designed, developed, and taught courses for the “Environmental Technician – Water and Wastewater Systems Operations” program.  
+
+### Consultant
+SwasLabs (Assay)
+
+Kirkland Lake, ON
+
+Sep., 2009 - Nov., 2008
+
+- Implementation of a data management program to identify a LIMS better suited to the company’s needs.   
+- Hired and trained new employees.
+
+
+\newpage
+
+### Chemist / Quality Manager / Lab Manager
+Testmark Laboratories (formerly Accuracy Environmental Laboratories)
+
+Kirkland Lake, ON
+
+Nov., 2008 - Sep., 2004
+
+- Responsible for the quality management system, laboratory accreditation, and routine operation.  
+- Operated, maintained, and troubleshot instruments including GC, ion chromatography, and continuous flow analyzer.  
+- Performed microbiological testing for compliance with the drinking water act.  
+- Developed GC/FID methods for Tier I petroleum hydrocarbons in the soil matrix.  
+- Conducted self-assessment and led the team to create action plans to mitigate audit findings, reducing potential non-compliance and risks.  
+- Coordinated within the lab and with the lab accreditation agency to achieve successful audits. 
+- Provided technical services on appropriate sampling techniques.  
+- Implemented an in-house developed ACCESS-based LIMS by providing input, addressing changes to requirements, and giving end-user support and training.  
+
+
+### Chemist
+SGS
+
+China
+
+May, 2004 - Oct., 2001
+
+- Developed in-house sample preparation methodology for total heavy metals in complex sample matrices, meeting requirements of EU legislation on consumer product safety.  
+- Developed and prepared a standardized operating procedure for the ICP-OES method.  
+
+
+
+### TOTAL
+Project Chemist
+
+China  
+
+Sep., 2001 - Mar., 1996
+
+- Provided technical advice to lab operations in four chemical production facilities, improving teams’ technical competence.  
+- Responsible for environmental impact assessments, environmental protection projects, procurement, cost control, and project progress in a cross-functional and cross-sector team environment to support capital projects of special chemicals manufacturing plants.  
+
+
+Weblinks of Demonstration of Skills and Work {data-icon=book}
+--------------------------------------------------------------------------------
+:::::: {.work-lists}
+
+::: {.spacer}
+:::
+
+:::{list}
+- A [comprehensive documentation blog (under development)](https://anachem-manual.netlify.app/) which collects theories of instrumentation (including LC-MS/MS), applications, and troubleshooting.  
+- A [digital troubleshooting logbook prototype](https://troubleshooting-logbook.netlify.app/) which could be implemented for documenting instrumentation troubleshooting internally.    
+- An [interactive document built with Shiny](https://mrlennylin.shinyapps.io/MS_data_mining_shiny_rev02b/) which demonstrates potential applications of Shiny to control and assure accurate data and therefore to support regulatory compliance.    
+- A [repository of R documents and presentations](https://rpubs.com/lennylin) which presents my experience and skills in research and development, method validation and comparison, matrix effects, and statistical analysis.
+:::
+
+::::::
+
+
+\newpage
+
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### M.Sc. in Chemistry
+Sun Yat-Sen University
+
+China
+
+
+
+### B.Sc. in Chemistry
+Sun Yat-Sen University
+
+China
+
+<br>  
+
+Note: Canadian equivalent credential evaluation report granted by World Education Services, Toronto, ON
+
+
+
+### Data Scientist with R
+DataCamp
+
+Online
+
+2022 - 2019
+
+
+
+### Design of Experiments
+udemy
+
+Online
+
+2022
+
+
+
+### Leadership
+Atomic Energy of Canada (AECL)
+
+Pinawa, MB
+
+2010-2011
+
+
+
+Recognition Award {data-icon=award}
+--------------------------------------------------------------------------------
+### Voyageur Certificate of Recognition Award
+Atomic Energy of Canada (AECL)
+
+Pinawa, MB
+
+2015
+
+Voyageur Certificate of Recognition Award for retaining lab accreditation to the ISO 17025 re-accreditation  
+

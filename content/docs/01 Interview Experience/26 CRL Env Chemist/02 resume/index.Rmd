@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "Lenny Lin's resume"
+title: "Resume"
 author: "Lenny Lin"
 date: "`r Sys.Date()`"
 output:

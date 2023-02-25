@@ -1,0 +1,228 @@
+---
+weight: 2
+title: "Lenny Lin's resume"
+author: "Lenny Lin"
+date: "2023-02-11"
+output:
+  #word_document: default
+  #html_document: default
+  pagedown::html_resume:
+    css: css\CV_v06.css
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+
+
+<style type="text/css">
+/*note the side-bar after the first page can only be eliminated by placing this css chunk here.  It cannot work in css.*/
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+
+</style>
+<div id="aside" class="section level1">
+<h1>Aside</h1>
+<p><img width = "50%" src = "nuclear.jpg"></p>
+<div id="contact" class="section level2">
+<h2>Contact Info</h2>
+<ul>
+<li><i class="fa fa-envelope"></i> <a href="mailto:zh.lenny.lin@gmail.com" class="email">zh.lenny.lin@gmail.com</a></li>
+<li><i class="fa fa-phone"></i> (778) 919-5250</li>
+<li><i class="fa fa-map-marked-alt"></i> Pinawa, MB</li>
+</ul>
+</div>
+<div id="skills" class="section level2">
+<h2>Soft Skills</h2>
+<p><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336c44.2 0 80-35.8 80-80s-35.8-80-80-80s-80 35.8-80 80s35.8 80 80 80z"/></svg> Purpose-driven<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336c44.2 0 80-35.8 80-80s-35.8-80-80-80s-80 35.8-80 80s35.8 80 80 80z"/></svg> Self-motivated<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336c44.2 0 80-35.8 80-80s-35.8-80-80-80s-80 35.8-80 80s35.8 80 80 80z"/></svg> Detail-oriented<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336c44.2 0 80-35.8 80-80s-35.8-80-80-80s-80 35.8-80 80s35.8 80 80 80z"/></svg> Problem-solving<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336c44.2 0 80-35.8 80-80s-35.8-80-80-80s-80 35.8-80 80s35.8 80 80 80z"/></svg> Team player<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336c44.2 0 80-35.8 80-80s-35.8-80-80-80s-80 35.8-80 80s35.8 80 80 80z"/></svg> Plan and organization<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336c44.2 0 80-35.8 80-80s-35.8-80-80-80s-80 35.8-80 80s35.8 80 80 80z"/></svg> Project management</p>
+</div>
+<div id="education" class="section level2">
+<h2>Education</h2>
+<p><svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M96 32C60.7 32 32 60.7 32 96V384H96V96l384 0V384h64V96c0-35.3-28.7-64-64-64H96zM224 384v32H32c-17.7 0-32 14.3-32 32s14.3 32 32 32H544c17.7 0 32-14.3 32-32s-14.3-32-32-32H416V384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32z"/></svg> Group 2 radiation protection training<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M96 32C60.7 32 32 60.7 32 96V384H96V96l384 0V384h64V96c0-35.3-28.7-64-64-64H96zM224 384v32H32c-17.7 0-32 14.3-32 32s14.3 32 32 32H544c17.7 0 32-14.3 32-32s-14.3-32-32-32H416V384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32z"/></svg> Principles of Actinide and Radiochemistry<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9v28.1c0 28.4-10.8 57.7-22.3 80.8c-6.5 13-13.9 25.8-22.5 37.6C0 442.7-.9 448.3 .9 453.4s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7 .3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7C90.3 344.3 86 329.8 80 316.5V291.9c0-30.2 10.2-58.7 27.9-81.5c12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5 .8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1L624.2 182.6c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1C336.1 33.4 328.1 32 320 32zM128 408c0 35.3 86 72 192 72s192-36.7 192-72L496.7 262.6 354.5 314c-11.1 4-22.8 6-34.5 6s-23.5-2-34.5-6L143.3 262.6 128 408z"/></svg> MSc Chemistry<br />
+<svg aria-hidden="true" role="img" viewBox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9v28.1c0 28.4-10.8 57.7-22.3 80.8c-6.5 13-13.9 25.8-22.5 37.6C0 442.7-.9 448.3 .9 453.4s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7 .3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7C90.3 344.3 86 329.8 80 316.5V291.9c0-30.2 10.2-58.7 27.9-81.5c12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5 .8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1L624.2 182.6c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1C336.1 33.4 328.1 32 320 32zM128 408c0 35.3 86 72 192 72s192-36.7 192-72L496.7 262.6 354.5 314c-11.1 4-22.8 6-34.5 6s-23.5-2-34.5-6L143.3 262.6 128 408z"/></svg> BSc Chemistry</p>
+</div>
+<div id="disclaimer" class="section level2">
+<h2>Disclaimer</h2>
+<p>Last updated on 2023-02-11.</p>
+</div>
+</div>
+<div id="main" class="section level1">
+<h1>Main</h1>
+<div id="title" class="section level2">
+<h2><strong>Lenny Lin</strong></h2>
+</div>
+<div id="profile" class="section level2" data-icon="address-card">
+<h2>Profile</h2>
+<div class="summary-lists">
+<div class="spacer">
+
+</div>
+<div class="{lists}">
+<p><em>-</em> Chemistry background with M.Sc. degree with equivalent nuclear/radiological chemistry experience<br />
+<em>-</em> 15 years of experience in wet chemistry testing, including seven years at Whiteshell Laboratories in the analysis of both radiological and non-radiological parameters on both aqueous and biota samples<br />
+<em>-</em> Expertise in laboratory quality management, laboratory accreditation standard ISO 17025<br />
+<em>-</em> A subject matter expert in a variety of instrumentation, including GC-MS, LC-MS, ICP-OES, fluorescence analysis, and continuous flow analysis<br />
+<em>-</em> Knowledge of liquid scintillation counting, gas flow proportional counting, and gamma spectrometry<br />
+<em>-</em> Experience in method troubleshooting, development and validation, and research and development (weblinks of evidence are available below)<br />
+<em>-</em> Strong practical background in statistics, and statistical analysis (weblinks of evidence are available below)<br />
+<em>-</em> Advanced proficiency in Microsoft Office, including 7 years of experience in developing programming tools to streamline data processing for accurate data with rapid turn-around-time<br />
+<em>-</em> Good at ACCESS-based and SQL-based database</p>
+</div>
+</div>
+</div>
+<div id="weblinks-of-demonstration-of-skills-and-work" class="section level2" data-icon="book">
+<h2>Weblinks of Demonstration of Skills and Work</h2>
+<div class="work-lists">
+<div class="spacer">
+
+</div>
+<div class="{list}">
+<p><em>-</em> A <a href="https://anachem-manual.netlify.app/">comprehensive documentation blog (under development)</a> which covers theories of a variety of instrumentation, applications, and troubleshooting.<br />
+<em>-</em> A <a href="https://troubleshooting-logbook.netlify.app/">digital troubleshooting logbook prototype</a> which could be implemented on the intranet for documenting instrumentation troubleshooting.<br />
+<em>-</em> A <a href="https://rpubs.com/lennylin">repository of documents and presentations</a> which presents my experience and skills in research and development, method validation and comparison, matrix effects, and statistical analysis.<br />
+<em>-</em> An <a href="https://mrlennylin.shinyapps.io/MS_data_mining_shiny_rev02b/">interactive document</a> which was prepared with R Shiny for demonstrating potential Shiny application in builidng dashboard and therefore for quality control and quality assurance purpose.</p>
+</div>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div id="professional-experience" class="section level2" data-icon="briefcase">
+<h2>Professional Experience</h2>
+<div id="lab-scientist" class="section level3">
+<h3>Lab Scientist</h3>
+<p>LifeLabs</p>
+<p>Burnaby, BC</p>
+<p>Nov., 2021 - May, 2021</p>
+<p><em>-</em> Performed sample preparation and operated GC-MS/MS and LC-MS/MS to troubleshoot hydrolysis procedure of the assay of steroid profile in urine.<br />
+<em>-</em> Optimized the enzymatic hydrolysis and the SPE procedures with the design of experiments approach.<br />
+<em>-</em> Transformed a manual SPE process to an automated SPE process and optimized the SPE programs.<br />
+<em>-</em> Performed pre-study validation for a bile acid metabolite in serum.<br />
+<em>-</em> Streamlined data processing using VBA, PivotTable and R resulting in faster reporting and better data interpretation.<br />
+<em>-</em> Made a dashboard of analytical data with Shiny application for quality control purpose.<br />
+<em>-</em> Created a dashboard of a whole fleet of mass spectrumetry instruments for effective management.<br />
+<em>-</em> Created a proactive instrument maintenance program to prevent from potential instrument down time.</p>
+</div>
+<div id="consultant" class="section level3">
+<h3>Consultant</h3>
+<p>Self-employed</p>
+<p>Pinawa, MB</p>
+<p>Present - May, 2020</p>
+<p><em>-</em> Developed a digital troubleshooting logbook prototype.<br />
+<em>-</em> Developed a comprehensive documentation blog on chemical analysis.<br />
+<em>-</em> Developed an R web scraping application to download search query results of literature from PubMed.<br />
+<em>-</em> Data analysis on air quality and water quality of big data sets.</p>
+</div>
+<div id="chemist" class="section level3">
+<h3>Chemist</h3>
+<p>Canadian Nuclear Laboratories (formerly AECL)</p>
+<p>Pinawa, MB</p>
+<p>Oct., 2016 - Oct., 2009</p>
+<p><em>-</em> Responsible for the day-to-day laboratory operation and laboratory accreditation. (4 - 6 staff)<br />
+<em>-</em> Reviewed analytical data of inorganic and organic analytes and gross Beta radioactivity of samples meeting compliance requirements of the nuclear industry regulator, the Canadian Nuclear Safety Commission.<br />
+<em>-</em> Recommissioned GC/MS-Headspace, resumed volatile organic analysis, and passed proficiency tests to ensure business continuity.<br />
+<em>-</em> Led the re-validation of ICP-OES for metals, ion chromatography for anions, fluorescence analysis for mercury, and FAAS for metals in environmental samples, significantly contributing to successful lab accreditation.<br />
+<em>-</em> Developed a screening program to characterize unknown chemicals in compliance with requirements of hazardous material transportation.<br />
+<em>-</em> Developed an analytical method for tritium using a portable Liquid Scintillation Counter.<br />
+<em>-</em> Participated in a project of Mo-99 production.<br />
+<em>-</em> Involved in revising a lab protocol.<br />
+<em>-</em> Developed a screening program and performed ad-hoc testing for waste characterization in compliance with requirements of hazardous material transportation.<br />
+<em>-</em> Led the revision and implementation of the lab Quality Plan by collaborating with corporate and local quality specialists resulting in better alignment of the company-wide Quality Manual, the Environmental Program Quality Manual, and ISO 17025; and successful reaccreditation and a company-wide recognition award.<br />
+<em>-</em> Addressed non-conformance issues to responding findings of self-assessments and audits.<br />
+<em>-</em> Monitored instrumental sensitivity and responses; and led corrective actions on instruments.<br />
+<em>-</em> Prepared, reviewed, revised, and/or authorized standard operating procedures.<br />
+<em>-</em> Developed some Excel macros to enhance data analysis/processing: review time was cut from three days to a few hours and data accuracy increased from 95% to 100%.<br />
+<em>-</em> Enforced requirements of lab accreditation and health and safety through activities, such as observation and coaching moments and monthly lab inspection.<br />
+<em>-</em> Conducted monthly safety inspection and mitigated an average of 30 safety hazards annually through cooperating with management, fire department, and site safety committee.<br />
+<em>-</em> Contributed to a project of an Environmental Data Management System (EDMS) collaboratively partnering with cross-functional team members across different facilities company-wide.</p>
+</div>
+<div id="instructor" class="section level3">
+<h3>Instructor</h3>
+<p>Northern College of Applied Arts and Technology</p>
+<p>Kirkland Lake, ON</p>
+<p>Aug, 2009 - Dec 2005</p>
+<p><em>-</em> Designed, developed and taught courses of ‘Water Monitoring and Sampling’, ‘Laboratory Analysis’, and ‘Environmental Regulations and Legislation’ for the “Environmental Technician – Water and Wastewater Systems Operations” program.</p>
+</div>
+<div id="chemist-quality-manager-lab-manager" class="section level3">
+<h3>Chemist/ Quality Manager / Lab Manager</h3>
+<p>Testmark Laboratories (formerly Accuracy Environmental Laboratories)</p>
+<p>Kirkland Lake, ON</p>
+<p>Nov., 2008 - Sep., 2004</p>
+<p><em>-</em> Responsible for the quality management system, laboratory accreditation, and routine operation, achieving reduced turn-around-time, improved operational efficiency, compliance with accreditation standard and environmental legislation. (10 staff)<br />
+<em>-</em> Developed the laboratory quality management system and maintained the ISO 17025 laboratory accreditation.<br />
+<em>-</em> Conducted self-assessment and led the team to create action plans to mitigate audit findings, reducing potential non-compliance and risks.<br />
+<em>-</em> Coordinated within the lab and with the lab accreditati on agency to achieve successful audits.<br />
+<em>-</em> Operated, maintained, and troubleshot instruments including GC for Tier I petroleum hydrocarbons in the soil matrix, ion chromatography for anions, continuous flow analyzer for TKN, total nitrogen, total phosphorus in water/waste water/sludge/soil samples.<br />
+<em>-</em> Overcame technical challenges; and provided end-user support and training in implementing an in-house developed ACCESS-based LIMS at the remote facility, minimizing interruption to the operation, and seamlessly transiting to LIMS.</p>
+</div>
+<div id="chemist-1" class="section level3">
+<h3>Chemist</h3>
+<p>SGS</p>
+<p>China</p>
+<p>May, 2004 - Oct., 2001</p>
+<p><em>-</em> Customized in-house sample preparation methods for total heavy metals in complex sample matrices, meeting requirements of EU regulations for consumer product safety.<br />
+<em>-</em> Commissioning of a new ICP-OES and developed an ICP-OES method.</p>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div id="education-1" class="section level2" data-icon="graduation-cap">
+<h2>Education</h2>
+<div id="m.sc.-in-chemistry" class="section level3">
+<h3>M.Sc. in Chemistry</h3>
+<p>Sun Yat-Sen University</p>
+<p>China</p>
+</div>
+<div id="b.sc.-in-chemistry" class="section level3">
+<h3>B.Sc. in Chemistry</h3>
+<p>Sun Yat-Sen University</p>
+<p>China</p>
+<p><br></p>
+<p>Note: Canadian equivalent credential evaluation report granted by World Education Services, Toronto, ON</p>
+</div>
+<div id="actinide-and-radiochemistry-principles" class="section level3">
+<h3>Actinide and Radiochemistry Principles</h3>
+<p>Larry Burchfield, Radiochemistry Society</p>
+<p>Chalk River, ON</p>
+<p>2010</p>
+</div>
+<div id="leadership" class="section level3">
+<h3>Leadership</h3>
+<p>AECL Leadership Academy and Toastmasters</p>
+<p>Pinawa, MB</p>
+<p>2010, 2009</p>
+</div>
+<div id="data-scientist-with-r" class="section level3">
+<h3>Data Scientist with R</h3>
+<p>DataCamp</p>
+<p>Online</p>
+<p>2022 - 2019</p>
+</div>
+<div id="design-of-experiments" class="section level3">
+<h3>Design of Experiments</h3>
+<p>udemy</p>
+<p>Online</p>
+<p>2022</p>
+</div>
+</div>
+<div id="recognition-award" class="section level2" data-icon="award">
+<h2>Recognition Award</h2>
+<div id="voyageur-certificate-of-recognition-award" class="section level3">
+<h3>Voyageur Certificate of Recognition Award</h3>
+<p>Atomic Energy of Canada (AECL)</p>
+<p>Pinawa, MB</p>
+<p>2015</p>
+<p>Voyageur Certificate of Recognition Award for retaining lab accreditation to the ISO 17025 re-accreditation</p>
+</div>
+</div>
+</div>
