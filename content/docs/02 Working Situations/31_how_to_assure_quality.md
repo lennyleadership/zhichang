@@ -16,12 +16,9 @@ toc: true
 
 or in another word: what is the strategy to ensure the quality in peak season?   
 
-[]  
+The frequently asked question.  
 
-[2022.02 BV Burnaby Scientist interview, asked this twisted question.]   
-
-[2023.02 MB Hydro interview]  
-
+[2022.02 BV Burnaby Scientist, 2023.02 MB Hydro Lab Technician, 2023.02 CNL Chemist]   
 
 QC in every step in the chain of custody:  
 

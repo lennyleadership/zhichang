@@ -18,7 +18,7 @@ It is the high-level summary.
 
 <b><font class = "font_upper">Good practice of reducing problem and diagnosing problem</font></b>:  
 
-1) The best performance of instrument as a reference  
+1)&nbsp;The best performance of instrument as a reference  
 
 2) Monitoring:  
 2.1) instrument parameters  
