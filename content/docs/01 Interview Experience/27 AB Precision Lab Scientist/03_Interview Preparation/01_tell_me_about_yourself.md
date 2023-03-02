@@ -19,27 +19,36 @@ Company: Alberta Precision Laboratory 2023
 
 # Introduction
 
-My career has two sections, environmental testing lab and clinical testing lab.
+If I could summarize my career into chapters of a book, I would put my time prior to LifeLabs into the first chapter, my time at LifeLabs into the second chapter, and my time after LifeLabs into the third chapter.  
 
-environmental testing lab is accredited. the importance of quality control and quality assurance
 
-drill through the challenge, I am new to LC-MS/MS. I have great motivation to be expert in LC-MS/MS.  I self-learned LC-MS/MS, have passion about R, and its applications.
+In the first chapter, you will see a couple of key employers there, Testmark and AECL. Both of labs were accredited and provided testing for environmental monitoring. 
 
-My experience in method development and validation. in the environmental testing lab settings.
+1) I developed the expertise in lab accreditation, quality control and quality assurance
 
-GC/MS
+2) I had hands-on experience on GC-MS
 
-R applications for quality control, dash board, troubleshooting, 
-
-concept of system suitability test (required by USP)
+3) In addition, I built advanced skills in macro. 
 
 
 
-My job at AECL was done in 2016 because our non-RAD section was dissolved.  I went to self-learn R programming language, and figured out many applications in laboratory setting. While I got the job offer as a lab scientist at LifeLabs in 2021, I implemented these applications to monitor quality trends. Moreover, I conducted troubleshooting for the assay of steroid profile in urine.  The job was done due to the supply shortage of enzyme and loss money of the assay.
+In the second chapter, I worked at LifeLabs.  I have done method troubleshooting and gained:  
+
+1) the experience of SPE,  
+
+2) the experience of deconjugation of steroids, and  
+
+3) the experience in GC-MS/MS and LC-MS/MS operation  
+
+4) Moreover, I have ability to design experiments
+
+Besides that, I also implemented R applications for quality control and troubleshooting purpose. 
 
 
+In the third chapter, I kept learning the theory, applications, and troubleshooting about LC-MS/MS by attending webinars, reading articles on websites (such as MSACL (mass spectrometry and advanced in the clinical lab), LC|GC, chromatography vendors), watching YouTube videos, and preparing my blog.
 
 
+In summary, my strength is the mixed skills in quality, data processing, statistical analysis, and some experience in LC-MS/MS.
 
 
 
