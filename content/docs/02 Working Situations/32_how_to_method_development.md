@@ -28,16 +28,23 @@ I had this scenario at LifeLabs.
 the method detection limit must be lower than that,   
 
 2) Interference  
-isobaric compounds,   
+isobaric compounds, isomer compounds  
 matrix effects (useful for designing sample preparation)  
-isomer compounds
+
 
 3) cost-effective
-Run time (cut VOC method down to 15 min.)  
+how long would the analysis run? (cut VOC method down to 15 min.)  
+What SPE cartridge are available,
 
 4) details level  
-column, 
+column, buffer, pH, mobile phase, ESI optimization, dwell time, detection limit, recovery, 
 
+
+<b><font class = "font_upper">Steps</font></b>
+1) standard infusion  
+collision energy, positive mode, negative mode  
+
+2) separation from isobaric compound
 
 <b><font class = "font_upper">Useful Tools</font></b>  
-Design of experiments because some variables 
+Design of experiments because some variables are interactive.
