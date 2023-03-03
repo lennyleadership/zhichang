@@ -24,9 +24,9 @@ If I could summarize my career into chapters of a book, I would put my time prio
 
 I used to work at Testmark and AECL,  
 
-1) I developed the expertise in lab accreditation, quality control and quality assurance
+1) I developed the expertise in lab accreditation, quality control and quality assurance.
 
-2) I had hands-on experience on GC-MS
+2) I had hands-on experience on GC-MS. I developed a volatile organic compounds with GC-MS.  
 
 3) In addition, I built advanced skills in macro. 
 
@@ -58,6 +58,9 @@ In summary, my strength is the mixed skills in quality, data processing, statist
 
 
 
-# Quote
-Better to light the candle than curse the darkness.
+# Reminders:
+
+Importance of SPE and dwell time in metabolomics
+
+data processing automation program
 

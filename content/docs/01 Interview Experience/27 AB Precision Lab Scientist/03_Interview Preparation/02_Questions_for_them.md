@@ -14,11 +14,17 @@ toc: true
 
 Company: Alberta Precision Laboratory
 
-Q #1: What does daily job look like?
+Q#: in-person interview?
 
-Q #2: how many LC-MS/MS are there?
+Q#: what is your expectation?
 
-Q #3: data processing automation program
+Q#: what does daily job look like?  
 
-Q #4: 
+Q#: day shift, night shift?
+
+Q#: Privatized laboratory?  
+
+Q#: how many LC-MS/MS are there?
+
+Q#: Proteomic assays? (for research)
 
