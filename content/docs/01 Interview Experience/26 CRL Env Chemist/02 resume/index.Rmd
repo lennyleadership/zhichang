@@ -7,7 +7,7 @@ output:
   #word_document: default
   #html_document: default
   pagedown::html_resume:
-    css: css\CV_v06.css
+    css: CV_v06.css
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
