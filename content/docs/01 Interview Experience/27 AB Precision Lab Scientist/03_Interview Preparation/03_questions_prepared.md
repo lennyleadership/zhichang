@@ -1,13 +1,13 @@
 ---
 weight: 2
-title: 
+title: Questions Prepared
 authors: Lenny Lin
-categories: 
+categories: [Interview Preparation]
 tags: []
 description: 
 draft: false
-date: "2023-02-25"
-lastmod: "2023-02-25"
+date: "2023-03-02"
+lastmod: "2023-03-02"
 series: null
 toc: true
 ---

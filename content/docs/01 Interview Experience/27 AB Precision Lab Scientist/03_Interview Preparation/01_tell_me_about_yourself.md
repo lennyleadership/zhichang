@@ -19,7 +19,7 @@ Company: Alberta Precision Laboratory 2023
 
 # Introduction
 
-If I could summarize my career into chapters of a book, I would put my time prior to LifeLabs into the first chapter, my time at LifeLabs into the second chapter, and my time after LifeLabs into the third chapter.  
+If I could summarize my career into chapters of a book, I would put my time prior to LifeLabs into the first chapter, my time at LifeLabs and my time after LifeLabs into the second chapter.  
 
 
 In the first chapter, you will see a couple of key employers there, Testmark and AECL. Both of labs were accredited and provided testing for environmental monitoring. 
@@ -32,21 +32,22 @@ In the first chapter, you will see a couple of key employers there, Testmark and
 
 
 
-In the second chapter, I worked at LifeLabs.  I have done method troubleshooting and gained:  
+In the second chapter, The key words are LC-MS/MS, GC-MS/MS, and R.  I have done method troubleshooting and gained:  
 
 1) the experience of SPE,  
 
-2) the experience of deconjugation of steroids, and  
+2) the knowledge and experience of deconjugation of steroids, and  
 
 3) the experience in GC-MS/MS and LC-MS/MS operation  
 
-4) Moreover, I have ability to design experiments
+4) Moreover, I have ability to design complex experiments
 
 Besides that, I also implemented R applications for quality control and troubleshooting purpose. 
 
 
-In the third chapter, I kept learning the theory, applications, and troubleshooting about LC-MS/MS by attending webinars, reading articles on websites (such as MSACL (mass spectrometry and advanced in the clinical lab), LC|GC, chromatography vendors), watching YouTube videos, and preparing my blog.
+After my time at LifeLabs, I kept learning the theory, applications, and troubleshooting about LC-MS/MS by attending webinars, reading articles on websites (such as MSACL (mass spectrometry and advanced in the clinical lab), LC|GC, chromatography vendors), watching YouTube videos, and preparing my blog.
 
+gain some knowledge of high-resolution LC-MS
 
 In summary, my strength is the mixed skills in quality, data processing, statistical analysis, and some experience in LC-MS/MS.
 
