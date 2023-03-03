@@ -23,12 +23,14 @@ I had this scenario at LifeLabs.
 3) There are no reference methods, and no paper on same analysis.  So we need to start from somewhere and figure it out.
 
 
-<b><font class = "font_upper">There are considerations for method development</font></b>:
+<b><font class = "font_upper">There are considerations for method development</font></b>:  
 1) Regulatory requirement of reporting detection limit  
 the method detection limit must be lower than that,   
 
-2) Interference  
+2) Specificity / Interference  
 isobaric compounds, isomer compounds  
+hemolysis  
+lipemia  
 matrix effects (useful for designing sample preparation)  
 
 
@@ -38,6 +40,11 @@ What SPE cartridge are available,
 
 4) details level  
 column, buffer, pH, mobile phase, ESI optimization, dwell time, detection limit, recovery, 
+
+
+<b><font class = "font_upper">There are considerations for method validation</font></b>:  
+linearity, sensitivity, linearity range, accuracy
+
 
 
 <b><font class = "font_upper">Steps</font></b>

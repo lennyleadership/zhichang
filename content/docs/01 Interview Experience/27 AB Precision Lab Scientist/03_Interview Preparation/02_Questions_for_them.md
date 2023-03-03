@@ -14,9 +14,11 @@ toc: true
 
 Company: Alberta Precision Laboratory
 
-Q #1: brand names of LC-MS/MS
+Q #1: What does daily job look like?
 
-Q #2: data processing automation program
+Q #2: how many LC-MS/MS are there?
 
-Q #3: 
+Q #3: data processing automation program
+
+Q #4: 
 
