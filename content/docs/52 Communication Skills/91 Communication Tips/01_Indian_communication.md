@@ -11,6 +11,8 @@ draft: false
 
 ![](https://pic1.zhimg.com/80/v2-a1d0b024f031b3ec5c4e58020ac9ce54_720w.jpg)
 
+<!--more-->
+
 **1/5、客户和老板的要求为什么老是不清楚**
 
 还记得17年刷爆朋友圈的这幅漫画吧
