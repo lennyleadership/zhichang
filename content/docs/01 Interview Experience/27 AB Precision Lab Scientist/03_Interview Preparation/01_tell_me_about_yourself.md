@@ -30,7 +30,7 @@ I used to work at Testmark and AECL,
 
 3) In addition, I built advanced skills in macro. 
 
-This is one chapter.
+This is what one chapter is all about.
 
 
 AT LifeLabs, I have done method troubleshooting and gained:  
@@ -52,7 +52,7 @@ Besides that, I also implemented R applications for quality control and troubles
 
 3) read literature
 
-This is another chapter, The key words are LC-MS/MS, GC-MS/MS, design of experiments, and R. 
+This is what I would put in another chapter, The key words are LC-MS/MS, GC-MS/MS, design of experiments, and R. 
 
 In summary, my strength is the mixed skills in quality, data processing, statistical analysis, and some experience in LC-MS/MS.
 

@@ -38,6 +38,7 @@ matrix effects (useful for designing sample preparation)
 how long would the analysis run? (cut VOC method down to 15 min.)  
 What SPE cartridge are available,
 
+
 4) details level  
 column, buffer, pH, mobile phase, ESI optimization, dwell time, detection limit, recovery, 
 
