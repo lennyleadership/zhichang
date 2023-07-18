@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Chemistry Scientist
+title: Analytical Chemist
 authors: Lenny Lin
 categories: 
 tags: []

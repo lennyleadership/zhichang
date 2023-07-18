@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: Chemistry Scientist
 authors: Lenny Lin
 categories: 
