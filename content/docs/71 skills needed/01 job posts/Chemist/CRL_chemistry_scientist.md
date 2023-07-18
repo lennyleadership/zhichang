@@ -63,15 +63,15 @@ Does working with a team across Canada to advance nuclear science and technology
      <li>benefits effective day one, that’s right no waiting period;</li>
      <li>tuition support</li>
      <li>and a pension!</li>
-</ul>
+
 
 Do Our Priorities Resonate with You?
 
-<ul>
-     <li>Clean energy for today and tomorrow.</li>
-     <li>Restore and protect the Environment.</li>
-     <li>Contribute to the health of Canadians.</li>
-</ul>
+
+  <li>Clean energy for today and tomorrow.</li>
+  <li>Restore and protect the Environment.</li>
+  <li>Contribute to the health of Canadians.</li>
+
 
 Location: 
 
