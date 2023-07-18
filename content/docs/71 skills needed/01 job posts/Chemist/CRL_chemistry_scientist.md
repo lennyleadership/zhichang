@@ -15,12 +15,12 @@ toc: true
 
 Posted on: LinkedIn
 
-Posted date: 2023-07
+Posted date: 2023-07-17
 
 
 
 <h1>About the job</h1>
-Are you a Chemical Scientist looking for an exciting opportunity? Join our dynamic team in the Nuclear Waste Processing Technologies Section of the esteemed Environment & Waste Technologies Branch, which plays an essential role in fulfilling CNL top priority to restore and protect the environment while preparing for clean energy deployment in Canada.
+Are you a <u class = "red">Chemical Scientist</u> looking for an exciting opportunity? Join our dynamic team in <u class = "red">the Nuclear Waste Processing Technologies Section of the esteemed Environment & Waste Technologies Branch</u>, which plays an essential role in fulfilling CNL top priority to restore and protect the environment while preparing for clean energy deployment in Canada.
 
 The team researches the science that underpins cost-effective solutions to the challenges in nuclear waste processing for recovery of valuable materials. We are actively seeking a talented Chemical Scientist to contribute their expertise and innovative ideas to our cutting-edge research. As a member of our team, you will have the chance to work on a range of fascinating projects within the broad field of nuclear waste processing science and technologies. If you're passionate about making a difference in nuclear energy and environmental sustainability, and keen to be at the forefront of scientific advancements, we invite you to apply to be a part of our exceptional team.
 
@@ -34,7 +34,7 @@ The team researches the science that underpins cost-effective solutions to the c
      <li>Setting up protocols and procedures to ensure experimental work is carried out safely and accurately</li>
      <li>Interacting with the Government of Canada and other key stakeholders</li>
      <li>Providing technical direction and oversight to laboratory and field technologists</li>
-</ul>
+
 
 <h1>Qualifications</h1>
 
@@ -45,7 +45,7 @@ The team researches the science that underpins cost-effective solutions to the c
      <li>Proficiency in MS Office Suite (Excel, PowerPoint, Word)</li>
      <li>Ability to present technical work to a non-technical audience</li>
      <li>Excellent technical writing skills and oral communication skills</li>
-</ul>
+
 
 Security clearance eligibility required: Reliability Status with Site Access Security Clearance (SASC), which has a minimum requirement of 3 years of verifiable history in Canada, Australia, New Zealand, United States and/or the United Kingdom. CNL implements security screening in accordance with the Treasury Board of Canada Secretariat “Standard on Security Screening” and the “Policy on Government Security”.
 
