@@ -41,7 +41,7 @@ The team researches the science that underpins cost-effective solutions to the c
 <ul>
      <li>Undergraduate degree (minimum Bachelor of Engineering with Honors or Bachelor of Science with Honors required) in Chemical Engineering, Chemistry, or related Engineering or Science discipline from a university of recognized standing. M.Sc. or Ph.D. is highly desirable.</li>
      <li>Proficiency in fundamentals of science and engineering – nuclear fundamentals, chemistry, chemical thermodynamics, fluid mechanics and mass/heat transfer</li>
-     <li>Proficiency in Matlab, COMSOL, or similar programming language, and scientific calculations</li>
+     <li>Proficiency in <b>Matlab, COMSOL</b>, or similar programming language, and scientific calculations</li>
      <li>Proficiency in MS Office Suite (Excel, PowerPoint, Word)</li>
      <li>Ability to present technical work to a non-technical audience</li>
      <li>Excellent technical writing skills and oral communication skills</li>
@@ -63,7 +63,7 @@ Does working with a team across Canada to advance nuclear science and technology
      <li>benefits effective day one, that’s right no waiting period;</li>
      <li>tuition support</li>
      <li>and a pension!</li>
-
+</ul>
 
 Do Our Priorities Resonate with You?
 
